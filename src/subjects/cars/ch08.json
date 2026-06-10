@@ -1,0 +1,40 @@
+{
+ "id": 8,
+ "num": 8,
+ "title": "Question and Answer Strategy",
+ "slug": "question_and_answer_strategy",
+ "sections": [
+  {
+   "title": "8.1 The Kaplan Method for CARS Questions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "cars/ch08_question_and_answer_strategy/fig01.png",
+     "alt": "Chapter 8 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "cars/ch08_question_and_answer_strategy/fig02.png",
+     "alt": "Figure 8.1.",
+     "caption": "Figure 8.1."
+    },
+    {
+     "src": "cars/ch08_question_and_answer_strategy/fig03.png",
+     "alt": "Figure 8.2.  The Kaplan Method for CARS Questions",
+     "caption": "Figure 8.2.  The Kaplan Method for CARS Questions"
+    }
+   ]
+  },
+  {
+   "title": "8.2 Wrong Answer Pathologies",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "8.3 Signs of a Healthy Answer",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": []
+}

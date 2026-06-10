@@ -1,0 +1,30 @@
+{
+ "id": 7,
+ "num": 7,
+ "title": "Understanding Passages",
+ "slug": "understanding_passages",
+ "sections": [
+  {
+   "title": "7.1 Varieties of Passages",
+   "goals": [],
+   "figures": [
+    {
+     "src": "cars/ch07_understanding_passages/fig01.png",
+     "alt": "Chapter 7 figure 1",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "7.2 Support in Passages",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "7.3 Anticipating Questions",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": []
+}

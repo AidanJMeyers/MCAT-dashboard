@@ -1,0 +1,40 @@
+{
+ "id": 4,
+ "num": 4,
+ "title": "Outlining the Passage",
+ "slug": "outlining_the_passage",
+ "sections": [
+  {
+   "title": "4.1 The Kaplan Method for CARS Passages",
+   "goals": [],
+   "figures": [
+    {
+     "src": "cars/ch04_outlining_the_passage/fig01.png",
+     "alt": "Chapter 4 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "cars/ch04_outlining_the_passage/fig02.png",
+     "alt": "Figure 4.1 shows the Kaplan Method",
+     "caption": "Figure 4.1 shows the Kaplan Method"
+    },
+    {
+     "src": "cars/ch04_outlining_the_passage/fig03.png",
+     "alt": "Figure 4.2.",
+     "caption": "Figure 4.2."
+    }
+   ]
+  },
+  {
+   "title": "4.2 Reverse-Engineering the Author’s Outline",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "4.3 Practicing the Strategy",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": []
+}

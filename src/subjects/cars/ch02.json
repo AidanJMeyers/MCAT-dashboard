@@ -1,0 +1,36 @@
+{
+ "id": 2,
+ "num": 2,
+ "title": "Analyzing Rhetoric",
+ "slug": "analyzing_rhetoric",
+ "sections": [
+  {
+   "title": "2.1 What Is Rhetoric?",
+   "goals": [],
+   "figures": [
+    {
+     "src": "cars/ch02_analyzing_rhetoric/fig01.png",
+     "alt": "Chapter 2 figure 1",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "2.2 Key Components of Rhetoric",
+   "goals": [],
+   "figures": [
+    {
+     "src": "cars/ch02_analyzing_rhetoric/fig02.png",
+     "alt": "Figure 2.1.  The Rhetorical Situation",
+     "caption": "Figure 2.1.  The Rhetorical Situation"
+    }
+   ]
+  },
+  {
+   "title": "2.3 Rhetorical Analysis",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": []
+}

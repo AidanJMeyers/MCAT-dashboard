@@ -1,0 +1,30 @@
+{
+ "id": 11,
+ "num": 11,
+ "title": "Question Types III: Reasoning Beyond the Text Questions",
+ "slug": "question_types_iii_reasoning_beyond_the_",
+ "sections": [
+  {
+   "title": "11.1 Apply Questions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "cars/ch11_question_types_iii_reasoning_beyond_the_/fig01.png",
+     "alt": "Chapter 11 figure 1",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "11.2 Strengthen–Weaken (Beyond the Passage) Questions",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "11.3 Other Reasoning Beyond the Text Questions",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": []
+}

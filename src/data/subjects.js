@@ -3,6 +3,7 @@ import { chapters as biochem } from '../subjects/biochem/index.js';
 import { chapters as gchem } from '../subjects/gchem/index.js';
 import { chapters as ochem } from '../subjects/ochem/index.js';
 import { chapters as psych } from '../subjects/psych/index.js';
+import { chapters as cars } from '../subjects/cars/index.js';
 
 // status: 'ready' (built) | 'soon' (planned, phased build)
 export const SUBJECTS = [
@@ -26,7 +27,7 @@ export const SUBJECTS = [
     source: 'Psych/Soc review documents', status: 'ready', chapters: psych },
   { id: 'cars', name: 'CARS', short: 'CARS', icon: '📖', accent: 'teal',
     blurb: 'Critical Analysis & Reasoning Skills — strategy, question archetypes, and worked passage walkthroughs.',
-    source: 'Kaplan MCAT CARS Review', status: 'soon', chapters: [] }
+    source: 'Kaplan MCAT CARS Review', status: 'ready', chapters: cars }
 ];
 
 export const getSubject = (id) => SUBJECTS.find((s) => s.id === id);

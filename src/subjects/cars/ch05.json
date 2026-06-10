@@ -1,0 +1,35 @@
+{
+ "id": 5,
+ "num": 5,
+ "title": "Dissecting Arguments",
+ "slug": "dissecting_arguments",
+ "sections": [
+  {
+   "title": "5.1 Domains of Discourse",
+   "goals": [],
+   "figures": [
+    {
+     "src": "cars/ch05_dissecting_arguments/fig01.png",
+     "alt": "Chapter 5 figure 1",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "5.2 Concepts: The Basic Elements of Logic",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "5.3 Claims: The Bearers of Truth Value",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "5.4 Arguments: Conclusions and Evidence",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": []
+}

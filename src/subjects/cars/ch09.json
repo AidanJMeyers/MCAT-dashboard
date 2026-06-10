@@ -1,0 +1,35 @@
+{
+ "id": 9,
+ "num": 9,
+ "title": "Question Types I: Foundations of Comprehension Questions",
+ "slug": "question_types_i_foundations_of_comprehe",
+ "sections": [
+  {
+   "title": "9.1 Main Idea Questions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "cars/ch09_question_types_i_foundations_of_comprehe/fig01.png",
+     "alt": "Chapter 9 figure 1",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "9.2 Detail Questions",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "9.3 Function Questions",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "9.4 Definition-in-Context Questions",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": []
+}

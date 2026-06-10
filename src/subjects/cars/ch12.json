@@ -1,0 +1,40 @@
+{
+ "id": 12,
+ "num": 12,
+ "title": "Effective Review of CARS",
+ "slug": "effective_review_of_cars",
+ "sections": [
+  {
+   "title": "12.1 Learning from Your Mistakes",
+   "goals": [],
+   "figures": [
+    {
+     "src": "cars/ch12_effective_review_of_cars/fig01.png",
+     "alt": "Chapter 12 figure 1",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "12.2 Thinking Like the Testmaker: Post-Phrasing",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "12.3 Improving Your Timing",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "12.4 Building Endurance",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "12.5 Enhancing Your Vocabulary",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": []
+}

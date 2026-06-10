@@ -1,0 +1,30 @@
+{
+ "id": 6,
+ "num": 6,
+ "title": "Formal Logic",
+ "slug": "formal_logic",
+ "sections": [
+  {
+   "title": "6.1 The Logic of Conditionals",
+   "goals": [],
+   "figures": [
+    {
+     "src": "cars/ch06_formal_logic/fig01.png",
+     "alt": "Chapter 6 figure 1",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "6.2 Applications of Conditionals",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "6.3 Analogical Reasoning",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": []
+}

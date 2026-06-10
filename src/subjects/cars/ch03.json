@@ -1,0 +1,46 @@
+{
+ "id": 3,
+ "num": 3,
+ "title": "Keywords",
+ "slug": "keywords",
+ "sections": [
+  {
+   "title": "3.1 Reading Strategically with Keywords",
+   "goals": [],
+   "figures": [
+    {
+     "src": "cars/ch03_keywords/fig01.png",
+     "alt": "Chapter 3 figure 1",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "3.2 Relation Keywords",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "3.3 Author Keywords",
+   "goals": [],
+   "figures": [
+    {
+     "src": "cars/ch03_keywords/fig02.png",
+     "alt": "Figure 3.1. Note that most",
+     "caption": "Figure 3.1. Note that most"
+    },
+    {
+     "src": "cars/ch03_keywords/fig03.png",
+     "alt": "Figure 3.2.  The Spectrum of Author Attitudes (Circular)",
+     "caption": "Figure 3.2.  The Spectrum of Author Attitudes (Circular)"
+    }
+   ]
+  },
+  {
+   "title": "3.4 Logic Keywords",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": []
+}

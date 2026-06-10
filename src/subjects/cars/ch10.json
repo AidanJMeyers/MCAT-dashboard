@@ -1,0 +1,30 @@
+{
+ "id": 10,
+ "num": 10,
+ "title": "Question Types II: Reasoning Within the Text Questions",
+ "slug": "question_types_ii_reasoning_within_the_t",
+ "sections": [
+  {
+   "title": "10.1 Inference Questions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "cars/ch10_question_types_ii_reasoning_within_the_t/fig01.png",
+     "alt": "Chapter 10 figure 1",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "10.2 Strengthen–Weaken (Within the Passage) Questions",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "10.3 Other Reasoning Within the Text Questions",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": []
+}
