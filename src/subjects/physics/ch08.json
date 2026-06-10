@@ -1,0 +1,173 @@
+{
+ "id": 8,
+ "num": 8,
+ "title": "Light and Optics",
+ "slug": "light_and_optics",
+ "sections": [
+  {
+   "title": "8.1 Electromagnetic Spectrum",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch08_light_and_optics/fig01.png",
+     "alt": "Chapter 8 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig02.png",
+     "alt": "Chapter 8 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig03.png",
+     "alt": "Figure 8.1 Electromagnetic Wave",
+     "caption": "Figure 8.1 Electromagnetic Wave"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig04.png",
+     "alt": "Figure 8.2 The Electromagnetic Spectrum",
+     "caption": "Figure 8.2 The Electromagnetic Spectrum"
+    }
+   ]
+  },
+  {
+   "title": "8.2 Geometrical Optics",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch08_light_and_optics/fig05.png",
+     "alt": "Figure 8.3 illustrates reflection on a plane mirror.",
+     "caption": "Figure 8.3 illustrates reflection on a plane mirror."
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig06.png",
+     "alt": "Figure 8.4 Reflection in a Plane Mirror",
+     "caption": "Figure 8.4 Reflection in a Plane Mirror"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig07.png",
+     "alt": "Figure\n8.5. The focal length (f) is the distance between the focal point (F) and the",
+     "caption": "Figure\n8.5. The focal length (f) is the distance between the focal point (F) and the"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig08.png",
+     "alt": "Figure 8.6 and 8.7). A ray that passes through the focal point",
+     "caption": "Figure 8.6 and 8.7). A ray that passes through the focal point"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig09.png",
+     "alt": "Figure 8.6 Ray Diagrams for Concave (Converging) Mirrors",
+     "caption": "Figure 8.6 Ray Diagrams for Concave (Converging) Mirrors"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig10.png",
+     "alt": "Chapter 8 figure 10",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig11.png",
+     "alt": "Figure 8.8.",
+     "caption": "Figure 8.8."
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig12.png",
+     "alt": "Figure 8.9 Refraction of Light from Air into Water",
+     "caption": "Figure 8.9 Refraction of Light from Air into Water"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig13.png",
+     "alt": "Chapter 8 figure 13",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig14.png",
+     "alt": "Figure 8.10.",
+     "caption": "Figure 8.10."
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig15.png",
+     "alt": "Figure 8.11 Ray Diagrams for Single Lenses",
+     "caption": "Figure 8.11 Ray Diagrams for Single Lenses"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig16.png",
+     "alt": "Chapter 8 figure 16",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig17.png",
+     "alt": "Figure 8.12 Spherical Aberration",
+     "caption": "Figure 8.12 Spherical Aberration"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig18.png",
+     "alt": "Figure 8.13 Dispersion in a Prism",
+     "caption": "Figure 8.13 Dispersion in a Prism"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig19.png",
+     "alt": "Figure 8.14 Chromatic Aberration",
+     "caption": "Figure 8.14 Chromatic Aberration"
+    }
+   ]
+  },
+  {
+   "title": "8.3 Diffraction",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch08_light_and_optics/fig20.png",
+     "alt": "Figure 8.15. As the slit is narrowed, the light spreads out more.",
+     "caption": "Figure 8.15. As the slit is narrowed, the light spreads out more."
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig21.png",
+     "alt": "Figure 8.15 Diffraction",
+     "caption": "Figure 8.15 Diffraction"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig22.png",
+     "alt": "Figure 8.16 Single-Slit Diffraction with Lens",
+     "caption": "Figure 8.16 Single-Slit Diffraction with Lens"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig23.png",
+     "alt": "Figure 8.17 Young’s Double-Slit Experiment",
+     "caption": "Figure 8.17 Young’s Double-Slit Experiment"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig24.png",
+     "alt": "Figure 8.18. Common examples of thin films are soap bubbles or oil puddles in",
+     "caption": "Figure 8.18. Common examples of thin films are soap bubbles or oil puddles in"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig25.png",
+     "alt": "Figure 8.18 Thin Film Interference",
+     "caption": "Figure 8.18 Thin Film Interference"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig26.png",
+     "alt": "Figure 8.19 X-Ray Diffraction Patterns",
+     "caption": "Figure 8.19 X-Ray Diffraction Patterns"
+    }
+   ]
+  },
+  {
+   "title": "8.4 Polarization",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch08_light_and_optics/fig27.png",
+     "alt": "Figure 8.20 Circularly Polarized Light",
+     "caption": "Figure 8.20 Circularly Polarized Light"
+    },
+    {
+     "src": "physics/ch08_light_and_optics/fig28.png",
+     "alt": "Chapter 8 figure 28",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": []
+}

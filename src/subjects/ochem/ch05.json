@@ -1,0 +1,313 @@
+{
+ "id": 5,
+ "num": 5,
+ "title": "Alcohols",
+ "slug": "alcohols",
+ "sections": [
+  {
+   "title": "5.1 Description and Properties",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch05_alcohols/fig01.png",
+     "alt": "Chapter 5 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig02.png",
+     "alt": "Chapter 5 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig03.png",
+     "alt": "Figure 5.1.",
+     "caption": "Figure 5.1."
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig04.png",
+     "alt": "Figure 5.1.  IUPAC Names of Alcohols",
+     "caption": "Figure 5.1.  IUPAC Names of Alcohols"
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig05.png",
+     "alt": "Figure 5.3.  Phenols: Aromatic Alcohols",
+     "caption": "Figure 5.3.  Phenols: Aromatic Alcohols"
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig06.png",
+     "alt": "Figure 5.4.  Intermolecular Hydrogen Bonding in Alcohols",
+     "caption": "Figure 5.4.  Intermolecular Hydrogen Bonding in Alcohols"
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig07.png",
+     "alt": "Figure\n5.5.",
+     "caption": "Figure\n5.5."
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig19.png",
+     "alt": "Chapter 5 figure 19",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig20.png",
+     "alt": "Chapter 5 figure 20",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig21.png",
+     "alt": "Chapter 5 figure 21",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "5.2 Reactions of Alcohols",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch05_alcohols/fig08.png",
+     "alt": "Figure 5.6.  Oxidation of a Primary Alcohol to an Aldehyde by",
+     "caption": "Figure 5.6.  Oxidation of a Primary Alcohol to an Aldehyde by"
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig09.png",
+     "alt": "Figure 5.8. As expected, this",
+     "caption": "Figure 5.8. As expected, this"
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig10.png",
+     "alt": "Figure 5.9.  Structure of the Mesylate Anion",
+     "caption": "Figure 5.9.  Structure of the Mesylate Anion"
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig11.png",
+     "alt": "Figure 5.10.",
+     "caption": "Figure 5.10."
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig12.png",
+     "alt": "Figure 5.11.",
+     "caption": "Figure 5.11."
+    }
+   ]
+  },
+  {
+   "title": "5.3 Reactions of Phenols",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch05_alcohols/fig13.png",
+     "alt": "Chapter 5 figure 13",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig14.png",
+     "alt": "Figure 5.12.",
+     "caption": "Figure 5.12."
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig15.png",
+     "alt": "Figure 5.13.  Phylloquinone (Vitamin K1)",
+     "caption": "Figure 5.13.  Phylloquinone (Vitamin K1)"
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig16.png",
+     "alt": "Figure 5.14.  2-Hydroxy-1,4-benzoquinone, a Hydroxyquinone",
+     "caption": "Figure 5.14.  2-Hydroxy-1,4-benzoquinone, a Hydroxyquinone"
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig17.png",
+     "alt": "Figure 5.15.  Three Examples of Hydroxyquinones",
+     "caption": "Figure 5.15.  Three Examples of Hydroxyquinones"
+    },
+    {
+     "src": "ochem/ch05_alcohols/fig18.png",
+     "alt": "Figure 5.16.  Ubiquinone (Coenzyme Q) and Ubiquinol",
+     "caption": "Figure 5.16.  Ubiquinone (Coenzyme Q) and Ubiquinol"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Alcohols have higher boiling points than their analogous hydrocarbons because:",
+   "type": "mcq",
+   "choices": [
+    "the oxygen atoms in alcohols have shorter bond lengths.",
+    "hydrogen bonding is present in alcohols.",
+    "alcohols are more acidic than their analogous hydrocarbons.",
+    "alcohols can be oxidized to ketones."
+   ],
+   "correct": 1,
+   "explanation": "Alcohols have higher boiling points than their analogous hydrocarbons as a result of their polarized O–H bonds, in which oxygen is partially negative and hydrogen is partially positive. This enables the oxygen atoms of other alcohol molecules to be attracted to the hydrogen, forming a hydrogen bond. Heat is required to overcome these hydrogen bonds, thereby increasing the boiling point. The analogous hydrocarbons do not form hydrogen bonds and, therefore, vaporize at lower temperatures. (A) is irrelevant; oxygen’s bond length is not a factor in determining a substance’s boiling point. (C) and (D) are true statements, but are also irrelevant to boiling point determination."
+  },
+  {
+   "q": "Tertiary alcohols are oxidized with difficulty because:",
+   "type": "mcq",
+   "choices": [
+    "there is no hydrogen attached to the carbon with the hydroxyl group.",
+    "there is no hydrogen attached to the α-carbon of the carbonyl.",
+    "tertiary alcohols contain hydroxyl groups with no polarization.",
+    "they are relatively inert."
+   ],
+   "correct": 0,
+   "explanation": "Tertiary alcohols can be oxidized but only under extreme conditions because their substrate carbons do not have spare hydrogens to give up. Alcohol oxidation involves the removal of such a hydrogen so that carbon can instead make another bond to oxygen. If no hydrogen is present, a carbon–carbon bond must be cleaved, which requires a great deal of energy and will, therefore, occur only under extreme conditions. (B) is incorrect because alcohols are not carbonyl-containing compounds and would more properly describe a carbonyl-containing compound that is unable to form an enolate. (C) is incorrect because the hydroxyl group of the tertiary carbon is still polarized. (D) is a false statement; tertiary alcohols are still involved in other reactions, such as SN1 reactions."
+  },
+  {
+   "q": "The IUPAC name of this molecule is:",
+   "type": "mcq",
+   "choices": [
+    "ethane-1,2-diol.",
+    "propane-1,2-diol.",
+    "dimethanol.",
+    "dipropanol."
+   ],
+   "correct": 1,
+   "explanation": "Remember, diols are named after the parent alkane, with the position of the alcohols indicated, and ending in the suffix –diol. Here the carbon chain is three carbons, with a hydroxyl group on carbons 1 and 2. Thus, the name is propane-1,2-diol."
+  },
+  {
+   "q": "The IUPAC name of this molecule is:",
+   "type": "mcq",
+   "choices": [
+    "2-methylcyclohexanol.",
+    "m-methylphenol.",
+    "p-methylphenol.",
+    "3-methylcyclohexanol."
+   ],
+   "correct": 1,
+   "explanation": "This molecule is a phenol, not a hexanol, because the cyclic group has aromatic double bonds rather than single bonds. The methyl group is separated from the hydroxyl carbon by one carbon in between, making this molecule m-methylphenol."
+  },
+  {
+   "q": "Which of the following correctly lists methanol, isobutyl alcohol, and propanol by decreasing boiling point?",
+   "type": "mcq",
+   "choices": [
+    "Methanol > isobutyl alcohol > propanol",
+    "Isobutyl alcohol > methanol > propanol",
+    "Isobutyl alcohol > propanol > methanol",
+    "Methanol > propanol > isobutyl alcohol"
+   ],
+   "correct": 2,
+   "explanation": "All else being equal, boiling points increase with increasing size of the alkyl chain because of increased van der Waals attractions. Isobutyl alcohol has the largest alkyl chain and will thus have the highest boiling point; methanol has the smallest chain and will thus have the lowest boiling point."
+  },
+  {
+   "q": "Which of the following correctly lists hexanol, phenol, and cyclohexanol by increasing acidity of the hydroxyl hydrogen?",
+   "type": "mcq",
+   "choices": [
+    "Phenol < hexanol < cyclohexanol",
+    "Cyclohexanol < hexanol < phenol",
+    "Cyclohexanol < phenol < hexanol",
+    "Phenol < cyclohexanol < hexanol"
+   ],
+   "correct": 1,
+   "explanation": "Phenols have significantly more acidic hydroxyl hydrogens than other alcohols because of resonance stabilization of the conjugate base, so this will be the most acidic hydroxyl hydrogen. The acidity of hexanol and cyclohexanol are close, but the hydroxyl hydrogen of hexanol is slightly more acidic because the ring structure of cyclohexanol is slightly electron- donating, which makes its hydroxyl hydrogen slightly less acidic."
+  },
+  {
+   "q": "Which of the following will convert CH3CH2CH2OH to CH3CH2CHO? CrO3 .          PCC I.            K2Cr2O7",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "I and III only",
+    "I, II, and III"
+   ],
+   "correct": 1,
+   "explanation": "CH3CH2CH2OH is 1-propanol, a primary alcohol. The desired end product, CH3CH2CHO, is propanal, an aldehyde. Of the available options, the only reactant capable of oxidizing primary alcohols to aldehydes is pyridinium chlorochromate (PCC). Chromic trioxide and dichromate salts will both oxidize primary alcohols to carboxylic acids."
+  },
+  {
+   "q": "Which of the following will convert cyclohexanol to cyclohexanone? Chromium trioxide .            Pyridinium chlorochromate I.          Sodium dichromate",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "I and III only",
+    "I, II, and III"
+   ],
+   "correct": 3,
+   "explanation": "Cyclohexanol is a secondary alcohol, so any of the oxidizing agents listed will convert it to a ketone."
+  },
+  {
+   "q": "Successfully converting 3-phenylpropanol to 3-phenylpropanoic acid by the Jones oxidation requires the oxidizing agent, the solvent, and:",
+   "type": "mcq",
+   "choices": [
+    "dilute sulfuric acid.",
+    "dilute sodium hydroxide.",
+    "anhydrous conditions.",
+    "high temperature."
+   ],
+   "correct": 0,
+   "explanation": "Acidic conditions, provided by dilute sulfuric acid, are required to complete the Jones oxidation. This reaction is carried out in aqueous conditions, eliminating (C). While heat may speed up the reaction, high temperatures are not required for this reaction, eliminating (D)."
+  },
+  {
+   "q": "Treating 2-methyl-1-propanol with methylsulfonyl chloride in base, followed by reaction with pyridinium chlorochromate, and a final step in strong acid, will give an end product of:",
+   "type": "mcq",
+   "choices": [
+    "2-methyl-1-propanol.",
+    "2-methylpropanal.",
+    "2-methylpropanoic acid.",
+    "2-methyl-1-propane."
+   ],
+   "correct": 0,
+   "explanation": "Methylsulfonyl chloride serves as a protecting group for alcohols, which are converted into mesylates. Reacting with this reagent before continuing with what would normally be an oxidation reaction keeps the alcohol from reacting; when the protecting group is then removed using strong acid, the resultant product is the same as the initial reactant. Neither of the oxidation products in (B) or (C), nor the reduction product in (D), will be formed."
+  },
+  {
+   "q": "Reaction of 1-phenylethanone with ethylene glycol, also known as ethane-1,2-diol, in aqueous H2SO4 will result in the formation of:",
+   "type": "mcq",
+   "choices": [
+    "a ketal.",
+    "a carboxylic acid.",
+    "an aldehyde.",
+    "a hemiacetal."
+   ],
+   "correct": 0,
+   "explanation": "This reaction will create a ketal. This is the first step of the protection of aldehydes or ketones using dialcohols."
+  },
+  {
+   "q": "Treatment of this molecule with CrO3 under appropriate reaction conditions will yield which of the following molecules?",
+   "type": "mcq",
+   "choices": [
+    "2-Phenylethanol",
+    "Phenylacetaldehyde",
+    "Phenylacetone",
+    "2-Phenylethanoic acid"
+   ],
+   "correct": 3,
+   "explanation": "This is the Jones oxidation, which will convert a primary alcohol into a carboxylic acid. (A) is the original reacting molecule, and because the reaction will proceed, this is not correct. Because the reaction uses strong oxidizing agents, it won’t stop at the aldehyde, (B). This reaction also cannot make the ketone in (C) because it starts with a primary alcohol."
+  },
+  {
+   "q": "In order to convert phenols into hydroxyquinones, how many steps of oxidation or reduction are required?",
+   "type": "mcq",
+   "choices": [
+    "1 oxidation step",
+    "2 oxidation steps",
+    "1 reduction step",
+    "2 reduction steps"
+   ],
+   "correct": 1,
+   "explanation": "In order to convert phenols into hydroxyquinones, they must first be converted to quinones through an oxidation step; a second oxidation step is required to further oxidize quinones to hydroxyquinones."
+  },
+  {
+   "q": "The conversion of ubiquinone to ubiquinol requires what type of reaction?",
+   "type": "mcq",
+   "choices": [
+    "Condensation",
+    "Oxidation",
+    "Reduction",
+    "Hydrolysis"
+   ],
+   "correct": 2,
+   "explanation": "The reaction that converts ubiquinone into ubiquinol is a reduction reaction in which two ketones are reduced to two hydroxyl groups."
+  },
+  {
+   "q": "Which of the following will convert a cyclic acetal to a carbonyl and a dialcohol?",
+   "type": "mcq",
+   "choices": [
+    "Aqueous acid",
+    "LiAlH4",
+    "CrO3",
+    "Acetone"
+   ],
+   "correct": 0,
+   "explanation": "An acetal can be converted to a carbonyl and a dialcohol by treatment with aqueous acid. This is the final step when using alcohols as protecting groups, called deprotection."
+  }
+ ]
+}

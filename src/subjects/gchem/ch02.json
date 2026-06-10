@@ -1,0 +1,329 @@
+{
+ "id": 2,
+ "num": 2,
+ "title": "The Periodic Table",
+ "slug": "the_periodic_table",
+ "sections": [
+  {
+   "title": "2.1 The Periodic Table",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch02_the_periodic_table/fig01.png",
+     "alt": "Chapter 2 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig02.png",
+     "alt": "Chapter 2 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig18.png",
+     "alt": "Chapter 2 figure 18",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig19.png",
+     "alt": "Chapter 2 figure 19",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig20.png",
+     "alt": "Chapter 2 figure 20",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig21.png",
+     "alt": "Chapter 2 figure 21",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig22.png",
+     "alt": "Chapter 2 figure 22",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig23.png",
+     "alt": "Chapter 2 figure 23",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "2.2 Types of Elements",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch02_the_periodic_table/fig03.png",
+     "alt": "Chapter 2 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig04.png",
+     "alt": "Figure 2.1.  Copper (Cu) Metal Wire",
+     "caption": "Figure 2.1.  Copper (Cu) Metal Wire"
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig05.png",
+     "alt": "Figure 2.2, is a stereotypical nonmetal that retains a solid",
+     "caption": "Figure 2.2, is a stereotypical nonmetal that retains a solid"
+    }
+   ]
+  },
+  {
+   "title": "2.3 Periodic Properties of the Elements",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch02_the_periodic_table/fig06.png",
+     "alt": "Chapter 2 figure 6",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig07.png",
+     "alt": "Figure 2.4.  Factors that Determine Effective Nuclear Charge (Zeff)",
+     "caption": "Figure 2.4.  Factors that Determine Effective Nuclear Charge (Zeff)"
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig08.png",
+     "alt": "Figure 2.5.  Atomic Radius (in pm) vs. Atomic Number",
+     "caption": "Figure 2.5.  Atomic Radius (in pm) vs. Atomic Number"
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig09.png",
+     "alt": "Figure 2.6.  Ionic Radii (in pm) for Various Metals and Nonmetals",
+     "caption": "Figure 2.6.  Ionic Radii (in pm) for Various Metals and Nonmetals"
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig10.png",
+     "alt": "Figure 2.7.  First Ionization Energies (in eV) of the Elements",
+     "caption": "Figure 2.7.  First Ionization Energies (in eV) of the Elements"
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig11.png",
+     "alt": "Figure 2.8.",
+     "caption": "Figure 2.8."
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig12.png",
+     "alt": "Figure 2.9 shows",
+     "caption": "Figure 2.9 shows"
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig13.png",
+     "alt": "Figure 2.10.",
+     "caption": "Figure 2.10."
+    }
+   ]
+  },
+  {
+   "title": "2.4 The Chemistry of Groups",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch02_the_periodic_table/fig14.png",
+     "alt": "Figure 2.11.  Reaction of Sodium with Water",
+     "caption": "Figure 2.11.  Reaction of Sodium with Water"
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig15.png",
+     "alt": "Figure 2.12.  Iodine in Standard State (Diatomic Iodine)",
+     "caption": "Figure 2.12.  Iodine in Standard State (Diatomic Iodine)"
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig16.png",
+     "alt": "Figure 2.13, due to their lack of",
+     "caption": "Figure 2.13, due to their lack of"
+    },
+    {
+     "src": "gchem/ch02_the_periodic_table/fig17.png",
+     "alt": "Figure 2.14.  Solutions of Transition Metal-Containing Compounds",
+     "caption": "Figure 2.14.  Solutions of Transition Metal-Containing Compounds"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Lithium and sodium have similar chemical properties. For example, both can form ionic bonds with chloride. Which of the following best explains this similarity?",
+   "type": "mcq",
+   "choices": [
+    "Both lithium and sodium ions are positively charged.",
+    "Lithium and sodium are in the same group of the periodic table.",
+    "Lithium and sodium are in the same period of the periodic table.",
+    "Both lithium and sodium have low atomic weights."
+   ],
+   "correct": 1,
+   "explanation": "The periodic table is organized into periods (rows) and groups (columns). Groups (columns) are particularly significant because they represent sets of elements with the same valence electron configuration, which in turn will dictate many of the chemical properties of those elements. Although (A) is true, the fact that both ions are positively charged does not explain the similarity in chemical properties; most metals produce positively charged ions. (C) is not true because lithium and sodium are in the same group, not period. Finally, although lithium and sodium do have relatively low atomic weights, so do several other elements that do not share the same properties, eliminating (D)."
+  },
+  {
+   "q": "Carbon and silicon are the basis of biological life and synthetic computing, respectively. While these elements share many chemical properties, which of the following best describes a difference between the two elements?",
+   "type": "mcq",
+   "choices": [
+    "Carbon has a smaller atomic radius than silicon.",
+    "Silicon has a smaller atomic radius than carbon.",
+    "Carbon has fewer valence electrons than silicon.",
+    "Silicon has fewer valence electrons than carbon."
+   ],
+   "correct": 0,
+   "explanation": "As one moves from top to bottom in a group (column), extra electron shells accumulate, despite the fact that the valence configurations remain identical. These extra electron shells provide shielding between the positive nucleus and the outermost electrons, decreasing the electrostatic attraction and increasing the atomic radius. Because carbon and silicon are in the same group, and silicon is farther down in the group, silicon will have a larger atomic radius because of its extra electron shell."
+  },
+  {
+   "q": "What determines the length of an element’s atomic radius? The number of valence electrons .          The number of electron shells I.          The number of neutrons in the nucleus",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "I and II only",
+    "I, II, and III"
+   ],
+   "correct": 2,
+   "explanation": "Atomic radius is determined by multiple factors. Of the choices given, the number of valence electrons does have an impact on the atomic radius. As one moves across a period (row), protons and valence electrons are added, and the electrons are more strongly attracted to the central protons. This attraction tightens the atom, shrinking the atomic radius. The number of electron shells is also significant, as demonstrated by the trend when moving down a group (column). As more electron shells are added that separate the positively charged nucleus from the outermost electrons, the electrostatic forces are weakened, and the atomic radius increases. The number of neutrons is irrelevant because it does not impact these attractive forces."
+  },
+  {
+   "q": "Ionization energy contributes to an atom’s chemical reactivity. Which of the following shows an accurate ranking of ionization energies from lowest to highest?",
+   "type": "mcq",
+   "choices": [
+    "first ionization energy of Be < second ionization energy of Be < first ionization energy of Li",
+    "first ionization energy of Be < first ionization energy of Li < second ionization energy of Be",
+    "first ionization energy of Li < first ionization energy of Be < second ionization energy of Be",
+    "first ionization energy of Li < second ionization energy of Be < first ionization energy of Be"
+   ],
+   "correct": 2,
+   "explanation": "Ionization energy increases from left to right, so the first ionization energy of lithium is lower than that of beryllium. Second ionization energy is always larger than first ionization energy, so beryllium’s second ionization energy should be the highest value. This is because removing an additional electron from Be+ requires one to overcome a significantly larger electrostatic force."
+  },
+  {
+   "q": "Antimony is used in some antiparasitic medications—specifically those targeting Leishmania donovani. What type of element is antimony?",
+   "type": "mcq",
+   "choices": [
+    "Metal",
+    "Metalloid",
+    "Halogen",
+    "Nonmetal"
+   ],
+   "correct": 1,
+   "explanation": "Antimony (Sb) is on the right side of the periodic table, but not far right enough to be a nonmetal, (D). It certainly does not lie far enough to the right to fall in Group VIIA (Group 17), which would classify it as a halogen, (C). While sources have rarely classified antimony as a metal, (A), it is usually classified as a metalloid, (B)."
+  },
+  {
+   "q": "The properties of atoms can be predicted, to some extent, by their location within the periodic table. Which property or properties increase in the direction of the arrows shown? Electronegativity .           Atomic radius I.               First ionization energy",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "I and II only",
+    "I and III only",
+    "II and III only"
+   ],
+   "correct": 2,
+   "explanation": "Electronegativity describes how strong an attraction an element will have for electrons in a bond. A nucleus with a larger effective nuclear charge will have a higher electronegativity; Zeff increases toward the right side of a period. A stronger nuclear pull will also lead to increased first ionization energy, as the forces make it more difficult to remove an electron. The vertical arrow can be explained by the size of the atoms. As size decreases, the positive charge becomes more effective at attracting electrons in a chemical bond (higher electronegativity), and the energy required to remove an electron (ionization energy) increases."
+  },
+  {
+   "q": "Metals are often used for making wires that conduct electricity. Which of the following properties of metals explains why?",
+   "type": "mcq",
+   "choices": [
+    "Metals are malleable.",
+    "Metals have low electronegativities.",
+    "Metals have valence electrons that can move freely.",
+    "Metals have high melting points."
+   ],
+   "correct": 2,
+   "explanation": "All four descriptions of metals are true, but the most significant property that contributes to the ability of metals to conduct electricity is the fact that they have valence electrons that can move freely. Malleability, (A), is the ability to shape a material with a hammer, which does not play a role in conducting electricity. The low electronegativity and high melting points of metals, (B) and (D), also do not play a major role in the conduction of electricity."
+  },
+  {
+   "q": "Which of the following is an important property of the group of elements shaded in the periodic table below?",
+   "type": "mcq",
+   "choices": [
+    "These elements are the best electrical conductors in the periodic table.",
+    "These elements form divalent cations.",
+    "The second ionization energy for these elements is lower than the first ionization energy.",
+    "The atomic radii of these elements decrease as one moves down the column."
+   ],
+   "correct": 1,
+   "explanation": "This block represents the alkaline earth metals, which form divalent cations, or ions with a +2 charge. All of the elements in Group IIA have two electrons in their outermost s subshell. Because loss of these two electrons would leave a full octet as the outermost shell, becoming a divalent cation is a stable configuration for all of the alkaline earth metals. Although some of these elements might be great conductors, they are not as effective as the alkali metals, eliminating (A). (C) is also incorrect because, although forming a divalent cation is a stable configuration for the alkaline earth metals, the second ionization energy is still always higher than the first. Finally, (D) is incorrect because atomic radii increase when moving down a group of elements because the number of electron shells increases."
+  },
+  {
+   "q": "When dissolved in water, which of the following ions is most likely to form a complex ion with H2O?",
+   "type": "mcq",
+   "choices": [
+    "Na+",
+    "Fe2+",
+    "Cl–",
+    "S2–"
+   ],
+   "correct": 1,
+   "explanation": "Iron is a transition metal. Transition metals can often form more than one ion. Iron, for example, can be Fe2+ or Fe3+. The transition metals, in these various oxidation states, can often form hydration complexes with water. Part of the significance of these complexes is that, when a transition metal can form a complex, its solubility within the related solvent will increase. The other ions given might dissolve readily in water, but because none of them are transition metals, they will not likely form complexes."
+  },
+  {
+   "q": "How many valence electrons are present in elements in the third period?",
+   "type": "mcq",
+   "choices": [
+    "2",
+    "3",
+    "The number decreases as the atomic number increases.",
+    "The number increases as the atomic number increases."
+   ],
+   "correct": 3,
+   "explanation": "This question is simple if one recalls that periods refer to the rows in the periodic table, while groups or families refer to the columns. Within the same period, an additional valence electron is added with each step toward the right side of the table."
+  },
+  {
+   "q": "Which of the following elements has the highest electronegativity?",
+   "type": "mcq",
+   "choices": [
+    "Mg",
+    "Cl",
+    "Zn",
+    "I"
+   ],
+   "correct": 1,
+   "explanation": "This question requires knowledge of the trends of electronegativity within the periodic table. Electronegativity increases as one moves from left to right for the same reasons that effective nuclear charge increases. Electronegativity decreases as one moves down the periodic table because there are more electron shells separating the nucleus from the outermost electrons. In this question, chlorine is the furthest toward the top-right corner of the periodic table."
+  },
+  {
+   "q": "Of the four atoms depicted here, which has the highest electron affinity?",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 1,
+   "explanation": "Electron affinity is related to several factors, including atomic size and filling of the valence shell. As atomic radius increases, the distance between the nucleus and the outermost electrons increases, thereby decreasing the attractive forces between protons and electrons. As a result, increased atomic radius will lead to lower electron affinity. Because atoms are in a low-energy state when their outermost valence electron shell is filled, atoms needing only one or two electrons to complete this shell will have high electron affinities. In this example, (B) and (D) need only one more electron to have a noble gas-like electron configuration; because (B) is smaller, it will have the highest electron affinity."
+  },
+  {
+   "q": "Which of the following atoms or ions has the largest effective nuclear charge?",
+   "type": "mcq",
+   "choices": [
+    "Cl",
+    "Cl–",
+    "K",
+    "K+"
+   ],
+   "correct": 3,
+   "explanation": "The effective nuclear charge refers to the strength with which the protons in the nucleus can pull on electrons. This phenomenon helps to explain electron affinity, electronegativity, and ionization energy. In (A), the nonionized chlorine atom, the nuclear charge is balanced by the surrounding electrons: 17 p+/17 e–. The chloride ion, (B), has a lower effective nuclear charge because there are more electrons than protons: 17 p+/18 e–. Next, elemental potassium, (C), has the lowest effective nuclear charge because it contains additional inner shells that shield its valence electron from the nucleus. (D), ionic potassium, has a higher effective nuclear charge than any of the other options do because it has the same electron configuration as Cl– (and the same amount of shielding from inner shell electrons as neutral Cl) but contains two extra protons in its nucleus: 19 p+/18 e–."
+  },
+  {
+   "q": "Why do halogens often form ionic bonds with alkaline earth metals?",
+   "type": "mcq",
+   "choices": [
+    "The alkaline earth metals have much higher electron affinities than the halogens.",
+    "By sharing electrons equally, the alkaline earth metals and halogens both form full octets.",
+    "Within the same row, the halogens have smaller atomic radii than the alkaline earth metals.",
+    "The halogens have much higher electron affinities than the alkaline earth metals."
+   ],
+   "correct": 3,
+   "explanation": "Ionic bonds are formed through unequal sharing of electrons. These bonds typically occur because the electron affinities of the two bonded atoms differ greatly. For example, the halogens have high electron affinities because adding a single electron to their valence shells would create full valence shells. In contrast, the alkaline earth metals have very low electron affinities and are more likely to be electron donors because the loss of two electrons would leave them with full valence shells. (A) states the opposite and is incorrect because the halogens have high electron affinity and the alkaline earth metals have low electron affinity. (B) is incorrect because equal sharing of electrons is a classic description of covalent bonding, not ionic. (C) is a true statement, but is not relevant to why ionic bonds form."
+  },
+  {
+   "q": "What is the highest-energy orbital of elements with valence electrons in the n = 3 shell?",
+   "type": "mcq",
+   "choices": [
+    "s-orbital",
+    "p-orbital",
+    "d-orbital",
+    "f-orbital"
+   ],
+   "correct": 2,
+   "explanation": "When n = 3, l = 0, 1, or 2. The highest value for l in this case is 2, which corresponds to the d subshell. Although the 3d block appears to be part of the fourth period, it still has the principal quantum number n = 3. In general, the subshells within an energy shell increase in energy as follows: s < p < d < f (although there is no 3f subshell)."
+  }
+ ]
+}

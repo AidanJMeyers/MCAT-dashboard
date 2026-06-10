@@ -1,0 +1,73 @@
+{
+ "id": 11,
+ "num": 11,
+ "title": "Reasoning About The Design and Execution of Research",
+ "slug": "reasoning_about_the_design_and_execution",
+ "sections": [
+  {
+   "title": "11.1 The Scientific Method",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch11_reasoning_about_the_design_and_execution/fig01.png",
+     "alt": "Chapter 11 figure 1",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "11.2 Basic Science Research",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch11_reasoning_about_the_design_and_execution/fig02.png",
+     "alt": "Chapter 11 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch11_reasoning_about_the_design_and_execution/fig03.png",
+     "alt": "Chapter 11 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch11_reasoning_about_the_design_and_execution/fig04.png",
+     "alt": "Figure 11.1. Because bias is a systematic error in data, only an",
+     "caption": "Figure 11.1. Because bias is a systematic error in data, only an"
+    }
+   ]
+  },
+  {
+   "title": "11.3 Human Subjects Research",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch11_reasoning_about_the_design_and_execution/fig05.png",
+     "alt": "Chapter 11 figure 5",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch11_reasoning_about_the_design_and_execution/fig06.png",
+     "alt": "Figure\n11.2.",
+     "caption": "Figure\n11.2."
+    }
+   ]
+  },
+  {
+   "title": "11.4 Ethics",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "11.5 Research in the Real World",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch11_reasoning_about_the_design_and_execution/fig07.png",
+     "alt": "Chapter 11 figure 7",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": []
+}

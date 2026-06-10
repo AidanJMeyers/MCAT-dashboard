@@ -1,0 +1,383 @@
+{
+ "id": 6,
+ "num": 6,
+ "title": "Aldehydes and Ketones I: Electrophilicity and Oxidation—Reduction",
+ "slug": "aldehydes_and_ketones_i_electrophilicity",
+ "sections": [
+  {
+   "title": "6.1 Description and Properties",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig01.png",
+     "alt": "Chapter 6 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig02.png",
+     "alt": "Chapter 6 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig03.png",
+     "alt": "Figure\n6.1, are formaldehyde, acetaldehyde, propionaldehyde, butyraldehyde, and",
+     "caption": "Figure\n6.1, are formaldehyde, acetaldehyde, propionaldehyde, butyraldehyde, and"
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig04.png",
+     "alt": "Figure 6.2.",
+     "caption": "Figure 6.2."
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig05.png",
+     "alt": "Figure 6.3.  Naming Ketones",
+     "caption": "Figure 6.3.  Naming Ketones"
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig06.png",
+     "alt": "Figure 6.4.  Polarity of the Carbonyl Group",
+     "caption": "Figure 6.4.  Polarity of the Carbonyl Group"
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig07.png",
+     "alt": "Chapter 6 figure 7",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig17.png",
+     "alt": "Chapter 6 figure 17",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig18.png",
+     "alt": "Chapter 6 figure 18",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig19.png",
+     "alt": "Chapter 6 figure 19",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig20.png",
+     "alt": "Chapter 6 figure 20",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig21.png",
+     "alt": "Chapter 6 figure 21",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig22.png",
+     "alt": "Chapter 6 figure 22",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig23.png",
+     "alt": "Chapter 6 figure 23",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig24.png",
+     "alt": "Chapter 6 figure 24",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig25.png",
+     "alt": "Chapter 6 figure 25",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig26.png",
+     "alt": "Chapter 6 figure 26",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig27.png",
+     "alt": "Chapter 6 figure 27",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig28.png",
+     "alt": "Chapter 6 figure 28",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig29.png",
+     "alt": "Chapter 6 figure 29",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig30.png",
+     "alt": "Chapter 6 figure 30",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig31.png",
+     "alt": "Chapter 6 figure 31",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig32.png",
+     "alt": "Chapter 6 figure 32",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig33.png",
+     "alt": "Chapter 6 figure 33",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig34.png",
+     "alt": "Chapter 6 figure 34",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig35.png",
+     "alt": "Chapter 6 figure 35",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "6.2 Nucleophilic Addition Reactions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig08.png",
+     "alt": "Chapter 6 figure 8",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig09.png",
+     "alt": "Figure 6.5.  Nucleophilic Addition Reaction Mechanism",
+     "caption": "Figure 6.5.  Nucleophilic Addition Reaction Mechanism"
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig10.png",
+     "alt": "Figure 6.6. In this case, the nucleophilic oxygen in",
+     "caption": "Figure 6.6. In this case, the nucleophilic oxygen in"
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig11.png",
+     "alt": "Figure 6.7. Hemiacetals and hemiketals can be",
+     "caption": "Figure 6.7. Hemiacetals and hemiketals can be"
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig12.png",
+     "alt": "Figure 6.8.  Acetal and Ketal Formation",
+     "caption": "Figure 6.8.  Acetal and Ketal Formation"
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig13.png",
+     "alt": "Figure 6.9. Because a small molecule is lost during the",
+     "caption": "Figure 6.9. Because a small molecule is lost during the"
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig14.png",
+     "alt": "Figure 6.10.",
+     "caption": "Figure 6.10."
+    }
+   ]
+  },
+  {
+   "title": "6.3 Oxidation–Reduction Reactions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig15.png",
+     "alt": "Figure 6.11.  Aldehyde Oxidation",
+     "caption": "Figure 6.11.  Aldehyde Oxidation"
+    },
+    {
+     "src": "ochem/ch06_aldehydes_and_ketones_i_electrophilicity/fig16.png",
+     "alt": "Figure 6.12.",
+     "caption": "Figure 6.12."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "All of the following are true with respect to carbonyls EXCEPT:",
+   "type": "mcq",
+   "choices": [
+    "the carbonyl carbon is electrophilic.",
+    "the carbonyl oxygen is electron-withdrawing.",
+    "a resonance structure of the functional group places a positive charge on the carbonyl carbon.",
+    "the π electrons are mobile and are pulled toward the carbonyl carbon."
+   ],
+   "correct": 3,
+   "explanation": "The reactivity of the carbonyl can be attributed to the difference in electronegativity between the carbon and oxygen atoms. The more electronegative oxygen atom attracts the bonding electrons and is therefore electron-withdrawing. Thus, the carbonyl carbon is electrophilic. One resonance structure of the carbonyl pushes the π electrons onto the oxygen, resulting in a positively charged carbonyl carbon."
+  },
+  {
+   "q": "Order the following compounds by increasing boiling point: butane, butanol, butanone",
+   "type": "mcq",
+   "choices": [
+    "Butanol < butane < butanone",
+    "Butane < butanone < butanol",
+    "Butanone < butane < butanol",
+    "Butane < butanol < butanone"
+   ],
+   "correct": 1,
+   "explanation": "Assuming the length of the carbon chain remains the same, the alkane consistently has the lowest boiling point. The boiling point of the ketone is elevated by the dipole in the carbonyl. The boiling point of the alcohol is elevated further by hydrogen bonding."
+  },
+  {
+   "q": "What is the product of the reaction below?",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 2,
+   "explanation": "The reaction between a ketone and one equivalent of alcohol produces a hemiketal. This has an –OR group, an –OH group, and two alkyl groups attached at the same carbon. (A) is a ketal, with two –OR groups and two –R groups. (B) is a hemiacetal, with an –OH group, an –OR group, one R group, and a hydrogen atom (not drawn). (D) is a ketone. Note that a hemiketal is a very unstable compound, and will react rapidly with a second equivalent of alcohol to form a ketal in acidic conditions."
+  },
+  {
+   "q": "What is the product of the reaction below?",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 0,
+   "explanation": "Aldehydes and ketones react with ammonia and nitrogen-based derivatives to form imines—compounds with a double bond between carbon and nitrogen."
+  },
+  {
+   "q": "What is the product of the reaction below?",
+   "type": "mcq",
+   "choices": [
+    "C3H7OH",
+    "C2H5COOH",
+    "C2H5CHO",
+    "CH3COOH"
+   ],
+   "correct": 1,
+   "explanation": "Aldehydes are easily oxidized to the corresponding carboxylic acids by KMnO4. In (A), the aldehyde has been reduced to an alcohol. In (C), the molecule has not reacted. In (D), the aldehyde has been oxidized, but a –CH2– group has been removed."
+  },
+  {
+   "q": "What is the product of the reaction below?",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 1,
+   "explanation": "LiAlH4 reduces aldehydes to primary alcohols and ketones to secondary alcohols. In this reaction, a ketone is converted to a secondary alcohol."
+  },
+  {
+   "q": "What is the product of the reaction between benzaldehyde and an excess of ethanol (CH3CH2OH) in the presence of anhydrous HCl?",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 3,
+   "explanation": "Because an excess of ethanol is present, the product of the reaction between this aldehyde and ethanol will be an acetal. The benzaldehyde will first be converted to a hemiacetal, shown in (C), but will then proceed to completion as an acetal. (A) and (B) are incorrect because they show the presence of two benzene rings in the final product."
+  },
+  {
+   "q": "Hemiacetals and hemiketals usually keep reacting to form acetals and ketals. Why is it difficult to isolate hemiacetals and hemiketals? These molecules are unstable. .          The hydroxyl group is rapidly protonated and lost as water under acidic conditions, leaving behind a reactive carbocation. I.          The molecules are extremely basic and react rapidly with one another.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "I and II only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 1,
+   "explanation": "Hemiacetals and hemiketals are usually short-lived because the –OH group will rapidly become protonated in acidic conditions and is lost as water, leaving behind a carbocation that is very susceptible to attack by an alcohol. Once the alcohol has been added, the acetal or ketal becomes more stable because the newly added group is less likely to become protonated and leave as compared to –OH."
+  },
+  {
+   "q": "In a hemiacetal, the central carbon is bonded to:",
+   "type": "mcq",
+   "choices": [
+    "–OH, –OR, –H and –R.",
+    "–H, –OR, –OR, and –R.",
+    "–OH, –OR, –R, and –R.",
+    "–OR, –OR, –R, and –R."
+   ],
+   "correct": 0,
+   "explanation": "A hemiacetal is a molecule in which one equivalent of alcohol has been added to a carbonyl (–OR) and the carbonyl oxygen has been protonated (–OH). Otherwise, there is the same alkyl group (–R) and hydrogen atom (– H) as the parent aldehyde. (B) describes an acetal, (C) a hemiketal, and (D) a ketal."
+  },
+  {
+   "q": "In a reaction between hydrogen cyanide, butyraldehyde, and ethylmethylketone, which compounds will come together to form the major product?",
+   "type": "mcq",
+   "choices": [
+    "Butyraldehyde and hydrogen cyanide",
+    "Ethylmethylketone and butyraldehyde",
+    "Hydrogen cyanide and ethylmethylketone",
+    "No reaction will occur."
+   ],
+   "correct": 0,
+   "explanation": "Although both the aldehyde and ketone listed will be reactive with the strongly nucleophilic hydrogen cyanide, aldehydes are slightly more reactive toward nucleophiles than ketones for steric reasons, so the aldehyde and HCN will form the major product (which will be a cyanohydrin)."
+  },
+  {
+   "q": "Which of the following describe(s) pyridinium chlorochromate (PCC)? An oxidant that can form aldehydes from primary alcohols .          An oxidant that can completely oxidize primary alcohols I.          An oxidant that can completely oxidize secondary alcohols",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "I and II only",
+    "I and III only",
+    "I, II, and III"
+   ],
+   "correct": 2,
+   "explanation": "PCC is a mild anhydrous oxidant that can oxidize primary alcohols to aldehydes, and secondary alcohols to ketones. It is not strong enough to oxidize alcohols or aldehydes to carboxylic acids."
+  },
+  {
+   "q": "To form a geminal diol, which of the following could attack a carbonyl carbon?",
+   "type": "mcq",
+   "choices": [
+    "Hydrogen peroxide",
+    "Water",
+    "Potassium dichromate",
+    "Ethanol"
+   ],
+   "correct": 1,
+   "explanation": "In a hydration reaction, water adds to a carbonyl, forming a geminal diol— a compound with two hydroxyl groups on the same carbon. Hydrogen peroxide and potassium dichromate are oxidizing agents that can convert an aldehyde to a carboxylic acid. Ethanol will react with a carbonyl compound to form an acetal or a ketal, if excess ethanol is available."
+  },
+  {
+   "q": "In a reaction between ammonia and glutaraldehyde, what is the major product?",
+   "type": "mcq",
+   "choices": [
+    "An imine",
+    "A cyanohydrin",
+    "A semicarbazone",
+    "A hydrazone"
+   ],
+   "correct": 0,
+   "explanation": "Ammonia, or NH3, will react with an aldehyde like glutaraldehyde to form an imine. This is a condensation and a substitution reaction, as the C=O of the carbonyl will be replaced with a C=N bond."
+  },
+  {
+   "q": "Which of the following can be used to reduce a ketone to a secondary alcohol?",
+   "type": "mcq",
+   "choices": [
+    "CrO3",
+    "KMnO4",
+    "LiAlH4",
+    "Ag2O"
+   ],
+   "correct": 2,
+   "explanation": "Hydrides like LiAlH4 and NaBH4 are reducing agents; as such, they will reduce aldehydes and ketones to alcohols. The other reagents listed are oxidizing agents, which will not act on a ketone."
+  },
+  {
+   "q": "Imines naturally tautomerize to form:",
+   "type": "mcq",
+   "choices": [
+    "oximes.",
+    "hydrazones.",
+    "semicarbazones.",
+    "enamines."
+   ],
+   "correct": 3,
+   "explanation": "During tautomerization, the double bond between the carbon and nitrogen in an imine is moved to lie between two carbons. This results in an enamine—a compound with a double bond and an amine."
+  }
+ ]
+}

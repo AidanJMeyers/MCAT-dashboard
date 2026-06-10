@@ -1,0 +1,332 @@
+{
+ "id": 8,
+ "num": 8,
+ "title": "Carboxylic Acids",
+ "slug": "carboxylic_acids",
+ "sections": [
+  {
+   "title": "8.1 Description and Properties",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig01.png",
+     "alt": "Chapter 8 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig02.png",
+     "alt": "Chapter 8 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig03.png",
+     "alt": "Figure 8.1 shows two examples.",
+     "caption": "Figure 8.1 shows two examples."
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig04.png",
+     "alt": "Figure 8.1.  IUPAC Names of Carboxylic Acids",
+     "caption": "Figure 8.1.  IUPAC Names of Carboxylic Acids"
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig05.png",
+     "alt": "Figure 8.3.",
+     "caption": "Figure 8.3."
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig06.png",
+     "alt": "Figure 8.3.  Cyclic Carboxylic Acid and Carboxylic Acid Salt",
+     "caption": "Figure 8.3.  Cyclic Carboxylic Acid and Carboxylic Acid Salt"
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig07.png",
+     "alt": "Figure 8.5.",
+     "caption": "Figure 8.5."
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig08.png",
+     "alt": "Figure 8.6.  Acidity of the α-Hydrogen in β-Dicarboxylic Acids",
+     "caption": "Figure 8.6.  Acidity of the α-Hydrogen in β-Dicarboxylic Acids"
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig09.png",
+     "alt": "Figure 8.7.  General Structure of 1,3-Dicarbonyl Compounds",
+     "caption": "Figure 8.7.  General Structure of 1,3-Dicarbonyl Compounds"
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig23.png",
+     "alt": "Chapter 8 figure 23",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig24.png",
+     "alt": "Chapter 8 figure 24",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig25.png",
+     "alt": "Chapter 8 figure 25",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig26.png",
+     "alt": "Chapter 8 figure 26",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "8.2 Reactions of Carboxylic Acids",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig10.png",
+     "alt": "Chapter 8 figure 10",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig11.png",
+     "alt": "Figure 8.8, but several other",
+     "caption": "Figure 8.8, but several other"
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig12.png",
+     "alt": "Figure 8.9.",
+     "caption": "Figure 8.9."
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig13.png",
+     "alt": "Figure 8.10. This can be carried out",
+     "caption": "Figure 8.10. This can be carried out"
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig14.png",
+     "alt": "Figure 8.11.  Resonance of Amides",
+     "caption": "Figure 8.11.  Resonance of Amides"
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig15.png",
+     "alt": "Figure 8.12.",
+     "caption": "Figure 8.12."
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig16.png",
+     "alt": "Figure 8.13.  Esterification: Reaction of a Carboxylic Acid with an",
+     "caption": "Figure 8.13.  Esterification: Reaction of a Carboxylic Acid with an"
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig17.png",
+     "alt": "Figure 8.14.  Examples of Lactones",
+     "caption": "Figure 8.14.  Examples of Lactones"
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig18.png",
+     "alt": "Figure 8.15. Just like the above reactions, anhydride formation",
+     "caption": "Figure 8.15. Just like the above reactions, anhydride formation"
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig19.png",
+     "alt": "Figure 8.16.",
+     "caption": "Figure 8.16."
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig20.png",
+     "alt": "Figure 8.17.  Decarboxylation of Carboxylic Acids: Loss of CO2",
+     "caption": "Figure 8.17.  Decarboxylation of Carboxylic Acids: Loss of CO2"
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig21.png",
+     "alt": "Figure 8.18.",
+     "caption": "Figure 8.18."
+    },
+    {
+     "src": "ochem/ch08_carboxylic_acids/fig22.png",
+     "alt": "Figure 8.19.  Soap Micelle",
+     "caption": "Figure 8.19.  Soap Micelle"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of these compounds would be expected to decarboxylate when heated?",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 3,
+   "explanation": "This compound is a β-keto acid: a carbonyl functional group at the β- position from a carboxyl group. Decarboxylation occurs with β-keto acids and β-dicarboxylic acids because they can form a cyclic transition state that permits simultaneous hydrogen transfer and loss of carbon dioxide. (B) is a diketone and does not have a single carboxyl group. (A) and (C) are γ- and δ-dicarboxylic acids, respectively, and can decarboxylate but with more difficulty."
+  },
+  {
+   "q": "Carboxylic acids have higher boiling points than their corresponding alcohols primarily because:",
+   "type": "mcq",
+   "choices": [
+    "molecular weight is increased by the additional carboxyl group.",
+    "the pH of the compound is lower.",
+    "acid salts are soluble in water.",
+    "hydrogen bonding is much stronger than in alcohols."
+   ],
+   "correct": 3,
+   "explanation": "The boiling points of compounds depend on the strength of the attractive forces between molecules. In both alcohols and carboxylic acids, the major form of intermolecular attraction is hydrogen bonding; however, hydrogen bonding is much stronger in carboxylic acids as compared to alcohols because carboxylic acids are more polar and the carbonyl also contributes to hydrogen bonding in addition to the hydroxyl group. The stronger hydrogen bonds elevate the boiling points of carboxylic acids compared to alcohols. Boiling points also depend on molecular weight, (A), but in this case, the difference in molecular weight is insignificant compared to the effect of hydrogen bonding. (B) and (C) are both true but do not explain the difference in boiling points."
+  },
+  {
+   "q": "Which of the following carboxylic acids will be the most acidic?",
+   "type": "mcq",
+   "choices": [
+    "CH3CHClCH2COOH",
+    "CH3CH2CCl2COOH",
+    "CH3CH2CHClCOOH",
+    "CH3CH2CH2COOH"
+   ],
+   "correct": 1,
+   "explanation": "The acidity of carboxylic acids is significantly increased by the presence of highly electronegative functional groups. Their electron-withdrawing effect increases the stability of the carboxylate anion, favoring proton dissociation. This effect increases as the number of electronegative groups on the chain increases, and it also increases as the distance between the acid functionality and electronegative group decreases. This answer has two halogens bonded to it at a smaller distance from the carboxyl group compared to the other answers."
+  },
+  {
+   "q": "Which of the following molecules could be classified as a soap?",
+   "type": "mcq",
+   "choices": [
+    "CH3(CH2)19COOH",
+    "CH3COOH",
+    "CH3(CH2)19COO–Na+",
+    "CH3COO–Na+"
+   ],
+   "correct": 2,
+   "explanation": "Soap is a salt of a carboxylate anion with a long hydrocarbon tail. (A) and (B) are not salts of anionic compounds. (D) is sodium acetate, which is a salt but does not contain the long hydrocarbon tail needed to be considered a soap."
+  },
+  {
+   "q": "What is the final product of the following reaction?",
+   "type": "mcq",
+   "choices": [
+    "CH3(CH2)4CHO",
+    "CH3(CH2)4COOH",
+    "CH3(CH2)4CH3",
+    "HOOC(CH2)4COOH"
+   ],
+   "correct": 1,
+   "explanation": "Jones reagent (chromium trioxide in aqueous sulfuric acid) is an oxidizing agent. As such, it oxidizes primary alcohols directly to carboxylic acids. This reagent is too strong an oxidant to give an aldehyde, so (A) is incorrect; remember that pyridinium chlorochromate (PCC) is a common oxidizing agent used to convert alcohols to aldehydes without progressing to a carboxylic acid. (D), a dicarboxylic acid, cannot form because there is no functional group on the other end of the molecule for the reagent to attack, and it cannot attack an inert alkane. (C) represents reduction, not oxidation."
+  },
+  {
+   "q": "Carboxylic acids can be reacted in one step to form all of the following compounds EXCEPT:",
+   "type": "mcq",
+   "choices": [
+    "esters.",
+    "amides.",
+    "alkenes.",
+    "alcohols."
+   ],
+   "correct": 2,
+   "explanation": "Carboxylic acids cannot be converted into alkenes in one step. Esters, (A), are formed in nucleophilic acyl substitution reactions with alcohols. Amides, (B), are formed by nucleophilic acyl substitution reactions with ammonia. Alcohols, (D), may be formed using a variety of reducing agents. To form alkenes, carboxylic acids may be reduced to alcohols, which can then be transformed into alkenes by elimination in a second step."
+  },
+  {
+   "q": "The reduction of a carboxylic acid using lithium aluminum hydride will yield what final product?",
+   "type": "mcq",
+   "choices": [
+    "An aldehyde",
+    "An ester",
+    "A ketone",
+    "An alcohol"
+   ],
+   "correct": 3,
+   "explanation": "Lithium aluminum hydride (LiAlH4 or LAH) is a strong reducing agent. LAH can completely reduce carboxylic acids to primary alcohols. Aldehydes are intermediate products of this reaction; therefore, (A) is incorrect. The other compounds are not created through the reduction of a carboxylic acid."
+  },
+  {
+   "q": "Which of the following is true with respect to a micelle in a hydrophilic environment?",
+   "type": "mcq",
+   "choices": [
+    "The interior is hydrophilic.",
+    "The structure, as a whole, is hydrophobic.",
+    "It is composed of short-chain fatty acids with polar heads.",
+    "It can dissolve nonpolar molecules deep in its core."
+   ],
+   "correct": 3,
+   "explanation": "Micelles are self-assembled aggregates of soap in which the interior is composed of long hydrocarbon (fatty) tails, which can dissolve nonpolar molecules. The outer surface is covered with carboxylate groups, which makes the overall structure water-soluble. Soaps, in general, are salts of long-chain hydrocarbons with carboxylate head groups."
+  },
+  {
+   "q": "In the presence of an acid catalyst, the major product of butanoic acid and 1-pentanol is:",
+   "type": "mcq",
+   "choices": [
+    "1-butoxy-1-pentanol.",
+    "butyl pentanoate.",
+    "1-pentoxy-1-butanol",
+    "pentyl butanoate"
+   ],
+   "correct": 3,
+   "explanation": "The reaction described is esterification, in which the nucleophilic oxygen atom of 1-pentanol attacks the electrophilic carbonyl carbon of butanoic acid, ultimately displacing water to form pentyl butanoate. The acid catalyst is regenerated from 1-pentanol's released proton. (A) reverses the carbon chains, considering the butyl tail to be the esterifying group. Ethers do not form under these conditions, so (B) and (C) are also incorrect."
+  },
+  {
+   "q": "The α-hydrogen of a carboxylic acid is: more acidic than the hydroxyl hydrogen. .              less acidic than the hydroxyl hydrogen. I.              relatively acidic, as organic compounds go.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "I and III only",
+    "II and III only"
+   ],
+   "correct": 3,
+   "explanation": "The α-hydrogen of a carboxylic acid is relatively acidic as far as organic compounds go, due to resonance stabilization. However, the hydroxyl hydrogen is significantly more acidic because it is able to share the negative charge resulting from deprotonation between both electronegative oxygen atoms in the functional group."
+  },
+  {
+   "q": "The reaction of formic acid with sodium borohydride will yield what final product?",
+   "type": "mcq",
+   "choices": [
+    "An aldehyde",
+    "A carboxylic acid",
+    "A ketone",
+    "An alcohol"
+   ],
+   "correct": 1,
+   "explanation": "The reaction of formic acid, which is a simple carboxylic acid, with sodium borohydride, which is a mild reducing agent, will result in no reaction, and therefore will result in maintenance of the carboxylic acid. Sodium borohydride is too mild to reduce carboxylic acids, and therefore cannot produce the primary alcohols that lithium aluminum hydride, a strong reducing agent, would."
+  },
+  {
+   "q": "The intramolecular reaction of 5-aminopentanoic acid through nucleophilic acyl substitution would result in a(n):",
+   "type": "mcq",
+   "choices": [
+    "anhydride.",
+    "lactone.",
+    "lactam.",
+    "carboxylic acid."
+   ],
+   "correct": 2,
+   "explanation": "5-aminopentanoic acid contains a carboxylic acid and an amine. If this molecule undergoes intramolecular nucleophilic acyl substitution, it will form a cyclic amide. These molecules are called lactams. Lactones, (B), are cyclic esters, not amides."
+  },
+  {
+   "q": "Butanoic anhydride can be produced by the reaction of butanoic acid with which of the following compounds?",
+   "type": "mcq",
+   "choices": [
+    "Butanoic acid",
+    "Ethanoic acid",
+    "Butanol",
+    "Methanal"
+   ],
+   "correct": 0,
+   "explanation": "Butanoic anhydride is an anhydride with two butane R groups. Anhydrides are produced by the reaction of two carboxylic acids with the loss of a water molecule. Therefore, butanoic anhydride would be produced by the reaction of two molecules of butanoic acid."
+  },
+  {
+   "q": "Nucleophilic acyl substitution is favored by: basic solution. .             acidic solution. I.             leaving groups that are strong bases.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "I and II only",
+    "I, II, and III"
+   ],
+   "correct": 2,
+   "explanation": "Nucleophilic acyl substitutions are favored in basic solution, which makes the nucleophile more nucleophilic; in acidic solution, which makes the electrophile more electrophilic; and by good leaving groups. However, strong bases do not make good leaving groups; weak bases do."
+  },
+  {
+   "q": "The reaction of ammonia with caprylic acid, found in coconuts, would produce a(n):",
+   "type": "mcq",
+   "choices": [
+    "ester.",
+    "anhydride.",
+    "alcohol.",
+    "water molecule."
+   ],
+   "correct": 3,
+   "explanation": "Based on its name, caprylic acid must be a carboxylic acid. The reaction between a carboxylic acid and ammonia (NH3) would produce an amide— which is not one of the options listed. Instead, we should take a look at the type of reaction occurring. The production of an amide from a carboxylic acid and ammonia occurs through a condensation reaction in which a molecule of water is removed as a leaving group."
+  }
+ ]
+}

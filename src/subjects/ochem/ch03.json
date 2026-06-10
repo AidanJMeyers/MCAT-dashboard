@@ -1,0 +1,273 @@
+{
+ "id": 3,
+ "num": 3,
+ "title": "Bonding",
+ "slug": "bonding",
+ "sections": [
+  {
+   "title": "3.1 Atomic Orbitals and Quantum Numbers",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch03_bonding/fig01.png",
+     "alt": "Chapter 3 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch03_bonding/fig02.png",
+     "alt": "Chapter 3 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch03_bonding/fig03.png",
+     "alt": "Figure 3.1.  The First Five Atomic Orbitals",
+     "caption": "Figure 3.1.  The First Five Atomic Orbitals"
+    },
+    {
+     "src": "ochem/ch03_bonding/fig13.png",
+     "alt": "Chapter 3 figure 13",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "3.2 Molecular Orbitals",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch03_bonding/fig04.png",
+     "alt": "Figure 3.2.  Molecular Orbitals",
+     "caption": "Figure 3.2.  Molecular Orbitals"
+    },
+    {
+     "src": "ochem/ch03_bonding/fig05.png",
+     "alt": "Figure 3.3. One π bond on top of an existing",
+     "caption": "Figure 3.3. One π bond on top of an existing"
+    }
+   ]
+  },
+  {
+   "title": "3.3 Hybridization",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch03_bonding/fig06.png",
+     "alt": "Chapter 3 figure 6",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch03_bonding/fig07.png",
+     "alt": "Figure 3.4, this forms four",
+     "caption": "Figure 3.4, this forms four"
+    },
+    {
+     "src": "ochem/ch03_bonding/fig08.png",
+     "alt": "Figure 3.5. This produces four",
+     "caption": "Figure 3.5. This produces four"
+    },
+    {
+     "src": "ochem/ch03_bonding/fig09.png",
+     "alt": "Figure 3.6.  sp2-Hybridized Orbitals",
+     "caption": "Figure 3.6.  sp2-Hybridized Orbitals"
+    },
+    {
+     "src": "ochem/ch03_bonding/fig10.png",
+     "alt": "Figure 3.7.  sp-Hybridized Orbitals",
+     "caption": "Figure 3.7.  sp-Hybridized Orbitals"
+    },
+    {
+     "src": "ochem/ch03_bonding/fig11.png",
+     "alt": "Figure 3.8.  Resonance Forms of Carbonate",
+     "caption": "Figure 3.8.  Resonance Forms of Carbonate"
+    },
+    {
+     "src": "ochem/ch03_bonding/fig12.png",
+     "alt": "Figure 3.9.",
+     "caption": "Figure 3.9."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Within one principal energy level, which subshell has the least energy?",
+   "type": "mcq",
+   "choices": [
+    "s",
+    "p",
+    "d",
+    "f"
+   ],
+   "correct": 0,
+   "explanation": "The energies of the subshells within a principle quantum number are as follows: s < p < d < f"
+  },
+  {
+   "q": "Which of the following compounds possesses at least one σ bond?",
+   "type": "mcq",
+   "choices": [
+    "CH4",
+    "C2H2",
+    "C2H4",
+    "All of the above contain at least one σ bond."
+   ],
+   "correct": 3,
+   "explanation": "All single bonds are σ bonds; double and triple bonds each contain one σ bond and one or two π bonds, respectively. The compounds CH4, C2H2, and C2H4 all contain at least one single bond and therefore contain at least one σ bond."
+  },
+  {
+   "q": "A carbon atom participates in one double bond. As such, this carbon contains orbitals with:",
+   "type": "mcq",
+   "choices": [
+    "hybridization between the s-orbital and one p-orbital.",
+    "hybridization between the s-orbital and two p-orbitals.",
+    "hybridization between the s-orbital and three p-orbitals.",
+    "unhybridized s character."
+   ],
+   "correct": 1,
+   "explanation": "In a carbon with one double bond, sp2 hybridization occurs—that is, one s- orbital hybridizes with two p-orbitals to form three sp2-hybridized orbitals. The third p-orbital of the carbon atom remains unhybridized and takes part in the formation of the π bond of the double bond. Although there is an unhybridized p-orbital, there are no unhybridized s-orbitals, eliminating (D)."
+  },
+  {
+   "q": "The hybridizations of the carbon and nitrogen atoms in CN− are:",
+   "type": "mcq",
+   "choices": [
+    "sp3 and sp3, respectively.",
+    "sp3 and sp, respectively.",
+    "sp and sp3, respectively.",
+    "sp and sp, respectively."
+   ],
+   "correct": 3,
+   "explanation": "The carbon and nitrogen atoms are connected by a triple bond in CN– (:C≡N:–). A triple-bonded atom is sp hybridized; one s-orbital hybridizes with one p-orbital to form two sp-hybridized orbitals. The two remaining unhybridized p-orbitals take part in the formation of two π bonds."
+  },
+  {
+   "q": "Which of the following hybridizations does the Be atom in BeH2 assume?",
+   "type": "mcq",
+   "choices": [
+    "sp",
+    "sp2",
+    "sp3",
+    "sp3d"
+   ],
+   "correct": 0,
+   "explanation": "Beryllium has only two electrons in its valence shell. When it bonds to two hydrogens, it requires two hybridized orbitals, meaning that its hybridization must be sp. Note that the presence of only single bonds does not mean that the hybridization must be sp3; this is a useful assumption for carbon, but does not apply to beryllium because of its smaller number of valence electrons. The two unhybridized p-orbitals around beryllium are empty in BeH2, which takes on the linear geometry characteristic of sp-hybridized orbitals."
+  },
+  {
+   "q": "Two atomic orbitals may combine to form: a bonding molecular orbital. .          an antibonding molecular orbital. I.            hybridized orbitals.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "III only",
+    "I and II only",
+    "I, II, and III"
+   ],
+   "correct": 3,
+   "explanation": "When atomic orbitals combine, they form molecular orbitals. When two atomic orbitals with the same sign are added head-to-head or tail-to-tail, they form bonding molecular orbitals. When two atomic orbitals with opposite signs are added head-to-head or tail-to-tail, they form antibonding molecular orbitals. Atomic orbitals can also hybridize, forming sp3, sp2 or sp orbitals."
+  },
+  {
+   "q": "Molecular orbitals can contain a maximum of:",
+   "type": "mcq",
+   "choices": [
+    "one electron.",
+    "two electrons.",
+    "four electrons.",
+    "2n2 electrons, where n is the principal quantum number of the combining atomic orbitals."
+   ],
+   "correct": 1,
+   "explanation": "Like atomic orbitals, molecular orbitals each can contain a maximum of two electrons with opposite spins. The 2n2 rule in (D) refers to the total number of electrons that can exist in a given energy shell, not in a molecular orbital."
+  },
+  {
+   "q": "π bonds are formed by which of the following orbitals?",
+   "type": "mcq",
+   "choices": [
+    "Two s-orbitals",
+    "Two p-orbitals",
+    "One s- and one p-orbital",
+    "Two sp2-hybridized orbitals"
+   ],
+   "correct": 1,
+   "explanation": "π bonds are formed by the parallel overlap of unhybridized p-orbitals. The electron density is concentrated above and below the bonding axis. A σ bond, on the other hand, can be formed by the head-to-head overlap of two s-orbitals or hybridized orbitals. In a σ bond, the density of the electrons is concentrated between the two nuclei of the bonding atoms."
+  },
+  {
+   "q": "How many σ bonds and π bonds are present in the following compound?",
+   "type": "mcq",
+   "choices": [
+    "Six σ bonds and one π bond",
+    "Six σ bonds and two π bonds",
+    "Five σ bonds and one π bond",
+    "Five σ bonds and two π bonds"
+   ],
+   "correct": 0,
+   "explanation": "Each single bond has one σ bond, and each double bond has one σ and one π bond. In this question, there are five single bonds (five σ bonds) and one double bond (one σ bond and one π bond), which gives a total of six σ bonds and one π bond. Thus, the correct answer is (A)."
+  },
+  {
+   "q": "The four C–H bonds of CH4 point toward the vertices of a tetrahedron. This indicates that the hybridization of the carbon atom in methane is:",
+   "type": "mcq",
+   "choices": [
+    "sp.",
+    "sp2.",
+    "sp3.",
+    "sp3d."
+   ],
+   "correct": 2,
+   "explanation": "The four bonds point to the vertices of a tetrahedron, which means that the angle between two bonds is 109.5°, a characteristic of sp3 orbitals. Hence, the carbon atom of CH4 is sp3-hybridized."
+  },
+  {
+   "q": "Why is a single bond stronger than a π bond? π bonds have greater orbital overlap. .              s-orbitals have more overlap than p-orbitals. I.            sp3 hybridization is always unstable.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "I and III only",
+    "II and III only"
+   ],
+   "correct": 1,
+   "explanation": "Bond strength is determined by the degree of orbital overlap; the greater the overlap, the greater the bond strength. A π bond is weaker than a single bond because there is significantly less overlap between the unhybridized p-orbitals of a π bond (due to their parallel orientation) than between the s-orbitals or hybrid orbitals of a σ bond. sp3-hybridized orbitals can be quite stable, as evidenced by the number of carbon atoms with this hybridization forming stable compounds."
+  },
+  {
+   "q": "The p character of the bonds formed by the carbon atom in HCN is:",
+   "type": "mcq",
+   "choices": [
+    "25%.",
+    "50%.",
+    "67%.",
+    "75%."
+   ],
+   "correct": 1,
+   "explanation": "The carbon bond in hydrogen cyanide (H–C≡N:) is triple-bonded, and because triple bonds require two unhybridized p-orbitals, the carbon must be sp-hybridized; sp-hybridized orbitals have 50% s character and 50% p character."
+  },
+  {
+   "q": "A resonance structure describes: the hybrid of all possible structures that contribute to electron distribution. .           a potential arrangement of electrons in a molecule. I.            the single form that the molecule most often takes.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "I and II only",
+    "I, II, and III"
+   ],
+   "correct": 1,
+   "explanation": "A resonance structure describes an arrangement of electrons in a molecule. Different resonance structures can be derived by moving electrons in unhybridized p-orbitals throughout a molecule containing conjugated bonds. In molecules that contain multiple resonance structures, some are usually more stable than others; however, each resonance structure is not necessarily the most common form a molecule takes, eliminating statement III. Statement I has reversed the terminology for resonance structures: the electron density in a molecule is the weighted average of all possible resonance structures, not the other way around."
+  },
+  {
+   "q": "An electron is known to be in the n = 4 shell and the l = 2 subshell. How many possible combinations of quantum numbers could this electron have?",
+   "type": "mcq",
+   "choices": [
+    "1",
+    "2",
+    "5",
+    "10"
+   ],
+   "correct": 3,
+   "explanation": "An electron in the n = 4 shell and the l = 2 subshell can have five different values for ml: –2, –1, 0, 1, or 2. In each of these orbitals, electrons can have positive or negative spin. Thus, there are 5 × 2 = 10 possible combinations of quantum numbers for this electron."
+  },
+  {
+   "q": "Compared to single bonds, triple bonds are:",
+   "type": "mcq",
+   "choices": [
+    "weaker.",
+    "longer.",
+    "made up of fewer σ bonds.",
+    "more rigid."
+   ],
+   "correct": 3,
+   "explanation": "π bonds do not permit free rotation, unlike σ bonds; this makes triple bonds more rigid than single bonds. Triple bonds are stronger and shorter bonds than single bonds, eliminating (A) and (B). Both single and triple bonds contain one σ bond, eliminating (C)."
+  }
+ ]
+}

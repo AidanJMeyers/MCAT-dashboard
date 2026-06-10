@@ -1,0 +1,117 @@
+{
+ "id": 2,
+ "num": 2,
+ "title": "Work and Energy",
+ "slug": "work_and_energy",
+ "sections": [
+  {
+   "title": "2.1 Energy",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch02_work_and_energy/fig01.png",
+     "alt": "Chapter 2 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig02.png",
+     "alt": "Chapter 2 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig03.png",
+     "alt": "Chapter 2 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig04.png",
+     "alt": "Chapter 2 figure 4",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig05.png",
+     "alt": "Chapter 2 figure 5",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig06.png",
+     "alt": "Figure 2.1 Determining if a Force Is Conservative",
+     "caption": "Figure 2.1 Determining if a Force Is Conservative"
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig07.png",
+     "alt": "Chapter 2 figure 7",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "2.2 Work",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch02_work_and_energy/fig08.png",
+     "alt": "Figure 2.2, are termed P–V graphs.",
+     "caption": "Figure 2.2, are termed P–V graphs."
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig09.png",
+     "alt": "Chapter 2 figure 9",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "2.3 Mechanical Advantage",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch02_work_and_energy/fig10.png",
+     "alt": "Chapter 2 figure 10",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig11.png",
+     "alt": "Chapter 2 figure 11",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig12.png",
+     "alt": "Chapter 2 figure 12",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig13.png",
+     "alt": "Figure 2.3 Block Suspended by Two Ropes",
+     "caption": "Figure 2.3 Block Suspended by Two Ropes"
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig14.png",
+     "alt": "Figure 2.4 Two-Pulley System",
+     "caption": "Figure 2.4 Two-Pulley System"
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig15.png",
+     "alt": "Figure 2.5 System of Six Pulleys",
+     "caption": "Figure 2.5 System of Six Pulleys"
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig16.png",
+     "alt": "Chapter 2 figure 16",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig17.png",
+     "alt": "Chapter 2 figure 17",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch02_work_and_energy/fig18.png",
+     "alt": "Chapter 2 figure 18",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": []
+}

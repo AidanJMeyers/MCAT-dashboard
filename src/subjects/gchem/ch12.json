@@ -1,0 +1,256 @@
+{
+ "id": 12,
+ "num": 12,
+ "title": "Electrochemistry",
+ "slug": "electrochemistry",
+ "sections": [
+  {
+   "title": "12.1 Electrochemical Cells",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch12_electrochemistry/fig01.png",
+     "alt": "Chapter 12 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch12_electrochemistry/fig02.png",
+     "alt": "Chapter 12 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch12_electrochemistry/fig03.png",
+     "alt": "Figure 12.1.  Daniell Cell",
+     "caption": "Figure 12.1.  Daniell Cell"
+    },
+    {
+     "src": "gchem/ch12_electrochemistry/fig04.png",
+     "alt": "Figure 12.2.",
+     "caption": "Figure 12.2."
+    },
+    {
+     "src": "gchem/ch12_electrochemistry/fig05.png",
+     "alt": "Chapter 12 figure 5",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch12_electrochemistry/fig06.png",
+     "alt": "Figure 12.3.  The Cell Membrane as an Example of a Concentration Cell",
+     "caption": "Figure 12.3.  The Cell Membrane as an Example of a Concentration Cell"
+    },
+    {
+     "src": "gchem/ch12_electrochemistry/fig07.png",
+     "alt": "Figure 12.4.",
+     "caption": "Figure 12.4."
+    },
+    {
+     "src": "gchem/ch12_electrochemistry/fig08.png",
+     "alt": "Figure 12.5.",
+     "caption": "Figure 12.5."
+    },
+    {
+     "src": "gchem/ch12_electrochemistry/fig09.png",
+     "alt": "Chapter 12 figure 9",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch12_electrochemistry/fig10.png",
+     "alt": "Chapter 12 figure 10",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "12.2 Cell Potentials",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "12.3 Electromotive Force and Thermodynamics",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "Rusting occurs due to the oxidation–reduction reaction of iron with environmental oxygen: 4 Fe (s) + 3 O2 (g) → 2 Fe2O3 (s) Some metals cannot react with oxygen in this fashion. Which of the following best explains why iron can?",
+   "type": "mcq",
+   "choices": [
+    "Iron has a more positive reduction potential than those metals, making it more likely to donate electrons to oxygen.",
+    "Iron has a more positive reduction potential than those metals, making it more likely to accept electrons from oxygen.",
+    "Iron has a less positive reduction potential than those metals, making it more likely to donate electrons to oxygen.",
+    "Iron has a less positive reduction potential than those metals, making it more likely to accept electrons from oxygen."
+   ],
+   "correct": 2,
+   "explanation": "In the oxidation–reduction reaction of a metal with oxygen, the metal will be oxidized (donate electrons) and oxygen will be reduced (accept electrons). This fact allows us to immediately eliminate (B) and (D). A species with a higher reduction potential is more likely to be reduced, and a species with a lower reduction potential is more likely to be oxidized. Based on the information in the question, iron is oxidized more readily than those metals; this means that iron has a lower reduction potential."
+  },
+  {
+   "q": "Given the following standard reduction potentials: What is the standard electromotive force of the following reaction? Zn2+ + 2 Ag → 2 Ag+ + Zn",
+   "type": "mcq",
+   "choices": [
+    "–2.2 V",
+    "–1.1 V",
+    "+1.1 V",
+    "+2.2 V"
+   ],
+   "correct": 1,
+   "explanation": "To determine the standard electromotive force of a cell, simply subtract the standard reduction potentials of the two electrodes. In this case, the cathode is zinc because it is being reduced; the anode is silver because it is being oxidized. Thus, E°cell = E°red,cathode − E°red,anode = − 0.763 − 0.337 = − 1.10 V While we must multiply the silver half-reaction by two to balance electrons, the actual value for the reduction potential does not change. Remember that the standard reduction potential is determined by the identity of the electrode, not the amount of it present."
+  },
+  {
+   "q": "Consider the following data: The anode of a certain galvanic cell is composed of copper. Which of the metals from the data table can be used at the cathode, assuming equal concentrations of the two electrolyte solutions?",
+   "type": "mcq",
+   "choices": [
+    "Hg",
+    "Cu",
+    "Zn",
+    "Al"
+   ],
+   "correct": 0,
+   "explanation": "Oxidation occurs at the anode, and reduction occurs at the cathode. Because Cu is the anode, it must be oxidized. The reduction potential of the cathode cannot be less than that of the anode for a galvanic cell. Therefore, mercury, (A), must be the cathode. In a concentration cell, the same material is used as both the cathode and anode; however, this question assumes equal concentrations. If both electrolyte solutions have the same concentration, there will be no oxidation–reduction reaction and, therefore, no anode or cathode. This eliminates (B)."
+  },
+  {
+   "q": "An electrolytic cell is filled with water. Which of the following will move toward the cathode of such a cell? H+ ions .            O2– ions I.             Electrons",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "I and III only",
+    "II and III only"
+   ],
+   "correct": 2,
+   "explanation": "In an electrolytic cell, ionic compounds are broken up into their constituents; the cations (positively charged ions) migrate toward the cathode, and the anions (negatively charged ions) migrate toward the anode. In this case, the cations are H+ ions (protons), so option I is correct. Electrons flow from anode to cathode in all types of cells, meaning that option III is also correct. Option II is incorrect for two reasons. First, it is unlikely that the anions in any cell would be O2– rather than OH–. Second, and more significantly, these anions would flow to the anode, not the cathode."
+  },
+  {
+   "q": "If the value of E°cell is known, what other data is needed to calculate ΔG°?",
+   "type": "mcq",
+   "choices": [
+    "Equilibrium constant",
+    "Reaction quotient",
+    "Temperature of the system",
+    "Half-reactions of the cells"
+   ],
+   "correct": 3,
+   "explanation": "This answer comes directly from the equation relating Gibbs free energy and E°cell. ΔG° = −nFE°cell, where n is the number of moles of electrons transferred and F is the Faraday constant, To determine n, one must look at the balanced half-reactions occurring in the oxidation–reduction reaction."
+  },
+  {
+   "q": "Which of the following compounds is LEAST likely to be found in the salt bridge of a galvanic cell?",
+   "type": "mcq",
+   "choices": [
+    "NaCl",
+    "SO3",
+    "MgSO3",
+    "NH4NO3"
+   ],
+   "correct": 1,
+   "explanation": "Salt bridges contain inert electrolytes. Ionic compounds, such as (A), (C), and (D), are known to be strong electrolytes because they completely dissociate in solution. (B) cannot be considered an electrolyte because its atoms are covalently bonded and will not dissociate in aqueous solution. (B) and (C) may appear similar, but there is an important distinction to be made. (C) implies that Mg2+ and SO32− are the final, dissociated ionic constituents, while (B) implies that neutral SO3 would have to be dissolved in solution."
+  },
+  {
+   "q": "If the surface area of electrode material in an electrochemical cell is tripled, what else is necessarily tripled? E°cell .            Current I.            Keq",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "I and II only",
+    "II and III only"
+   ],
+   "correct": 1,
+   "explanation": "Potential, as measured by E°cell, is dependent only on the identity of the electrodes and not the amount present. Similarly, the equilibrium constant depends only on the identity of the electrolyte solutions and the temperature. However, as the electrode material is increased, the surface area participating in oxidation–reduction reactions is increased and more electrons are released, making statement II correct."
+  },
+  {
+   "q": "Which of the following can alter the emf of an electrochemical cell?",
+   "type": "mcq",
+   "choices": [
+    "The mass of the electrodes",
+    "The length of the wire connecting the half-cells",
+    "The overall size of the battery",
+    "The temperature of the solutions in the half-cells"
+   ],
+   "correct": 3,
+   "explanation": "E°cell is dependent upon the change in free energy of the system through the equation RT ln Keq = nFE°cell. The temperature, T, appears in this equation; thus, a change in temperature will impact the E°cell."
+  },
+  {
+   "q": "Which of the following statements could be true about a Na–Cd cell, based on the information below?",
+   "type": "mcq",
+   "choices": [
+    "It is a galvanic cell, and sodium is the cathode.",
+    "It is an electrolytic cell, and cadmium is the anode.",
+    "It is a galvanic cell, with E°cell = 3.11 V.",
+    "It is an electrolytic cell, with E°cell = −3.11 V."
+   ],
+   "correct": 1,
+   "explanation": "If this were a galvanic cell, the species with the more positive reduction potential (cadmium) would be reduced. The cathode is always reduced in an electrochemical cell, so sodium could not be the cathode in such a galvanic cell, eliminating (A). Sodium would be the cathode in an electrolytic cell, however, which would make cadmium the anode. Thus, the answer is (B). Note that we do not have to determine E°cell because we already know the answer. However, the E°cell would be −2.71 − (−0.40) = −2.31 V for an electrolytic cell, and +2.31 V for a galvanic cell, eliminating (C) and (D)."
+  },
+  {
+   "q": "Which of the following expressions correctly describes the relationship between standard electromotive force and standard change in free energy?",
+   "type": "mcq",
+   "choices": [
+    "ΔG° = −nF(E°red,anode − E°red,cathode)",
+    "",
+    "",
+    "ΔG° = nF(E°red,anode − E°red,cathode)"
+   ],
+   "correct": 3,
+   "explanation": "There are only two equations involving standard change in free energy in electrochemical cells: ΔG° = −nFE°cell and ΔG° = –RT ln Keq. Substituting E°cell = E°red,cathode − E°red,anode into the first equation and distributing the negative sign gives (D). (A) would be the opposite of ΔG°. Setting the two equations equal to each other, we get RT ln Keq = nFE°cell. Solving for E°cell, we get which is the opposite of (B). (C) incorrectly solves the algebra."
+  },
+  {
+   "q": "Which of the following choices is indicative of a spontaneous reaction, assuming standard conditions?",
+   "type": "mcq",
+   "choices": [
+    "E°cell is negative",
+    "Q = Keq",
+    "The cell is a concentration cell",
+    "Keq > 1"
+   ],
+   "correct": 3,
+   "explanation": "A spontaneous electrochemical reaction has a negative ΔG. Using the equation ΔG° = –RT ln Keq, Keq > 1 would result in ln Keq > 0, which means ΔG° < 0. A negative electromotive force, (A), or equilibrium state, (B), would not correspond to a spontaneous reaction. Concentration cells can be spontaneous; however, if the concentration cell had reached equilibrium, it would cease to be a spontaneous reaction, eliminating (C). When an answer choice may be true, but does not have to be—it is the wrong answer on Test Day."
+  },
+  {
+   "q": "For a cell with the following half-reactions: Anode: SO2 + 2 H2O       2−           → SO4 + 4 H+ + 2 e− Cathode: Pd2+ + 2 e− → Pd How would decreasing the pH of the solution inside the cell affect the electromotive force (emf)?",
+   "type": "mcq",
+   "choices": [
+    "The emf would decrease.",
+    "The emf would remain the same.",
+    "The emf would increase.",
+    "The emf would become zero."
+   ],
+   "correct": 0,
+   "explanation": "A change in pH has a direct correlation to the hydrogen ion (H+) concentration. Decreasing the pH increases the H+ concentration, which means the concentration of products has increased in the oxidation of sulfur dioxide. This means it would be harder to liberate electrons, thus decreasing the emf. One could also view this decrease in oxidation potential as an increase in reduction potential. If E°red,anode increases, then E°cell must decrease according to E°cell = E°red,cathode − E°red,anode."
+  },
+  {
+   "q": "An electrolytic cell necessarily has:",
+   "type": "mcq",
+   "choices": [
+    "ΔS° > 0",
+    "ΔG° < 0",
+    "Keq < 1",
+    "E°cell > 0"
+   ],
+   "correct": 2,
+   "explanation": "An electrolytic cell is nonspontaneous. Therefore, the ΔG° must be positive and E°cell must be negative, eliminating (B) and (D). The change in entropy may be positive or negative, depending on the species involved, eliminating (A). According to the equation ΔG° = –RT ln Keq, Keq < 1 would result in ln Keq < 0, which means ΔG° > 0."
+  },
+  {
+   "q": "Which of the following is the best explanation for the fact that a larger mass of electrodes are required for lead–acid batteries, as compared to other batteries, to produce a certain current?",
+   "type": "mcq",
+   "choices": [
+    "The lead–acid electrolyte, sulfuric acid, is diprotic and incompletely dissociates in solution.",
+    "The energy density of lead–acid electrodes is higher than that of other batteries.",
+    "The electrolytes in other batteries less readily dissociate than those of lead–acid batteries.",
+    "The energy density of lead–acid electrodes is lower than that of other batteries."
+   ],
+   "correct": 3,
+   "explanation": "Compared to other cell types, lead–acid batteries have a characteristically low energy density, (D). While (A) is a true statement, the incomplete dissociation of sulfuric acid does not fully explain the low energy density of lead–acid batteries. (C) is likely to be an opposite; the more easily the electrodes dissociate, the easier it is to carry out oxidation–reduction reactions with them."
+  },
+  {
+   "q": "Which of the following best describes why over-charging a Ni–Cd battery is not detrimental?",
+   "type": "mcq",
+   "choices": [
+    "The energy density of a Ni–Cd battery is high, so it can store more charge than other batteries per its mass.",
+    "The electrodes of a Ni–Cd battery can discharge through the circuit when they are fully charged.",
+    "The Ni–Cd battery will stop accepting electrons from an outside source when its electrodes are recharged.",
+    "Ni–Cd batteries have a high surge current and can dissipate the overcharge before damage can occur to electrodes."
+   ],
+   "correct": 2,
+   "explanation": "During the recharge cycle, Ni–Cd cells will accept current from an outside source until the Cd and NiO(OH) electrodes are pure; at this point, the reaction will stop because Cd(OH)2 runs out and no more electrons can be accepted. (A) and (B) are both true statements, but they fail to explain why overcharging the battery (continuing to try to run current into the battery even when the electrodes are reverted to their original state) is not a problem with Ni–Cd batteries. Finally, surge current refers to the initial burst of current seen in some batteries; once charged, the surge current will not increase even if the power source continues to be run because no additional charge will be stored on the electrodes, eliminating (D)."
+  }
+ ]
+}

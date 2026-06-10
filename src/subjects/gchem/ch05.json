@@ -1,0 +1,282 @@
+{
+ "id": 5,
+ "num": 5,
+ "title": "Chemical Kinetics",
+ "slug": "chemical_kinetics",
+ "sections": [
+  {
+   "title": "5.1 Chemical Kinetics",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig01.png",
+     "alt": "Chapter 5 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig02.png",
+     "alt": "Chapter 5 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig03.png",
+     "alt": "Figure 5.1.  Enyzmes, as Biological Catalysts, Can Be Saturated",
+     "caption": "Figure 5.1.  Enyzmes, as Biological Catalysts, Can Be Saturated"
+    },
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig04.png",
+     "alt": "Figure 5.2.",
+     "caption": "Figure 5.2."
+    },
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig05.png",
+     "alt": "Figure 5.2.  Frequency Factor (A) Is Increased by Increasing",
+     "caption": "Figure 5.2.  Frequency Factor (A) Is Increased by Increasing"
+    },
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig06.png",
+     "alt": "Figure 5.4.  Reaction Diagram for the Formation of HCl",
+     "caption": "Figure 5.4.  Reaction Diagram for the Formation of HCl"
+    },
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig07.png",
+     "alt": "Figure 5.5.  All Reactions Are Temperature-Dependent",
+     "caption": "Figure 5.5.  All Reactions Are Temperature-Dependent"
+    },
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig08.png",
+     "alt": "Figure 5.6.  An Activity vs. Temperature Curve for a Generic Human",
+     "caption": "Figure 5.6.  An Activity vs. Temperature Curve for a Generic Human"
+    },
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig09.png",
+     "alt": "Figure 5.7 compares the energy profiles of catalyzed and uncatalyzed",
+     "caption": "Figure 5.7 compares the energy profiles of catalyzed and uncatalyzed"
+    },
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig14.png",
+     "alt": "Chapter 5 figure 14",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig15.png",
+     "alt": "Chapter 5 figure 15",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig16.png",
+     "alt": "Chapter 5 figure 16",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "5.2 Reaction Rates",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig10.png",
+     "alt": "Chapter 5 figure 10",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig11.png",
+     "alt": "Figure 5.8.  Kinetics of a Zero-Order Reaction",
+     "caption": "Figure 5.8.  Kinetics of a Zero-Order Reaction"
+    },
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig12.png",
+     "alt": "Figure 5.9.  Kinetics of a First-Order Reaction",
+     "caption": "Figure 5.9.  Kinetics of a First-Order Reaction"
+    },
+    {
+     "src": "gchem/ch05_chemical_kinetics/fig13.png",
+     "alt": "Figure\n5.10. This curve shows that the rate of formation of product is dependent on",
+     "caption": "Figure\n5.10. This curve shows that the rate of formation of product is dependent on"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "In a third-order reaction involving two reactants and two products, doubling the concentration of the first reactant causes the rate to increase by a factor of 2. What will happen to the rate of this reaction if the concentration of the second reactant is cut in half?",
+   "type": "mcq",
+   "choices": [
+    "It will increase by a factor of 2.",
+    "It will increase by a factor of 4.",
+    "It will decrease by a factor of 2.",
+    "It will decrease by a factor of 4."
+   ],
+   "correct": 3,
+   "explanation": "Based on the information given in the question, the rate is first-order with respect to the concentration of the first reactant; when the concentration of that reactant doubles, the rate also doubles. Because the reaction is third-order, the sum of the exponents in the rate law must be equal to 3. Therefore, the reaction order with respect to the other reactant must be 3 – 1 = 2. If the concentration of this second reactant is multiplied by the rate will be multiplied by"
+  },
+  {
+   "q": "In a certain equilibrium process, the activation energy of the forward reaction (ΔGǂ f) is greater than the activation energy of the reverse reaction (ΔGǂ r). This reaction is:",
+   "type": "mcq",
+   "choices": [
+    "endothermic.",
+    "exothermic.",
+    "spontaneous.",
+    "nonspontaneous."
+   ],
+   "correct": 3,
+   "explanation": "Before you try to answer this question, you should draw a free energy diagram for the system. If the activation energy of the forward reaction is greater than the activation energy of the reverse reaction, then the products must have a higher free energy than the reactants. The overall energy of the system is higher at the end than it was in the beginning. The net free energy change is positive, indicating an endergonic (nonspontaneous) reaction. The terms endothermic, (A), and exothermic, (B), are associated with enthalpy. While free energy does depend on enthalpy, it also depends on entropy; there is not enough information in the question stem to reliably determine the sign of the entropy change of the reaction."
+  },
+  {
+   "q": "A reactant in a second-order reaction at a certain temperature is increased by a factor of 4. By how much is the rate of the reaction altered?",
+   "type": "mcq",
+   "choices": [
+    "It is unchanged.",
+    "It is increased by a factor of 4.",
+    "It is increased by a factor of 16.",
+    "It cannot be determined from the information given."
+   ],
+   "correct": 3,
+   "explanation": "A second-order reaction can be second-order with respect to one reactant, or first-order with respect to two different reactants. In this case, one reactant was increased by a factor of 4. If the reaction is second-order with respect to this reactant, the rate law will be rate = k[A]2[B]0 and the rate will increase by a factor of 16. If it is first-order with respect to this reactant and first-order with respect to another reactant, the rate law will be rate = k[A]1[B]1, and the rate will increase by a factor of 4. We do not know which of these is the correct rate law and, thus, cannot determine the effect on the rate."
+  },
+  {
+   "q": "The concentrations of all reactants in a zero-order reaction are increased two-fold. What is the new rate of the reaction?",
+   "type": "mcq",
+   "choices": [
+    "It is unchanged.",
+    "It is decreased by a factor of 2.",
+    "It is increased by a factor of 2.",
+    "It cannot be determined from the information given."
+   ],
+   "correct": 0,
+   "explanation": "By definition, zero-order reactions are unaffected by the concentrations of any reactants in the reaction. Thus, changing the concentrations of these reactants will not affect the rate."
+  },
+  {
+   "q": "Which of the following experimental methods should NEVER affect the rate of a reaction?",
+   "type": "mcq",
+   "choices": [
+    "Placing an exothermic reaction in an ice bath.",
+    "Increasing the pressure of a reactant in a closed container.",
+    "Putting the reactants into an aqueous solution.",
+    "Removing the product of an irreversible reaction."
+   ],
+   "correct": 3,
+   "explanation": "The question asks which alteration does NOT affect the rate of the reaction. Temperature directly affects the rate constant (k), making (A) incorrect. Changing the partial pressure of a gas will affect the number of effective collisions per time. This makes (B) incorrect—but note that concentration changes will not affect the rate of zero-order reactions. Solvents affect the rate of reactions depending on how the reactants interact with the solvent, making (C) incorrect. Removing the product of an irreversible reaction, (D), should not affect the rate of the reaction because the rate law does not depend on the concentrations of products."
+  },
+  {
+   "q": "What would increasing the concentration of reactants accomplish in a solution containing a saturated catalyst?",
+   "type": "mcq",
+   "choices": [
+    "It would increase the rate constant but not the reaction rate.",
+    "It would decrease the rate constant but increase the reaction rate.",
+    "It would increase the rate constant and increase the reaction rate.",
+    "The reaction rate would be unaffected."
+   ],
+   "correct": 3,
+   "explanation": "While increasing the concentration of reactants can alter the reaction rate in first- or higher-order reactions, saturated solutions containing a catalyst have a maximum turnover rate and cannot increase the rate constant or the reaction rate any higher by adding more reactant molecules."
+  },
+  {
+   "q": "A certain chemical reaction has the following rate law: rate = k[NO2][Br2] Which of the following statements necessarily describe(s) the kinetics of this reaction? The reaction is second-order. .          The amount of NO2 consumed is equal to the amount of Br2 consumed. I.          The rate will not be affected by the addition of a compound other than NO2 and Br2.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "I and II only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 0,
+   "explanation": "If the sum of the exponents (orders) of the concentrations of each species in the rate law is equal to 2, then the reaction is second-order. The exponents in the rate law are unrelated to stoichiometric coefficients, so NO2 and Br2 could have any stoichiometric coefficients in the original reaction and still be a second- order reaction, invalidating statement II. Statement III is incorrect because the rate can be affected by a wide variety of compounds. A catalyst, for example, could increase the rate."
+  },
+  {
+   "q": "The following data shown in the table were collected for the combustion of the theoretical compound XH4: XH4 + 2 O2 → XO2 + 2 H2O Trial        [XH4]initial (M)             [O2]initial (M) 1               0.6                   0.6                        12.4 2               0.6                   2.4                        49.9 3               1.2                   2.4                       198.3 What is the rate law for the reaction described here?",
+   "type": "mcq",
+   "choices": [
+    "rate = k[XH4][O2]",
+    "rate = k[XH4][O2]2",
+    "rate = k[XH4]2[O2]",
+    "rate = k[XH4]2[O2]2"
+   ],
+   "correct": 2,
+   "explanation": "Start with the generic rate law: rate = k[XH4]x[O2]y. In the first two trials, the concentration of XH4 is held constant while the concentration of O2 is multiplied by 4, and the rate of the reaction also increases by a factor of approximately 4. This gives the proportion meaning y = 1. The rate law can be updated to: rate = k[XH4]x[O2]1. In the last two trials, the concentration of O2 is held constant while the concentration of XH4 is doubled, and the rate of the reaction is increased by a factor of approximately 4. This gives and x = 2. The rate law can be updated to: rate = k[XH4]2[O2]1. The final version of the rate law is: rate = k[XH4]2[O2]."
+  },
+  {
+   "q": "Which of the following best describes the purpose of a catalyst?",
+   "type": "mcq",
+   "choices": [
+    "Catalysts are used up in the reaction, increasing reaction efficiency.",
+    "Catalysts increase the rate of the reaction by lowering the activation energy.",
+    "Catalysts alter the thermodynamics of the reaction to facilitate the formation of products or reactants.",
+    "Catalysts stabilize the transition state by bringing it to a higher energy."
+   ],
+   "correct": 1,
+   "explanation": "By definition, a catalyst increases the rate of a reaction by lowering the activation energy, making it easier for both the forward and reverse reactions to overcome this energy barrier. Catalysts are neither used up in the reaction, nor do they alter the equilibrium of a reaction, eliminating (A) and (C). Finally, catalysts stabilize the transition state by lowering its energy, not raising it, eliminating (D)."
+  },
+  {
+   "q": "If the rate law for a reaction is: rate = k[A]0[B]2[C]1 What is the overall order of the reaction?",
+   "type": "mcq",
+   "choices": [
+    "0",
+    "2",
+    "3",
+    "4 For questions 11–13, consider the following energy diagram shown below:"
+   ],
+   "correct": 2,
+   "explanation": "The overall order of a reaction is the sum of the individual orders in the reaction. Therefore, the rate order is 0 + 2 + 1 = 3."
+  },
+  {
+   "q": "The overall reaction depicted by this energy diagram is:",
+   "type": "mcq",
+   "choices": [
+    "endergonic, because point B is higher than point A.",
+    "endergonic, because point C is higher than point A.",
+    "exergonic, because point D is higher than point E.",
+    "exergonic, because point A is higher than point E."
+   ],
+   "correct": 3,
+   "explanation": "A system is exergonic if energy is released by the reaction. For exergonic reactions, the net energy change is negative, and the free energy of the final products is lower than the free energy of the initial reactants. Point E, which represents the of the final products, is lower on the energy diagram than point A, which represents the energy of initial reactants. Thus, energy must have been given off, and the reaction is exergonic."
+  },
+  {
+   "q": "Which process has the highest activation energy?",
+   "type": "mcq",
+   "choices": [
+    "The first step of the forward reaction",
+    "The first step of the reverse reaction",
+    "The second step of the forward reaction",
+    "The second step of the reverse reaction"
+   ],
+   "correct": 1,
+   "explanation": "The activation energy of a reaction is represented by the distance on the y-axis from the energy of the reactants to the peak energy prior to formation of products. The activation energy of the first step of the forward reaction, for example, is equal to the distance along the y-axis from point A to point B. The largest energy increase on this graph occurs during the progress from point E to point D, which represents the first step of the reverse reaction."
+  },
+  {
+   "q": "Point C in this reaction profile refers to the:",
+   "type": "mcq",
+   "choices": [
+    "reactants.",
+    "products.",
+    "transition state.",
+    "intermediates."
+   ],
+   "correct": 3,
+   "explanation": "Intermediates exist at “valleys” in reaction diagrams. Reactants, (A), are represented by point A. Products, (B), are represented by point E. Transition states, (C), are represented by points B and D."
+  },
+  {
+   "q": "The following system obeys second-order kinetics. 2 NO2 → NO3 + NO                           (slow) NO3 + CO → NO2 + CO2                            (fast) What is the rate law for this reaction?",
+   "type": "mcq",
+   "choices": [
+    "rate = k[NO2][CO]",
+    "rate = k[NO2]2[CO]",
+    "rate = k[NO2][NO3]",
+    "rate = k[NO2]2"
+   ],
+   "correct": 3,
+   "explanation": "To answer this question, recall that the slow step of a reaction is the rate- determining step. The rate is always related to the concentrations of the reactants in the rate-determining step (not the overall reaction), so NO2 is the only compound that should be included in the correct answer. The concentration of NO2 is squared in the rate law because the because the question stem tells us that the system obeys second-order kinetics."
+  },
+  {
+   "q": "The potential energy diagram shown represents four different reactions. Assuming identical conditions, which of the reactions displayed on the energy diagram proceeds the fastest?",
+   "type": "mcq",
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "correct": 3,
+   "explanation": "The faster a reaction can reach its activation energy, the faster it will proceed to completion. Because this question states that all conditions are equal, the reaction with the lowest activation energy will have the fastest rate. In the diagram, (D) has the lowest activation energy."
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "id": 6,
+ "num": 6,
+ "title": "Equilibrium",
+ "slug": "equilibrium",
+ "sections": [
+  {
+   "title": "6.1 Equilibrium",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch06_equilibrium/fig01.png",
+     "alt": "Chapter 6 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch06_equilibrium/fig02.png",
+     "alt": "Chapter 6 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch06_equilibrium/fig03.png",
+     "alt": "Figure 6.1.",
+     "caption": "Figure 6.1."
+    },
+    {
+     "src": "gchem/ch06_equilibrium/fig04.png",
+     "alt": "Figure 6.2.",
+     "caption": "Figure 6.2."
+    },
+    {
+     "src": "gchem/ch06_equilibrium/fig05.png",
+     "alt": "Chapter 6 figure 5",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch06_equilibrium/fig09.png",
+     "alt": "Chapter 6 figure 9",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "6.2 Le Châtelier’s Principle",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch06_equilibrium/fig06.png",
+     "alt": "Figure 6.3.  Example of a Reversible Endothermic Reaction, N2O4 (g) ⇌ 2",
+     "caption": "Figure 6.3.  Example of a Reversible Endothermic Reaction, N2O4 (g) ⇌ 2"
+    }
+   ]
+  },
+  {
+   "title": "6.3 Kinetic and Thermodynamic Control",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch06_equilibrium/fig07.png",
+     "alt": "Figure 6.4.  Kinetic and Thermodynamic Control of a Reaction",
+     "caption": "Figure 6.4.  Kinetic and Thermodynamic Control of a Reaction"
+    },
+    {
+     "src": "gchem/ch06_equilibrium/fig08.png",
+     "alt": "Figure 6.5. Both reactions require a base (B–) in order to catalyze",
+     "caption": "Figure 6.5. Both reactions require a base (B–) in order to catalyze"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "A reaction is found to stop just before all reactants are converted to products. Which of the following could be true about this reaction?",
+   "type": "mcq",
+   "choices": [
+    "The reaction is irreversible, and the forward rate is greater than the reverse rate.",
+    "The reaction is irreversible, and the reverse rate is too large for products to form.",
+    "The reaction is reversible, and the forward rate is equal to the reverse rate.",
+    "The reaction is reversible, and the reverse rate is greater than the forward rate."
+   ],
+   "correct": 2,
+   "explanation": "This scenario likely describes a situation in which a reaction has reached equilibrium very far to the right (with high product concentration and low reactant concentration). This reaction must be reversible because the reaction did not proceed all the way to the right. Any reaction in equilibrium has equal forward and reverse rates of reaction."
+  },
+  {
+   "q": "What is the equilibrium expression for the reaction Cu2SO4 (s) ⇌ 2 Cu+ (aq) + SO42− (aq)?",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 3,
+   "explanation": "Recall that pure solids and liquids do not appear in the equilibrium expression; thus, this Keq has no denominator because the only reactant is a solid, cuprous sulfate. This could also be called Ksp because a solid is dissociating into ions in solution. The correct Keq should have [Cu+] squared because its stoichiometric coefficient is 2."
+  },
+  {
+   "q": "Carbonated beverages are produced by dissolving carbon dioxide in water to produce carbonic acid: CO2 (g) + H2O (l) ⇌ H2CO3 (aq) When a bottle containing carbonated water is opened, the taste of the beverage gradually changes as the carbonation is lost. Which of the following statements best explains this phenomenon?",
+   "type": "mcq",
+   "choices": [
+    "The change in pressure and volume causes the reaction to shift to the left, thereby decreasing the amount of aqueous carbonic acid.",
+    "The change in pressure and volume causes the reaction to shift to the right, thereby decreasing the amount of gaseous carbon dioxide.",
+    "Carbonic acid reacts with environmental oxygen and nitrogen.",
+    "Carbon dioxide reacts with environmental oxygen and nitrogen."
+   ],
+   "correct": 0,
+   "explanation": "Carbon dioxide gas evolves and leaves the bottle, which decreases the total pressure of the reactants. Le Châtelier’s principle explains that a decrease in pressure shifts the equilibrium to increase the number of moles of gas present. This particular reaction will shift to the left, which in turn will decrease the amount of carbonic acid and increase the amount of carbon dioxide and water. Oxygen and nitrogen are not highly reactive and are unlikely to combine spontaneously with carbon dioxide or carbonic acid, as in (C) and (D)."
+  },
+  {
+   "q": "What is the proper equilibrium expression for the reaction below? 2 NO2 (g) + 4 H2 (g) ⇌ N2 (g) + 4 H2O (g)",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 0,
+   "explanation": "Recall that equilibrium constants are either based on concentrations (Kc) or partial pressures (Kp). In this case, because all species are in the gas phase, we are using Kp—eliminating (B) and (D). When water is in the liquid phase, it does not appear in equilibrium expressions, as in (C). Here, however, water is in the gaseous phase and thus should appear in the equilibrium expression."
+  },
+  {
+   "q": "If Kc ≫ 1:",
+   "type": "mcq",
+   "choices": [
+    "the equilibrium mixture will favor products over reactants.",
+    "the equilibrium mixture will favor reactants over products.",
+    "the equilibrium concentrations of reactants and products are equal.",
+    "the reaction is essentially irreversible."
+   ],
+   "correct": 0,
+   "explanation": "The larger the value of Keq (whether Kc or Kp), the larger the ratio of products to reactants. Therefore, if Kc ≫ 1, there are significantly larger concentrations of products than reactants at equilibrium. Even with a large Keq, the reaction will ultimately reach equilibrium far toward the products side and is therefore reversible, eliminating (D)."
+  },
+  {
+   "q": "Acetic acid dissociates in solution according to the following equation: CH3COOH ⇌ CH3COO– + H+ If sodium acetate is added to a solution of acetic acid in excess water, which of the following effects would be observed in the solution?",
+   "type": "mcq",
+   "choices": [
+    "Decreased pH",
+    "Increased pH",
+    "Decreased pKeq (pKa)",
+    "Increased pKeq (pKa) Questions 7 and 8 refer to the reaction below: FeI (aq) + I2 (g) → FeI3 (aq)"
+   ],
+   "correct": 1,
+   "explanation": "Adding sodium acetate increases the number of acetate ions present. According to Le Châtelier’s principle, this change will push this reaction to the left, resulting in a decrease in the number of free H+ ions. Because pH is determined by the hydrogen ion concentration, a decrease in the number of free protons will increase the pH. An acid’s Ka (which is simply the Keq for acid dissociation) will remain constant under a given temperature and pressure, eliminating (C) and (D)."
+  },
+  {
+   "q": "Which of the following would increase the formation of product?",
+   "type": "mcq",
+   "choices": [
+    "Decreasing the volume of the container",
+    "Decreasing the pressure of the container",
+    "Increasing the volume of the container",
+    "Decreasing the volume of the container while maintaining a constant pressure"
+   ],
+   "correct": 0,
+   "explanation": "Both increasing the pressure of the container and decreasing the volume would favor the side with fewer moles of gas, which is the product side. This makes (B) and (C) incorrect. (D) would not disturb the equilibrium—the significance of decreasing the volume of the container in most equilibria is that there is an increase in pressure; in this case, however, the pressure remains constant despite the change in volume."
+  },
+  {
+   "q": "If this reaction were exothermic, what effect would decreasing the temperature have on the equilibrium?",
+   "type": "mcq",
+   "choices": [
+    "The forward reaction rate and the reverse reaction rate both increase.",
+    "The forward reaction rate decreases while the reverse reaction rate increases.",
+    "The forward reaction rate increases while the reverse reaction rate decreases.",
+    "The forward reaction rate and the reverse reaction rate both decrease."
+   ],
+   "correct": 2,
+   "explanation": "An exothermic reaction produces heat. Decreasing the temperature favors product formation, resulting in an increase in the forward reaction rate with a concomitant decrease in the reverse reaction rate."
+  },
+  {
+   "q": "Which of the following actions does NOT affect the equilibrium position of a reaction?",
+   "type": "mcq",
+   "choices": [
+    "Adding or removing heat.",
+    "Adding or removing a catalyst.",
+    "Increasing or decreasing concentrations of reactants.",
+    "Increasing or decreasing volumes of reactants."
+   ],
+   "correct": 1,
+   "explanation": "The equilibrium of a reaction can be changed by several factors. Adding or subtracting heat, (A), would shift the equilibrium based on the enthalpy change of the reaction. Increasing reactant concentrations would shift the equilibrium in the direction of the product, and the opposite would occur if reactant concentrations were decreased, eliminating (C). Changing the volume of a reactant would affect any reaction with gaseous reactants or products, eliminating (D). While adding or removing a catalyst would change the reaction rates, it would not change where the equilibrium lies."
+  },
+  {
+   "q": "In a sealed 1 L container, 1 mole of nitrogen gas reacts with 3 moles of hydrogen gas to form 0.05 moles of NH3 at equilibrium. Which of the following is closest to the Kc of the reaction?",
+   "type": "mcq",
+   "choices": [
+    "0.0001",
+    "0.001",
+    "0.01",
+    "0.1"
+   ],
+   "correct": 0,
+   "explanation": "Start with the balanced equation for the reaction of H2 and N2 to produce NH3: N2 + 3 H2 ⇌ 2 NH3. Next, write out Kc = Keq = . Because the volume is 1 L, the amount of each gas in moles is equal to the value of the concentration of each gas in moles per liter (M). The relatively small amount of NH3 produced indicates that it will be possible to consider the amount of N2 and H2 that reacts to be negligible compared to their starting concentrations. Putting the amounts of each reactant and product into the Keq expression gives:"
+  },
+  {
+   "q": "Increasing temperature can alter the Keq of a reaction. Why might increasing temperature indefinitely be unfavorable for changing reaction conditions?",
+   "type": "mcq",
+   "choices": [
+    "The equilibrium constant has a definite limit that cannot be surpassed.",
+    "The products or reactants can decompose at high temperatures.",
+    "Increasing temperature would decrease pressure, which may or may not alter reaction conditions.",
+    "If a reaction is irreversible, its Keq will resist changes in temperature."
+   ],
+   "correct": 1,
+   "explanation": "At extremely high temperatures, reactants or products may decompose, which will affect the equilibrium and potentially destroy the desired products. (A) implies that reactions have limits, which is true; however, this does not make increasing temperature unfavorable. (C) is false because increasing temperature would also increase pressure, assuming constant volume. (D) is incorrect because it refers to properties of irreversible reactions, which would not be involved in an equilibrium between products and reactants."
+  },
+  {
+   "q": "Which of the following is true of equilibrium reactions? An increase in k1 results in a decrease in k–1. .           As the concentration of products increases, the concentrations of reactants decreases. I.          The equilibrium constant is altered by changes in temperature.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II and III only",
+    "I and III only",
+    "I, II, and III"
+   ],
+   "correct": 1,
+   "explanation": "Statement I is false because the addition of a catalyst could increase the rate constants of both the forward and reverse reactions. Statement II is true because—for products to come into existence—reactants must be used up. Statement III is also true: all K values are temperature-dependent."
+  },
+  {
+   "q": "Compound A has a Ka (equilibrium constant of acid dissociation) of approximately 10–4. Which of the following compounds is most likely to react with a solution of compound A?",
+   "type": "mcq",
+   "choices": [
+    "HNO3",
+    "NO2",
+    "NH3",
+    "N2O5"
+   ],
+   "correct": 2,
+   "explanation": "Ka is equal to the ratio of products to reactants, with each species raised to its stoichiometric coefficient. A compound with a Ka greater than 10–7 contains more H+ cations than HA– anions at equilibrium, which makes it an acid. This means that the compound in question is likely to react with a compound that is basic. Of the four answer choices, NH3 is the only base."
+  },
+  {
+   "q": "Consider the following two reactions: 3 A + 2 B ⇌ 3 C + 4 D (Reaction 1) 4 D + 3 C ⇌ 3 A + 2 B (Reaction 2) If Keq for reaction 1 is equal to 0.1, what is Keq for reaction 2?",
+   "type": "mcq",
+   "choices": [
+    "0.1",
+    "1",
+    "10",
+    "100"
+   ],
+   "correct": 2,
+   "explanation": "Reaction 2 is the reverse of reaction 1. This means that Keq for reaction 2 is the inverse of Keq of reaction 1, so the answer is"
+  },
+  {
+   "q": "Which of the following statements best describes the effect of lowering the temperature of the following reaction?",
+   "type": "mcq",
+   "choices": [
+    "[C] and [D] would increase.",
+    "[A] and [B] would increase.",
+    "ΔH would increase.",
+    "ΔH would decrease."
+   ],
+   "correct": 0,
+   "explanation": "A negative ΔH value indicates an exothermic reaction, meaning that the forward reaction produces heat. Visualize this as follows: A + B ⇌ C + D + heat This means that removing heat by decreasing the temperature is similar to removing any other product of the reaction. To compensate for this loss, the reaction will shift to the right, causing an increase in the concentrations of C and D, as well as a decrease in the concentrations of A and B."
+  }
+ ]
+}

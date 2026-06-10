@@ -1,0 +1,133 @@
+{
+ "id": 4,
+ "num": 4,
+ "title": "Fluids",
+ "slug": "fluids",
+ "sections": [
+  {
+   "title": "4.1 Characteristics of Fluids and Solids",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch04_fluids/fig01.png",
+     "alt": "Chapter 4 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch04_fluids/fig02.png",
+     "alt": "Chapter 4 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch04_fluids/fig03.png",
+     "alt": "Chapter 4 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch04_fluids/fig04.png",
+     "alt": "Chapter 4 figure 4",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch04_fluids/fig05.png",
+     "alt": "Chapter 4 figure 5",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch04_fluids/fig06.png",
+     "alt": "Chapter 4 figure 6",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "4.2 Hydrostatics",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch04_fluids/fig07.png",
+     "alt": "Chapter 4 figure 7",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch04_fluids/fig08.png",
+     "alt": "Figure 4.1 Hydraulic Lift",
+     "caption": "Figure 4.1 Hydraulic Lift"
+    },
+    {
+     "src": "physics/ch04_fluids/fig09.png",
+     "alt": "Chapter 4 figure 9",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch04_fluids/fig10.png",
+     "alt": "Chapter 4 figure 10",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch04_fluids/fig11.png",
+     "alt": "Figure 4.2 Types of Menisci",
+     "caption": "Figure 4.2 Types of Menisci"
+    }
+   ]
+  },
+  {
+   "title": "4.3 Fluid Dynamics",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch04_fluids/fig12.png",
+     "alt": "Figure 4.3.",
+     "caption": "Figure 4.3."
+    },
+    {
+     "src": "physics/ch04_fluids/fig13.png",
+     "alt": "Figure 4.4 Turbulent Flow around an Object in a Fluid",
+     "caption": "Figure 4.4 Turbulent Flow around an Object in a Fluid"
+    },
+    {
+     "src": "physics/ch04_fluids/fig14.png",
+     "alt": "Figure 4.5 Streamlines",
+     "caption": "Figure 4.5 Streamlines"
+    },
+    {
+     "src": "physics/ch04_fluids/fig15.png",
+     "alt": "Figure 4.6 Aerodynamics of an Airplane",
+     "caption": "Figure 4.6 Aerodynamics of an Airplane"
+    },
+    {
+     "src": "physics/ch04_fluids/fig16.png",
+     "alt": "Figure 4.7.",
+     "caption": "Figure 4.7."
+    },
+    {
+     "src": "physics/ch04_fluids/fig17.png",
+     "alt": "Figure 4.7 is the",
+     "caption": "Figure 4.7 is the"
+    },
+    {
+     "src": "physics/ch04_fluids/fig18.png",
+     "alt": "Chapter 4 figure 18",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "4.4 Fluids in Physiology",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch04_fluids/fig19.png",
+     "alt": "Chapter 4 figure 19",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch04_fluids/fig20.png",
+     "alt": "Chapter 4 figure 20",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": []
+}

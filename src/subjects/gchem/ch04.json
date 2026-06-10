@@ -1,0 +1,355 @@
+{
+ "id": 4,
+ "num": 4,
+ "title": "Compounds and Stoichiometry",
+ "slug": "compounds_and_stoichiometry",
+ "sections": [
+  {
+   "title": "4.1 Molecules and Moles",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig01.png",
+     "alt": "Chapter 4 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig02.png",
+     "alt": "Chapter 4 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig03.png",
+     "alt": "Figure 4.1 shows the titration of the diprotic acid H2CO3 with a base. The x-",
+     "caption": "Figure 4.1 shows the titration of the diprotic acid H2CO3 with a base. The x-"
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig04.png",
+     "alt": "Chapter 4 figure 4",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig20.png",
+     "alt": "Chapter 4 figure 20",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig21.png",
+     "alt": "Chapter 4 figure 21",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig22.png",
+     "alt": "Chapter 4 figure 22",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig23.png",
+     "alt": "Chapter 4 figure 23",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig24.png",
+     "alt": "Chapter 4 figure 24",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig25.png",
+     "alt": "Chapter 4 figure 25",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig26.png",
+     "alt": "Chapter 4 figure 26",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "4.2 Representation of Compounds",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig05.png",
+     "alt": "Chapter 4 figure 5",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig06.png",
+     "alt": "Chapter 4 figure 6",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig07.png",
+     "alt": "Chapter 4 figure 7",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig08.png",
+     "alt": "Chapter 4 figure 8",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig09.png",
+     "alt": "Chapter 4 figure 9",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "4.3 Types of Chemical Reactions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig10.png",
+     "alt": "Figure 4.2.",
+     "caption": "Figure 4.2."
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig11.png",
+     "alt": "Figure 4.3.  Silver Chloride (AgCl) Crystals",
+     "caption": "Figure 4.3.  Silver Chloride (AgCl) Crystals"
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig12.png",
+     "alt": "Figure 4.4.  Combustion of Methane",
+     "caption": "Figure 4.4.  Combustion of Methane"
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig13.png",
+     "alt": "Figure 4.5.  Illustrations of Double-Displacement Reactions Forming",
+     "caption": "Figure 4.5.  Illustrations of Double-Displacement Reactions Forming"
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig14.png",
+     "alt": "Figure 4.6.  Indicator Strip Tested in Solutions of Varying pH",
+     "caption": "Figure 4.6.  Indicator Strip Tested in Solutions of Varying pH"
+    }
+   ]
+  },
+  {
+   "title": "4.4 Balancing Chemical Equations",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "4.5 Applications of Stoichiometry",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig15.png",
+     "alt": "Chapter 4 figure 15",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig16.png",
+     "alt": "Figure 4.7 shows a reaction vessel that has significant amounts of reactants A and",
+     "caption": "Figure 4.7 shows a reaction vessel that has significant amounts of reactants A and"
+    }
+   ]
+  },
+  {
+   "title": "4.6 Ions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig17.png",
+     "alt": "Figure 4.8.  Oxidation States of Hydrogen",
+     "caption": "Figure 4.8.  Oxidation States of Hydrogen"
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig18.png",
+     "alt": "Figure 4.9, this phenomenon is shown for",
+     "caption": "Figure 4.9, this phenomenon is shown for"
+    },
+    {
+     "src": "gchem/ch04_compounds_and_stoichiometry/fig19.png",
+     "alt": "Figure 4.10.  Solvation of a Polar Covalent Compound",
+     "caption": "Figure 4.10.  Solvation of a Polar Covalent Compound"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following best describes ionic compounds?",
+   "type": "mcq",
+   "choices": [
+    "Ionic compounds are formed from molecules containing two or more atoms.",
+    "Ionic compounds are formed of charged particles and are measured by molecular weight.",
+    "Ionic compounds are formed of charged particles that share electrons equally.",
+    "Ionic compounds are three-dimensional arrays of charged particles."
+   ],
+   "correct": 3,
+   "explanation": "Ionic compounds are composed of atoms held together by ionic bonds. Ionic bonds associate charged particles with large differences in electronegativity. Rather than forming molecules or being measured by molecular weight, as in (A) and (B), ionic compounds form large arrays of ions in crystalline solids and are measured with formula weights. In ionic bonds, electrons are not really shared but rather are donated from the less electronegative atom to the more electronegative atom, eliminating (C)."
+  },
+  {
+   "q": "Which of the following compounds has a formula weight between 74 and 75 grams per mole?",
+   "type": "mcq",
+   "choices": [
+    "KCl",
+    "C4H10O",
+    "MgCl2",
+    "BF3"
+   ],
+   "correct": 0,
+   "explanation": "Of the compounds listed, both (B) and (D) are covalent compounds and thus are measured in molecular weights, not formula weights. The formula weight of MgCl2 is much too high (24.3 amu + 2 × 35.5 amu = 95.3 amu per formula unit), eliminating (C). Only KCl fits the criteria (39.1 amu + 35.5 amu = 74.6 amu)."
+  },
+  {
+   "q": "Which of the following is the gram equivalent weight of H2SO4 with respect to protons?",
+   "type": "mcq",
+   "choices": [
+    "49.1 g",
+    "98.1 g",
+    "147.1 g",
+    "196.2 g"
+   ],
+   "correct": 0,
+   "explanation": "First, it is helpful to know the molar mass of one mole of H2SO4, which is found by adding the atomic weights of the atoms that constitute the molecule: Gram equivalent weight is the mass (in grams) that would release one mole of protons. Because sulfuric acid has two hydrogens per molecule, the gram equivalent weight is 98.1 g divided by 2, or 49.1 g."
+  },
+  {
+   "q": "Which of the following molecules CANNOT be expressed by the empirical formula CH?",
+   "type": "mcq",
+   "choices": [
+    "Benzene",
+    "Ethyne",
+    "",
+    ""
+   ],
+   "correct": 2,
+   "explanation": "The definition of an empirical formula is a formula that represents a molecule with the simplest ratio, in whole numbers, of the elements comprising the compound. In this case, given the empirical formula CH, any molecule with carbon and hydrogen atoms in a 1:1 ratio would be accurately represented by this empirical formula. (C) has three carbon atoms and four hydrogen atoms. Both its molecular and empirical formulas would be C3H4 because this formula represents the smallest whole-number ratio of its constituent elements."
+  },
+  {
+   "q": "In which of the following compounds is the percent composition of carbon by mass closest to 62 percent?",
+   "type": "mcq",
+   "choices": [
+    "Acetone",
+    "Ethanol",
+    "Propane",
+    "Methanol"
+   ],
+   "correct": 0,
+   "explanation": "The percent composition by mass of any given element within a molecule is equal to the mass of that element in the molecule divided by the molar mass of the compound, times 100%. In this case, acetone, C3H6O, has This is an overestimation, and the actual value will be lower; it is closest to 62% out of the four choices available. (B), ethanol, is This is an underestimation, and the actual value will be higher but nowhere near 62%. (C), propane, is C3H8, and calculates to be This is an underestimation, and therefore the actual value cannot be 62%. Finally, (D), methanol, is Note that all four of these compounds are commonly encountered on the MCAT, and you should be familiar with the structure and composition of each, including their common names."
+  },
+  {
+   "q": "What is the most specific characterization of the reaction shown? Ca(OH)2 (aq) + H2SO4 (aq) → CaSO4 (aq) + H2O (l)",
+   "type": "mcq",
+   "choices": [
+    "Single-displacement",
+    "Neutralization",
+    "Double-displacement",
+    "Oxidation–reduction"
+   ],
+   "correct": 1,
+   "explanation": "This reaction is a classic example of a neutralization reaction, in which an acid and a base react to form a salt and, usually, water. Although this reaction also fits the criteria for a double-displacement reaction, (C), in which two molecules essentially exchange ions with each other, neutralization is a more specific description of the process."
+  },
+  {
+   "q": "In the reaction shown, if 39.05 g of Na2S are reacted with 85.5 g of AgNO3, how much of the excess reagent will be left over once the reaction has gone to completion? Na2S + 2 AgNO3 → Ag2S + 2 NaNO3",
+   "type": "mcq",
+   "choices": [
+    "19.5 g Na2S",
+    "26.0 g Na2S",
+    "41.4 g AgNO3",
+    "74.3 g AgNO3"
+   ],
+   "correct": 0,
+   "explanation": "In this question, you are first given the masses of both reactants used to start the reaction. To figure out what will be left over, we must first determine which species is the limiting reagent. The formula weight of Na2S is The formula weight of AgNO3 is From this, we can determine that we are given: Because we need two moles of AgNO3 for every mole of Na2S, AgNO3 is the limiting reagent, and the correct answer choice will be in grams of Na2S. If 0.5 mol of AgNO3 are used up, and Na2S will be consumed at half the rate of AgNO3 (based on their mole ratio), then 0.25 mol Na2S will be used up. We then have 0.25 mol excess Na2S, which has a mass of"
+  },
+  {
+   "q": "Using a given mass of KClO3, how would one calculate the mass of oxygen produced in the following reaction, assuming it goes to completion? 2 KClO3 → 2 KCl + 3 O2",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 0,
+   "explanation": "This is a question best answered by dimensional analysis. Keeping in mind that molar mass is measured in grams of a substance per moles of that substance, only (A) comes out with the units of grams of oxygen. (B) has the units of grams per mole of oxygen, not grams of oxygen. (C) has the units of moles per gram of oxygen. (D) has the units of mol2 per gram of oxygen."
+  },
+  {
+   "q": "Aluminum metal can be used to remove tarnish from silver when the two solid metals are placed in water, according to the following reaction: 3 AgO + 2 Al → 3 Ag + Al2O3 This reaction is a: double-displacement reaction. .            single-displacement reaction. I.            oxidation–reduction reaction. V.           combination reaction.",
+   "type": "mcq",
+   "choices": [
+    "II only",
+    "IV only",
+    "I and III only",
+    "II and III only"
+   ],
+   "correct": 3,
+   "explanation": "In the reaction, there is a single displacement, with the silver in silver oxide being replaced by the aluminum to form aluminum oxide. This single-displacement reaction also necessitates a transfer of electrons in an oxidation–reduction reaction; silver, for example, changes from the +2 oxidation state to neutral. Aluminum changes from neutral to the +3 oxidation state."
+  },
+  {
+   "q": "Which of the following types of reactions generally have the same number of reactants and products? Double-displacement reactions .            Single-displacement reactions I.           Combination reactions",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "I and II only",
+    "II and III only"
+   ],
+   "correct": 2,
+   "explanation": "Typically, both single-displacement and double-displacement reactions have two reactants that swap either one or two components between the two species. Combination reactions, on the other hand, have more reactants than products because the reactants combine together to form the product."
+  },
+  {
+   "q": "A reaction that utilizes oxygen and hydrocarbons as reactants and that produces carbon dioxide and water as products is best characterized as:",
+   "type": "mcq",
+   "choices": [
+    "single-displacement.",
+    "combustion.",
+    "metathesis.",
+    "decomposition."
+   ],
+   "correct": 1,
+   "explanation": "This description characterizes a combustion reaction because a hydrocarbon acts as a fuel when reacting with oxygen. Carbon dioxide (an oxide) and water are the products of such a reaction."
+  },
+  {
+   "q": "In the process of photosynthesis, carbon dioxide and water combine with energy to form glucose and oxygen, according to the following equation: What is the theoretical yield of glucose if 30 grams of water are reacted with excess carbon dioxide and energy, according to the equation above?",
+   "type": "mcq",
+   "choices": [
+    "30.0 g",
+    "50.0 g",
+    "300.1 g",
+    "1801 g"
+   ],
+   "correct": 1,
+   "explanation": "The equation given is unbalanced, so the first step must be to balance it: The theoretical yield is the amount of product synthesized if the limiting reagent is completely used up. This question therefore asks how much glucose is produced if the limiting reagent is 30 grams of water. Using the three-fraction method discussed in this chapter to solve for the mass of glucose produced gives: Thus, 50 grams of glucose are produced."
+  },
+  {
+   "q": "In the following reaction: Au2S3 (s) + H2 (g) → Au (s) + H2S (g) If 2 moles of Au2S3 (s) is reacted with 5 moles of hydrogen gas, what is the limiting reagent?",
+   "type": "mcq",
+   "choices": [
+    "Au2S3 (s)",
+    "H2 (g)",
+    "Au (s)",
+    "H2S (g)"
+   ],
+   "correct": 1,
+   "explanation": "A limiting reagent is by definition a reactant. Because Au and H2S are products, they cannot act as limiting reagents, eliminating (C) and (D). Next, note that the given equation is unbalanced and the first step is to balance it: Au2S3 (s) + 3 H2 (g) → 2 Au (s) + 3 H2S (g) The problem states that 2 moles of gold(III) sulfide and 5 moles of hydrogen gas are available. To use up both moles of gold(III) sulfide, 6 moles of hydrogen gas are needed because there is a 1:3 ratio between these reactants. Since only 5 moles of hydrogen gas are present, that will have to be the limiting reagent."
+  },
+  {
+   "q": "Which of the following would make the strongest electrolytic solution?",
+   "type": "mcq",
+   "choices": [
+    "A nonpolar covalent compound with significant solubility.",
+    "An ionic compound composed of one cation with +3 charge and three anions with −1 charge.",
+    "A polar covalent compound with a small dissociation constant.",
+    "An ionic compound composed of two cations with +1 charge and one anion with −2 charge."
+   ],
+   "correct": 1,
+   "explanation": "The best electrolytes dissociate readily (have a high dissociation constant) and are ionic compounds with large amounts of cations and anions. This rules out (A) and (C). (D) has fewer total ions with a smaller total magnitude of charge and therefore is not as strong an electrolyte as (B)."
+  },
+  {
+   "q": "What is the molecular formula of a compound with an empirical formula of B2H5 and a molar mass of",
+   "type": "mcq",
+   "choices": [
+    "B2H5",
+    "B3H7",
+    "B4H10",
+    "B6H15"
+   ],
+   "correct": 2,
+   "explanation": "The simplest approach is to determine the molar mass of the empirical formula. B2H5 has a molar mass of A molecular formula is always a multiple of the empirical formula; doubling this quantity will result in the molar mass given in the question stem. Therefore, the compound must be B4H10."
+  }
+ ]
+}

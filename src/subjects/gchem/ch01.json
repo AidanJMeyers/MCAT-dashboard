@@ -1,0 +1,334 @@
+{
+ "id": 1,
+ "num": 1,
+ "title": "Atomic Structure",
+ "slug": "atomic_structure",
+ "sections": [
+  {
+   "title": "1.1 Subatomic Particles",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch01_atomic_structure/fig01.png",
+     "alt": "Chapter 1 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig02.png",
+     "alt": "Chapter 1 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig03.png",
+     "alt": "Figure 1.1.  Matter: From Macroscopic to Microscopic",
+     "caption": "Figure 1.1.  Matter: From Macroscopic to Microscopic"
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig04.png",
+     "alt": "Figure 1.2.  Potassium, from the Periodic Table",
+     "caption": "Figure 1.2.  Potassium, from the Periodic Table"
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig05.png",
+     "alt": "Figure 1.3.  Various Isotopes of Hydrogen",
+     "caption": "Figure 1.3.  Various Isotopes of Hydrogen"
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig20.png",
+     "alt": "Chapter 1 figure 20",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig21.png",
+     "alt": "Chapter 1 figure 21",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig22.png",
+     "alt": "Chapter 1 figure 22",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig23.png",
+     "alt": "Chapter 1 figure 23",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig24.png",
+     "alt": "Chapter 1 figure 24",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "1.2 Atomic Mass vs. Atomic Weight",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch01_atomic_structure/fig06.png",
+     "alt": "Figure 1.4.  Half-Lives of the Different Isotopes of Elements",
+     "caption": "Figure 1.4.  Half-Lives of the Different Isotopes of Elements"
+    }
+   ]
+  },
+  {
+   "title": "1.3 Rutherford, Planck, and Bohr",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch01_atomic_structure/fig07.png",
+     "alt": "Figure 1.5.  Atomic Emission of a Photon as a Result of a Ground State",
+     "caption": "Figure 1.5.  Atomic Emission of a Photon as a Result of a Ground State"
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig08.png",
+     "alt": "Figure 1.6.  Line Spectrum with Transition Wavelengths for Various",
+     "caption": "Figure 1.6.  Line Spectrum with Transition Wavelengths for Various"
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig09.png",
+     "alt": "Figure 1.7.",
+     "caption": "Figure 1.7."
+    }
+   ]
+  },
+  {
+   "title": "1.4 Quantum Mechanical Model of Atoms",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch01_atomic_structure/fig10.png",
+     "alt": "Figure 1.8.",
+     "caption": "Figure 1.8."
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig11.png",
+     "alt": "Figure 1.9.",
+     "caption": "Figure 1.9."
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig12.png",
+     "alt": "Figure 1.10 provides an example of computer-generated probability maps of",
+     "caption": "Figure 1.10 provides an example of computer-generated probability maps of"
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig13.png",
+     "alt": "Figure 1.11. Note the similarity to the",
+     "caption": "Figure 1.11. Note the similarity to the"
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig14.png",
+     "alt": "Figure 1.12.  Electron Subshell Flow Diagram",
+     "caption": "Figure 1.12.  Electron Subshell Flow Diagram"
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig15.png",
+     "alt": "Figure 1.13.  Periodic Table with Lanthanide and Actinide Series",
+     "caption": "Figure 1.13.  Periodic Table with Lanthanide and Actinide Series"
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig16.png",
+     "alt": "Chapter 1 figure 16",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig17.png",
+     "alt": "Chapter 1 figure 17",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig18.png",
+     "alt": "Figure 1.14 where a set of iron orbs is influenced by a magnet. The metallic",
+     "caption": "Figure 1.14 where a set of iron orbs is influenced by a magnet. The metallic"
+    },
+    {
+     "src": "gchem/ch01_atomic_structure/fig19.png",
+     "alt": "Figure 1.15, a",
+     "caption": "Figure 1.15, a"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following is the correct electron configuration for Zn2+?",
+   "type": "mcq",
+   "choices": [
+    "1s22s22p63s23p64s03d10",
+    "1s22s22p63s23p64s23d8",
+    "1s22s22p63s23p64s23d10",
+    "1s22s22p63s23p64s03d8"
+   ],
+   "correct": 0,
+   "explanation": "Remember that when electrons are removed from an element, forming a cation, they will be removed from the subshell with the highest n value first. Zn0 has 30 electrons, so it would have an electron configuration of 1s22s22p63s23p64s23d10. The 4s subshell has the highest principal quantum number, so it is emptied first, forming 1s22s22p63s23p64s03d10. (B) implies that electrons are pulled out of the d-orbital, (C) presents the configuration of the uncharged zinc atom, and (D) shows the configuration that would exist if four electrons were removed."
+  },
+  {
+   "q": "Which of the following quantum number sets is possible?",
+   "type": "mcq",
+   "choices": [
+    "n = 2; l = 2; ml = 1;",
+    "n = 2; l = 1; ml = −1;",
+    "n = 2; l = 0; ml = −1;",
+    "n = 2; l = 0; ml = 1;"
+   ],
+   "correct": 1,
+   "explanation": "The azimuthal quantum number l cannot be higher than n – 1, ruling out (A). The ml number, which describes the chemical’s magnetic properties, can only be an integer value between –l and l. It cannot be equal to ±1 if l = 0; this would imply that an s-orbital has three subshells (−1, 0, and 1) when we know it can only have one. This rules out (C) and (D)."
+  },
+  {
+   "q": "What is the maximum number of electrons allowed in a single atomic energy level in terms of the principal quantum number n?",
+   "type": "mcq",
+   "choices": [
+    "2n",
+    "2n + 2",
+    "2n2",
+    "2n2 + 2"
+   ],
+   "correct": 2,
+   "explanation": "For any value of n, there will be a maximum of 2n2 electrons; that is, two per orbital. This can also be determined from the periodic table. There are only two elements (H and He) that have valence electrons in the n = 1 shell. Eight elements (Li to Ne) have valence electrons in the n = 2 shell. This is the only equation that matches this pattern."
+  },
+  {
+   "q": "Which of the following equations describes the maximum number of electrons that can fill a subshell?",
+   "type": "mcq",
+   "choices": [
+    "2l + 2",
+    "4l + 2",
+    "2l2",
+    "2l2 + 2"
+   ],
+   "correct": 1,
+   "explanation": "This formula describes the number of electrons in terms of the azimuthal quantum number l, which ranges from 0 to n – 1, with n being the principal quantum number. A table of the maximum number of electrons per subshell is provided here: Subshell Azimuthal Quantum Number (l) Number of Electrons s 0 2 p 1 6 d 2 10 f 3 14"
+  },
+  {
+   "q": "Which of the following atoms only has paired electrons in its ground state?",
+   "type": "mcq",
+   "choices": [
+    "Sodium",
+    "Iron",
+    "Cobalt",
+    "Helium"
+   ],
+   "correct": 3,
+   "explanation": "The only answer choice without unpaired electrons in its ground state is helium. Recall from the chapter that a diamagnetic substance is identified by the lack of unpaired electrons in its shell. A substance without unpaired electrons, like helium, cannot be magnetized by an external magnetic field and is actually slightly repelled. Elements that come at the end of a block (Group IIA, the group containing Zn, and the noble gases, most notably) have only paired electrons."
+  },
+  {
+   "q": "An electron returns from an excited state to its ground state, emitting a photon at λ = 500 nm. What would be the magnitude of the energy change if one mole of these photons were emitted? (Note: h = 6.626 × 10−34 J · s, NA = 6.02 × 1023 mol−1)",
+   "type": "mcq",
+   "choices": [
+    "3.98 × 10−21 J",
+    "3.98 × 10−19 J",
+    "2.39 × 103 J",
+    "2.39 × 105 J"
+   ],
+   "correct": 3,
+   "explanation": "The problem requires the MCAT favorite equation where h = 6.626 × 10−34 J · s (Planck’s constant), is the speed of light, and λ is the wavelength of the light. This question asks for the energy of one mole of photons, so we must multiply by Avogadro’s number, NA = 6.02 × 1023 mol−1. The setup is:"
+  },
+  {
+   "q": "Suppose an electron falls from n = 4 to its ground state, n = 1. Which of the following effects is most likely?",
+   "type": "mcq",
+   "choices": [
+    "A photon is absorbed.",
+    "A photon is emitted.",
+    "The electron moves into a p-orbital.",
+    "The electron moves into a d-orbital."
+   ],
+   "correct": 1,
+   "explanation": "Because the electron is moving into the n = 1 shell, the only subshell available is the 1s subshell, which eliminates (C) and (D). There will be some energy change, however, as the electron must lose energy to return to the minimum-energy ground state. That will require emitting radiation in the form of a photon."
+  },
+  {
+   "q": "Which of the following isotopes of carbon is LEAST likely to be found in nature?",
+   "type": "mcq",
+   "choices": [
+    "6C",
+    "12C",
+    "13C",
+    "14C"
+   ],
+   "correct": 0,
+   "explanation": "Recall that the superscript refers to the mass number of an atom, which is equal to the number of protons plus the number of neutrons present in an element. Sometimes a text will list the atomic number, Z, as a subscript under the mass number, A. According to the periodic table, carbon contains six protons; therefore, its atomic number is 6. Isotopes all have the same number of protons, but differ in the number of neutrons. Almost all atoms with Z > 1 have at least one neutron. Carbon is most likely to have a mass number of 12, for six protons and six neutrons, as in (B). (C) and (D) are possible isotopes that would have more neutrons than 12C. The 6C isotope is unlikely. It would mean that there are 6 protons and 0 neutrons. As shown in Figure 1.4, this would be a highly unstable isotope."
+  },
+  {
+   "q": "Which of the following best explains the inability to measure position and momentum exactly and simultaneously according to the Heisenberg uncertainty principle?",
+   "type": "mcq",
+   "choices": [
+    "Imprecision in the definition of the meter and kilogram",
+    "Limits on accuracy of existing scientific instruments",
+    "Error in one variable is increased by attempts to measure the other",
+    "Discrepancies between the masses of nuclei and of their component particles"
+   ],
+   "correct": 2,
+   "explanation": "The limitations placed by the Heisenberg uncertainty principle are caused by limitations inherent in the measuring process: if a particle is moving, it has momentum, but trying to measure that momentum necessarily creates uncertainty in the position. Even if we had an exact definition of the meter, as in (A), or perfect measuring devices, as in (B), we still wouldn’t be able to measure position and momentum simultaneously and exactly."
+  },
+  {
+   "q": "Which of the following electronic transitions would result in the greatest gain in energy for a single hydrogen electron?",
+   "type": "mcq",
+   "choices": [
+    "An electron moves from n = 6 to n = 2.",
+    "An electron moves from n = 2 to n = 6.",
+    "An electron moves from n = 3 to n = 4.",
+    "An electron moves from n = 4 to n = 3."
+   ],
+   "correct": 1,
+   "explanation": "For the electron to gain energy, it must absorb energy from photons to jump up to a higher energy level. There is a bigger jump between n = 2 and n = 6 than there is between n = 3 and n = 4."
+  },
+  {
+   "q": "Suppose that an atom fills its orbitals as shown: Such an electron configuration most clearly illustrates which of the following laws of atomic physics?",
+   "type": "mcq",
+   "choices": [
+    "Hund’s rule",
+    "Heisenberg uncertainty principle",
+    "Bohr model",
+    "Rutherford model"
+   ],
+   "correct": 0,
+   "explanation": "The MCAT covers the topics in this chapter qualitatively more often than quantitatively. It is critical to be able to distinguish the fundamental principles that determine electron organization, which are usually known by the names of the scientists who discovered or postulated them. The Heisenberg uncertainty principle, (B), refers to the inability to know the momentum and position of a single electron simultaneously. The Bohr model, (C), was an early attempt to describe the behavior of the single electron in a hydrogen atom. The Rutherford model, (D), described a dense, positively charged nucleus. The element shown here, phosphorus, is often used to demonstrate Hund’s rule because it contains a half-filled p subshell. Hund’s rule explains that electrons fill empty orbitals first before doubling up electrons in the same orbital."
+  },
+  {
+   "q": "How many total electrons are in a 133Cs cation?",
+   "type": "mcq",
+   "choices": [
+    "54",
+    "55",
+    "78",
+    "132"
+   ],
+   "correct": 0,
+   "explanation": "The quickest way to solve this problem is to use the periodic table and find out how many protons are in Cs atoms; there are 55. Neutral Cs atoms would also have 55 electrons. A stable Cs cation will have a single positive charge because it has one unpaired s-electron. This translates to one fewer electron than the number of protons or 54 electrons."
+  },
+  {
+   "q": "The atomic weight of hydrogen is 1.008 amu. What is the percent composition of hydrogen by isotope, assuming that hydrogen’s only isotopes are 1H and 2D?",
+   "type": "mcq",
+   "choices": [
+    "92% H, 8% D",
+    "99.2% H, 0.8% D",
+    "99.92% H, 0.08% D",
+    "99.992% H, 0.008% D"
+   ],
+   "correct": 1,
+   "explanation": "The easiest way to approach this problem is to set up a system of two algebraic equations, where H and D are the percentages of H (mass = 1 amu) and D (mass = 2 amu), respectively. Your setup should look like the following system: H + D = 1 (percent H + percent D = 100%) 1 H + 2 D = 1.008 (atomic weight calculation) Rearranging the first equation and substituting into the second yields (1 – D) + 2D = 1.008, or D = 0.008. 0.008 is 0.8%, so there is 0.8% D."
+  },
+  {
+   "q": "Consider the two sets of quantum numbers shown in the table, which describe two different electrons in the same atom. n                             l                ml                   ms 2              1                1 n                             l                ml                   ms 3              1               −1 Which of the following terms best describes these two electrons?",
+   "type": "mcq",
+   "choices": [
+    "Parallel",
+    "Opposite",
+    "Antiparallel",
+    "Paired"
+   ],
+   "correct": 0,
+   "explanation": "The terms in the answer choices refer to the magnetic spin of the two electrons. The quantum number ms represents this property as a measure of an electron’s intrinsic spin. These electrons’ spins are parallel, in that their spins are aligned in the same direction ( for both species)."
+  },
+  {
+   "q": "Which of the following species is represented by the electron configuration 1s22s22p63s23p64s13d5? Cr .          Mn+ I.             Fe2+",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "I and II only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 1,
+   "explanation": "When dealing with ions, you cannot directly approach electronic configurations based on the number of electrons they currently hold. First examine the neutral atom’s configuration, and then determine which electrons are removed. Neutral Atom’s Configuration Ion’s Configuration Cr0: [Ar] 4s13d5 — Mn0: [Ar] 4s23d5 Mn+: [Ar] 4s13d5 Fe0: [Ar] 4s23d6 Fe2+: [Ar] 4s03d6 Due to the stability of half-filled d-orbitals, neutral chromium assumes the electron configuration of [Ar] 4s13d5. Mn must lose one electron from its initial configuration to become the Mn+ cation. That electron would come from the 4s subshell according to the rule that the first electron removed comes from the highest-energy shell. Fe must lose two electrons to become Fe2+. They’ll both be lost from the same orbital; the only way Fe2+ could hold the configuration in the question stem would be if one d- electron and one s-electron were lost together."
+  }
+ ]
+}

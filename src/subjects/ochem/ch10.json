@@ -1,0 +1,283 @@
+{
+ "id": 10,
+ "num": 10,
+ "title": "Nitrogen-and Phosphorus-Containing Compounds",
+ "slug": "nitrogen_and_phosphorus_containing_compo",
+ "sections": [
+  {
+   "title": "10.1 Amino Acids, Peptides, and Proteins",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig01.png",
+     "alt": "Chapter 10 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig02.png",
+     "alt": "Chapter 10 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig03.png",
+     "alt": "Chapter 10 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig04.png",
+     "alt": "Figure 10.1.",
+     "caption": "Figure 10.1."
+    },
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig05.png",
+     "alt": "Figure 10.1.  Amino Acid Structure",
+     "caption": "Figure 10.1.  Amino Acid Structure"
+    },
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig06.png",
+     "alt": "Figure 10.3. How an amino acid acts",
+     "caption": "Figure 10.3. How an amino acid acts"
+    },
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig07.png",
+     "alt": "Figure 10.4.  Peptide Bond Formation and Cleavage",
+     "caption": "Figure 10.4.  Peptide Bond Formation and Cleavage"
+    },
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig08.png",
+     "alt": "Figure 10.5. The true structure of the",
+     "caption": "Figure 10.5. The true structure of the"
+    },
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig14.png",
+     "alt": "Chapter 10 figure 14",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig15.png",
+     "alt": "Chapter 10 figure 15",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "10.2 Synthesis of α Amino Acids",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig09.png",
+     "alt": "Figure 10.6.  Strecker Synthesis: Step 1",
+     "caption": "Figure 10.6.  Strecker Synthesis: Step 1"
+    },
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig10.png",
+     "alt": "Figure 10.7, is",
+     "caption": "Figure 10.7, is"
+    },
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig11.png",
+     "alt": "Figure 10.8.",
+     "caption": "Figure 10.8."
+    }
+   ]
+  },
+  {
+   "title": "10.3 Phosphorus-Containing Compounds",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig12.png",
+     "alt": "Figure 10.9.",
+     "caption": "Figure 10.9."
+    },
+    {
+     "src": "ochem/ch10_nitrogen_and_phosphorus_containing_compo/fig13.png",
+     "alt": "Figure 10.10.  Pyrophosphate Anion",
+     "caption": "Figure 10.10.  Pyrophosphate Anion"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following amino acids does not have an L-enantiomer?",
+   "type": "mcq",
+   "choices": [
+    "Cysteine",
+    "Threonine",
+    "Glutamic acid",
+    "Glycine"
+   ],
+   "correct": 3,
+   "explanation": "Glycine’s R group is a hydrogen atom; this amino acid is therefore achiral because the central carbon is not bonded to four different substituents. The other amino acids are all chiral and therefore have both L- and D- enantiomers."
+  },
+  {
+   "q": "Which of the following would be formed if methyl bromide were reacted with phthalimide and followed by hydrolysis with an aqueous base?",
+   "type": "mcq",
+   "choices": [
+    "C2H5NH2",
+    "CH3NH2",
+    "(C2H5)3N",
+    "(CH3)4N+Br–"
+   ],
+   "correct": 1,
+   "explanation": "This reaction is similar to the Gabriel synthesis. Phthalimide acts as a nucleophile, the methyl carbon acts as an electrophile, and bromide acts as the leaving group. Therefore, the reaction between methyl bromide and phthalimide results in the formation of methyl phthalimide. Subsequent hydrolysis then yields methylamine."
+  },
+  {
+   "q": "Which of the following amino acids contain(s) sulfur? Cysteine .            Serine I.            Methionine",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "I and III only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 1,
+   "explanation": "Cysteine is well known for containing a sulfur atom because it is able to form disulfide bridges; however, methionine also contains a sulfur atom in its R group."
+  },
+  {
+   "q": "Nylon, a polyamide, is produced from hexanediamine and a substance X. This substance X is most probably a(n):",
+   "type": "mcq",
+   "choices": [
+    "amine.",
+    "carboxylic acid.",
+    "ketone.",
+    "alcohol."
+   ],
+   "correct": 1,
+   "explanation": "An amide is formed from an amine and a carboxyl group or its acyl derivatives. In this question, an amine is already given; the compound to be identified must be an acyl compound. The only acyl compound among the choices given is a carboxylic acid."
+  },
+  {
+   "q": "Intermediates in the Strecker synthesis include all of the following nitrogen-containing functional groups EXCEPT a(n):",
+   "type": "mcq",
+   "choices": [
+    "nitrile.",
+    "imine.",
+    "amide.",
+    "amine."
+   ],
+   "correct": 2,
+   "explanation": "During the Strecker synthesis, ammonia attacks a carbonyl, forming an imine, (B). This imine is attacked by cyanide, forming an amine, (D), and a nitrile, (A). Amide bonds are formed between amino acids, but do not appear during the Strecker synthesis."
+  },
+  {
+   "q": "A biochemist is synthesizing valine, shown below, using the Strecker synthesis. Which of the following carbonyl-containing compounds would be an appropriate starting reactant in this synthesis?",
+   "type": "mcq",
+   "choices": [
+    "2-Propanone",
+    "Propanal",
+    "2-Methylpropanal",
+    "Butanal"
+   ],
+   "correct": 2,
+   "explanation": "The Strecker synthesis creates an amino acid from an aldehyde. The carbonyl carbon ultimately becomes the α-carbon of the amino acid. Any remaining alkyl chain becomes the R group, as shown below. The starting compound is therefore 2-methylpropanal (isobutyraldehyde)."
+  },
+  {
+   "q": "Why is the C–N bond of an amide planar? It has partial double-bond character. .                  It is sp3-hybridized. I.                  It has some sp2 character.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "I and II only",
+    "I and III only"
+   ],
+   "correct": 3,
+   "explanation": "One resonance structure of a C–N bond in an amide has the double bond between the C and N, not between the C and O. Thus, the C–N bond of an amide has some sp2 character, and sp2-hybridized atoms exhibit planar geometry."
+  },
+  {
+   "q": "Which of the primary methods of amino acid synthesis results in an optically active solution?",
+   "type": "mcq",
+   "choices": [
+    "The Strecker synthesis only",
+    "The Gabriel synthesis only",
+    "Both the Strecker and Gabriel syntheses",
+    "Neither the Strecker nor the Gabriel syntheses"
+   ],
+   "correct": 3,
+   "explanation": "Both the Strecker and Gabriel syntheses contain planar intermediates, which can be attacked from either side by a nucleophile. This results in a racemic mixture of enantiomers, and the solution will therefore be optically inactive."
+  },
+  {
+   "q": "During the Gabriel synthesis, phthalimide serves as the:",
+   "type": "mcq",
+   "choices": [
+    "nucleophile.",
+    "base.",
+    "leaving group.",
+    "electrophile."
+   ],
+   "correct": 0,
+   "explanation": "During the Gabriel synthesis, phthalimide attacks a secondary carbon in diethyl bromomalonate. The secondary carbon is the electrophile, (D), and bromide is the leaving group, (C)."
+  },
+  {
+   "q": "Each of the following reaction types occurs during the Gabriel synthesis EXCEPT:",
+   "type": "mcq",
+   "choices": [
+    "decarboxylation.",
+    "nucleophilic substitution.",
+    "dehydration.",
+    "hydrolysis."
+   ],
+   "correct": 2,
+   "explanation": "The Gabriel synthesis includes two nucleophilic substitution steps, followed by hydrolysis and decarboxylation. Dehydration—the loss of a water molecule—is not a part of this reaction."
+  },
+  {
+   "q": "At physiological pH, which two forms of phosphoric acid have the highest concentrations?",
+   "type": "mcq",
+   "choices": [
+    "H3PO4 and",
+    "and",
+    "and",
+    "and H3PO4"
+   ],
+   "correct": 1,
+   "explanation": "The pKa2 of phosphoric acid is close to physiological pH; therefore, at this pH."
+  },
+  {
+   "q": "In aqueous solution, pyrophosphate will likely:",
+   "type": "mcq",
+   "choices": [
+    "form insoluble complexes.",
+    "be stable and inert.",
+    "degrade into inorganic phosphate.",
+    "decrease the polarity of the solvent."
+   ],
+   "correct": 2,
+   "explanation": "Pyrophosphate is unstable in aqueous solution and will degrade to form two equivalents of inorganic phosphate. The solvent is water, which should retain its polarity regardless of the presence of solutes, eliminating (D). Pyrophosphate and inorganic phosphate are small, charged molecules which are relatively soluble, eliminating (A)."
+  },
+  {
+   "q": "What would be the charge of aspartic acid at pH 7?",
+   "type": "mcq",
+   "choices": [
+    "Neutral",
+    "Negative",
+    "Positive",
+    "There is not enough information to answer the question."
+   ],
+   "correct": 1,
+   "explanation": "The amino acid in question is aspartic acid, which is an acidic amino acid because it contains an extra carboxyl group. At neutral pH, both of the carboxyl groups are ionized, so there are two negative charges on the molecule. Only one of the charges is neutralized by the positive charge on the amino group, so the molecule has an overall negative charge."
+  },
+  {
+   "q": "When a bond is created between two nucleotide triphosphates in DNA synthesis, the small molecule released from this reaction is:",
+   "type": "mcq",
+   "choices": [
+    "pyrophosphate.",
+    "inorganic phosphate.",
+    "ATP.",
+    "organic phosphate."
+   ],
+   "correct": 0,
+   "explanation": "As DNA is synthesized, it forms phosphodiester bonds, releasing pyrophosphate, PPi. Pyrophosphate is an inorganic phosphate-containing molecule, but it is not the single phosphate group commonly referred to as inorganic phosphate, (B). The DNA molecule itself is referred to as an organic phosphate, (D)."
+  },
+  {
+   "q": "The hydrogens of phosphoric acid have pKa values that:",
+   "type": "mcq",
+   "choices": [
+    "allow high buffering capacity over a small pH range.",
+    "allow moderate buffering capacity over a large pH range.",
+    "allow low buffering capacity over a small pH range.",
+    "do not allow buffering."
+   ],
+   "correct": 1,
+   "explanation": "Phosphoric acid has three hydrogens with pKa values spread across the pH range. This allows some degree of buffering over almost the entire standard pH range from 0 to 14."
+  }
+ ]
+}

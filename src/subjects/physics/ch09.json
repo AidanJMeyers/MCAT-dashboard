@@ -1,0 +1,92 @@
+{
+ "id": 9,
+ "num": 9,
+ "title": "Atomic and Nuclear Phenomena",
+ "slug": "atomic_and_nuclear_phenomena",
+ "sections": [
+  {
+   "title": "9.1 The Photoelectric Effect",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch09_atomic_and_nuclear_phenomena/fig01.png",
+     "alt": "Chapter 9 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch09_atomic_and_nuclear_phenomena/fig02.png",
+     "alt": "Chapter 9 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch09_atomic_and_nuclear_phenomena/fig03.png",
+     "alt": "Chapter 9 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch09_atomic_and_nuclear_phenomena/fig04.png",
+     "alt": "Chapter 9 figure 4",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch09_atomic_and_nuclear_phenomena/fig05.png",
+     "alt": "Chapter 9 figure 5",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "9.2 Absorption and Emission of Light",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch09_atomic_and_nuclear_phenomena/fig06.png",
+     "alt": "Figure 9.2.",
+     "caption": "Figure 9.2."
+    },
+    {
+     "src": "physics/ch09_atomic_and_nuclear_phenomena/fig07.png",
+     "alt": "Figure 9.3 Absorption Spectrum of the Atmosphere",
+     "caption": "Figure 9.3 Absorption Spectrum of the Atmosphere"
+    }
+   ]
+  },
+  {
+   "title": "9.3 Nuclear Binding Energy and Mass Defect",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "9.4 Nuclear Reactions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch09_atomic_and_nuclear_phenomena/fig08.png",
+     "alt": "Figure 9.4. By this",
+     "caption": "Figure 9.4. By this"
+    },
+    {
+     "src": "physics/ch09_atomic_and_nuclear_phenomena/fig09.png",
+     "alt": "Figure 9.4 Hydrogen Fusion in the Sun, Creating Helium Nuclei",
+     "caption": "Figure 9.4 Hydrogen Fusion in the Sun, Creating Helium Nuclei"
+    },
+    {
+     "src": "physics/ch09_atomic_and_nuclear_phenomena/fig10.png",
+     "alt": "Figure 9.5.",
+     "caption": "Figure 9.5."
+    },
+    {
+     "src": "physics/ch09_atomic_and_nuclear_phenomena/fig11.png",
+     "alt": "Chapter 9 figure 11",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch09_atomic_and_nuclear_phenomena/fig12.png",
+     "alt": "Chapter 9 figure 12",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": []
+}

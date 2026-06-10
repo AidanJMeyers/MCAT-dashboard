@@ -1,0 +1,111 @@
+{
+ "id": 7,
+ "num": 7,
+ "title": "Waves and Sound",
+ "slug": "waves_and_sound",
+ "sections": [
+  {
+   "title": "7.1 General Wave Characteristics",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch07_waves_and_sound/fig01.png",
+     "alt": "Chapter 7 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig02.png",
+     "alt": "Chapter 7 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig03.png",
+     "alt": "Figure 7.1a. In any waveform, energy is delivered",
+     "caption": "Figure 7.1a. In any waveform, energy is delivered"
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig04.png",
+     "alt": "Figure 7.1 Wave Types",
+     "caption": "Figure 7.1 Wave Types"
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig05.png",
+     "alt": "Figure 7.2 Anatomy of a Wave",
+     "caption": "Figure 7.2 Anatomy of a Wave"
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig06.png",
+     "alt": "Figure 7.3 Phase Difference",
+     "caption": "Figure 7.3 Phase Difference"
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig07.png",
+     "alt": "Figure 7.4. If the free end of the string is continuously",
+     "caption": "Figure 7.4. If the free end of the string is continuously"
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig08.png",
+     "alt": "Figure 7.4 Traveling Wave",
+     "caption": "Figure 7.4 Traveling Wave"
+    }
+   ]
+  },
+  {
+   "title": "7.2 Sound",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch07_waves_and_sound/fig09.png",
+     "alt": "Figure 7.5.",
+     "caption": "Figure 7.5."
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig10.png",
+     "alt": "Chapter 7 figure 10",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig11.png",
+     "alt": "Chapter 7 figure 11",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig12.png",
+     "alt": "Figure 7.6c. All the possible frequencies that the string",
+     "caption": "Figure 7.6c. All the possible frequencies that the string"
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig13.png",
+     "alt": "Figure 7.7 First, Second, and Third Harmonics of an Open Pipe",
+     "caption": "Figure 7.7 First, Second, and Third Harmonics of an Open Pipe"
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig14.png",
+     "alt": "Figure\n7.8b. The fifth harmonic (second overtone) has a wavelength that is four-fifths",
+     "caption": "Figure\n7.8b. The fifth harmonic (second overtone) has a wavelength that is four-fifths"
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig15.png",
+     "alt": "Figure 7.9. Because the speed of the wave and travel time is known, the machine",
+     "caption": "Figure 7.9. Because the speed of the wave and travel time is known, the machine"
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig16.png",
+     "alt": "Chapter 7 figure 16",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig17.png",
+     "alt": "Chapter 7 figure 17",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch07_waves_and_sound/fig18.png",
+     "alt": "Chapter 7 figure 18",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": []
+}

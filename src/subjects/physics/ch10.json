@@ -1,0 +1,57 @@
+{
+ "id": 10,
+ "num": 10,
+ "title": "Mathematics",
+ "slug": "mathematics",
+ "sections": [
+  {
+   "title": "10.1 Arithmetic and Significant Figures",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch10_mathematics/fig01.png",
+     "alt": "Chapter 10 figure 1",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "10.2 Exponents and Logarithms",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch10_mathematics/fig02.png",
+     "alt": "Chapter 10 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch10_mathematics/fig03.png",
+     "alt": "Chapter 10 figure 3",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "10.3 Trigonometry",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch10_mathematics/fig04.png",
+     "alt": "Figure 10.1 Right Triangle and Sides",
+     "caption": "Figure 10.1 Right Triangle and Sides"
+    },
+    {
+     "src": "physics/ch10_mathematics/fig05.png",
+     "alt": "Figure 10.2 Special Right Triangles",
+     "caption": "Figure 10.2 Special Right Triangles"
+    }
+   ]
+  },
+  {
+   "title": "10.4 Problem-Solving",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": []
+}

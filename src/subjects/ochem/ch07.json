@@ -1,0 +1,318 @@
+{
+ "id": 7,
+ "num": 7,
+ "title": "Aldehydes and Ketones II: Enolates",
+ "slug": "aldehydes_and_ketones_ii_enolates",
+ "sections": [
+  {
+   "title": "7.1 General Principles",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig01.png",
+     "alt": "Chapter 7 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig02.png",
+     "alt": "Chapter 7 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig03.png",
+     "alt": "Figure 7.1. The acidity of α-hydrogens",
+     "caption": "Figure 7.1. The acidity of α-hydrogens"
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig14.png",
+     "alt": "Chapter 7 figure 14",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig15.png",
+     "alt": "Chapter 7 figure 15",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig16.png",
+     "alt": "Chapter 7 figure 16",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig17.png",
+     "alt": "Chapter 7 figure 17",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig18.png",
+     "alt": "Chapter 7 figure 18",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig19.png",
+     "alt": "Chapter 7 figure 19",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig20.png",
+     "alt": "Chapter 7 figure 20",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig21.png",
+     "alt": "Chapter 7 figure 21",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig22.png",
+     "alt": "Chapter 7 figure 22",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "7.2 Enolate Chemistry",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig04.png",
+     "alt": "Chapter 7 figure 4",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig05.png",
+     "alt": "Figure 7.2, is",
+     "caption": "Figure 7.2, is"
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig06.png",
+     "alt": "Figure 7.3, in which the",
+     "caption": "Figure 7.3, in which the"
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig07.png",
+     "alt": "Figure 7.4. The equilibrium between these forms is",
+     "caption": "Figure 7.4. The equilibrium between these forms is"
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig08.png",
+     "alt": "Figure 7.5.",
+     "caption": "Figure 7.5."
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig09.png",
+     "alt": "Chapter 7 figure 9",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "7.3 Aldol Condensation",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig10.png",
+     "alt": "Figure 7.6.  Aldol Condensation, Step 1: Forming the Aldol",
+     "caption": "Figure 7.6.  Aldol Condensation, Step 1: Forming the Aldol"
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig11.png",
+     "alt": "Figure 7.7.  Aldol Condensation, Step 2: Dehydration of the Aldol",
+     "caption": "Figure 7.7.  Aldol Condensation, Step 2: Dehydration of the Aldol"
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig12.png",
+     "alt": "Figure 7.8.  Retro-Aldol Reaction",
+     "caption": "Figure 7.8.  Retro-Aldol Reaction"
+    },
+    {
+     "src": "ochem/ch07_aldehydes_and_ketones_ii_enolates/fig13.png",
+     "alt": "Chapter 7 figure 13",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the product of the reaction below?",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 3,
+   "explanation": "One mole of aldehyde reacts with one mole of alcohol via a nucleophilic addition reaction to form a product called a hemiacetal. In a hemiacetal, an –OH group, an –OR group, a hydrogen atom, and an –R group are attached to the same carbon atom."
+  },
+  {
+   "q": "The reaction below is an example of:",
+   "type": "mcq",
+   "choices": [
+    "esterification.",
+    "tautomerization.",
+    "elimination.",
+    "dehydration."
+   ],
+   "correct": 1,
+   "explanation": "Tautomerization is the interconversion of two isomers in which a hydrogen and a double bond are moved. The keto and enol tautomers of aldehydes and ketones are common examples of tautomers seen on Test Day. Note that the equilibrium lies to the left because the keto form is more stable. Esterification, (A), is the formation of esters from carboxylic acids and alcohols. Elimination, (C), is a reaction in which a part of a reactant is removed and a new multiple bond is introduced. Dehydration, (D), is a reaction in which a molecule of water is eliminated."
+  },
+  {
+   "q": "Which of the following reactions would produce the compound below?",
+   "type": "mcq",
+   "choices": [
+    "CH3CHO + CH3CH2CH2CHO →",
+    "CH3COCH3 + CH3CH2CH2CHO →",
+    "CH3CH2COCH3 + CH3CHO →",
+    "CH3CH2CHO + CH3CH2CHO →"
+   ],
+   "correct": 3,
+   "explanation": "The reactions listed in the answer choices are examples of aldol condensations. In the presence of a base, the α-hydrogen is abstracted from an aldehyde, forming an enolate ion, [CH3CHCHO]–. This enolate ion then attacks the carbonyl group of the other aldehyde molecule, CH3CH2CHO, forming the pictured aldol."
+  },
+  {
+   "q": "Why does the equilibrium between keto and enol tautomers lie far to the keto side? The keto form is more thermodynamically stable. .          The enol form is lower energy. I.          The enol form is more thermodynamically stable.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "III only",
+    "I and II only",
+    "II and III only"
+   ],
+   "correct": 0,
+   "explanation": "The keto–enol equilibrium lies far to the keto side because the keto form is significantly more thermodynamically stable than the enol form. This thermodynamic stability stems from the fact that the oxygen is more electronegative than the carbon, and the keto tautomer puts more electron density around the oxygen than the enol tautomer. If the enol tautomer is less thermodynamically stable, it is also higher energy than the keto tautomer."
+  },
+  {
+   "q": "The aldol condensation is an example of which reaction type(s)? Dehydration .            Cleavage I.            Nucleophilic addition",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "I and III only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 1,
+   "explanation": "The aldol condensation is both a dehydration reaction because a molecule of water is lost, and a nucleophilic addition reaction because the nucleophilic enolate attacks and bonds to the carbonyl carbon."
+  },
+  {
+   "q": "Which of the hydrogens in the following molecule is the most acidic?",
+   "type": "mcq",
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "correct": 1,
+   "explanation": "This hydrogen is on the carbon between two carbonyls, which means that it is particularly acidic. This is due to both the inductive effects of the two oxygen atoms in the carbonyls and the resonance stabilization of the anion between the carbonyl groups."
+  },
+  {
+   "q": "When reacted with ammonia (NH3) at 200°C, which enolate of a carbonyl-containing compound would predominate?",
+   "type": "mcq",
+   "choices": [
+    "Kinetic enolate",
+    "Thermodynamic enolate",
+    "Neither enolate; they would be present in roughly equal proportions.",
+    "Neither enolate; these reaction conditions would not form either enolate."
+   ],
+   "correct": 1,
+   "explanation": "At high temperatures and with a weak base like NH3, the thermodynamic enolate will be favored. The reaction proceeds slowly with the weak base, giving the kinetic enolate time to interconvert to the more stable thermodynamic enolate."
+  },
+  {
+   "q": "Which of the following compounds would be most reactive toward a nucleophile?",
+   "type": "mcq",
+   "choices": [
+    "Pentanal",
+    "3-pentanone",
+    "Pentane",
+    "2-nonanone"
+   ],
+   "correct": 0,
+   "explanation": "Aldehydes are generally more reactive than ketones because the additional alkyl group of a ketone is sterically hindering; this alkyl group is also electron-donating, destabilizing the carbanion intermediate. This eliminates (B) and (D). The carbonyl carbon is highly electrophilic; alkanes lack any significant electrophilicity, eliminating (C)."
+  },
+  {
+   "q": "α-hydrogens of a ketone are acidic due to: resonance stabilization. .            the electron-withdrawing properties of the alkyl groups. I.            the electronegative carbonyl oxygen.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "I and III only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 1,
+   "explanation": "When α-carbons are deprotonated, the negative charge is resonance stabilized in part by the electronegative carbonyl oxygen, which is electron-withdrawing. Alkyl groups are actually electron-donating, which destabilizes carbanion intermediates; this invalidates statement II."
+  },
+  {
+   "q": "Which of the following is considered a tautomer of the imine functional group?",
+   "type": "mcq",
+   "choices": [
+    "Cyanohydrin",
+    "Hydrazone",
+    "Enamine",
+    "Semicarbazone"
+   ],
+   "correct": 2,
+   "explanation": "All of the answer choices are nitrogen-containing functional groups, but only enamines are tautomers of imines. Imines contain a double bond between a carbon and a nitrogen; enamines contain a double bond between two carbons as well as an amine."
+  },
+  {
+   "q": "When succinaldehyde is treated with lithium diisopropylamide (LDA), it: becomes more nucleophilic. .          becomes less nucleophilic. I.            generates a carbanion.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "I and III only",
+    "II and III only"
+   ],
+   "correct": 2,
+   "explanation": "When succinaldehyde (or any aldehyde or ketone with α-hydrogens) is treated with a strong base like lithium diisopropylamide (LDA), it forms the more nucleophilic enolate carbanion."
+  },
+  {
+   "q": "Which of the following best describes the final product of an aldol condensation?",
+   "type": "mcq",
+   "choices": [
+    "1,3-dicarbonyl",
+    "1,2-dicarbonyl",
+    "α,β-unsaturated carbonyl",
+    "β,γ-unsaturated carbonyl"
+   ],
+   "correct": 2,
+   "explanation": "Aldol condensations contain two main steps. In the first step, the α- carbon of an aldehyde or ketone is deprotonated, generating the enolate carbanion. This carbanion can then attack another aldehyde or ketone, generating the aldol. In the second step, the aldol is dehydrated, forming a double bond. This double bond is between the α- and β-carbons, so the molecule is an α,β-unsaturated carbonyl."
+  },
+  {
+   "q": "When benzaldehyde is reacted with acetone, which will act as the nucleophile?",
+   "type": "mcq",
+   "choices": [
+    "Benzaldehyde, after addition of strong acid",
+    "Benzaldehyde, after reaction with strong base",
+    "Acetone, after addition of strong acid",
+    "Acetone, after reaction with strong base"
+   ],
+   "correct": 3,
+   "explanation": "Because benzaldehyde lacks an α-proton, it cannot be reacted with base to form the nucleophilic enolate carbanion. Therefore, acetone will act as our nucleophile, and both (A) and (B) can be eliminated. In order to perform this reaction, which is an aldol condensation, acetone will be reacted with a strong base—not a strong acid—in order to extract the α- hydrogen and form the enolate anion, which will act as a nucleophile."
+  },
+  {
+   "q": "3-hydroxybutanal can be formed by the reaction of:",
+   "type": "mcq",
+   "choices": [
+    "methanol in diethyl ether.",
+    "ethanal in base, then in acid.",
+    "butanal in strong acid.",
+    "methanal and ethanal in catalytic base."
+   ],
+   "correct": 1,
+   "explanation": "This is an example of an aldol condensation, but stopped after aldol formation (before dehydration). After the aldol is formed using strong base, the reaction may be halted by the addition of acid. Butanal in strong acid, described in (C), would be likely to deprotonate without gaining the hydroxyl group. Methanal in diethyl ether would not be reactive because diethyl ether is not a strong enough base to abstract the α-hydrogen, eliminating (A). Reaction of the two aldehydes methanal and ethanal in catalytic base would form 3-hydroxypropanal (which would dehydrate to form propenal), not 3-hydroxybutanal."
+  },
+  {
+   "q": "The catalytic production of dihydroxyacetone and glyceraldehyde 3- phosphate (2-hydroxy-3-oxopropyl dihydrogen phosphate) from fructose-1,6-bisphosphate ({[(2S,3S,4S,5R)-3,4-dihydroxy-5- [(phosphonooxy)methyl]oxolan-2-yl]methoxy}phosphonic acid) is what type of reaction?",
+   "type": "mcq",
+   "choices": [
+    "Aldol condensation",
+    "Retro-aldol reaction",
+    "Dehydration",
+    "Nucleophilic attack"
+   ],
+   "correct": 1,
+   "explanation": "The nomenclature in this question is well above what one needs to be able to draw on the MCAT; however, we can discern that we are forming a ketone and an aldehyde from a single molecule. The hallmark of a reverse aldol reaction is the breakage of a carbon–carbon bond, forming two aldehydes, two ketones, or one of each. In an aldol condensation, (A), we would expect to form a single product by combining two aldehydes, two ketones, or one of each. A dehydration reaction, (C), should release a water molecule, rather than breaking apart a large organic molecule into two smaller molecules. A nucleophilic attack, (D), should feature the formation of a bond between a nucleophile and an electrophile; again, we would not expect to break apart a large organic molecule into two smaller molecules. Note that simply noting how many reactants and products are present in the reaction is sufficient to determine the answer."
+  }
+ ]
+}

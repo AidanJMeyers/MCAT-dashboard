@@ -1,0 +1,389 @@
+{
+ "id": 8,
+ "num": 8,
+ "title": "The Gas Phase",
+ "slug": "the_gas_phase",
+ "sections": [
+  {
+   "title": "8.1 The Gas Phase",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch08_the_gas_phase/fig01.png",
+     "alt": "Chapter 8 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig02.png",
+     "alt": "Chapter 8 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig03.png",
+     "alt": "Figure 8.1.  Schematic of a Simple Mercury Barometer",
+     "caption": "Figure 8.1.  Schematic of a Simple Mercury Barometer"
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig27.png",
+     "alt": "Chapter 8 figure 27",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig28.png",
+     "alt": "Chapter 8 figure 28",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig29.png",
+     "alt": "Chapter 8 figure 29",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig30.png",
+     "alt": "Chapter 8 figure 30",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig31.png",
+     "alt": "Chapter 8 figure 31",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig32.png",
+     "alt": "Chapter 8 figure 32",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig33.png",
+     "alt": "Chapter 8 figure 33",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig34.png",
+     "alt": "Chapter 8 figure 34",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig35.png",
+     "alt": "Chapter 8 figure 35",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "8.2 Ideal Gases",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch08_the_gas_phase/fig04.png",
+     "alt": "Figure 8.2.  Ideal Gas Isothermal Curves",
+     "caption": "Figure 8.2.  Ideal Gas Isothermal Curves"
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig05.png",
+     "alt": "Chapter 8 figure 5",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig06.png",
+     "alt": "Chapter 8 figure 6",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig07.png",
+     "alt": "Chapter 8 figure 7",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig08.png",
+     "alt": "Chapter 8 figure 8",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig09.png",
+     "alt": "Figure 8.2",
+     "caption": "Figure 8.2"
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig10.png",
+     "alt": "Chapter 8 figure 10",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig11.png",
+     "alt": "Figure 8.4.  Charles’s Law (Isobaric Expansion)",
+     "caption": "Figure 8.4.  Charles’s Law (Isobaric Expansion)"
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig12.png",
+     "alt": "Figure 8.5 graphs this concept, which is nearly identical to Charles’s law.",
+     "caption": "Figure 8.5 graphs this concept, which is nearly identical to Charles’s law."
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig13.png",
+     "alt": "Figure 8.5.  Gay-Lussac’s Law (Isovolumetric Heating)",
+     "caption": "Figure 8.5.  Gay-Lussac’s Law (Isovolumetric Heating)"
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig14.png",
+     "alt": "Chapter 8 figure 14",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig15.png",
+     "alt": "Chapter 8 figure 15",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig16.png",
+     "alt": "Figure 8.6.  Alveolar Capillary Gas Exchange",
+     "caption": "Figure 8.6.  Alveolar Capillary Gas Exchange"
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig17.png",
+     "alt": "Chapter 8 figure 17",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "8.3 Kinetic Molecular Theory",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch08_the_gas_phase/fig18.png",
+     "alt": "Chapter 8 figure 18",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig19.png",
+     "alt": "Figure 8.7.  Maxwell–Boltzmann Distribution Curves of Molecular Speeds at",
+     "caption": "Figure 8.7.  Maxwell–Boltzmann Distribution Curves of Molecular Speeds at"
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig20.png",
+     "alt": "Figure 8.8.",
+     "caption": "Figure 8.8."
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig21.png",
+     "alt": "Figure 8.8.  Diffusion of Solutes in a Solvent",
+     "caption": "Figure 8.8.  Diffusion of Solutes in a Solvent"
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig22.png",
+     "alt": "Figure 8.9.  Maxwell–Boltzmann Distribution Curves of Molecular Speeds for",
+     "caption": "Figure 8.9.  Maxwell–Boltzmann Distribution Curves of Molecular Speeds for"
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig23.png",
+     "alt": "Chapter 8 figure 23",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "8.4 Real Gases",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch08_the_gas_phase/fig24.png",
+     "alt": "Figure 8.11.  Real Gas Isothermal Curves",
+     "caption": "Figure 8.11.  Real Gas Isothermal Curves"
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig25.png",
+     "alt": "Chapter 8 figure 25",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch08_the_gas_phase/fig26.png",
+     "alt": "Chapter 8 figure 26",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following sets of conditions would be LEAST likely to result in ideal gas behavior?",
+   "type": "mcq",
+   "choices": [
+    "High pressure and low temperature",
+    "Low temperature and large volume",
+    "High pressure and large volume",
+    "Low pressure and high temperature"
+   ],
+   "correct": 0,
+   "explanation": "Gases deviate from ideal behavior at higher pressures and lower volumes and temperatures, all of which force molecules closer together. The closer they are, the more they can participate in intermolecular forces, which violates the definition of an ideal gas. At low temperatures, the kinetic energy of the particles is reduced, so collisions with other particles or the walls of the container are more likely to result in significant changes in kinetic energy."
+  },
+  {
+   "q": "What is the density of neon gas in    at STP?",
+   "type": "mcq",
+   "choices": [
+    "452.3",
+    "226.0",
+    "1.802",
+    "0.9018"
+   ],
+   "correct": 3,
+   "explanation": "Density equals mass divided by volume. The mass of 1 mole of neon gas equals 20.2 grams. At STP, 1 mole of neon occupies 22.4 L."
+  },
+  {
+   "q": "A leak of helium gas through a small hole occurs at a rate of How will the leakage rates of neon and oxygen gases compare to helium at the same temperature and pressure?",
+   "type": "mcq",
+   "choices": [
+    "Neon will leak faster than helium; oxygen will leak faster than helium.",
+    "Neon will leak faster than helium; oxygen will leak slower than helium.",
+    "Neon will leak slower than helium; oxygen will leak faster than helium.",
+    "Neon will leak slower than helium; oxygen will leak slower than helium."
+   ],
+   "correct": 3,
+   "explanation": "Graham’s law of effusion states that the relative rates of effusion of two gases at the same temperature and pressure are given by the inverse ratio of the square roots of the masses of the gas particles. In other words, a gas with a higher molar mass will leak more slowly than a gas with a lower molar mass. Both neon and oxygen gases will leak at slower rates than helium because they both have more mass than helium."
+  },
+  {
+   "q": "A 0.040 g piece of magnesium is placed in a beaker of hydrochloric acid. Hydrogen gas is generated according to the following equation: Mg (s) + 2 HCl (aq) → MgCl2 (aq) + H2 (g) The gas is collected over water at 25°C, and the gauge pressure during the experiment reads 784 mmHg. The gas displaces a volume of 100 mL. The vapor pressure of water at 25°C is approximately 24.0 mmHg. Based on this data, how many moles of hydrogen are produced in this reaction? (Note:",
+   "type": "mcq",
+   "choices": [
+    "4.04 × 10−5 moles hydrogen",
+    "4.09 × 10−3 moles hydrogen",
+    "3.07 × 10−2 moles hydrogen",
+    "3.11 moles hydrogen"
+   ],
+   "correct": 1,
+   "explanation": "The pressure of the gas is calculated by subtracting the vapor pressure of water from the measured pressure during the experiment: 784 mmHg – 24 mmHg = 760 mmHg, or 1 atm. This is because the reaction is carried out in an aqueous environment; the water present will contribute to the partial pressures of the gas over the liquid. The ideal gas law can be used to calculate the moles of hydrogen gas. The volume of the gas is 0.100 L, the temperature is 298 K, and Plugging in gives: (A) incorrectly substitutes 8.314 into the gas law, rather than 0.0821. Remember that the value of R depends on the other variables in the equation; using 1 atm in the numerator necessitates using 0.0821. (C) incorrectly substitutes the wrong R and keeps the pressure in mmHg. (D) also keeps the pressure in mmHg."
+  },
+  {
+   "q": "Ideal gases: have no volume. .           have particles with no attractive forces between them. I.           have no mass.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "I and II only",
+    "I, II, and III"
+   ],
+   "correct": 1,
+   "explanation": "Ideal gases are said to have no attractive forces between molecules. While each particle within the gas is considered to have negligible volume, ideal gases as a whole certainly do have a measurable volume, thus option I is eliminated. Gases have molar masses, thus option III is eliminated."
+  },
+  {
+   "q": "An 8.00 g sample of NH4NO3 (s) is placed into an evacuated 10 L flask and heated to 227°C. After the NH4NO3 completely decomposes, what is the approximate pressure in the flask? NH4NO3 (s) → N2O (g) + H2O (g)",
+   "type": "mcq",
+   "choices": [
+    "0.410 atm",
+    "0.600 atm",
+    "0.821 atm",
+    "1.23 atm"
+   ],
+   "correct": 3,
+   "explanation": "The first thing to do is balance the given chemical equation: NH4NO3 (s) → N2O (g) + 2 H2O (g). The mass given is 8.00 g, which represents 0.1 mol NH4NO3 ( ). When 0.1 mol of the solid decomposes, it will form 0.1 mol N2O and 0.2 mol water. This gives approximately 0.3 moles of gas product. The ideal gas equation can be used to obtain the pressure in the flask: (C) is the result if one assumes the equation is balanced, obtaining 0.2 mol gas as the product."
+  },
+  {
+   "q": "The kinetic molecular theory states that:",
+   "type": "mcq",
+   "choices": [
+    "the average kinetic energy of a molecule of gas is directly proportional to the temperature of the gas in kelvins.",
+    "collisions between gas molecules are inelastic.",
+    "gas particles occupy discrete areas of space.",
+    "all gas molecules have the same kinetic energy at the same temperature."
+   ],
+   "correct": 0,
+   "explanation": "The average kinetic energy is directly proportional to the temperature of a gas in kelvins. The kinetic molecular theory states that collisions between molecules are elastic and thus do not result in a loss of energy, eliminating (B). Gas particles are assumed to take up negligible space in kinetic molecular theory, eliminating (C). While the average kinetic energy of any gas as a whole is the same at a given temperature, the particles themselves have a distribution of speeds (as seen in the Maxwell– Boltzmann distribution curve), eliminating (D)."
+  },
+  {
+   "q": "The plots of two gases at STP are shown below. One of the gases is 1.0 L of helium, and the other is 1.0 L of bromine. Which plot corresponds to each gas and why?",
+   "type": "mcq",
+   "choices": [
+    "Curve A is helium and curve B is bromine because helium has a smaller molar mass than bromine.",
+    "Curve A is helium and curve B is bromine because the average kinetic energy of bromine is greater than the average kinetic energy of helium.",
+    "Curve A is bromine and curve B is helium because helium has a smaller molar mass than bromine.",
+    "Curve A is bromine and curve B is helium because the average kinetic energy of bromine is greater than the average kinetic energy of helium."
+   ],
+   "correct": 2,
+   "explanation": "At STP, the difference between the distribution of speeds for helium and bromine gas is due to the difference in molar mass. Helium has a smaller molar mass than bromine. Particles with small masses travel faster than those with large masses, so the helium gas corresponds to curve B, which has a higher average speed. Because the gases are at the same temperature (273 K), they have the same average kinetic energy, eliminating (B) and (D)."
+  },
+  {
+   "q": "At sea level and 25°C, the solubility of oxygen gas in water is 1.25 × 10−3 M. In Denver, a city in the United States that lies high above sea level, the atmospheric pressure is 0.800 atm. What is the solubility of oxygen in water in Denver?",
+   "type": "mcq",
+   "choices": [
+    "1.00 × 10−3 M",
+    "1.05 × 10−3 M",
+    "1.50 × 10−3 M",
+    "2.56 × 10−3 M"
+   ],
+   "correct": 0,
+   "explanation": "The solubility of gases in liquids is directly proportional to the atmospheric pressure, as shown by Henry’s law. Note that the use of fractions allows this problem to be simplified more readily than it would be with decimals."
+  },
+  {
+   "q": "Given that the gases at the center of the sun have an average molar mass of            compressed to a density of           under 1.30 × 109 atm of pressure, what is the temperature at the center of the sun?",
+   "type": "mcq",
+   "choices": [
+    "2.6 × 104 K",
+    "2.6 × 106 K",
+    "2.6 × 107 K",
+    "2.6 × 1010 K"
+   ],
+   "correct": 2,
+   "explanation": "The ideal gas law can be modified to include density (ρ) because the number of moles of gas, n, is equal to the mass divided by the molar mass. Thus, Isolating for temperature gives:"
+  },
+  {
+   "q": "The gaseous state of matter is characterized by which of the following properties? Gases are compressible. .           Gases assume the volume of their containers. I.           Gas particles exist as diatomic molecules.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "I and II only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 1,
+   "explanation": "Gases are easily compressible because they travel freely with large amounts of space between molecules. Because gas particles are far apart from each other and in rapid motion, they tend to take up the volume of their container. Many gases exist as diatomic molecules, but this is not a property that characterizes all gases, eliminating option III."
+  },
+  {
+   "q": "A gas at a temperature of 27°C has a volume of 60.0 mL. What temperature change is needed to increase this gas to a volume of 90.0 mL?",
+   "type": "mcq",
+   "choices": [
+    "A reduction of 150°C",
+    "An increase of 150°C",
+    "A reduction of 13.5°C",
+    "An increase of 13.5°C"
+   ],
+   "correct": 1,
+   "explanation": "We will use Charles’s law. First, we must convert the temperature to kelvins by adding 273 to get 300 K as the initial temperature. Think of this as a proportionality: If the volume is multiplied by the temperature will also have to be multiplied by Thus the final temperature is 450 K, which represents a 150 K increase (which is equivalent to an increase of 150°C)."
+  },
+  {
+   "q": "A gaseous mixture contains nitrogen and helium and has a total pressure of 150 torr. The nitrogen particles comprise 80 percent of the gas, and the helium particles make up the other 20 percent of the gas. What is the pressure exerted by each individual gas?",
+   "type": "mcq",
+   "choices": [
+    "100 torr nitrogen, 50.0 torr helium",
+    "120 torr nitrogen, 30.0 torr helium",
+    "30.0 torr nitrogen, 120 torr helium",
+    "50.0 torr nitrogen, 100 torr helium"
+   ],
+   "correct": 1,
+   "explanation": "The partial pressure of each gas is found by multiplying the total pressure by the mole fraction of the gas. Because 80 percent of the molecules are nitrogen, the mole fraction of nitrogen gas is equal to 0.80. Similarly, for helium, the mole fraction is 0.20. To find the pressure exerted by nitrogen, multiply the total pressure (150 torr) by 0.80 to obtain 120 torr of nitrogen. The remainder, 30 torr, is attributable to helium."
+  },
+  {
+   "q": "In which of the following situations is it impossible to predict how the pressure will change for a gas sample?",
+   "type": "mcq",
+   "choices": [
+    "The gas is cooled at a constant volume.",
+    "The gas is heated at a constant volume.",
+    "The gas is heated, and the volume is simultaneously increased.",
+    "The gas is cooled, and the volume is simultaneously increased."
+   ],
+   "correct": 2,
+   "explanation": "Both a change in temperature and a change in volume can affect a gas’s pressure. So if one of those two variables is kept constant, as in (A) and (B), we’ll definitely be able to predict which way the pressure will change. At a constant volume, heating the gas will increase its pressure, and cooling the gas will decrease it. What about when both temperature and volume are changing? If both changes have the same effect on pressure, then we can still predict which way it will change. This is the case in (D). Cooling the gas and increasing its volume both decrease pressure. (C), on the other hand, presents too vague a scenario for us to predict definitively the change in pressure. Heating the gas would amplify the pressure, while increasing the volume would decrease it. Without knowing the magnitude of each influence, it’s impossible to say whether the pressure would increase, decrease, or stay the same."
+  },
+  {
+   "q": "Experimenters notice that the molar concentration of dissolved oxygen in an enclosed water tank has decreased to one-half its original value. In an attempt to counter this decrease, they quadruple the partial pressure of oxygen in the container. What is the final concentration of the gas?",
+   "type": "mcq",
+   "choices": [
+    "Half of the original concentration",
+    "The same as the original concentration",
+    "Double the original concentration",
+    "Quadruple the original concentration"
+   ],
+   "correct": 2,
+   "explanation": "Initially the concentration of the gas is decreased to one-half its original value. Recall that concentration (solubility) and partial pressure are directly related—as one increases, the other increases. If the experimenters then quadruple the partial pressure of oxygen in the vessel, the solubility is also increased by a factor of four. One-half times four gives twice the original concentration value. Misreading the answer choices as being related to the concentration before the experimenters increased the partial pressure leads to (D)."
+  }
+ ]
+}

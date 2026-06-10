@@ -1,0 +1,344 @@
+{
+ "id": 9,
+ "num": 9,
+ "title": "Solutions",
+ "slug": "solutions",
+ "sections": [
+  {
+   "title": "9.1 Nature of Solutions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch09_solutions/fig01.png",
+     "alt": "Chapter 9 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch09_solutions/fig02.png",
+     "alt": "Chapter 9 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch09_solutions/fig03.png",
+     "alt": "Figure 9.1.  Solvation of a Polar Covalent Compound",
+     "caption": "Figure 9.1.  Solvation of a Polar Covalent Compound"
+    },
+    {
+     "src": "gchem/ch09_solutions/fig04.png",
+     "alt": "Figure 9.2.  Solvation of Na+ Ions in Aqueous Solutions",
+     "caption": "Figure 9.2.  Solvation of Na+ Ions in Aqueous Solutions"
+    },
+    {
+     "src": "gchem/ch09_solutions/fig05.png",
+     "alt": "Figure 9.3.",
+     "caption": "Figure 9.3."
+    },
+    {
+     "src": "gchem/ch09_solutions/fig06.png",
+     "alt": "Figure 9.4.  Structure of the Tetraaquadioxouranyl Complex Cation",
+     "caption": "Figure 9.4.  Structure of the Tetraaquadioxouranyl Complex Cation"
+    },
+    {
+     "src": "gchem/ch09_solutions/fig07.png",
+     "alt": "Figure 9.5.",
+     "caption": "Figure 9.5."
+    },
+    {
+     "src": "gchem/ch09_solutions/fig08.png",
+     "alt": "Figure 9.6. The presence of a",
+     "caption": "Figure 9.6. The presence of a"
+    },
+    {
+     "src": "gchem/ch09_solutions/fig09.png",
+     "alt": "Figure 9.7.  Nickel(II) Ion Complexes Display Distinctive Colors",
+     "caption": "Figure 9.7.  Nickel(II) Ion Complexes Display Distinctive Colors"
+    },
+    {
+     "src": "gchem/ch09_solutions/fig10.png",
+     "alt": "Figure 9.8.  Chelation of Iron with Two Molecules of Deferasirox",
+     "caption": "Figure 9.8.  Chelation of Iron with Two Molecules of Deferasirox"
+    },
+    {
+     "src": "gchem/ch09_solutions/fig20.png",
+     "alt": "Chapter 9 figure 20",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch09_solutions/fig21.png",
+     "alt": "Chapter 9 figure 21",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch09_solutions/fig22.png",
+     "alt": "Chapter 9 figure 22",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch09_solutions/fig23.png",
+     "alt": "Chapter 9 figure 23",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch09_solutions/fig24.png",
+     "alt": "Chapter 9 figure 24",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch09_solutions/fig25.png",
+     "alt": "Chapter 9 figure 25",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch09_solutions/fig26.png",
+     "alt": "Chapter 9 figure 26",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "9.2 Concentration",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch09_solutions/fig11.png",
+     "alt": "Chapter 9 figure 11",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch09_solutions/fig12.png",
+     "alt": "Chapter 9 figure 12",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch09_solutions/fig13.png",
+     "alt": "Chapter 9 figure 13",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "9.3 Solution Equilibria",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch09_solutions/fig14.png",
+     "alt": "Chapter 9 figure 14",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch09_solutions/fig15.png",
+     "alt": "Chapter 9 figure 15",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch09_solutions/fig16.png",
+     "alt": "Chapter 9 figure 16",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "9.4 Colligative Properties",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch09_solutions/fig17.png",
+     "alt": "Figure 9.9.",
+     "caption": "Figure 9.9."
+    },
+    {
+     "src": "gchem/ch09_solutions/fig18.png",
+     "alt": "Figure 9.10.  Molecular Basis of Raoult’s Law",
+     "caption": "Figure 9.10.  Molecular Basis of Raoult’s Law"
+    },
+    {
+     "src": "gchem/ch09_solutions/fig19.png",
+     "alt": "Figure 9.11.",
+     "caption": "Figure 9.11."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "An aqueous solution was prepared by mixing 70 g of an unknown nondissociating solute into 100 g of water. The solution has a boiling point of 101.0°C. What is the molar mass of the solute? (Note: )",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 0,
+   "explanation": "The equation ΔTb = iKbm can be used to solve this problem. The change in boiling point is 101.0 − 100 = 1.0°C. Then, plug that into: The van’t Hoff factor for this solute is 1 because the molecule does not dissociate into smaller components. Then, convert to grams of solute using the definition of molality: The mass used in this equation is 0.1 kg because 100 mL of water has a mass of 0.1 kg. Then, determine the molar mass: which is closest to (A)."
+  },
+  {
+   "q": "Which phases of solvent and solute can form a solution? Solid solvent, gaseous solute .             Solid solvent, solid solute I.           Gaseous solvent, gaseous solute",
+   "type": "mcq",
+   "choices": [
+    "I and II only",
+    "I and III only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 3,
+   "explanation": "All three choices can make a solution as long as the two components create a mixture that is of uniform appearance (homogeneous). Hydrogen in platinum is an example of a gas in a solid. Brass and steel are examples of homogeneous mixtures of solids. The air we breathe is an example of a homogeneous mixture of gases; while these are more commonly simply referred to as mixtures, they still fit the criteria of a solution."
+  },
+  {
+   "q": "Two organic liquids, pictured in the figure below, are combined to form a solution. Based on their structures, will the solution closely obey Raoult’s law?",
+   "type": "mcq",
+   "choices": [
+    "Yes; the liquids differ due to the additional methyl group on toluene and, therefore, will not deviate from Raoult’s law.",
+    "Yes; the liquids are very similar and, therefore, will not deviate from Raoult’s law.",
+    "No; the liquids differ due to the additional methyl group on toluene and, therefore, will deviate from Raoult’s law.",
+    "No; the liquids both contain benzene rings, which will interact with each other and cause deviation from Raoult’s law."
+   ],
+   "correct": 1,
+   "explanation": "Benzene and toluene are both organic liquids and have very similar properties. They are both nonpolar and are almost exactly the same size. Raoult’s law states that ideal solution behavior is observed when solute– solute, solvent–solvent, and solute–solvent interactions are all very similar. Therefore, benzene and toluene in solution will be predicted to behave as a nearly ideal solution."
+  },
+  {
+   "q": "Which of the following explanations best describes the mechanism by which solute particles affect the melting point of ice?",
+   "type": "mcq",
+   "choices": [
+    "Melting point is elevated because the kinetic energy of the substance increases.",
+    "Melting point is elevated because the kinetic energy of the substance decreases.",
+    "Melting point is depressed because solute particles interfere with lattice formation.",
+    "Melting point is depressed because solute particles enhance lattice formation."
+   ],
+   "correct": 2,
+   "explanation": "Melting point depresses upon solute addition, making (A) and (B) incorrect. Solute particles interfere with lattice formation, the highly organized state in which solid molecules align themselves. Colder-than- normal conditions are necessary to create the solid structure."
+  },
+  {
+   "q": "The process of formation of a salt solution can be better understood by breaking the process into three steps: .            Breaking the solute into its individual components .           Making room for the solute in the solvent by overcoming intermolecular forces in the solvent .            Allowing solute–solvent interactions to occur to form the solution Which of the following correctly lists the enthalpy changes for these three steps, respectively?",
+   "type": "mcq",
+   "choices": [
+    "Endothermic, exothermic, endothermic",
+    "Exothermic, endothermic, endothermic",
+    "Exothermic, exothermic, endothermic",
+    "Endothermic, endothermic, exothermic"
+   ],
+   "correct": 3,
+   "explanation": "The first step will most likely be endothermic because energy is required to break molecules apart. The second step is also endothermic because the intermolecular forces in the solvent must be overcome to allow incorporation of solute particles. The third step will most likely be exothermic because polar water molecules will interact with the dissolved ions, creating a stable solution and releasing energy."
+  },
+  {
+   "q": "The entropy change when a solution forms can be expressed by the term ΔS°soln. When water molecules become ordered around an ion as it dissolves, the ordering would be expected to make a negative contribution to ΔS°soln. An ion that has more charge density will have a greater hydration effect, or ordering of water molecules. Based on this information, which of the following compounds will have the most negative contribution to ΔS°soln?",
+   "type": "mcq",
+   "choices": [
+    "KCl",
+    "LiF",
+    "CaS",
+    "NaCl"
+   ],
+   "correct": 2,
+   "explanation": "CaS will cause the most negative contribution to ΔS°soln through hydration effects because the Ca2+ and S2− ions have the highest charge density compared to the other ions. All of the other ions have charges of +1 or – 1,whereas Ca2+ and S2− each have charges with a magnitude of 2."
+  },
+  {
+   "q": "When ammonia, NH3, is used as a solvent, it can form complex ions. For example, dissolving AgCl in NH3 will result in the complex ion [Ag(NH3)]2+. What effect would the formation of complex ions have on the solubility of a compound like AgCl in NH3?",
+   "type": "mcq",
+   "choices": [
+    "The solubility of AgCl will increase because complex ion formation will cause more ions to exist in solution, which interact with AgCl to cause it to dissociate.",
+    "The solubility of AgCl will increase because complex ion formation will consume Ag+ ions and cause the equilibrium to shift away from solid AgCl.",
+    "The solubility of AgCl will decrease because Ag+ ions are in complexes, and the Ag+ ions that are not complexed will associate with Cl− to form solid AgCl.",
+    "The solubility of AgCl will decrease because complex ion formation will consume Ag+ ions and cause the equilibrium to shift toward the solid AgCl."
+   ],
+   "correct": 1,
+   "explanation": "Formation of complex ions between silver ions and ammonia will cause more molecules of solid AgCl to dissociate. The equilibrium is driven toward dissociation because the Ag+ ions are essentially being removed from solution when they complex with ammonia. This rationale is based upon Le Châtelier’s principle, stating that when a chemical equilibrium experiences a change in concentration, the system will shift to counteract that change."
+  },
+  {
+   "q": "One hundred grams of sucrose are dissolved in a cup of hot water at 80°C. The cup of water contains 300.00 mL of water. What is the percent composition by mass of sugar in the resulting solution? (Note: Sucrose = C12H22O11, density of water at )",
+   "type": "mcq",
+   "choices": [
+    "25.0%",
+    "25.5%",
+    "33.3%",
+    "34.2%"
+   ],
+   "correct": 1,
+   "explanation": "The mass percent of a solute equals the mass of the solute divided by the mass of the total solution times 100%. Plug in the values given for sucrose, the volume of water and the density of water to determine the %mass of sucrose. Keep in mind that in rounding while calculating, the denominator was estimated to be larger than the actual value, thus giving an answer that is slightly lower than the actual value. Thus the correct answer is (B), 25.5%. (A) results if rounding error is not taken into account. While these answers are very close, the mass of the water must be slightly less than 300 g, given the density value, so the percent composition of sucrose must be slightly higher than 25%. If the solute’s mass is not added to the solvent’s, the calculated value is 34.2%, which is (D). (C) neglects both the addition step and the rounding error."
+  },
+  {
+   "q": "Which of the following combinations of liquids would be expected to have a vapor pressure higher than the vapor pressure that would be predicted by Raoult’s law?",
+   "type": "mcq",
+   "choices": [
+    "Ethanol and hexane",
+    "Acetone and water",
+    "Isopropanol and methanol",
+    "Nitric acid and water"
+   ],
+   "correct": 0,
+   "explanation": "Mixtures that have a higher vapor pressure than predicted by Raoult’s law have stronger solvent–solvent and solute–solute interactions than solvent–solute interactions. Therefore, particles do not want to stay in solution and more readily evaporate, creating a higher vapor pressure than an ideal solution. Two liquids that have different properties, like hexane (hydrophobic) and ethanol (hydrophilic, small) in (A), would not have many interactions with each other and would cause positive deviation; i.e. higher vapor pressure. (B) and (C) are composed of liquids that are similar to one another and would not show significant deviation from Raoult’s law. (D) contains two liquids that would interact very well with each other, which would actually cause a negative deviation from Raoult’s law—when attracted to one other, solutes and solvents prefer to stay in liquid form and have a lower vapor pressure than predicted by Raoult’s law."
+  },
+  {
+   "q": "The salt KCl is dissolved in a beaker. To an observer holding the beaker, the solution begins to feel colder as the KCl dissolves. From this observation, one could conclude that:",
+   "type": "mcq",
+   "choices": [
+    "ΔS°soln is large enough to overcome the unfavorable ΔH°soln.",
+    "KCl is mostly insoluble in water.",
+    "ΔS°soln must be negative when KCl dissolves.",
+    "boiling point depression will occur in this solution."
+   ],
+   "correct": 0,
+   "explanation": "Dissolution is governed by enthalpy and entropy, which are related by the equation ΔG°soln = ΔH°soln − TΔS°soln. The cooling of the solution indicates that heat is used up in this bond-breaking reaction. In other words, dissolution is endothermic, and ΔH is positive. The reaction is occurring spontaneously, so ΔG must be negative. The only way that a positive ΔH can result in a negative ΔG is if entropy, ΔS, is a large, positive value as in (A). Conceptually, that means that the only way the solid can dissolve is if the increase in entropy is great enough to overcome the increase in enthalpy. (B) is incorrect because it is clearly stated in the question stem that KCl dissolves; further, all salts of Group 1 metals are soluble. (C) is incorrect because ΔS°soln must be positive in order for KCl to dissolve. Finally, (D) is incorrect because solute dissolution would cause the boiling point to elevate, not depress. It is also not a piece of evidence that could be found simply by observing the beaker’s temperature change."
+  },
+  {
+   "q": "Which of the following will cause the greatest increase in the boiling point of water when it is dissolved in 1.00 kg H2O?",
+   "type": "mcq",
+   "choices": [
+    "0.4 mol calcium sulfate",
+    "0.5 mol iron(III) nitrate",
+    "1.0 mol acetic acid",
+    "1.0 mol sucrose"
+   ],
+   "correct": 1,
+   "explanation": "The equation to determine the change in boiling point of a solution is as follows: ΔTb = iKbm. m is the molality of the solution, and Kb is the boiling point elevation constant. In this case, the solvent is always water, so Kb will be the same for each solution. What is needed is the number of dissociated particles from each of the original species. This is referred to as the van’t Hoff factor (i) and is multiplied by molality to give a normality (the concentration of the species of interest—in this case, all particles). The normality values determine which species causes the greatest change in boiling point. Species Number of Number of Dissolved Particles i × m Moles (Normality) CaSO4 0.4 2 0.8 Fe(NO3)3 0.5 4 2.0 CH3COOH 1.0 Between 1 and 2 (acetic acid is a weak acid and Between 1.0 a low percentage of the molecules will and 2.0 dissociate into 2 particles) C12H22O11 1.0 1 1.0 The choice is between iron(III) nitrate and acetic acid. The fact that acetic acid is a weak acid indicates that only a few particles will dissociate into H+ and acetate. Therefore, the normality of the acetic acid will be much closer to 1.0 than 2.0."
+  },
+  {
+   "q": "Reverse osmosis is a process that allows fresh water to be obtained by using pressure to force an impure water source through a semi- permeable membrane that only allows water molecules to pass. What is the minimum pressure that would be required to purify seawater at 25°C that has a total osmolarity of 1,000 mOsm/L?",
+   "type": "mcq",
+   "choices": [
+    "23.5 atm",
+    "24.5 atm",
+    "24,000 atm",
+    "24,500 atm"
+   ],
+   "correct": 1,
+   "explanation": "Osmotic pressure is given by the formula Entering the values from the question stem gives: Notice that the concentration of seawater is given for all solutes, which represents i×M. It is also given in mOsm/L, which is converted to moles per liter by multiplying by 10-3. Also, the question asks for the minimum pressure required, which means that the correct answer choice must be slightly above the calculated pressure in order for reverse osmosis to proceed."
+  },
+  {
+   "q": "Lead is a toxic element that can cause many symptoms, including mental retardation in children. If a body of water is polluted with lead ions at 200 ppb (parts per billion), what is the concentration of lead expressed as molarity? (Note: The density of water is        and ppb = grams per 109 grams of solution)",
+   "type": "mcq",
+   "choices": [
+    "9.7 × 10−10 M Pb2+",
+    "9.7 × 10−7 M Pb2+",
+    "6.2 × 10−7 M Pb2+",
+    "6.2 × 10−6 M Pb2+"
+   ],
+   "correct": 1,
+   "explanation": "200 ppb of Pb2+ is equivalent to 200 grams of Pb2+ in 109 grams of solution; given the extremely low concentration of lead, the mass of the water can be assumed to be approximately 109 grams, as well. To solve, set up a dimensional analysis question. The units needed at the end are moles per liter (molarity), so convert from grams of lead to moles of lead and grams of water to liters of water: Note that the denominator was rounded to a smaller number, meaning the estimated answer is slightly larger than the actual value."
+  },
+  {
+   "q": "A saturated solution of cobalt(III) hydroxide (Ksp = 1.6 × 10−44) is added to a saturated solution of thallium(III) hydroxide (Ksp = 6.3 × 10−46). What is likely to occur?",
+   "type": "mcq",
+   "choices": [
+    "Both cobalt(III) hydroxide and thallium(III) hydroxide remain stable in solution.",
+    "Cobalt(III) hydroxide precipitates and thallium(III) hydroxide remains stable in solution.",
+    "Thallium(III) hydroxide precipitates and cobalt(III) hydroxide remains stable in solution.",
+    "Both thallium(III) hydroxide and cobalt(III) hydroxide precipitate."
+   ],
+   "correct": 3,
+   "explanation": "Since both salts have a formula MX3 (one of one particle, three of another), it is possible to directly compare the molar solubilities of each. When the solutions are mixed, [OH−] is above saturation levels for both the cobalt and the thallium in the solution. Since thallium(III) hydroxide has a smaller Ksp than that of cobalt(III) hydroxide, it will react first. The ion product of the mixed solution is higher than the Ksp for thallium(III) hydroxide, and the system will shift left to precipitate solid thallium(III) hydroxide. After the thallium(III) hydroxide precipitates, a small excess of OH- will remain, which gives an ion product slightly above the Ksp of cobalt (III) hydroxide. This will cause a small amount (1%–3%) of cobalt(III) hydroxide to also precipitate."
+  },
+  {
+   "q": "The following equilibrium exists when AgBr (Ksp = 5.35 × 10−13) is in solution: AgBr (s) ⇌ Ag+ (aq) + Br− (aq) What is the solubility of AgBr in a solution of 0.0010 M NaBr?",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 3,
+   "explanation": "The solubility of AgBr can be determined using the Ksp value given in the equation. Some amount of AgBr will dissolve; this is the molar solubility x for these conditions. When AgBr dissociates, there will be x amount of silver(I) formed and x amount of bromide—which is added to the 0.0010 M Br- already present from NaBr. Given the Ksp of 5.4 × 10–13, x will be negligible compared to 0.0010 M. Thus, the math can be simplified to: Therefore, x, the molar solubility, is 5.35 × 10−10, which looks like (C). However, the units of the answer choices are grams per liter, not molarity, and the result must be multiplied by the molar mass which is close to (D). Note that a very accurate approximation was reached by rounding down the first number and rounding up the second, balancing the error."
+  }
+ ]
+}

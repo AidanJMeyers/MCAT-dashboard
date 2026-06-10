@@ -1,0 +1,373 @@
+{
+ "id": 9,
+ "num": 9,
+ "title": "Carboxylic Acid Derivatives",
+ "slug": "carboxylic_acid_derivatives",
+ "sections": [
+  {
+   "title": "9.1 Amides, Esters, and Anhydrides",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig01.png",
+     "alt": "Chapter 9 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig02.png",
+     "alt": "Chapter 9 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig03.png",
+     "alt": "Figure 9.1 shows a few examples.",
+     "caption": "Figure 9.1 shows a few examples."
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig04.png",
+     "alt": "Figure 9.2.",
+     "caption": "Figure 9.2."
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig05.png",
+     "alt": "Figure 9.3.  Naming Esters",
+     "caption": "Figure 9.3.  Naming Esters"
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig06.png",
+     "alt": "Figure 9.4. Esters can also be obtained from the reaction of anhydrides",
+     "caption": "Figure 9.4. Esters can also be obtained from the reaction of anhydrides"
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig07.png",
+     "alt": "Figure 9.5.",
+     "caption": "Figure 9.5."
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig08.png",
+     "alt": "Figure 9.5.  Examples of Lactones",
+     "caption": "Figure 9.5.  Examples of Lactones"
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig09.png",
+     "alt": "Figure 9.7. Phthalic and succinic anhydrides are cyclic anhydrides",
+     "caption": "Figure 9.7. Phthalic and succinic anhydrides are cyclic anhydrides"
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig10.png",
+     "alt": "Figure 9.8.",
+     "caption": "Figure 9.8."
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig11.png",
+     "alt": "Figure 9.9.  Intramolecular Anhydride Formation",
+     "caption": "Figure 9.9.  Intramolecular Anhydride Formation"
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig21.png",
+     "alt": "Chapter 9 figure 21",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig22.png",
+     "alt": "Chapter 9 figure 22",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig23.png",
+     "alt": "Chapter 9 figure 23",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig24.png",
+     "alt": "Chapter 9 figure 24",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig25.png",
+     "alt": "Chapter 9 figure 25",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig26.png",
+     "alt": "Chapter 9 figure 26",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig27.png",
+     "alt": "Chapter 9 figure 27",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig28.png",
+     "alt": "Chapter 9 figure 28",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig29.png",
+     "alt": "Chapter 9 figure 29",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig30.png",
+     "alt": "Chapter 9 figure 30",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig31.png",
+     "alt": "Chapter 9 figure 31",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig32.png",
+     "alt": "Chapter 9 figure 32",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig33.png",
+     "alt": "Chapter 9 figure 33",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "9.2 Reactivity Principles",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig12.png",
+     "alt": "Figure 9.10.",
+     "caption": "Figure 9.10."
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig13.png",
+     "alt": "Figure 9.11.  Conjugation in a Carbonyl-Containing Compound",
+     "caption": "Figure 9.11.  Conjugation in a Carbonyl-Containing Compound"
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig14.png",
+     "alt": "Figure 9.12.  Penicillin, a β-Lactam-Containing Antibiotic",
+     "caption": "Figure 9.12.  Penicillin, a β-Lactam-Containing Antibiotic"
+    }
+   ]
+  },
+  {
+   "title": "9.3 Nucleophilic Acyl Substitution Reactions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig15.png",
+     "alt": "Chapter 9 figure 15",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig16.png",
+     "alt": "Figure 9.13 is not only a nucleophilic substitution",
+     "caption": "Figure 9.13 is not only a nucleophilic substitution"
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig17.png",
+     "alt": "Figure 9.14.",
+     "caption": "Figure 9.14."
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig18.png",
+     "alt": "Figure 9.15.  Nucleophilic Acyl Substitution: Anhydride to Carboxylic",
+     "caption": "Figure 9.15.  Nucleophilic Acyl Substitution: Anhydride to Carboxylic"
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig19.png",
+     "alt": "Figure 9.16.",
+     "caption": "Figure 9.16."
+    },
+    {
+     "src": "ochem/ch09_carboxylic_acid_derivatives/fig20.png",
+     "alt": "Figure 9.17.",
+     "caption": "Figure 9.17."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following would be the best method of producing methyl propanoate?",
+   "type": "mcq",
+   "choices": [
+    "Reacting propanoic acid and methanol in the presence of a mineral acid",
+    "Reacting methanoic acid and propanol in the presence of a mineral acid",
+    "Reacting propanoic anhydride with an aqueous base",
+    "Reacting propanoic acid with an aqueous base"
+   ],
+   "correct": 0,
+   "explanation": "Methyl propanoate is an ester; it can be synthesized by reacting a carboxylic acid with an alcohol in the presence of acid. Here, the parent chain is propanoate, and the esterifying group is a methyl group. (B) reverses the nomenclature, and would form propyl methanoate. The other reactions listed would not form esters."
+  },
+  {
+   "q": "What would be the product(s) of the reaction below?",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 3,
+   "explanation": "This question asks for the products when ammonia reacts with acetic anhydride. Recall from the chapter that an amide and a carboxylic acid will be formed. However, the carboxylic acid—an acid—is in the same environment as ammonia—a base. The two will react, forming the ammonium carboxylate shown."
+  },
+  {
+   "q": "Which of the following undergoes a Fischer esterification most rapidly?",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 0,
+   "explanation": "A Fischer esterification involves reacting a carboxylic acid and an alcohol with an acid catalyst. Under these conditions, the carbonyl carbon is open to attack by the nucleophilic alcohol. The rate of this reaction depends on the amount of steric hindrance around the carbonyl carbon because there must be room for the alcohol to approach the carboxylic acid substrate. (B), (C), and (D) all have more crowding around the carbonyl carbon, which will decrease reactivity. The additional alkyl groups in these other choices also donate electron density to the carbonyl carbon, making it slightly less electrophilic."
+  },
+  {
+   "q": "Each of the acyl compounds listed below contains a six-membered ring EXCEPT:",
+   "type": "mcq",
+   "choices": [
+    "δ-lactam.",
+    "cyclohexane carboxylic acid.",
+    "γ-butyrolactone.",
+    "the anhydride formed from intramolecular ring closure of pentanedioic acid."
+   ],
+   "correct": 2,
+   "explanation": "This question requires knowledge of the nomenclature of cyclic molecules. A δ-lactam, (A), has a bond between the nitrogen and the fourth carbon away from the carbonyl carbon. This ring will have six elements: the nitrogen, the carbonyl carbon, and the four carbons in between. Cyclohexane carboxylic acid, (B), has cyclohexane, a six- membered cycloalkane. The anhydride formed from pentanedioic acid, (D), will have the five carbons in the parent chain and one oxygen atom closing the ring, meaning there are still six elements. γ-butyrolactone will have five elements because it contains a bond between the ester oxygen and the third carbon away from the carbonyl carbon. The five elements will be the oxygen, the carbonyl carbon, and the three carbons in between."
+  },
+  {
+   "q": "Which of the following would be most reactive toward nucleophiles?",
+   "type": "mcq",
+   "choices": [
+    "Propyl ethanoate",
+    "Propanoic acid",
+    "Propanamide",
+    "Propanoic anhydride"
+   ],
+   "correct": 3,
+   "explanation": "With the same R groups, steric influence is the same in each case, so we can therefore rely solely on electronic effects. When this is all that is taken into account, reactivity toward nucleophiles is highest for anhydrides, followed by esters and carboxylic acids, then amides."
+  },
+  {
+   "q": "How might succinic anhydride, shown below, be formed from succinic acid (butanedioic acid)?",
+   "type": "mcq",
+   "choices": [
+    "Catalytic acid",
+    "Catalytic base",
+    "Heat",
+    "Oxidation"
+   ],
+   "correct": 2,
+   "explanation": "Anhydrides, particularly cyclic anhydrides, will form spontaneously from dicarboxylic acids when heated."
+  },
+  {
+   "q": "Which of the following would react most readily with a carboxylic acid to form an amide?",
+   "type": "mcq",
+   "choices": [
+    "Methylamine",
+    "Triethylamine",
+    "Diphenylamine",
+    "Ethylmethylamine"
+   ],
+   "correct": 0,
+   "explanation": "Methylamine would react readily to form an amide. The less substituted the nucleophile, the easier it will be for the nucleophile to attack the carbonyl carbon and form the amide. In fact, triethylamine, (B), would not be able to form an amide at all because it does not have a hydrogen to lose while attaching to the carbonyl carbon."
+  },
+  {
+   "q": "If propanamide were treated with water, what product(s) would be observed?",
+   "type": "mcq",
+   "choices": [
+    "Propanamide",
+    "Propanoic acid",
+    "Equal concentrations of propanamide and propanoic acid",
+    "Propyl propanoate"
+   ],
+   "correct": 0,
+   "explanation": "Propanamide is an amide; as such, it is the least reactive of the carboxylic acid derivatives discussed in this chapter. Without strong acid or base, propanamide will not be able to undergo nucleophilic acyl substitution and no reaction will occur."
+  },
+  {
+   "q": "β-lactams are: cyclic forms of the least reactive type of carboxylic acid derivative. .          more reactive than their straight-chain counterparts. I.           molecules with high levels of ring strain.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 3,
+   "explanation": "β-lactams are amides in the form of four-membered rings; amides are generally the least reactive type of carboxylic acid derivative. β-lactams experience significant ring strain from both eclipsing interactions (torsional strain) and angle strain, and are therefore more susceptible to hydrolysis than the linear form of the same molecule."
+  },
+  {
+   "q": "The acid-catalyzed conversion of propyl ethanoate to benzyl ethanoate is likely:",
+   "type": "mcq",
+   "choices": [
+    "reduction.",
+    "hydrolysis.",
+    "transesterification.",
+    "oxidation."
+   ],
+   "correct": 2,
+   "explanation": "As far as we can tell, we are converting one ester to another in this reaction. The fact that this reaction is acid-catalyzed should confirm the suspicion that this is a transesterification reaction."
+  },
+  {
+   "q": "The reaction shown, which is important for the breakdown of polypeptides, would be favored under what conditions?",
+   "type": "mcq",
+   "choices": [
+    "Mild heat",
+    "Acid environment",
+    "Anhydrous environment",
+    "Nonpolar solvent"
+   ],
+   "correct": 1,
+   "explanation": "This reaction, which is the hydrolysis of an amide, is favored in strong acid. Acid protonates the carbonyl oxygen, which increases the electrophilicity of the carbonyl carbon. This allows water to serve as the nucleophile, attacking the bond and hydrolyzing the molecule."
+  },
+  {
+   "q": "A positive charge on the molecule shown would have greater stability than a positive charge on a straight-chain alkane version of the same molecule. What property most explains this effect?",
+   "type": "mcq",
+   "choices": [
+    "Steric hindrance",
+    "Nitrogen electronegativity",
+    "Induction",
+    "Conjugation"
+   ],
+   "correct": 3,
+   "explanation": "This molecule is more stable with a positive charge than a straight-chain alkane due to the conjugation of the benzene ring. This permits delocalization of the charge through resonance. Although induction, (C), does have an effect on the stabilization of the molecule, this effect is much less significant than the impact of having a conjugated system. The electronegativity of nitrogen, (B), which primarily affects induction, is also not a vital component of the stabilization by this molecule of a positive charge because oxygen is more electronegative. Steric hindrance, (A), would affect the reactivity of a molecule, but not its ability to stabilize charge."
+  },
+  {
+   "q": "The molecule shown is: synthesizable from a γ-hydroxycarboxylic acid. .           a lactone. I.           a form of an ester.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "I and II only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 3,
+   "explanation": "The molecule shown, γ-nonalactone, is a cyclic ester, also called a lactone. This molecule could arise from intramolecular attack in a γ- hydroxycarboxylic acid."
+  },
+  {
+   "q": "Which reactant could be combined with butanol to form butyl acetate?",
+   "type": "mcq",
+   "choices": [
+    "(CH3CO)2O and catalytic acid",
+    "(CH3CH2CO)2O and catalytic acid",
+    "CH3CH2CONH2 and catalytic acid",
+    "CH3CONH2 and catalytic acid"
+   ],
+   "correct": 0,
+   "explanation": "In order to prepare butyl acetate from butanol, we need to perform a nucleophilic acyl substitution reaction. If the product is an ester, we need to start with a reactant that is more reactive than the ester itself, or the reaction will not proceed. Anhydrides are more reactive than esters, but amides are less reactive, eliminating (C) and (D). Reaction with propanoic anhydride, as in (B), would result in butyl propanoate."
+  },
+  {
+   "q": "Why should esterification reactions NOT be carried out in water?",
+   "type": "mcq",
+   "choices": [
+    "Carboxylic acids, from which esters are made, are generally insoluble in water.",
+    "The polar nature of water overshadows the polar nature of the leaving group.",
+    "The extensive hydrogen bonding of water interferes with the nucleophilic addition mechanism.",
+    "Water molecules would hydrolyze the desired products back into the parent carboxylic acid."
+   ],
+   "correct": 3,
+   "explanation": "The presence of water in an esterification reaction would likely revert some of the desired esters back into carboxylic acids. Small carboxylic acids, like formic or acetic acid, are easily dissolved in water, eliminating (A). The polarity of water plays little role in affecting the leaving group; if anything, water can be used to increase the electrophilicity of the carbonyl carbon by protonating the carbonyl oxygen—eliminating (B). Finally, this is a nucleophilic substitution mechanism, not a nucleophilic addition mechanism, as mentioned in (C). Further, hydrogen bonding would likely augment the reaction."
+  }
+ ]
+}

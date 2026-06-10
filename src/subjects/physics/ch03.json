@@ -1,0 +1,77 @@
+{
+ "id": 3,
+ "num": 3,
+ "title": "Thermodynamics",
+ "slug": "thermodynamics",
+ "sections": [
+  {
+   "title": "3.1 Zeroth Law of Thermodynamics",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch03_thermodynamics/fig01.png",
+     "alt": "Chapter 3 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch03_thermodynamics/fig02.png",
+     "alt": "Chapter 3 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch03_thermodynamics/fig03.png",
+     "alt": "Chapter 3 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch03_thermodynamics/fig04.png",
+     "alt": "Chapter 3 figure 4",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "3.2 Systems",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "3.3 First Law of Thermodynamics",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch03_thermodynamics/fig05.png",
+     "alt": "Chapter 3 figure 5",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch03_thermodynamics/fig06.png",
+     "alt": "Figure 3.1 Thermodynamic Behaviors of Gases",
+     "caption": "Figure 3.1 Thermodynamic Behaviors of Gases"
+    },
+    {
+     "src": "physics/ch03_thermodynamics/fig07.png",
+     "alt": "Figure 3.2 shows a closed-loop thermodynamic process. Because the work on a P–V graph is",
+     "caption": "Figure 3.2 shows a closed-loop thermodynamic process. Because the work on a P–V graph is"
+    },
+    {
+     "src": "physics/ch03_thermodynamics/fig08.png",
+     "alt": "Chapter 3 figure 8",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "3.4 Second Law of Thermodynamics and Entropy",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch03_thermodynamics/fig09.png",
+     "alt": "Chapter 3 figure 9",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": []
+}

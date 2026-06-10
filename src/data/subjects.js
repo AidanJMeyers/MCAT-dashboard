@@ -1,5 +1,7 @@
 import { chapters as bio } from '../subjects/bio/index.js';
 import { chapters as biochem } from '../subjects/biochem/index.js';
+import { chapters as gchem } from '../subjects/gchem/index.js';
+import { chapters as ochem } from '../subjects/ochem/index.js';
 
 // status: 'ready' (built) | 'soon' (planned, phased build)
 export const SUBJECTS = [
@@ -11,10 +13,10 @@ export const SUBJECTS = [
     source: 'Kaplan MCAT Biochemistry Review', status: 'ready', chapters: biochem },
   { id: 'gchem', name: 'General Chemistry', short: 'Gen Chem', icon: '⚗️', accent: 'sky',
     blurb: 'Atomic theory, bonding, stoichiometry, thermodynamics, kinetics, equilibrium, acids/bases, electrochemistry.',
-    source: 'Kaplan MCAT General Chemistry Review', status: 'soon', chapters: [] },
+    source: 'Kaplan MCAT General Chemistry Review', status: 'ready', chapters: gchem },
   { id: 'ochem', name: 'Organic Chemistry', short: 'O-Chem', icon: '🔬', accent: 'amber',
     blurb: 'Nomenclature, functional groups, reaction mechanisms, stereochemistry, spectroscopy, separations.',
-    source: 'Kaplan MCAT Organic Chemistry Review', status: 'soon', chapters: [] },
+    source: 'Kaplan MCAT Organic Chemistry Review', status: 'ready', chapters: ochem },
   { id: 'physics', name: 'Physics & Math', short: 'Physics', icon: '📐', accent: 'violet',
     blurb: 'Kinematics, forces, work & energy, fluids, thermodynamics, electricity, waves, optics, and MCAT math.',
     source: 'Kaplan MCAT Physics and Math Review', status: 'soon', chapters: [] },

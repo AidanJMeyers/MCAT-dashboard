@@ -1,0 +1,173 @@
+{
+ "id": 5,
+ "num": 5,
+ "title": "Electrostatics and Magnetism",
+ "slug": "electrostatics_and_magnetism",
+ "sections": [
+  {
+   "title": "5.1 Charges",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig01.png",
+     "alt": "Chapter 5 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig02.png",
+     "alt": "Chapter 5 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig03.png",
+     "alt": "Chapter 5 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig04.png",
+     "alt": "Chapter 5 figure 4",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig05.png",
+     "alt": "Chapter 5 figure 5",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig06.png",
+     "alt": "Chapter 5 figure 6",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig07.png",
+     "alt": "Chapter 5 figure 7",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig08.png",
+     "alt": "Chapter 5 figure 8",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig09.png",
+     "alt": "Chapter 5 figure 9",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "5.2 Coulomb’s Law",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig10.png",
+     "alt": "Figure 5.1 A Negatively Charged Insulator and Conductor",
+     "caption": "Figure 5.1 A Negatively Charged Insulator and Conductor"
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig11.png",
+     "alt": "Chapter 5 figure 11",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig12.png",
+     "alt": "Chapter 5 figure 12",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig13.png",
+     "alt": "Figure 5.2.",
+     "caption": "Figure 5.2."
+    }
+   ]
+  },
+  {
+   "title": "5.3 Electric Potential Energy",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "5.4 Electric Potential",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "5.5 Special Cases in Electrostatics",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig14.png",
+     "alt": "Chapter 5 figure 14",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig15.png",
+     "alt": "Chapter 5 figure 15",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig16.png",
+     "alt": "Figure 5.3 and then work through the specific example of one of the most",
+     "caption": "Figure 5.3 and then work through the specific example of one of the most"
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig17.png",
+     "alt": "Chapter 5 figure 17",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig18.png",
+     "alt": "Figure 5.4), but the torques are in the same direction",
+     "caption": "Figure 5.4), but the torques are in the same direction"
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig19.png",
+     "alt": "Figure 5.4.",
+     "caption": "Figure 5.4."
+    }
+   ]
+  },
+  {
+   "title": "5.6 Magnetism",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig20.png",
+     "alt": "Chapter 5 figure 20",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig21.png",
+     "alt": "Chapter 5 figure 21",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig22.png",
+     "alt": "Chapter 5 figure 22",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig23.png",
+     "alt": "Chapter 5 figure 23",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig24.png",
+     "alt": "Chapter 5 figure 24",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig25.png",
+     "alt": "Chapter 5 figure 25",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch05_electrostatics_and_magnetism/fig26.png",
+     "alt": "Chapter 5 figure 26",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": []
+}

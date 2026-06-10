@@ -1,0 +1,350 @@
+{
+ "id": 4,
+ "num": 4,
+ "title": "Analyzing Organic Reactions",
+ "slug": "analyzing_organic_reactions",
+ "sections": [
+  {
+   "title": "4.1 Acids and Bases",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig01.png",
+     "alt": "Chapter 4 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig02.png",
+     "alt": "Chapter 4 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig03.png",
+     "alt": "Figure 4.1.",
+     "caption": "Figure 4.1."
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig04.png",
+     "alt": "Chapter 4 figure 4",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig23.png",
+     "alt": "Chapter 4 figure 23",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig24.png",
+     "alt": "Chapter 4 figure 24",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig25.png",
+     "alt": "Chapter 4 figure 25",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig26.png",
+     "alt": "Chapter 4 figure 26",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "4.2 Nucleophiles, Electrophiles, and Leaving Groups",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig05.png",
+     "alt": "Figure 4.2.",
+     "caption": "Figure 4.2."
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig06.png",
+     "alt": "Figure 4.3.  Examples of Polar Protic and Polar Aprotic Solvents",
+     "caption": "Figure 4.3.  Examples of Polar Protic and Polar Aprotic Solvents"
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig07.png",
+     "alt": "Figure 4.4.  Comparisons of Electrophilicity",
+     "caption": "Figure 4.4.  Comparisons of Electrophilicity"
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig08.png",
+     "alt": "Figure 4.5.  Mechanism of SN1 Reaction",
+     "caption": "Figure 4.5.  Mechanism of SN1 Reaction"
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig09.png",
+     "alt": "Figure\n4.6.",
+     "caption": "Figure\n4.6."
+    }
+   ]
+  },
+  {
+   "title": "4.3 Oxidation–Reduction Reactions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig10.png",
+     "alt": "Chapter 4 figure 10",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig11.png",
+     "alt": "Figure 4.7. Note that the goal at this point should not be memorization of",
+     "caption": "Figure 4.7. Note that the goal at this point should not be memorization of"
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig12.png",
+     "alt": "Figure 4.8.  Reduction Reactions and Common Reducing Agents",
+     "caption": "Figure 4.8.  Reduction Reactions and Common Reducing Agents"
+    }
+   ]
+  },
+  {
+   "title": "4.4 Chemoselectivity",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig13.png",
+     "alt": "Chapter 4 figure 13",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig14.png",
+     "alt": "Figure 4.9. The enolate then becomes a strong nucleophile, and alkylation",
+     "caption": "Figure 4.9. The enolate then becomes a strong nucleophile, and alkylation"
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig15.png",
+     "alt": "Figure 4.10. Another protective reaction is the reversible reduction of",
+     "caption": "Figure 4.10. Another protective reaction is the reversible reduction of"
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig16.png",
+     "alt": "Chapter 4 figure 16",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig17.png",
+     "alt": "Chapter 4 figure 17",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "4.5 Steps to Problem Solving",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig18.png",
+     "alt": "Chapter 4 figure 18",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig19.png",
+     "alt": "Chapter 4 figure 19",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig20.png",
+     "alt": "Chapter 4 figure 20",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig21.png",
+     "alt": "Chapter 4 figure 21",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch04_analyzing_organic_reactions/fig22.png",
+     "alt": "Chapter 4 figure 22",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following are Lewis bases? Ag+ .          H2O I.          NH3",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "I and II only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 2,
+   "explanation": "NH3 and H2O are Lewis bases because nitrogen and oxygen can donate lone pairs. Ag+ is a Lewis acid because it can accept a lone pair into an unoccupied orbital."
+  },
+  {
+   "q": "Rank the following in order of decreasing nucleophilicity in an aprotic solvent: RO–, RCOOH, ROH, HO–",
+   "type": "mcq",
+   "choices": [
+    "RCOOH > ROH > RO– > HO–",
+    "HO– > ROH > RO– > RCOOH",
+    "RO– > HO– > ROH > RCOOH",
+    "RCOOH > RO– > HO– > ROH"
+   ],
+   "correct": 2,
+   "explanation": "Remember, good nucleophiles tend to have lone pairs or π bonds and are negatively charged or polarized. Alkoxide (OR–) and hydroxide (OH–) anions are strong nucleophiles. Alcohols (ROH) and carboxylic acids (RCOOH) are weak nucleophiles. The alkyl group of an alkoxide anion donates additional electron density, making it more reactive than the hydroxide ion. The carboxylic acid contains more electron-withdrawing oxygen atoms than the alcohol, making it less nucleophilic."
+  },
+  {
+   "q": "Rank the following in order of decreasing electrophilicity:              , CH3OH, CH3OCH3, CH3Cl",
+   "type": "mcq",
+   "choices": [
+    "CH3OCH3 >       > CH3OH > CH3Cl",
+    "> CH3OH > CH3OCH3 > CH3Cl",
+    "CH3OCH3 > CH3Cl >       > CH3OH",
+    "> CH3Cl > CH3OH >CH3OCH3"
+   ],
+   "correct": 3,
+   "explanation": "Good electrophiles are positively charged or polarized. is a tertiary carbocation; it has a positive charge, which makes it very electrophilic. CH3Cl and CH3OH are both polarized; however, the leaving groups differ between these two. Cl– is a weaker base than OH– (HCl is a stronger acid than H2O). As such, Cl– will be more stable in solution than OH–, which increases the electrophilic reactivity of CH3Cl above CH3OH. CH3OCH3 has a much less stable leaving group, CH3O–, and is therefore significantly less electrophilic."
+  },
+  {
+   "q": "Rank the following in order of decreasing leaving group ability: H2O, HO–, Br–, H–",
+   "type": "mcq",
+   "choices": [
+    "H2O > Br– > HO– > H–",
+    "H2O > HO– > Br– > H–",
+    "HO– > Br– > H2O > H–",
+    "HO– > H– > H2O > Br–"
+   ],
+   "correct": 0,
+   "explanation": "Good leaving groups are weak bases, which are the conjugates of strong acids. Leaving groups must also be stable once they leave the molecule. H2O is, by far, the most stable leaving group and will be extremely unreactive once it leaves the molecule through heterolysis. Br– is the conjugate base of HBr; HO– is the conjugate base of water. HBr is a much stronger acid than water, so Br– is a better leaving group than HO–. Finally, hydride (H–) is a very poor leaving group because it is extremely unstable in solution."
+  },
+  {
+   "q": "Rank the following in order of decreasing oxidation state: amine, carboxylic acid, aldehyde, alkane",
+   "type": "mcq",
+   "choices": [
+    "Aldehyde, amine, alkane, carboxylic acid",
+    "Carboxylic acid, aldehyde, amine, alkane",
+    "Carboxylic acid, amine, aldehyde, alkane",
+    "Alkane, amine, aldehyde, carboxylic acid"
+   ],
+   "correct": 1,
+   "explanation": "Carboxylic acids are the second most oxidized form of carbon (only carbon dioxide is more oxidized). In carboxylic acids, the carbon atom has three bonds to oxygen. In aldehydes, the carbon atom has two bonds to oxygen. In amines, the carbon atom has one bond to nitrogen. In an alkane, the carbon only has bonds to other carbons and hydrogens."
+  },
+  {
+   "q": "If cinnamaldehyde was treated with LiAlH4, what reaction would occur?",
+   "type": "mcq",
+   "choices": [
+    "Reduction, resulting in a primary alcohol",
+    "Oxidation, resulting in a carboxylic acid",
+    "An acid–base reaction, resulting in a diol",
+    "No reaction would occur."
+   ],
+   "correct": 0,
+   "explanation": "All that we need to know about cinnamaldehyde is that it is an aldehyde, and therefore will be reduced by a strong reducing agent like LiAlH4 to a primary alcohol."
+  },
+  {
+   "q": "If 2-butanol was treated with dichromate, what reaction would occur?",
+   "type": "mcq",
+   "choices": [
+    "Reduction, resulting in the formation of butene",
+    "Oxidation, resulting in the formation of butanoic acid",
+    "Oxidation, resulting in the formation of butanone",
+    "No reaction would occur."
+   ],
+   "correct": 2,
+   "explanation": "Because 2-butanol is a secondary alcohol, oxidation by a strong oxidizing agent like dichromate will result in a ketone, butanone."
+  },
+  {
+   "q": "If 1-hexanol was treated with pyridinium chlorochromate, what would the end product be?",
+   "type": "mcq",
+   "choices": [
+    "2-hexanol",
+    "2-hexanone",
+    "Hexanal",
+    "Hexanoic acid"
+   ],
+   "correct": 2,
+   "explanation": "Pyridinium chlorochromate is a weak oxidizing agent, and will oxidize an alcohol to an aldehyde. Stronger oxidizing agents are required to convert a primary alcohol to a carboxylic acid."
+  },
+  {
+   "q": "SN1 reactions show first-order kinetics because:",
+   "type": "mcq",
+   "choices": [
+    "the rate-limiting step is the first step to occur in the reaction.",
+    "the rate-limiting step involves only one molecule.",
+    "there is only one rate-limiting step.",
+    "the reaction involves only one molecule."
+   ],
+   "correct": 1,
+   "explanation": "An SN1 reaction is a first-order nucleophilic substitution reaction. It is called first-order because the rate-limiting step involves only one molecule. (A) is true, but does not explain why SN1 reactions have first- order kinetics; the rate-limiting step of an SN2 reaction is also the first (and only) step of that reaction, but SN2 reactions have second-order kinetics, not first-order. (C) is a true statement as well, but again does not explain why the reaction is first-order. Finally, (D) is incorrect because it is the rate-limiting step, not the reaction overall, that involves only one molecule."
+  },
+  {
+   "q": "In a protic solvent, which of the following halogens would be the best nucleophile?",
+   "type": "mcq",
+   "choices": [
+    "Br–",
+    "Cl–",
+    "F–",
+    "I–"
+   ],
+   "correct": 3,
+   "explanation": "In a protic solvent, the protons in solution can attach to the nucleophile, decreasing its nucleophilicity. The larger the nucleophile, and the stronger its conjugate acid, the stronger the nucleophile will be. Of the options given, I– will therefore be the strongest nucleophile because it is least likely to associate with the protons in solution."
+  },
+  {
+   "q": "Which of the compounds below can undergo oxidation?",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 3,
+   "explanation": "Primary and secondary alcohols can undergo oxidation because the carbon can form additional bonds with oxygen while losing bonds to hydrogen. (A), a tertiary alcohol; (B), a ketone; and (C), a carboxylic acid, cannot form additional bonds to oxygen because they have four bonds to other carbon or oxygen atoms already."
+  },
+  {
+   "q": "Treatment of (S)-2-bromobutane with sodium hydroxide results in the production of a compound with an (R) configuration. This reaction has most likely taken place through:",
+   "type": "mcq",
+   "choices": [
+    "an SN1 mechanism.",
+    "an SN2 mechanism.",
+    "an SN1 and SN2 mechanism in sequence.",
+    "an SN1 and SN2 mechanism simultaneously."
+   ],
+   "correct": 1,
+   "explanation": "In this reaction, there has been an inversion of stereochemistry. The mostly likely explanation for this is that the reaction proceeded by an SN2 reaction mechanism. Inversion of stereochemistry is a hallmark of SN2 reactions, whereas racemization is a hallmark of SN1 reactions."
+  },
+  {
+   "q": "Which of the following solvents would be LEAST useful for a nucleophile–electrophile reaction?",
+   "type": "mcq",
+   "choices": [
+    "H2O",
+    "CH3CH2OH",
+    "CH3SOCH3",
+    "CH3CH2CH2CH2CH2CH3"
+   ],
+   "correct": 3,
+   "explanation": "To carry out a nucleophile–electrophile reaction, the nucleophile must be able to dissolve in the solvent. Nucleophiles are nearly always polar, and often carry a charge. Polar solvents are therefore preferred for these reactions. Hexane is a nonpolar solvent and will not be useful for a nucleophile–electrophile reaction."
+  },
+  {
+   "q": "Aldehydes are generally more reactive than equivalent ketones to nucleophiles. This is likely due to differences in:",
+   "type": "mcq",
+   "choices": [
+    "steric hindrance.",
+    "leaving group ability.",
+    "resonance stabilization.",
+    "electron-withdrawing character."
+   ],
+   "correct": 0,
+   "explanation": "Aldehydes have one alkyl group connected to the carbonyl carbon, whereas ketones have two. This creates more steric hindrance in ketones, which lowers their reactivity to nucleophiles. Ketones are also less reactive because their carbonyl carbon has less positive charge character; the additional alkyl group can donate electron density—the opposite of (D)—which decreases the electrophilicity of the compound."
+  },
+  {
+   "q": "Which conversion between carboxylic acid derivatives is NOT possible by a nucleophilic reaction?",
+   "type": "mcq",
+   "choices": [
+    "Carboxylic acid to ester",
+    "Ester to carboxylic acid",
+    "Anhydride to amide",
+    "Ester to anhydride"
+   ],
+   "correct": 3,
+   "explanation": "Remember, there is a hierarchy to the reactivity of carboxylic acid derivatives that dictates how reactive they are toward nucleophilic attack. In order from highest to lowest, this is anhydrides > carboxylic acids and esters > amides. In practical terms, this means that derivatives of higher reactivity can form derivatives of lower reactivity but not vice versa. Nucleophilic attack of an ester cannot result in the corresponding anhydride because anhydrides are more reactive than esters."
+  }
+ ]
+}

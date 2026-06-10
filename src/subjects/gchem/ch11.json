@@ -1,0 +1,232 @@
+{
+ "id": 11,
+ "num": 11,
+ "title": "Oxidation–Reduction Reactions",
+ "slug": "oxidation_reduction_reactions",
+ "sections": [
+  {
+   "title": "11.1 Oxidation–Reduction Reactions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch11_oxidation_reduction_reactions/fig01.png",
+     "alt": "Chapter 11 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch11_oxidation_reduction_reactions/fig02.png",
+     "alt": "Chapter 11 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch11_oxidation_reduction_reactions/fig03.png",
+     "alt": "Figure 11.1.",
+     "caption": "Figure 11.1."
+    },
+    {
+     "src": "gchem/ch11_oxidation_reduction_reactions/fig04.png",
+     "alt": "Figure 11.2.",
+     "caption": "Figure 11.2."
+    },
+    {
+     "src": "gchem/ch11_oxidation_reduction_reactions/fig06.png",
+     "alt": "Chapter 11 figure 6",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "11.2 Net Ionic Equations",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch11_oxidation_reduction_reactions/fig05.png",
+     "alt": "Figure 11.3.",
+     "caption": "Figure 11.3."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Consider the following equation: 6 Na (s) + 2 NH3 (aq) → 2 Na3N (s) + 3 H2 (g) Which species acts as an oxidizing agent?",
+   "type": "mcq",
+   "choices": [
+    "Na",
+    "N in NH3",
+    "H in NH3",
+    "H2"
+   ],
+   "correct": 2,
+   "explanation": "The oxidizing agent is the species that is reduced in any given equation. In this problem, six hydrogen atoms with +1 oxidation states in NH3 are reduced to three neutral H2 molecules."
+  },
+  {
+   "q": "How many electrons are involved in the following half-reaction after it is balanced? Cr2O72− + H+ + e−                  → Cr2+ + H2O",
+   "type": "mcq",
+   "choices": [
+    "2",
+    "8",
+    "12",
+    "16"
+   ],
+   "correct": 1,
+   "explanation": "First, balance the atoms in the equation: Cr2O72− + 14 H+ → 2 Cr2+ + 7 H2O Now, adjust the number of electrons to balance the charge. Currently, the left side has a charge of +12 (–2 from dichromate and +14 from protons). The right side has a charge of +4 (+2 from each chromium cation). To decrease the charge on the left side from +12 to +4, we should add 8 electrons: Cr2O72− + 14 H+ + 8 e− → 2 Cr2+ + 7 H2O"
+  },
+  {
+   "q": "Lithium aluminum hydride (LiAlH4) is often used in laboratories because of its tendency to donate a hydride ion. Which of the following roles would lithium aluminum hydride likely play in a reaction?",
+   "type": "mcq",
+   "choices": [
+    "Strong reducing agent only",
+    "Strong oxidizing agent only",
+    "Both a strong reducing agent and strong oxidizing agent",
+    "Neither a strong reducing agent nor a strong oxidizing agent"
+   ],
+   "correct": 0,
+   "explanation": "Hydride ions are composed of a hydrogen nucleus with two electrons, thereby giving it a negative charge and a considerable tendency to donate electrons. LiAlH4 is therefore a strong reducing agent. Strong reducing agents tend to have metals or hydrides; strong oxidizing agents tend to have oxygen or a similarly electronegative element."
+  },
+  {
+   "q": "What is the oxidation number of chlorine in NaClO?",
+   "type": "mcq",
+   "choices": [
+    "–1",
+    "0",
+    "+1",
+    "+2"
+   ],
+   "correct": 2,
+   "explanation": "In NaClO (sodium hypochlorite), sodium carries its typical +1 charge, and oxygen carries its typical –2 charge. This means that the chlorine atom must carry a +1 charge in order to balance the overall charge of zero."
+  },
+  {
+   "q": "The following electronic configurations represent elements in their neutral form. Which element is the strongest oxidizing agent?",
+   "type": "mcq",
+   "choices": [
+    "1s22s22p63s23p64s2",
+    "1s22s22p63s23p64s23d5",
+    "1s22s22p63s23p64s23d104p1",
+    "1s22s22p63s23p64s23d104p5"
+   ],
+   "correct": 3,
+   "explanation": "A strong oxidizing agent will be easily reduced, meaning that it will have a tendency to gain electrons. Atoms usually gain electrons if they are one or two electrons away from filling up their valence shell. (A) has a full 4s- orbital, meaning that it can only gain an electron if it gains an entire subshell. (B) has a stable, half-full 3d-orbital, so it is unlikely to pick up electrons unless it can gain five. (C) has only a single electron in the outer shell, which is more likely lost upon ionization. (D) would fill up its 4p- orbital by gaining one electron, so it is easily reduced."
+  },
+  {
+   "q": "Which of the following is the correct net ionic reaction for the reaction of copper with silver(I) nitrate?",
+   "type": "mcq",
+   "choices": [
+    "Cu + AgNO3 → Cu(NO3)2 + Ag",
+    "Cu + 2 Ag+ + 2 NO3−                 −              → Cu2+ + 2 NO3 + 2 Ag",
+    "2 Ag+ + 2 NO3−         −            → 2 NO3 + 2 Ag+",
+    "Cu + 2 Ag+ → Cu2+ + 2 Ag"
+   ],
+   "correct": 3,
+   "explanation": "A net ionic equation represents each of the aqueous ions comprising the reactants and products as individual ions, instead of combining them as formula units. Thus, (A) is not a net ionic reaction. The term net means that the correct answer does not include any spectator ions (ions that do not participate in the reaction). In this reaction, nitrate (NO3−) remains unchanged. Therefore, (B) and (C) are eliminated."
+  },
+  {
+   "q": "One way to test for the presence of iron in solution is by adding potassium thiocyanate to the solution. The product when this reagent reacts with iron is FeSCN2+, which creates a dark red color in solution via the following net ionic equation: Fe3+ + SCN– → FeSCN2+ How many grams of iron sulfate would be needed to produce 2 moles of FeSCN2+?",
+   "type": "mcq",
+   "choices": [
+    "110 g",
+    "220 g",
+    "400 g",
+    "500 g"
+   ],
+   "correct": 2,
+   "explanation": "What you are shown is a net ionic equation. If two moles of FeSCN are created, two moles of Fe3+ must be used because the mole ratio is 1:1. Iron sulfate has the formula Fe2(SO4)3 because sulfate has a charge of –2 and iron has a charge of +3 (based on the net ionic equation). Therefore, one mole of iron sulfate is needed to make two moles of iron for the reaction. The molar mass of iron sulfate is This most closely matches answer (C). The most common error would be to calculate the amount of iron, which would be 111.6 g, (A)."
+  },
+  {
+   "q": "During the assigning of oxidation numbers, which of the following elements would most likely be determined last?",
+   "type": "mcq",
+   "choices": [
+    "Ar",
+    "F",
+    "Sr",
+    "Ir"
+   ],
+   "correct": 3,
+   "explanation": "When assigning oxidation numbers, one starts with elements of known oxidation state first, and determines the oxidation state of the other elements by deduction. As a noble gas, argon, (A), will always have an oxidation state of 0. As a Group VIIA element, fluorine, (B), will have an oxidation state of 0 (by itself) or –1 (in a compound). As a Group IIA element, strontium, (C), will have an oxidation state of 0 (by itself) or +2 (in a compound). Like most transition metals, iridium, (D), can have various oxidation states, ranging from –3 to +8. Therefore, one would have to determine the oxidation states of other atoms in an iridium-containing compound to determine iridium’s oxidation number."
+  },
+  {
+   "q": "As methanol is converted to methanal, and then methanoic acid, the oxidation number of the carbon:",
+   "type": "mcq",
+   "choices": [
+    "increases.",
+    "decreases.",
+    "increases, then decreases.",
+    "decreases, then increases."
+   ],
+   "correct": 0,
+   "explanation": "The formula for methanol is H3COH, for methanal is HCHO, and for methanoic acid is HCOOH. If we assign oxidation numbers to carbon in each molecule, it starts at –2, then becomes 0, then becomes +2: In general, it is often easier to think of oxidation as a gain of bonds to oxygen (or a similarly electronegative element) or loss of bonds to hydrogen for organic compounds. Therefore, because the carbon is oxidized as one converts from an alcohol to an aldehyde to a carboxylic acid, the oxidation number must increase."
+  },
+  {
+   "q": "In the compound KH2PO4, which element has the highest oxidation number?",
+   "type": "mcq",
+   "choices": [
+    "K",
+    "H",
+    "P",
+    "O"
+   ],
+   "correct": 2,
+   "explanation": "Start with the atoms that have oxidation states of which you are certain. Potassium is a Group IA metal, and therefore must have an oxidation state of +1. Hydrogen is almost always +1, unless it is paired with a less electronegative element (which is not the case here). Oxygen is generally – 2. Because there are four oxygens, they create a total negative charge of –8 which is partially balanced by two hydrogens (+2) and potassium (+1). Therefore, phosphorus has a +5 charge, making it the highest oxidation state."
+  },
+  {
+   "q": "If a certain metal has multiple oxidation states, its acidity as an oxide generally increases as the oxidation state increases. Therefore, which of the following tungsten compounds is likely to be the strongest acid?",
+   "type": "mcq",
+   "choices": [
+    "WO2",
+    "WO3",
+    "W2O3",
+    "W2O5"
+   ],
+   "correct": 1,
+   "explanation": "Recall that oxygen has an oxidation state of –2. Therefore, in tungsten(IV) oxide, (A), tungsten has an oxidation state of +4. In tungsten(VI) oxide, (B), it has an oxidation state of +6. In tungsten(III) oxide, (C), it is +3. In tungsten pentoxide, (D), it is +5."
+  },
+  {
+   "q": "Consider the following steps in the reaction between oxalic acid and chlorine: Cl2 + H2O → HOCl + Cl– + H+ .           H2C2O4               −         → H+ + HC2O4 I.          HOCl + HC2O4−            → H2O + Cl− + 2 CO2 Which of these steps, occurring in aqueous solution, is an example of a disproportionation reaction?",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "III only",
+    "I and III only",
+    "I, II, and III"
+   ],
+   "correct": 0,
+   "explanation": "Step I is a disproportionation reaction because chlorine starts with an oxidation state of 0 in the reactants and ends up with an oxidation state of +1 in HOCl and –1 as Cl–. In the other reactions, no element appears with different oxidation states in two different products. Therefore, only step I is a disproportionation reaction."
+  },
+  {
+   "q": "Potentiometry in an oxidation–reduction titration is analogous to performing an acid–base titration with a(n):",
+   "type": "mcq",
+   "choices": [
+    "acidic indicator.",
+    "basic indicator.",
+    "pH meter.",
+    "oxidizing agent."
+   ],
+   "correct": 2,
+   "explanation": "Potentiometry refers to carrying out an oxidation–reduction titration with a voltmeter present to get precise readings of the reaction’s electromotive force (emf) to determine the endpoint. This is analogous to using a pH meter in an acid–base titration because it uses technology to get precise readings for plotting a titration curve. Indicators, as in (A) and (B), can be used in both acid–base and redox titrations, but provide a qualitative (rather than quantitative) analysis of the titration. Oxidizing and reducing agents are used in redox titrations, not acid–base titrations, eliminating (D)."
+  },
+  {
+   "q": "After balancing the following oxidation–reduction reaction, what is the sum of the stoichiometric coefficients of all of the reactants and products? S8 (s) + NO3− (aq)       2−                 → SO3 (aq) + NO (g)",
+   "type": "mcq",
+   "choices": [
+    "4",
+    "50",
+    "91",
+    "115"
+   ],
+   "correct": 3,
+   "explanation": "Utilize the method described earlier to balance this redox reaction. The balanced half-reactions are: To get equal numbers of electrons in each half-reaction, the oxidation half- reaction will have to be multiplied by 3, and the reduction half-reaction will have to be multiplied by 32: This makes the overall reaction: 3 S8 + 32 NO3− + 8 H2O → 24 SO32− + 32 NO + 16 H+ The sum of the stoichiometric coefficients is therefore 3 + 32 + 8 + 24 + 32 + 16 = 115."
+  },
+  {
+   "q": "An assay is performed to determine the gold content in a supply of crushed ore. One method for pulling gold out of ore is to react it in a concentrated cyanide (CN–) solution. The equation is provided below: Au + NaCN + O2 + H2O → Na[Au(CN)2] + NaOH An indicator is used during this reaction, and approximately 100 mL of a 2 M NaCN solution is used to reach the endpoint. How many moles of Au are present in the crushed ore?",
+   "type": "mcq",
+   "choices": [
+    "0.01 mol",
+    "0.02 mol",
+    "0.10 mol",
+    "0.20 mol"
+   ],
+   "correct": 2,
+   "explanation": "First, balance the chemical equation: 4 Au + 8 NaCN + O2 + 2 H2O → 4 Na[Au(CN)2] + 4 NaOH Now, determine the number of moles of NaCN used in the reaction: If 0.2 mol NaCN are used in the reaction, then 0.2 mol NaCN × = 0.1 mol Au is oxidized."
+  }
+ ]
+}

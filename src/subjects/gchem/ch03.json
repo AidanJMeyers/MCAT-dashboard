@@ -1,0 +1,348 @@
+{
+ "id": 3,
+ "num": 3,
+ "title": "Bonding and Chemical Interactions",
+ "slug": "bonding_and_chemical_interactions",
+ "sections": [
+  {
+   "title": "3.1 Bonding",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig01.png",
+     "alt": "Chapter 3 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig02.png",
+     "alt": "Chapter 3 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig03.png",
+     "alt": "Chapter 3 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig04.png",
+     "alt": "Figure 3.1.",
+     "caption": "Figure 3.1."
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig05.png",
+     "alt": "Figure 3.3.",
+     "caption": "Figure 3.3."
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig06.png",
+     "alt": "Figure 3.4. Each atom has seven electrons in its valence shell, and by sharing",
+     "caption": "Figure 3.4. Each atom has seven electrons in its valence shell, and by sharing"
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig25.png",
+     "alt": "Chapter 3 figure 25",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig26.png",
+     "alt": "Chapter 3 figure 26",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig27.png",
+     "alt": "Chapter 3 figure 27",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "3.2 Ionic Bonds",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "3.3 Covalent Bonds",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig07.png",
+     "alt": "Chapter 3 figure 7",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig08.png",
+     "alt": "Figure 3.6.",
+     "caption": "Figure 3.6."
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig09.png",
+     "alt": "Figure 3.7. Once such a bond forms, however, it is indistinguishable from any",
+     "caption": "Figure 3.7. Once such a bond forms, however, it is indistinguishable from any"
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig10.png",
+     "alt": "Chapter 3 figure 10",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig11.png",
+     "alt": "Figure 3.9 shows two of the possible forms.",
+     "caption": "Figure 3.9 shows two of the possible forms."
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig12.png",
+     "alt": "Chapter 3 figure 12",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig13.png",
+     "alt": "Chapter 3 figure 13",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig14.png",
+     "alt": "Chapter 3 figure 14",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig15.png",
+     "alt": "Chapter 3 figure 15",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig16.png",
+     "alt": "Chapter 3 figure 16",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig17.png",
+     "alt": "Chapter 3 figure 17",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig18.png",
+     "alt": "Figure 3.10.",
+     "caption": "Figure 3.10."
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig19.png",
+     "alt": "Figure 3.11.",
+     "caption": "Figure 3.11."
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig20.png",
+     "alt": "Figure\n3.12.",
+     "caption": "Figure\n3.12."
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig21.png",
+     "alt": "Figure 3.13.  p-Orbitals on the x-, y-, and z-Axes",
+     "caption": "Figure 3.13.  p-Orbitals on the x-, y-, and z-Axes"
+    }
+   ]
+  },
+  {
+   "title": "3.4 Intermolecular Forces",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig22.png",
+     "alt": "Chapter 3 figure 22",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig23.png",
+     "alt": "Figure 3.15.  Hydrogen Bonding in Water",
+     "caption": "Figure 3.15.  Hydrogen Bonding in Water"
+    },
+    {
+     "src": "gchem/ch03_bonding_and_chemical_interactions/fig24.png",
+     "alt": "Figure 3.16.  Hydrogen Bonding between Guanine and Cytosine",
+     "caption": "Figure 3.16.  Hydrogen Bonding between Guanine and Cytosine"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the character of the bond in carbon monoxide?",
+   "type": "mcq",
+   "choices": [
+    "Ionic",
+    "Polar covalent",
+    "Nonpolar covalent",
+    "Coordinate covalent"
+   ],
+   "correct": 1,
+   "explanation": "Carbon monoxide, CO, has a triple bond between carbon and oxygen, with the carbon and oxygen each retaining one lone pair. In polar covalent bonds, the difference in electronegativity between the bonded atoms is great enough to cause electrons to move disproportionately toward the more electronegative atom but not great enough to transfer electrons completely. This is the case for CO. Oxygen is significantly more electronegative than carbon, so electrons will be disproportionately carried on the oxygen, leaving the carbon atom with a slight positive charge."
+  },
+  {
+   "q": "Which of the following molecules contains the oxygen atom with the most negative formal charge?",
+   "type": "mcq",
+   "choices": [
+    "H2O",
+    "CO32–",
+    "O3",
+    "CH2O"
+   ],
+   "correct": 1,
+   "explanation": "To answer this question, one must understand the contribution of resonance structures to average formal charge. In (B), there are three possible resonance structures. Each of the three oxygen atoms carries a formal charge of −1 in two out of the three structures. This averages to approximately charge on each oxygen atom, which is more negative than in the other answer choices. Both water and formaldehyde, (A) and (D), have no formal charge on the oxygen. Ozone, (C), has a on two of the three oxygens and a +1 charge on the central oxygen."
+  },
+  {
+   "q": "Which of the following structures contribute(s) most to NO2’s resonance hybrid? . I.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "III only",
+    "I and II only",
+    "I, II, and III"
+   ],
+   "correct": 2,
+   "explanation": "The two greatest contributors are structures I and II. Resonance structures are representations of how charges are shared across a molecule. In reality, the charge distribution is a weighted average of contributing resonance structures. The most stable resonance structures are those that minimize charge on the atoms in the molecule; the more stable the structure, the more it will contribute to the overall charge distribution in the molecule. Structures I and II minimize formal charges, so will be the largest contributors to the resonance hybrid."
+  },
+  {
+   "q": "Which of the following correctly ranks the compounds below by ascending boiling point? Acetone .            KCl I.            Kr V.            Isopropyl alcohol",
+   "type": "mcq",
+   "choices": [
+    "I < II < IV < III",
+    "III < IV < I < II",
+    "II < IV < I < III",
+    "III < I < IV < II"
+   ],
+   "correct": 3,
+   "explanation": "The key to answering this question is to understand the types of intermolecular forces that exist in each of these molecules because larger intermolecular forces correspond to higher boiling points. Kr is a noble gas with a full octet, so the only intermolecular forces present are London dispersion forces, the weakest type of intermolecular forces. Acetone and isopropyl alcohol are both polar, so both have dipole–dipole interactions, which are stronger than dispersion forces. However, isopropyl alcohol can also form hydrogen bonds, increasing its boiling point. Finally, the strongest interactions are ionic bonds, which exist in potassium chloride."
+  },
+  {
+   "q": "Both CO32– and ClF3 have three atoms bonded to a central atom. What is the best explanation for why CO32– has trigonal planar electronic geometry, while ClF3 has trigonal bipyramidal electronic geometry?",
+   "type": "mcq",
+   "choices": [
+    "CO32– has multiple resonance structures, while ClF3 does not.",
+    "CO32– has a charge of −2, while ClF3 has no charge.",
+    "ClF3 has lone pairs on its central atom, while CO32– has none.",
+    "CO32– has lone pairs on its central atom, while ClF3 has none."
+   ],
+   "correct": 2,
+   "explanation": "The central carbon in carbonate has no lone pairs. It has three resonance structures, each of which involves a double bond between carbon and one of the three oxygens. Having made four bonds, carbon has no further orbitals for bonding or to carry lone pairs. This makes carbonate’s geometry trigonal planar. Alternatively, ClF3 also has three bonds; however, chloride still maintains two extra lone pairs. These lone pairs each inhabit one orbital, meaning that the central chloride must organize five items about itself: three bonds to fluorides and two lone pairs. The best configuration for maximizing the distance between all of these groups is trigonal bipyramidal. (A) and (B) are true statements but do not account for the difference in geometry."
+  },
+  {
+   "q": "Which of the following has the largest dipole moment?",
+   "type": "mcq",
+   "choices": [
+    "HCN",
+    "H2O",
+    "CCl4",
+    "SO2"
+   ],
+   "correct": 0,
+   "explanation": "The best way to approach this problem is to draw the structure of each of these molecules, then consider the electronegativity of each bond as it might contribute to an overall dipole moment. HCN is the correct answer because of the large differences in electronegativity aligned in a linear fashion. There is a strong dipole moment in the direction of nitrogen, without any other moments canceling it out. Water, (B), has two dipole moments, one from each hydrogen pointing in the direction of oxygen. The molecule is bent, and the dipole moments partially cancel out. There is a molecular dipole, but it is not as strong as in HCN. Sulfur dioxide, (C), has a similar bent configuration, and its dipole will again be smaller than that of HCN. Further, oxygen and sulfur do not have as large a difference in electronegativity, so even the individual bond dipoles are smaller than those in the other molecules. CCl4, (D), has tetrahedral geometry. Although each of the individual C–Cl bonds is highly polar, the orientation of these bonds causes the dipoles to cancel each other out fully, yielding no overall dipole moment."
+  },
+  {
+   "q": "Despite the fact that both C2H2 and HCN contain triple bonds, the lengths of these triple bonds are not equal. Which of the following is the best explanation for this finding?",
+   "type": "mcq",
+   "choices": [
+    "In C2H2, the bond is shorter because it is between atoms of the same element.",
+    "The two molecules have different resonance structures.",
+    "Carbon is more electronegative than hydrogen.",
+    "Nitrogen is more electronegative than carbon."
+   ],
+   "correct": 3,
+   "explanation": "Bond lengths decrease as the bond order increases, and they also decrease with larger differences in electronegativity. In this case, because both C2H2 and HCN have triple bonds, we cannot compare the bond lengths based on bond order. We must then rely on other periodic trends. The bond length decreases when moving to the right along the periodic table’s rows because more electronegative atoms have shorter atomic radii. The nitrogen in HCN is likely to hold its electrons closer, or in a shorter radius, than the carbons in C2H2."
+  },
+  {
+   "q": "Which of the following is the best explanation of the phenomenon of hydrogen bonding?",
+   "type": "mcq",
+   "choices": [
+    "Hydrogen has a strong affinity for holding onto valence electrons.",
+    "Hydrogen can only hold two valence electrons.",
+    "Electronegative atoms disproportionately carry shared electron pairs when bonded to hydrogen.",
+    "Hydrogen bonds have ionic character."
+   ],
+   "correct": 2,
+   "explanation": "Electronegative atoms bonded to hydrogen disproportionately pull covalently bonded electrons toward themselves, which leaves hydrogen with a partial positive character. That partial positive charge is attracted to nearby negative or partial negative charges, such as those on other electronegative atoms."
+  },
+  {
+   "q": "Which of the following best describes the number and character of the bonds in an ammonium cation?",
+   "type": "mcq",
+   "choices": [
+    "Three polar covalent bonds",
+    "Four polar covalent bonds, of which none are coordinate covalent bonds",
+    "Four polar covalent bonds, of which one is a coordinate covalent bond",
+    "Four polar covalent bonds, of which two are coordinate covalent bonds"
+   ],
+   "correct": 2,
+   "explanation": "First recall that ammonium is NH4+, while ammonia is NH3. Ammonium is formed by the association of NH3, an uncharged molecule with a lone pair on the nitrogen, with a positively charged hydrogen cation. In other words, NH3 is a Lewis base, while H+ is a Lewis acid. This type of bonding between a Lewis acid and base is a coordinate covalent bond."
+  },
+  {
+   "q": "Although the octet rule dictates much of molecular structure, some atoms can violate the octet rule by being surrounded by more than eight electrons. Which of the following is the best explanation for why some atoms can exceed the octet?",
+   "type": "mcq",
+   "choices": [
+    "Atoms that exceed the octet already have eight electrons in their outermost electron shell.",
+    "Atoms that exceed the octet only do so when bonding with transition metals.",
+    "Atoms that exceed the octet can do so because they have d- orbitals in which extra electrons can reside.",
+    "Some atoms can exceed the octet because they are highly electronegative."
+   ],
+   "correct": 2,
+   "explanation": "All atoms in the third period or greater have d-orbitals, which can hold an additional 10 electrons. The typical “octet” electrons reside in s- and p- orbitals, but elements in period 3 or higher can place electrons into these d-orbitals."
+  },
+  {
+   "q": "Which of the following types of intermolecular forces provides the most accurate explanation for why noble gases can liquefy?",
+   "type": "mcq",
+   "choices": [
+    "Hydrogen bonding",
+    "Ion–dipole interactions",
+    "Dispersion forces",
+    "Dipole–dipole interactions"
+   ],
+   "correct": 2,
+   "explanation": "All of the listed types of forces describe interactions between different types of molecules. However, noble gases are entirely uncharged and do not have polar covalent bonds, ionic bonds, or dipole moments. Therefore, the only intermolecular forces experienced by noble gases are London dispersion forces. Although these interactions are small in magnitude, they are necessary for condensation into a liquid."
+  },
+  {
+   "q": "In the structure shown, which atom(s) have the most positive charge?",
+   "type": "mcq",
+   "choices": [
+    "The phosphorus atom has the most positive charge.",
+    "All atoms share the charge equally.",
+    "The four oxygen atoms share the highest charge.",
+    "The oxygen atom at the peak of the trigonal pyramidal geometry has the most positive charge."
+   ],
+   "correct": 0,
+   "explanation": "In this Lewis diagram, the phosphate molecule has an overall formal charge of −3. The four oxygen atoms would each be assigned a formal charge of −1. Given the overall charge of −3 and the −1 charge on each oxygen, the phosphorus must have a formal charge of +1."
+  },
+  {
+   "q": "Which of the following is the best name for the new bond formed in the reaction shown?",
+   "type": "mcq",
+   "choices": [
+    "Nonpolar covalent bond",
+    "Ionic bond",
+    "Coordinate covalent bond",
+    "Hydrogen bond"
+   ],
+   "correct": 2,
+   "explanation": "The reaction in this question shows a water molecule, which has two lone pairs of electrons on the central oxygen, combining with a free hydrogen cation. The resulting molecule, H3O+ has formed a new bond between H+ and H2O. This bond is created via the sharing of one of oxygen’s lone pairs with the free H+ ion. This represents the donation of a shared pair of electrons from a Lewis base (H2O) to a Lewis acid (H+, electron acceptor). This type of bond is called a coordinate covalent bond."
+  },
+  {
+   "q": "Both BF3 and NH3 have three atoms bonded to the central atom. Which of the following is the best explanation for why the geometry of these two molecules is different?",
+   "type": "mcq",
+   "choices": [
+    "BF3 has three bonded atoms and no lone pairs, which makes its geometry trigonal pyramidal.",
+    "NH3 is nonpolar, while BF3 is polar.",
+    "NH3 has three bonded atoms and one lone pair, which makes its geometry trigonal pyramidal.",
+    "BF3 is nonpolar, while NH3 is polar."
+   ],
+   "correct": 2,
+   "explanation": "NH3 has three hydrogen atoms bonded to the central nitrogen, which also has a lone pair. These four groups—three atoms, one lone pair—lead NH3 to assume tetrahedral electronic geometry yet trigonal pyramidal molecular geometry. The nitrogen in ammonia is sp3-hybridized. By hybridizing all three p-orbitals and the one s-orbital, four groups are arranged about the central atom, maximizing the distances between the groups to minimize the energy of the molecule with a tetrahedral configuration. In contrast, BF3 has three atoms and no lone pairs, resulting in sp2-hybridization. Its shape is called trigonal planar."
+  },
+  {
+   "q": "Which of the following best describes an important property of bond energy?",
+   "type": "mcq",
+   "choices": [
+    "Bond energy increases with increasing bond length.",
+    "The more shared electron pairs comprising a bond, the higher the energy of that bond.",
+    "Single bonds are more difficult to break than double bonds.",
+    "Bond energy and bond length are unrelated."
+   ],
+   "correct": 1,
+   "explanation": "This answer requires an understanding of the trends that cause higher or lower bond energies. Bonds of high energy are those that are difficult to break. These bonds tend to have more shared pairs of electrons and, thus, cause a stronger attraction between the two atoms in the bonds. This stronger attraction also means that the bond length of a high-energy, high-order bond such as a triple bond is shorter than that of its lower- energy counterparts such as single or double bonds."
+  }
+ ]
+}

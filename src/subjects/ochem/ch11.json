@@ -1,0 +1,252 @@
+{
+ "id": 11,
+ "num": 11,
+ "title": "Spectroscopy",
+ "slug": "spectroscopy",
+ "sections": [
+  {
+   "title": "11.1 Infrared Spectroscopy",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch11_spectroscopy/fig01.png",
+     "alt": "Chapter 11 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch11_spectroscopy/fig02.png",
+     "alt": "Chapter 11 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch11_spectroscopy/fig03.png",
+     "alt": "Figure\n11.1. Others include twisting and folding.",
+     "caption": "Figure\n11.1. Others include twisting and folding."
+    },
+    {
+     "src": "ochem/ch11_spectroscopy/fig04.png",
+     "alt": "Figure 11.2.  IR Spectrum of an Aliphatic Alcohol",
+     "caption": "Figure 11.2.  IR Spectrum of an Aliphatic Alcohol"
+    }
+   ]
+  },
+  {
+   "title": "11.2 Ultraviolet Spectroscopy",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "11.3 Nuclear Magnetic Resonance Spectroscopy",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch11_spectroscopy/fig05.png",
+     "alt": "Figure 11.3. Multiple cross-sectional scans of the patient’s body are",
+     "caption": "Figure 11.3. Multiple cross-sectional scans of the patient’s body are"
+    },
+    {
+     "src": "ochem/ch11_spectroscopy/fig06.png",
+     "alt": "Figure 11.3.  Magnetic Resonance Imaging (MRI)",
+     "caption": "Figure 11.3.  Magnetic Resonance Imaging (MRI)"
+    },
+    {
+     "src": "ochem/ch11_spectroscopy/fig07.png",
+     "alt": "Figure 11.4.  1H–NMR Spectrum of Dichloromethyl Methyl Ether",
+     "caption": "Figure 11.4.  1H–NMR Spectrum of Dichloromethyl Methyl Ether"
+    },
+    {
+     "src": "ochem/ch11_spectroscopy/fig08.png",
+     "alt": "Figure 11.5 to demonstrate this concept.",
+     "caption": "Figure 11.5 to demonstrate this concept."
+    },
+    {
+     "src": "ochem/ch11_spectroscopy/fig09.png",
+     "alt": "Figure 11.6.  1,1-Dibromo-2-chloroethane",
+     "caption": "Figure 11.6.  1,1-Dibromo-2-chloroethane"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "IR spectroscopy is most useful for distinguishing:",
+   "type": "mcq",
+   "choices": [
+    "double and triple bonds.",
+    "C–H bonds.",
+    "chirality of molecules.",
+    "relative percentage of enantiomers in mixtures."
+   ],
+   "correct": 0,
+   "explanation": "Infrared spectroscopy is most useful for distinguishing between different functional groups. Almost all organic compounds have C–H bonds, (B), so except for fingerprinting a compound, these absorptions are not useful. Little information about the optical properties of a compound, such as (C) and (D), can be obtained by IR spectroscopy."
+  },
+  {
+   "q": "Oxygen (O2) does not exhibit an IR spectrum because:",
+   "type": "mcq",
+   "choices": [
+    "it has no molecular motions.",
+    "it is not possible to record IR spectra of a gaseous molecule.",
+    "molecular vibrations do not result in a change in the dipole moment.",
+    "molecular oxygen contains four lone pairs overall."
+   ],
+   "correct": 2,
+   "explanation": "Because molecular oxygen is homonuclear (composed of only one element) and diatomic, there is no net change in its dipole moment during vibration or rotation; in other words, the compound does not absorb in a measurable way in the infrared region. IR spectroscopy is based on the principle that, when the molecule vibrates or rotates, there is a change in dipole moment. (A) is incorrect because oxygen does have molecular motions; they are just not detectable in IR spectroscopy. (B) is incorrect because it is possible to record the IR of a gaseous molecule as long as it shows a change in its dipole moment when it vibrates. (D) is incorrect because lone pairs do not have an effect on the ability to generate an IR spectrum of a compound."
+  },
+  {
+   "q": "If IR spectroscopy were employed to monitor the oxidation of benzyl alcohol to benzaldehyde, which of the following would provide the best evidence that the reaction was proceeding as planned?",
+   "type": "mcq",
+   "choices": [
+    "Comparing the fingerprint region of the spectra of starting material and product",
+    "Noting the change in intensity of the peaks corresponding to the benzene ring",
+    "Noting the appearance of a broad absorption peak in the region of 3100–3500 cm–1",
+    "Noting the appearance of a strong absorption in the region of 1750 cm–1"
+   ],
+   "correct": 3,
+   "explanation": "In this reaction, the functional group is changing from a hydroxyl to an aldehyde. This means that a sharp peak will appear around 1750 cm–1, which corresponds to the carbonyl functionality. (C) is the opposite of what occurs; the reaction will be characterized by the disappearance of the O–H peak at 3100 to 3500 cm–1, not its appearance. Comparing the fingerprint regions, as in (A), will provide evidence that a reaction is occurring, but is not as useful for knowing that the reaction that occurred was indeed the one that was desired."
+  },
+  {
+   "q": "Which of the following chemical shifts could correspond to an aldehydic proton signal in a 1H–NMR spectrum?",
+   "type": "mcq",
+   "choices": [
+    "9.5 ppm",
+    "7.0 ppm",
+    "11.0 ppm",
+    "1.0 ppm"
+   ],
+   "correct": 0,
+   "explanation": "The peak at 9.5 ppm corresponds to an aldehydic proton. This signal lies downfield because the carbonyl oxygen is electron-withdrawing and deshields the proton. (C) corresponds to a carboxyl proton and is even further downfield because the acidic proton is deshielded to a greater degree than the aldehydic proton. (B) corresponds to aromatic protons. (D) is characteristic of an alkyl proton on an sp3-hybridized carbon."
+  },
+  {
+   "q": "The isotope 12C is not useful for NMR because:",
+   "type": "mcq",
+   "choices": [
+    "it is not abundant in nature.",
+    "its resonances are not sensitive to the presence of neighboring atoms.",
+    "it has no magnetic moment.",
+    "the signal-to-noise ratio in the spectrum is too low."
+   ],
+   "correct": 2,
+   "explanation": "This isotope has no magnetic moment and will therefore not exhibit resonance with an applied magnetic field. Nuclei with odd mass numbers (1H, 11B, 13C, 15N, 19F, and so on) or those with an even mass number but an odd atomic number (2H, 10B) will have a nonzero magnetic moment."
+  },
+  {
+   "q": "In 1H–NMR, splitting of spectral lines is due to:",
+   "type": "mcq",
+   "choices": [
+    "coupling between a carbon atom and protons attached to that carbon atom.",
+    "coupling between a carbon atom and protons attached to adjacent carbon atoms.",
+    "coupling between adjacent carbon atoms.",
+    "coupling between protons on adjacent carbon atoms."
+   ],
+   "correct": 3,
+   "explanation": "Spin–spin coupling (splitting) is due to influence on the magnetic environment of one proton by protons on the adjacent atom. These protons are three bonds away from each other. Splitting in other NMR spectra can include coupling with carbon atoms, but not in 1H–NMR."
+  },
+  {
+   "q": "Compared to IR and NMR spectroscopy, UV spectroscopy is preferred for detecting:",
+   "type": "mcq",
+   "choices": [
+    "aldehydes and ketones.",
+    "unconjugated alkenes.",
+    "conjugated alkenes.",
+    "aliphatic acids and amines."
+   ],
+   "correct": 2,
+   "explanation": "Most conjugated alkenes have an intense ultraviolet absorption. Aldehydes, ketones, acids, and amines, mentioned in (A) and (D), all absorb in the ultraviolet range. However, other forms of spectroscopy (mainly IR and NMR) are more useful for precise identification. Isolated alkenes, (B), can rarely be identified by UV spectroscopy."
+  },
+  {
+   "q": "Considering only the 0 to 4.5 ppm region of a 1H–NMR spectrum, how could ethanol and isopropanol be distinguished?",
+   "type": "mcq",
+   "choices": [
+    "They cannot be distinguished from 1H–NMR alone.",
+    "A triplet and quartet are observed for ethanol, whereas a doublet and septet are observed for isopropanol.",
+    "A triplet and quartet are observed for isopropanol, whereas a doublet and septet are observed for ethanol.",
+    "The alcohol hydrogen in ethanol will appear within that region, whereas the alcohol hydrogen in isopropanol will appear downfield of that region."
+   ],
+   "correct": 1,
+   "explanation": "The region in question often gives information about the types of alkyl groups present. Specifically, ethanol will give a characteristic triplet for the methyl group (which is coupled to –CH2–) and a quartet for –CH2– (which is coupled to the methyl group). Isopropanol will have a septet for the –CH– group (which is coupled to both methyl groups combined) and a doublet for the two methyl groups (which are coupled to –CH–). In both cases, the proton in the alcohol does not participate in coupling. The alcohol hydrogen likely lies downfield for both compounds because it is bonded to such an electronegative element."
+  },
+  {
+   "q": "Before absorbing an ultraviolet photon, electrons can be found in:",
+   "type": "mcq",
+   "choices": [
+    "the HOMO only.",
+    "the LUMO only.",
+    "both the HOMO and the LUMO.",
+    "neither the HOMO nor the LUMO."
+   ],
+   "correct": 0,
+   "explanation": "The HOMO is the highest occupied molecular orbital. Only after absorbing ultraviolet light is an electron is excited from the HOMO to the LUMO, the lowest unoccupied molecular orbital."
+  },
+  {
+   "q": "In an IR spectrum, how does extended conjugation of double bonds affect the absorbance band of carbonyl (C=O) stretches compared with normal absorption?",
+   "type": "mcq",
+   "choices": [
+    "The absorbance band will occur at a lower wavenumber.",
+    "The absorbance band will occur at a higher wavenumber.",
+    "The absorbance band will occur at the same wavenumber.",
+    "The absorbance band will disappear."
+   ],
+   "correct": 0,
+   "explanation": "Carbonyl groups (C=O) in conjugation with double bonds tend to absorb at lower wavenumbers because the delocalization of π electrons causes the C=O bond to lose double-bond character, shifting the stretching frequency closer to C–O stretches. Remember that higher-order bonds tend to have higher absorption frequencies, so loss of double-bond character should decrease the absorption frequency of the group."
+  },
+  {
+   "q": "Wavenumber is directly proportional to:",
+   "type": "mcq",
+   "choices": [
+    "wavelength.",
+    "frequency.",
+    "percent transmittance.",
+    "absorbance."
+   ],
+   "correct": 1,
+   "explanation": "Wavenumber is directly proportional to frequency It is inversely proportional to wavelength, (A), and has no proportionality to percent transmittance or absorbance, (C) and (D)."
+  },
+  {
+   "q": "Two enantiomers will:",
+   "type": "mcq",
+   "choices": [
+    "have identical IR spectra because they have the same functional groups.",
+    "have identical IR spectra because they have the same specific rotation.",
+    "have different IR spectra because they are structurally different.",
+    "have different IR spectra because they have different specific rotations."
+   ],
+   "correct": 0,
+   "explanation": "Enantiomers will have identical IR spectra because they have the same functional groups and will therefore have the exact same absorption frequencies. Enantiomers have opposite specific rotations, but specific rotation actually has no effect on the IR spectrum."
+  },
+  {
+   "q": "In a molecule containing a carboxylic acid group, what would be expected in a 1H–NMR spectrum?",
+   "type": "mcq",
+   "choices": [
+    "A deshielded hydrogen peak for the hydroxyl hydrogen, shifted left",
+    "A deshielded hydrogen peak for the hydroxyl hydrogen, shifted right",
+    "A shielded hydrogen peak for the hydroxyl hydrogen, shifted left",
+    "A shielded hydrogen peak for the hydroxyl hydrogen, shifted right"
+   ],
+   "correct": 0,
+   "explanation": "The oxygen of the hydroxyl group will deshield the hydroxyl hydrogen, shifting it downfield, or left. Hydrogens in carboxylic acids can have some of the most downfield absorbances, around 10.5 to 12 ppm."
+  },
+  {
+   "q": "The coupling constant, J, is:",
+   "type": "mcq",
+   "choices": [
+    "the value of n + 1 when determining splitting in NMR spectra.",
+    "measured in parts per million (ppm).",
+    "corrected for by calibration with tetramethylsilane.",
+    "a measure of the degree of splitting caused by other atoms in the molecule."
+   ],
+   "correct": 3,
+   "explanation": "The coupling constant is a measure of the degree of splitting introduced by other atoms in a molecule, and is the frequency of the distance between subpeaks. It is measured in hertz, eliminating (B). The coupling constant is independent of the value of n + 1, and is not changed by calibration with tetramethylsilane, eliminating (A) and (B)."
+  },
+  {
+   "q": "The IR spectrum of a fully protonated amino acid would likely contain which of the following peaks? A sharp peak at 1750 cm–1 .          A sharp peak at 3300 cm–1 I.          A broad peak at 3300 cm–1",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "I and II only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 1,
+   "explanation": "Amino acids in their fully protonated form contain all three of the peaks that should be memorized for Test Day: C–O, N–H, and O–H. While statements I and II correctly give the peaks for the C=O bond (sharp peak at 1750 cm–1) and the N–H bond (sharp peak at 3300 cm–1), the peak for the O–H bond is in the wrong place. In a carboxylic acid, the C=O bond withdraws electron density from the O–H bond, shifting the absorption frequency down to about 3000 cm–1. Statement III is therefore incorrect."
+  }
+ ]
+}

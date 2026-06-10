@@ -1,0 +1,258 @@
+{
+ "id": 12,
+ "num": 12,
+ "title": "Separations and Purifications",
+ "slug": "separations_and_purifications",
+ "sections": [
+  {
+   "title": "12.1 Solubility-Based Methods",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch12_separations_and_purifications/fig01.png",
+     "alt": "Chapter 12 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch12_separations_and_purifications/fig02.png",
+     "alt": "Chapter 12 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch12_separations_and_purifications/fig03.png",
+     "alt": "Figure 12.1, we can extract the",
+     "caption": "Figure 12.1, we can extract the"
+    },
+    {
+     "src": "ochem/ch12_separations_and_purifications/fig04.png",
+     "alt": "Figure 12.2.  Separatory Funnel",
+     "caption": "Figure 12.2.  Separatory Funnel"
+    },
+    {
+     "src": "ochem/ch12_separations_and_purifications/fig10.png",
+     "alt": "Chapter 12 figure 10",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "12.2 Distillation",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch12_separations_and_purifications/fig05.png",
+     "alt": "Figure 12.3.  Vacuum Distillation",
+     "caption": "Figure 12.3.  Vacuum Distillation"
+    },
+    {
+     "src": "ochem/ch12_separations_and_purifications/fig06.png",
+     "alt": "Figure 12.4.  Fractional Distillation",
+     "caption": "Figure 12.4.  Fractional Distillation"
+    }
+   ]
+  },
+  {
+   "title": "12.3 Chromatography",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch12_separations_and_purifications/fig07.png",
+     "alt": "Figure 12.5.  Thin-Layer Chromatography",
+     "caption": "Figure 12.5.  Thin-Layer Chromatography"
+    },
+    {
+     "src": "ochem/ch12_separations_and_purifications/fig08.png",
+     "alt": "Figure 12.6.  Column Chromatography",
+     "caption": "Figure 12.6.  Column Chromatography"
+    },
+    {
+     "src": "ochem/ch12_separations_and_purifications/fig09.png",
+     "alt": "Figure 12.7.  Gas Chromatography",
+     "caption": "Figure 12.7.  Gas Chromatography"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Fractional distillation under atmospheric pressure would most likely be used to separate which of the following compounds?",
+   "type": "mcq",
+   "choices": [
+    "Methylene chloride (boiling point of 40°C) and water (boiling point of 10°C)",
+    "Ethyl acetate (boiling point of 77°C) and ethanol (boiling point of 80°C)",
+    "Aniline (boiling point of 184°C) and benzyl alcohol (boiling point of 205°C)",
+    "Aniline (boiling point of 184°C) and water (boiling point of 100°C)"
+   ],
+   "correct": 1,
+   "explanation": "Fractional distillation is the most effective procedure for separating two liquids that boil within a few degrees of each other. Ethyl acetate and ethanol boil well within 25°C of each other and thus would be good candidates for fractional distillation. Fractional distillation could also be used for the liquids in (C), but would require lower pressures because of their high boiling points."
+  },
+  {
+   "q": "Which of the following compounds would be most effective in extracting benzoic acid from a diethyl ether solution?",
+   "type": "mcq",
+   "choices": [
+    "Tetrahydrofuran",
+    "Aqueous hydrochloric acid",
+    "Aqueous sodium hydroxide",
+    "Water"
+   ],
+   "correct": 2,
+   "explanation": "By extracting with sodium hydroxide, benzoic acid will be converted to its sodium salt, sodium benzoate. Sodium benzoate, unlike its conjugate acid, will dissolve in an aqueous solution. The aqueous layer simply has to be acidified afterward to retrieve benzoic acid. (A) is incorrect because diethyl ether and tetrahydrofuran are both nonpolar and are miscible. Hydrochloric acid will not transform benzoic acid into a soluble salt, so (B) is incorrect. Finally, (D) is incorrect because protonated benzoic acid has limited solubility in water."
+  },
+  {
+   "q": "Which of the following would be the best procedure for extracting acetaldehyde from an aqueous solution?",
+   "type": "mcq",
+   "choices": [
+    "A single extraction with 100 mL of ether",
+    "Two successive extractions with 50 mL portions of ether",
+    "Three successive extractions with 33.3 mL portions of ether",
+    "Four successive extractions with 25 mL portions of ether Questions 4 and 5 refer to the following table: Compound                     Retardation Factor in Ether Benzyl alcohol                               0.10 Benzyl acetate                               0.26 p-Nitrophenol                               0.23 1-Naphthalenemethanol                          0.40"
+   ],
+   "correct": 3,
+   "explanation": "It is more effective to perform four successive extractions with small amounts of ether than to perform one extraction with a large amount of ether."
+  },
+  {
+   "q": "What would be the effect on the Rf values if thin-layer chromatography (TLC) were run with hexane rather than ether as the eluent?",
+   "type": "mcq",
+   "choices": [
+    "No effect",
+    "Increase tenfold",
+    "Double",
+    "Decrease"
+   ],
+   "correct": 3,
+   "explanation": "Hexane is less polar than ether and, therefore, is less likely to displace polar compounds adsorbed to the silica gel. This would decrease the distance these polar compounds would travel, decreasing Rf values."
+  },
+  {
+   "q": "If these compounds were separated by column chromatography with ether on silica gel, which would elute first?",
+   "type": "mcq",
+   "choices": [
+    "Benzyl alcohol",
+    "Benzyl acetate",
+    "p-Nitrophenol",
+    "1-Naphthalenemethanol"
+   ],
+   "correct": 3,
+   "explanation": "In column chromatography, as in TLC, the less polar compound travels most rapidly. This means that 1-naphthalenemethanol,with the highest Rf value, would travel most rapidly and would be the first to elute from the column."
+  },
+  {
+   "q": "Four compounds, I, II, III, and IV, are separated by chromatographic techniques. Compound III is the most polar, II the least polar, and I and IV have intermediate polarity. The solvent system is 85:15 ethanol:methylene chloride. Which spot on the card below likely belongs to compound III?",
+   "type": "mcq",
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "correct": 0,
+   "explanation": "This is an example of reverse-phase chromatography. The solvent system is polar, which means that the most polar compound will travel the furthest up the card, resulting in the largest Rf. This gives compound III the largest Rf, which corresponds to spot A."
+  },
+  {
+   "q": "Suppose an extraction with methylene chloride is performed, with the desired compound initially in brine                        In a separatory funnel, which layer will be the organic layer?",
+   "type": "mcq",
+   "choices": [
+    "The top layer",
+    "The bottom layer",
+    "No layers are observed; methylene chloride and brine are miscible.",
+    "More information is needed to answer the question."
+   ],
+   "correct": 1,
+   "explanation": "Because methylene chloride is denser than brine (salt water), the organic layer will settle at the bottom of the funnel. Methylene chloride is nonpolar, so it cannot mix with brine, eliminating (C)."
+  },
+  {
+   "q": "Silica gel is often used in thin-layer chromatography. What property does silica gel probably possess that makes it useful for this purpose?",
+   "type": "mcq",
+   "choices": [
+    "Acidity",
+    "Polarity",
+    "Specifically sized pores",
+    "Aqueous solubility"
+   ],
+   "correct": 1,
+   "explanation": "Silica gels are polar. Polarity is used to selectively attract specific solutes within a nonpolar solvent phase. Although silica gels have other properties, this is the most important to TLC."
+  },
+  {
+   "q": "A mixture of sand, benzoic acid, and naphthalene in ether is best separated by:",
+   "type": "mcq",
+   "choices": [
+    "filtration, followed by acidic extraction, followed by recrystallization.",
+    "filtration, followed by basic extraction, followed by evaporation.",
+    "extraction, followed by distillation, followed by gas chromatography.",
+    "filtration, followed by size-exclusion column chromatography, followed by extraction."
+   ],
+   "correct": 1,
+   "explanation": "In this question, three substances must be separated using a combination of techniques. The first step should be the most obvious: remove the sand by filtration. The remaining compounds—benzoic acid and naphthalene— are still dissolved in ether. If the solution is extracted with aqueous base, the benzoate anion is formed and becomes dissolved in the aqueous layer, while naphthalene, a nonpolar compound, remains in the ether. Finally, evaporation of the ether will yield purified naphthalene."
+  },
+  {
+   "q": "Simple distillation could be used to separate which of the following compounds?",
+   "type": "mcq",
+   "choices": [
+    "Toluene (boiling point of 111°C) and water (boiling point of 100°C)",
+    "Naphthalene (boiling point of 218°C) and butyric acid (boiling point of 163°C)",
+    "Propionaldehyde (boiling point of 50°C) and acetic acid (boiling point of 119°C)",
+    "Benzene (boiling point of 80°C) and isopropyl alcohol (boiling point of 83°C)"
+   ],
+   "correct": 2,
+   "explanation": "This is the only option that would be effectively separated by a simple distillation. (B) would require vacuum distillation because the boiling points are over 150°C. In (A) and (D), the boiling points are within 25°C of each other and would therefore require fractional distillation in order to be separated."
+  },
+  {
+   "q": "In order to separate a biological effector from solution, which chromatographic technique would be the most effective?",
+   "type": "mcq",
+   "choices": [
+    "Thin-layer chromatography",
+    "Ion-exchange chromatography",
+    "Affinity chromatography",
+    "Size-exclusion chromatography"
+   ],
+   "correct": 2,
+   "explanation": "Affinity chromatography, using the target for the biological effector or a specific antibody, would work best in this case. It will specifically bind the protein of interest and keep it in the column."
+  },
+  {
+   "q": "Given a solution of insulin (molecular weight = 5.8 kD) and titin (molecular weight = 3816 kD), which chromatographic technique would be the most effective for separating out usable molecules of titin?",
+   "type": "mcq",
+   "choices": [
+    "Thin-layer chromatography",
+    "Ion-exchange chromatography",
+    "Affinity chromatography",
+    "Size-exclusion chromatography"
+   ],
+   "correct": 3,
+   "explanation": "Because this solution is composed of a much larger molecule and a much smaller molecule, size-exclusion chromatography would effectively remove the smaller insulin molecule into the fraction retained in the column and allow the titin to be eluted. Affinity chromatography, (C), could also be used, but comes with a risk of rendering the titin unusable; the eluent run through an affinity chromatography column often binds to the target molecule."
+  },
+  {
+   "q": "The gas eluent in gas chromatography and the liquid eluent in paper chromatography are examples of which component of these systems?",
+   "type": "mcq",
+   "choices": [
+    "Stationary phase",
+    "Mobile phase",
+    "Column",
+    "Fraction"
+   ],
+   "correct": 1,
+   "explanation": "Each of these is the mobile phase of the system, in which the solutes are dissolved and move. The stationary phase in gas chromatography is usually a crushed metal or polymer; the stationary phase in paper chromatography is paper."
+  },
+  {
+   "q": "During gravity filtration, a student forgets to heat the solution before running it through the filter. After capturing the filtrate, the student analyzes the sample via infrared (IR) spectroscopy and finds none of the desired product in the filtrate. What likely occurred to the student’s product?",
+   "type": "mcq",
+   "choices": [
+    "The product degraded because of a prolonged filtration time.",
+    "The product evaporated with collection of the filtrate.",
+    "The product precipitated and is present in the residue.",
+    "The product was dissolved in the solvent."
+   ],
+   "correct": 2,
+   "explanation": "Warm or hot solvent is generally used in gravity filtration to keep the desired product soluble. This allows the product to remain in the filtrate, which can then be collected. In this case, the student likely used solvent that was too cold, and the product crystallized out. The product should be present in the residue."
+  },
+  {
+   "q": "Lactoferrin, a milk protein, is a valuable antimicrobial agent that is extracted from pasteurized, defatted milk utilizing a column containing a charged resin. This is an example of which of the following chromatographic techniques?",
+   "type": "mcq",
+   "choices": [
+    "Thin-layer chromatography",
+    "Ion-exchange chromatography",
+    "Affinity chromatography",
+    "Size-exclusion chromatography"
+   ],
+   "correct": 1,
+   "explanation": "Because the lactoferrin proteins are likely to be charged, as is the resin described in the question, this is an example of ion-exchange chromatography. The charged protein molecules will stick to the column, while the remainder of the milk washes through and can later be washed off of the column and collected."
+  }
+ ]
+}

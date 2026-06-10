@@ -1,0 +1,107 @@
+{
+ "id": 6,
+ "num": 6,
+ "title": "Circuits",
+ "slug": "circuits",
+ "sections": [
+  {
+   "title": "6.1 Current",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch06_circuits/fig01.png",
+     "alt": "Chapter 6 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch06_circuits/fig02.png",
+     "alt": "Chapter 6 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch06_circuits/fig03.png",
+     "alt": "Chapter 6 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch06_circuits/fig04.png",
+     "alt": "Chapter 6 figure 4",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch06_circuits/fig05.png",
+     "alt": "Chapter 6 figure 5",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch06_circuits/fig06.png",
+     "alt": "Chapter 6 figure 6",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch06_circuits/fig07.png",
+     "alt": "Chapter 6 figure 7",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch06_circuits/fig08.png",
+     "alt": "Chapter 6 figure 8",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "6.2 Resistance",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch06_circuits/fig09.png",
+     "alt": "Chapter 6 figure 9",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch06_circuits/fig10.png",
+     "alt": "Figure 6.1.",
+     "caption": "Figure 6.1."
+    },
+    {
+     "src": "physics/ch06_circuits/fig11.png",
+     "alt": "Chapter 6 figure 11",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch06_circuits/fig12.png",
+     "alt": "Figure 6.2 Resistors in Parallel",
+     "caption": "Figure 6.2 Resistors in Parallel"
+    }
+   ]
+  },
+  {
+   "title": "6.3 Capacitance and Capacitors",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch06_circuits/fig13.png",
+     "alt": "Chapter 6 figure 13",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch06_circuits/fig14.png",
+     "alt": "Figure 6.3.",
+     "caption": "Figure 6.3."
+    },
+    {
+     "src": "physics/ch06_circuits/fig15.png",
+     "alt": "Figure 6.4, produce a resultant",
+     "caption": "Figure 6.4, produce a resultant"
+    }
+   ]
+  },
+  {
+   "title": "6.4 Meters",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": []
+}

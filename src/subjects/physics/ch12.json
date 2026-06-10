@@ -1,0 +1,145 @@
+{
+ "id": 12,
+ "num": 12,
+ "title": "Data-Based and Statistical Reasoning",
+ "slug": "data_based_and_statistical_reasoning",
+ "sections": [
+  {
+   "title": "12.1 Measures of Central Tendency",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig01.png",
+     "alt": "Chapter 12 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig02.png",
+     "alt": "Chapter 12 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig03.png",
+     "alt": "Chapter 12 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig04.png",
+     "alt": "Chapter 12 figure 4",
+     "caption": ""
+    },
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig05.png",
+     "alt": "Chapter 12 figure 5",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "12.2 Distributions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig06.png",
+     "alt": "Figure\n12.1. Even when we know that this is not quite the case, we can use special",
+     "caption": "Figure\n12.1. Even when we know that this is not quite the case, we can use special"
+    },
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig07.png",
+     "alt": "Figure 12.1 The Normal Distribution",
+     "caption": "Figure 12.1 The Normal Distribution"
+    },
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig08.png",
+     "alt": "Figure 12.2 Skewed Distributions",
+     "caption": "Figure 12.2 Skewed Distributions"
+    }
+   ]
+  },
+  {
+   "title": "12.3 Measures of Distribution",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig09.png",
+     "alt": "Figure 12.3 Bimodal Distribution",
+     "caption": "Figure 12.3 Bimodal Distribution"
+    }
+   ]
+  },
+  {
+   "title": "12.4 Probability",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig10.png",
+     "alt": "Figure 12.4 Probability of Two Independent Events Co-Occurring P(A and B) = P(A)",
+     "caption": "Figure 12.4 Probability of Two Independent Events Co-Occurring P(A and B) = P(A)"
+    }
+   ]
+  },
+  {
+   "title": "12.5 Statistical Testing",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "12.6 Charts, Graphs, and Tables",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig11.png",
+     "alt": "Figure 12.5, the population of",
+     "caption": "Figure 12.5, the population of"
+    },
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig12.png",
+     "alt": "Figure 12.6 shows a representative bar graph for causes",
+     "caption": "Figure 12.6 shows a representative bar graph for causes"
+    },
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig13.png",
+     "alt": "Figure 12.7.",
+     "caption": "Figure 12.7."
+    },
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig14.png",
+     "alt": "Figure 12.8.",
+     "caption": "Figure 12.8."
+    },
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig15.png",
+     "alt": "Figure 12.9 Shapes of Common Relationships on a Linear Graph (a) Linear; (b)",
+     "caption": "Figure 12.9 Shapes of Common Relationships on a Linear Graph (a) Linear; (b)"
+    },
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig16.png",
+     "alt": "Figure 12.10 shows an example of a semilog",
+     "caption": "Figure 12.10 shows an example of a semilog"
+    },
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig17.png",
+     "alt": "Figure 12.10 A Semilog Plot",
+     "caption": "Figure 12.10 A Semilog Plot"
+    },
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig18.png",
+     "alt": "Chapter 12 figure 18",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "12.7 Applying Data",
+   "goals": [],
+   "figures": [
+    {
+     "src": "physics/ch12_data_based_and_statistical_reasoning/fig19.png",
+     "alt": "Chapter 12 figure 19",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": []
+}

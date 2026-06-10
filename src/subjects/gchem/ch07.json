@@ -1,0 +1,391 @@
+{
+ "id": 7,
+ "num": 7,
+ "title": "Thermochemistry",
+ "slug": "thermochemistry",
+ "sections": [
+  {
+   "title": "7.1 Systems and Processes",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch07_thermochemistry/fig01.png",
+     "alt": "Chapter 7 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig02.png",
+     "alt": "Chapter 7 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig03.png",
+     "alt": "Figure 7.1.  Graph of an Isothermal Expansion",
+     "caption": "Figure 7.1.  Graph of an Isothermal Expansion"
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig04.png",
+     "alt": "Figure 7.2.  Graph of an Adiabatic Expansion",
+     "caption": "Figure 7.2.  Graph of an Adiabatic Expansion"
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig05.png",
+     "alt": "Figure 7.3.  Graph of an Isobaric Expansion",
+     "caption": "Figure 7.3.  Graph of an Isobaric Expansion"
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig06.png",
+     "alt": "Figure 7.4.",
+     "caption": "Figure 7.4."
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig22.png",
+     "alt": "Chapter 7 figure 22",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig23.png",
+     "alt": "Chapter 7 figure 23",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig24.png",
+     "alt": "Chapter 7 figure 24",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig25.png",
+     "alt": "Chapter 7 figure 25",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig26.png",
+     "alt": "Chapter 7 figure 26",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig27.png",
+     "alt": "Chapter 7 figure 27",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig28.png",
+     "alt": "Chapter 7 figure 28",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig29.png",
+     "alt": "Chapter 7 figure 29",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig30.png",
+     "alt": "Chapter 7 figure 30",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig31.png",
+     "alt": "Chapter 7 figure 31",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig32.png",
+     "alt": "Chapter 7 figure 32",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig33.png",
+     "alt": "Chapter 7 figure 33",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "7.2 States and State Functions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch07_thermochemistry/fig07.png",
+     "alt": "Chapter 7 figure 7",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "7.3 Heat",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch07_thermochemistry/fig08.png",
+     "alt": "Chapter 7 figure 8",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig09.png",
+     "alt": "Figure 7.6.  Diagram of a Bomb Calorimeter",
+     "caption": "Figure 7.6.  Diagram of a Bomb Calorimeter"
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig10.png",
+     "alt": "Figure 7.7.",
+     "caption": "Figure 7.7."
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig11.png",
+     "alt": "Figure 7.7.  Heating Curve for a Single Compound",
+     "caption": "Figure 7.7.  Heating Curve for a Single Compound"
+    }
+   ]
+  },
+  {
+   "title": "7.4 Enthalpy",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch07_thermochemistry/fig12.png",
+     "alt": "Chapter 7 figure 12",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig13.png",
+     "alt": "Figure 7.8.  Illustration of Hess’s Law: Forming Product (D) from Reactant",
+     "caption": "Figure 7.8.  Illustration of Hess’s Law: Forming Product (D) from Reactant"
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig14.png",
+     "alt": "Chapter 7 figure 14",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig15.png",
+     "alt": "Chapter 7 figure 15",
+     "caption": ""
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig16.png",
+     "alt": "Figure 7.9.  Determining the Enthalpy of Glycolysis",
+     "caption": "Figure 7.9.  Determining the Enthalpy of Glycolysis"
+    }
+   ]
+  },
+  {
+   "title": "7.5 Entropy",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch07_thermochemistry/fig17.png",
+     "alt": "Figure 7.10.  Entropy in the kitchen",
+     "caption": "Figure 7.10.  Entropy in the kitchen"
+    }
+   ]
+  },
+  {
+   "title": "7.6 Gibbs Free Energy",
+   "goals": [],
+   "figures": [
+    {
+     "src": "gchem/ch07_thermochemistry/fig18.png",
+     "alt": "Figure 7.11.  Gibbs Free Energy and Spontaneity",
+     "caption": "Figure 7.11.  Gibbs Free Energy and Spontaneity"
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig19.png",
+     "alt": "Figure 7.12.  Exergonic Reaction Profile",
+     "caption": "Figure 7.12.  Exergonic Reaction Profile"
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig20.png",
+     "alt": "Figure 7.13.  Endergonic Reaction Profile",
+     "caption": "Figure 7.13.  Endergonic Reaction Profile"
+    },
+    {
+     "src": "gchem/ch07_thermochemistry/fig21.png",
+     "alt": "Figure 7.14.",
+     "caption": "Figure 7.14."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Consider the cooling of an ideal gas in a closed system. This process is illustrated in the pressure–volume graph shown in the following figure. Based on this information, the process may be:",
+   "type": "mcq",
+   "choices": [
+    "adiabatic.",
+    "isobaric.",
+    "isothermal.",
+    "isochoric."
+   ],
+   "correct": 0,
+   "explanation": "This process may be adiabatic. Given that the gas was cooled, it did not maintain constant temperature, eliminating (C). Isobaric and isovolumetric processes appear as horizontal and vertical lines in pressure–volume graphs, respectively, eliminating (B) and (D). Adiabatic processes appear hyperbolic on pressure–volume graphs, as illustrated here."
+  },
+  {
+   "q": "A reaction has a positive entropy and enthalpy. What can be inferred about the progress of this reaction from this information?",
+   "type": "mcq",
+   "choices": [
+    "The reaction is spontaneous.",
+    "The reaction is nonspontaneous.",
+    "The reaction is at equilibrium.",
+    "There is not enough information to determine whether the reaction is spontaneous or not."
+   ],
+   "correct": 3,
+   "explanation": "There is not enough information in the problem to determine whether or not the reaction is spontaneous. If the signs of enthalpy and entropy are the same, the reaction is temperature dependent according to ΔG = ΔH – TΔS. Without the temperature, we cannot determine if this reaction is spontaneous, nonspontaneous, or at equilibrium."
+  },
+  {
+   "q": "Pure sodium metal spontaneously combusts upon contact with room temperature water. What is true about the equilibrium constant of this combustion reaction at 25°C?",
+   "type": "mcq",
+   "choices": [
+    "Keq < 0",
+    "0 < Keq < 1",
+    "Keq = 1",
+    "Keq > 1"
+   ],
+   "correct": 3,
+   "explanation": "Solve this question using the equation ΔG°rxn = −RT ln Keq. ΔG°rxn is negative (as it must be for a spontaneous reaction), and R and T are always positive. Therefore, lnKeq must also be positive for the sign convention to work out correctly. Since ln(1) = 0, the natural logarithm of any number greater than 1 will be positive, and the natural logarithm of any number less than 1 will be negative. In order for lnKeq to be a positive number, Keq must be greater than 1."
+  },
+  {
+   "q": "Which of the following processes has the most exothermic standard heat of combustion?",
+   "type": "mcq",
+   "choices": [
+    "Combustion of ethane",
+    "Combustion of propane",
+    "Combustion of n-butane",
+    "Combustion of n-pentane"
+   ],
+   "correct": 3,
+   "explanation": "Combustion often involves the reaction of a hydrocarbon with oxygen to produce carbon dioxide and water. Longer hydrocarbon chains yield greater amounts of combustion products and release more heat in the process—that is, the reaction is more exothermic. Of the hydrocarbons listed here, n-pentane is the longest chain."
+  },
+  {
+   "q": "Methanol reacts with acetic acid to form methyl acetate and water. Type of Bond                                       Bond Dissociation Energy C – C                                   348 C – H                                   415 C = O                                   805 O – H                                   463 C – O                                   360 Based on the values in the table above, what is the heat of reaction in",
+   "type": "mcq",
+   "choices": [
+    "0",
+    "464",
+    "824",
+    "1288"
+   ],
+   "correct": 0,
+   "explanation": "At first glance, this might seem like a math-heavy problem, but it really doesn’t require any calculations at all. We just have to keep track of which bonds are broken and which bonds are formed. Remember, breaking bonds requires energy, while forming bonds releases energy. Two bonds are broken: a C–O bond between the carbonyl carbon and oxygen of acetic acid , and an O–H bond between the hydroxyl oxygen and hydrogen of methanol . Two bonds are also formed: a C– O bond between the carbonyl carbon and the oxygen of methyl acetate , and an O–H bond between a hydroxyl group and a hydrogen to form water . Given that the same two bonds are broken and formed in this reaction, the energy change must be"
+  },
+  {
+   "q": "At standard temperature and pressure, a chemical process is at equilibrium. What is the free energy of reaction (ΔG) for this process?",
+   "type": "mcq",
+   "choices": [
+    "ΔG > 0",
+    "ΔG < 0",
+    "ΔG = 0",
+    "There is not enough information to determine the free energy of the reaction."
+   ],
+   "correct": 2,
+   "explanation": "Standard temperature and pressure indicate 0°C and 1 atm. Gibbs free energy is temperature dependent, but if a reaction is at equilibrium, ΔG = 0."
+  },
+  {
+   "q": "For a certain chemical process,                        What is the equilibrium constant Keq for this reaction? (Note: )",
+   "type": "mcq",
+   "choices": [
+    "Keq = 1.0",
+    "Keq = 7.4",
+    "Keq = 8.9",
+    "Keq = 10"
+   ],
+   "correct": 1,
+   "explanation": "Solve this question using the equation ΔG°rxn = −RT ln Keq. ΔG°rxn° is R is and T = 298 K because the reaction is occurring under standard conditions. Because ΔG°rxn uses kilojoules in its units and R uses joules, one will have to be converted. Plugging into the equation, we get: If ln Keq = 2, then Keq = e2. The value of e is approximately 2.7, so e2 = 2.72 will be a number between 22 = 4 and 32= 9. Both (B) and (C) fit these criteria; however, 8.9 is very close to 9, so we can assume that its square root is very, very close to 3. The answer choice should be a bit smaller, so (B), 7.4, is correct."
+  },
+  {
+   "q": "Consider the chemical reaction in the vessel depicted in the following diagram.",
+   "type": "mcq",
+   "choices": [
+    "The reaction is spontaneous.",
+    "The reaction is nonspontaneous.",
+    "The reaction is at equilibrium.",
+    "There is not enough information to determine if the reaction is spontaneous."
+   ],
+   "correct": 3,
+   "explanation": "There is not enough information available to determine the free energy of this reaction. While the entropy is clearly increasing (there are more particles in the system), it is unclear what the enthalpy change is. Because bonds are breaking, the reaction should be endothermic, meaning that both ΔS and ΔH are positive. In this case, it is a temperature-dependent process, and—without a temperature given—we cannot determine the sign on ΔG."
+  },
+  {
+   "q": "Suppose                                for a chemical reaction. At 300 K, what is the change in Gibbs free energy in",
+   "type": "mcq",
+   "choices": [
+    "ΔG = –2000 + (300 K)(8.314)(ln Q)",
+    "ΔG = –2000 – (300 K)(8.314)(ln Q)",
+    "ΔG = –2000 + (300 K)(8.314)(log Q)",
+    "ΔG = –2000 – (300 K)(8.314)(log Q)"
+   ],
+   "correct": 0,
+   "explanation": "This problem asks for the free energy of a reaction at nonstandard conditions, which can be determined with the equation ΔG = ΔG° + RT ln Q."
+  },
+  {
+   "q": "A chemical reaction has a negative enthalpy and a negative entropy. Which of the following terms necessarily describes this reaction?",
+   "type": "mcq",
+   "choices": [
+    "Exothermic",
+    "Endothermic",
+    "Exergonic",
+    "Endergonic"
+   ],
+   "correct": 0,
+   "explanation": "A reaction with a negative enthalpy is, by definition, exothermic. Because both enthalpy and entropy are negative, this is a temperature-dependent process, and the reaction will be both endergonic and exergonic—but only at particular temperatures, eliminating (C) and (D)."
+  },
+  {
+   "q": "Which of the following statements is true of a process that is spontaneous in the forward direction?",
+   "type": "mcq",
+   "choices": [
+    "ΔG > 0 and Keq > Q",
+    "ΔG > 0 and Keq < Q",
+    "ΔG < 0 and Keq > Q",
+    "ΔG < 0 and Keq < Q"
+   ],
+   "correct": 2,
+   "explanation": "For a process to progress forward spontaneously, Q must be less than Keq and will therefore have a tendency to move in the direction toward equilibrium. A spontaneous reaction’s free energy is negative by convention."
+  },
+  {
+   "q": "Which of the following devices would be the most appropriate to use to measure the heat capacity of a liquid?",
+   "type": "mcq",
+   "choices": [
+    "Thermometer",
+    "Calorimeter",
+    "Barometer",
+    "Volumetric flask"
+   ],
+   "correct": 1,
+   "explanation": "A calorimeter measures heat transfer. Although calorimeters often incorporate thermometers, the thermometer itself only tracks temperature, not the heat transfer itself, so (A) is incorrect. (C) is irrelevant; barometers measure changes in pressure. (D) is also incorrect because volumetric flasks measure quantities of liquid, not the heat capacity of the liquid."
+  },
+  {
+   "q": "A reaction coordinate for a chemical reaction is displayed in the graph below. Which of the following terms describes the energy of this reaction?",
+   "type": "mcq",
+   "choices": [
+    "Endothermic",
+    "Exothermic",
+    "Endergonic",
+    "Exergonic"
+   ],
+   "correct": 0,
+   "explanation": "Eliminate (C) and (D), which describe the free energy of reaction and cannot be determined from this graph. While most reaction coordinate graphs we’ve explored in this book use free energy for the y-axis, this one uses potential energy (enthalpy). If the heat of formation of the products is greater than that of the reactants, the reaction is endothermic. We can determine this information from their relative positions on the graph: because the products are higher than the reactants, this is an endothermic reaction."
+  },
+  {
+   "q": "Which of the following phase changes is associated with the largest decrease in entropy?",
+   "type": "mcq",
+   "choices": [
+    "Fusion",
+    "Solidification",
+    "Deposition",
+    "Sublimation"
+   ],
+   "correct": 2,
+   "explanation": "Gases have the highest entropy, and solids have the lowest. Therefore, a phase change from a gas to a solid—deposition—would have the largest decrease in entropy of any phase change process."
+  },
+  {
+   "q": "Explosions are necessarily characterized by:",
+   "type": "mcq",
+   "choices": [
+    "ΔG < 0.",
+    "ΔH > 0.",
+    "ΔS < 0.",
+    "T < 0."
+   ],
+   "correct": 0,
+   "explanation": "In an explosion, a significant amount of heat energy is released, meaning that the reaction is exothermic (ΔH < 0), eliminating (B). The entropy change associated with an explosion is positive because energy is dispersed over a much larger area, eliminating (C). If this is true, the expression ΔH – TΔS must be negative, indicating that this is an exergonic process (ΔG < 0). Absolute temperature can never be negative, eliminating (D)."
+  }
+ ]
+}

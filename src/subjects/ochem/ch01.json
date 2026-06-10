@@ -1,0 +1,449 @@
+{
+ "id": 1,
+ "num": 1,
+ "title": "Nomenclature",
+ "slug": "nomenclature",
+ "sections": [
+  {
+   "title": "1.1 IUPAC Naming Conventions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch01_nomenclature/fig01.png",
+     "alt": "Chapter 1 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig02.png",
+     "alt": "Chapter 1 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig03.png",
+     "alt": "Chapter 1 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig04.png",
+     "alt": "Figure 1.1 shows a hydrocarbon with the longest chain labeled.",
+     "caption": "Figure 1.1 shows a hydrocarbon with the longest chain labeled."
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig05.png",
+     "alt": "Figure 1.2.  Numbering the Longest Carbon Chain",
+     "caption": "Figure 1.2.  Numbering the Longest Carbon Chain"
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig06.png",
+     "alt": "Figure 1.4.  Common Alternative Alkyl Substituents",
+     "caption": "Figure 1.4.  Common Alternative Alkyl Substituents"
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig07.png",
+     "alt": "Figure 1.5 shows an example of an entire hydrocarbon",
+     "caption": "Figure 1.5 shows an example of an entire hydrocarbon"
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig08.png",
+     "alt": "Chapter 1 figure 8",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig09.png",
+     "alt": "Chapter 1 figure 9",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig28.png",
+     "alt": "Chapter 1 figure 28",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig29.png",
+     "alt": "Chapter 1 figure 29",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig30.png",
+     "alt": "Chapter 1 figure 30",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig31.png",
+     "alt": "Chapter 1 figure 31",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig32.png",
+     "alt": "Chapter 1 figure 32",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig33.png",
+     "alt": "Chapter 1 figure 33",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig34.png",
+     "alt": "Chapter 1 figure 34",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig35.png",
+     "alt": "Chapter 1 figure 35",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig36.png",
+     "alt": "Chapter 1 figure 36",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig37.png",
+     "alt": "Chapter 1 figure 37",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig38.png",
+     "alt": "Chapter 1 figure 38",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig39.png",
+     "alt": "Chapter 1 figure 39",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig40.png",
+     "alt": "Chapter 1 figure 40",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig41.png",
+     "alt": "Chapter 1 figure 41",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig42.png",
+     "alt": "Chapter 1 figure 42",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig43.png",
+     "alt": "Chapter 1 figure 43",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig44.png",
+     "alt": "Chapter 1 figure 44",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig45.png",
+     "alt": "Chapter 1 figure 45",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig46.png",
+     "alt": "Chapter 1 figure 46",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "1.2 Hydrocarbons and Alcohols",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch01_nomenclature/fig10.png",
+     "alt": "Chapter 1 figure 10",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig11.png",
+     "alt": "Chapter 1 figure 11",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig12.png",
+     "alt": "Chapter 1 figure 12",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig13.png",
+     "alt": "Chapter 1 figure 13",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig14.png",
+     "alt": "Chapter 1 figure 14",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig15.png",
+     "alt": "Chapter 1 figure 15",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig16.png",
+     "alt": "Chapter 1 figure 16",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig17.png",
+     "alt": "Chapter 1 figure 17",
+     "caption": ""
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig18.png",
+     "alt": "Figure 1.6.  Naming Alcohols",
+     "caption": "Figure 1.6.  Naming Alcohols"
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig19.png",
+     "alt": "Chapter 1 figure 19",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "1.3 Aldehydes and Ketones",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch01_nomenclature/fig20.png",
+     "alt": "Figure 1.7 shows the IUPAC nomenclature for two",
+     "caption": "Figure 1.7 shows the IUPAC nomenclature for two"
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig21.png",
+     "alt": "Figure 1.7.  Naming Aldehydes",
+     "caption": "Figure 1.7.  Naming Aldehydes"
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig22.png",
+     "alt": "Figure 1.9.  Naming Ketones",
+     "caption": "Figure 1.9.  Naming Ketones"
+    }
+   ]
+  },
+  {
+   "title": "1.4 Carboxylic Acids and Derivatives",
+   "goals": [],
+   "figures": [
+    {
+     "src": "ochem/ch01_nomenclature/fig23.png",
+     "alt": "Figure 1.10. Be sure that you know both these common names and",
+     "caption": "Figure 1.10. Be sure that you know both these common names and"
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig24.png",
+     "alt": "Figure 1.11.",
+     "caption": "Figure 1.11."
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig25.png",
+     "alt": "Figure 1.12.",
+     "caption": "Figure 1.12."
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig26.png",
+     "alt": "Figure 1.13.",
+     "caption": "Figure 1.13."
+    },
+    {
+     "src": "ochem/ch01_nomenclature/fig27.png",
+     "alt": "Chapter 1 figure 27",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "1.5 Summary of Functional Groups",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following lists the correct common names for ethanal, methanal, and ethanol, respectively?",
+   "type": "mcq",
+   "choices": [
+    "Acetaldehyde, formaldehyde, ethyl alcohol",
+    "Ethyl alcohol, propionaldehyde, isopropyl alcohol",
+    "Ethyl alcohol, formaldehyde, acetaldehyde",
+    "Isopropyl alcohol, ethyl alcohol, formaldehyde"
+   ],
+   "correct": 0,
+   "explanation": "The common name of ethanal is acetaldehyde, the common name of methanal is formaldehyde, and the common name of ethanol is ethyl alcohol. Isopropyl alcohol is the common name of 2-propanol. Propionaldehyde is the common name of propanal."
+  },
+  {
+   "q": "Which of the following are considered terminal functional groups? Aldehydes .           Ketones I.            Carboxylic acids",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "III only",
+    "I and III only",
+    "I, II, and III"
+   ],
+   "correct": 2,
+   "explanation": "Aldehydes and carboxylic acids are characterized by their positions at the ends of carbon backbones and are thus considered terminal groups. As a result, the carbons to which they are attached are usually designated carbon 1. Ketones are internal by definition because there must be a carbon on either side of the carbonyl."
+  },
+  {
+   "q": "If all prefixes were dropped, what would be the name of the parent root of this molecule?",
+   "type": "mcq",
+   "choices": [
+    "Propanoate",
+    "Propanol",
+    "Propanoic acid",
+    "Propanoic anhydride"
+   ],
+   "correct": 2,
+   "explanation": "The highest-priority functional group in this molecule is the carboxylic acid, so this will be a component of the backbone and provides the suffix of the molecule. This molecule is 2-methyl-3-oxopropanoic acid."
+  },
+  {
+   "q": "What is the highest-priority functional group in this molecule?",
+   "type": "mcq",
+   "choices": [
+    "Anhydride",
+    "Carbonyl",
+    "Ketone",
+    "Alkyl chain"
+   ],
+   "correct": 0,
+   "explanation": "This molecule features an anhydride. The only other groups are hydrocarbon chains, which will provide part of the name of the parent root. Keep in mind that when a carbonyl group is present with a leaving group, the larger functional group (carboxylic acid, anhydride, ester, amide) takes priority over the carbonyl group alone. This molecule is propanoic anhydride."
+  },
+  {
+   "q": "The IUPAC name for the following structure ends in what suffix?",
+   "type": "mcq",
+   "choices": [
+    "–ol",
+    "–one",
+    "–oic acid",
+    "–yne"
+   ],
+   "correct": 2,
+   "explanation": "Among the functional groups presented, carboxylic acids have the highest priority, and their compounds end with an –oic acid suffix. (A) denotes an alcohol, (B) a ketone, and (D) an alkyne, all of which have lower priorities than carboxylic acids. The MCAT does not test nomenclature of halides or ethers, but note that these must have lower priority than a carboxylic acid because they are less oxidized groups."
+  },
+  {
+   "q": "Which of the two possibilities below correctly numbers the carbon backbone of this molecule?",
+   "type": "mcq",
+   "choices": [
+    "Numbering Scheme 1",
+    "Numbering Scheme 2",
+    "Numbering Schemes 1 and 2 are equivalent and correct.",
+    "Numbering Schemes 1 and 2 are equivalent and incorrect."
+   ],
+   "correct": 0,
+   "explanation": "This molecule is 3-ethyl-4-methylhexane, not 2,3-diethylpentane. When naming alkanes, one must locate the longest carbon chain (6 carbons, rather than 5 carbons), and the numbering system should give the alkyl groups the lowest possible numbers."
+  },
+  {
+   "q": "What is the proper structure for 2,3-dihydroxybutanedioic acid (tartaric acid)?",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 1,
+   "explanation": "We know from the IUPAC name that we have a butanedioic acid backbone —in other words, a four-carbon backbone with carboxylic acids at either end. Adding the hydroxyl groups at carbons 2 and 3 then yields the correct structure."
+  },
+  {
+   "q": "The common names for the aldehydes and carboxylic acids that contain only one carbon start with which prefix?",
+   "type": "mcq",
+   "choices": [
+    "Para–",
+    "Form–",
+    "Meth–",
+    "Acet–"
+   ],
+   "correct": 1,
+   "explanation": "Form– is a prefix shared by the common names of methanoic acid (formic acid) and methanal (formaldehyde)."
+  },
+  {
+   "q": "What is the IUPAC name for the following structure?",
+   "type": "mcq",
+   "choices": [
+    "2,5-dimethylheptane",
+    "2-ethyl-5-methylhexane",
+    "3,6-dimethylheptane",
+    "5-ethyl-2-methylhexane"
+   ],
+   "correct": 0,
+   "explanation": "The first task in naming a compound is identifying the longest carbon chain. In this case, the longest chain has seven carbons, so the parent alkane ends in –heptane. (B) and (D) can therefore be eliminated. Then, we must make sure that the carbons are numbered so that the substituents’ position numbers are as small as possible. This compound has two methyl groups; minimizing their position numbers requires us to number the chain from right to left. These methyl groups are attached to carbons 2 and 5, so the correct IUPAC name is 2,5-dimethylheptane. (C) is incorrect because the position numbers of the substituents are not minimized."
+  },
+  {
+   "q": "What is the IUPAC name for the following structure?",
+   "type": "mcq",
+   "choices": [
+    "4-isopropyl-2-methylhexane",
+    "3-isopropyl-5-methylhexane",
+    "2,2,5-trimethyl-3-ethylhexane",
+    "3-ethyl-2,2,5-trimethylhexane"
+   ],
+   "correct": 3,
+   "explanation": "We begin by finding the longest carbon chain; because there are no non- alkyl groups, we don’t need to worry about any other groups’ priorities. We then number our carbons such that the lowest possible combination of numbers is given to the various substituents. Then substituents are organized alphabetically, not numerically—eliminating (C)."
+  },
+  {
+   "q": "The IUPAC name for the following structure starts with what prefix?",
+   "type": "mcq",
+   "choices": [
+    "3-methyl-",
+    "2-methyl-",
+    "2-hydroxy-",
+    "3-hydroxy-"
+   ],
+   "correct": 1,
+   "explanation": "We know right away that (C) and (D) will be incorrect because a hydroxyl group is of higher priority than a methyl group. We also know that we will number the carbon chain so that the hydroxyl group receives the lowest possible position. Therefore, this molecule is 2-methyl-2-butanol, which starts with the prefix 2-methyl."
+  },
+  {
+   "q": "NADH is a coenzyme that releases high-energy electrons into the electron transport chain. It is known as nicotinamide adenine dinucleotide or diphosphopyridine nucleotide. What functional groups exist in this molecule? Phosphate .          Amide I.           Anhydride",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "I and II only",
+    "I, II, and III"
+   ],
+   "correct": 2,
+   "explanation": "The suffix –amide in nicotinamide indicates that this compound contains an amide functional group. The prefix diphospho– indicates that there are two phosphate groups, as well. Even if we did not know the prefix phospho– from this chapter, we should recognize that nucleotides, mentioned in the name of the compound, contain a sugar, a phosphate group, and a nitrogenous base. The structure of NAD+, the oxidized form of NADH, is shown below."
+  },
+  {
+   "q": "Pyruvic acid, one of the end products of glycolysis, is commonly called acetylformic acid. Based on its common name, the structure of pyruvic acid must be:",
+   "type": "mcq",
+   "choices": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "correct": 0,
+   "explanation": "We can use the name acetylformic acid to figure out what our functional groups are. The prefix acet– refers to a two-carbon unit with one carbon in a carbonyl group—think of acetic acid, acetic anhydride, or acetaldehyde. The carbonyl carbon is the point of attachment to another functional group. Formic acid is a single-carbon carboxylic acid. Therefore, acetylformic acid is an acetyl group directly attached to formic acid, as shown in (A). (B) shows acetic acid, or vinegar; (C) shows glucose; and (D) shows formic acid."
+  },
+  {
+   "q": "Which of the following are common names for carboxylic acid derivatives? Acetic anhydride .           Formic acid I.            Methyl formate",
+   "type": "mcq",
+   "choices": [
+    "I and II only",
+    "I and III only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 1,
+   "explanation": "Acetic anhydride is the common name for ethanoic anhydride. Methyl formate is the common name for methyl methanoate; we can infer this from the common root form– and the ester suffix –oate (which is sometimes shortened to –ate for pronunciation purposes). Formic acid is the common name for methanoic acid, but this is a carboxylic acid—not a derivative."
+  },
+  {
+   "q": "Consider the name 2,3-diethylpentane. Based on the structure implied by this name, the correct IUPAC name for this molecule is:",
+   "type": "mcq",
+   "choices": [
+    "2,3-diethylpentane.",
+    "1,2-diethylbutane.",
+    "3-ethyl-4-methylhexane.",
+    "3-methyl-4-ethylhexane."
+   ],
+   "correct": 2,
+   "explanation": "Draw out the molecule, and you will see that the longest carbon chain with the substituents at the lowest possible carbon numbers is actually different from the one chosen in the original name. The correct IUPAC name for this molecule is 3-ethyl-4-methylhexane."
+  }
+ ]
+}
