@@ -1,0 +1,285 @@
+{
+ "id": 2,
+ "num": 2,
+ "title": "Enzymes",
+ "slug": "enzymes",
+ "sections": [
+  {
+   "title": "2.1 Enzymes as Biological Catalysts",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch02_enzymes/fig01.png",
+     "alt": "Chapter 2 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch02_enzymes/fig02.png",
+     "alt": "Chapter 2 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch02_enzymes/fig03.png",
+     "alt": "Chapter 2 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch02_enzymes/fig04.png",
+     "alt": "Figure 2.1 Exergonic Reaction Diagram The activation energy required",
+     "caption": "Figure 2.1 Exergonic Reaction Diagram The activation energy required"
+    }
+   ]
+  },
+  {
+   "title": "2.2 Mechanisms of Enzyme Activity",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch02_enzymes/fig05.png",
+     "alt": "Figure 2.2 Reaction Catalysis in the Active Site of an Enzyme This",
+     "caption": "Figure 2.2 Reaction Catalysis in the Active Site of an Enzyme This"
+    },
+    {
+     "src": "biochem/ch02_enzymes/fig06.png",
+     "alt": "Figure 2.3 Lock and Key Theory vs. Induced Fit Model for Enzyme",
+     "caption": "Figure 2.3 Lock and Key Theory vs. Induced Fit Model for Enzyme"
+    }
+   ]
+  },
+  {
+   "title": "2.3 Enzyme Kinetics",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch02_enzymes/fig07.png",
+     "alt": "Chapter 2 figure 7",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch02_enzymes/fig08.png",
+     "alt": "Figure 2.4.",
+     "caption": "Figure 2.4."
+    },
+    {
+     "src": "biochem/ch02_enzymes/fig09.png",
+     "alt": "Figure 2.5 Experimentally Determined Lineweaver–Burk (Double",
+     "caption": "Figure 2.5 Experimentally Determined Lineweaver–Burk (Double"
+    },
+    {
+     "src": "biochem/ch02_enzymes/fig10.png",
+     "alt": "Figure 2.6 Cooperative Enzyme Kinetics",
+     "caption": "Figure 2.6 Cooperative Enzyme Kinetics"
+    }
+   ]
+  },
+  {
+   "title": "2.4 Effects of Local Conditions on Enzyme Activity",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch02_enzymes/fig11.png",
+     "alt": "Figure 2.7 Effects of Temperature and pH on the Rate of Enzyme",
+     "caption": "Figure 2.7 Effects of Temperature and pH on the Rate of Enzyme"
+    }
+   ]
+  },
+  {
+   "title": "2.5 Regulation of Enzyme Activity",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch02_enzymes/fig12.png",
+     "alt": "Figure 2.9.",
+     "caption": "Figure 2.9."
+    },
+    {
+     "src": "biochem/ch02_enzymes/fig13.png",
+     "alt": "Figure 2.10.",
+     "caption": "Figure 2.10."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Consider a biochemical reaction A → B, which is catalyzed by A– B dehydrogenase. Which of the following statements is true?",
+   "type": "mcq",
+   "choices": [
+    "The reaction will proceed until the enzyme concentration decreases.",
+    "The reaction will be most favorable at 0°C.",
+    "A component of the enzyme is transferred from A to B.",
+    "The free energy change (ΔG) of the catalyzed reaction is the same as for the uncatalyzed reaction."
+   ],
+   "correct": 3,
+   "explanation": "Enzymes catalyze reactions by lowering their activation energy, and are not changed or consumed during the course of the reaction. While the activation energy is lowered, the free energy of the reaction, ΔG, remains unchanged in the presence of an enzyme. A reaction will continue to occur in the presence or absence of an enzyme; it simply runs slower without the enzyme, eliminating (A). Most physiological reactions are optimized at body temperature, 37°C, eliminating (B). Finally, dehydrogenases catalyze oxidation–reduction reactions, not transfer reactions, eliminating (C)."
+  },
+  {
+   "q": "Which of the following statements about enzyme kinetics is FALSE?",
+   "type": "mcq",
+   "choices": [
+    "An increase in the substrate concentration (at constant enzyme concentration) leads to proportional increases in the rate of the reaction.",
+    "Most enzymes operating in the human body work best at a temperature of 37°C.",
+    "An enzyme–substrate complex can either form a product or dissociate back into the enzyme and substrate.",
+    "Maximal activity of many human enzymes occurs around pH 7.4."
+   ],
+   "correct": 0,
+   "explanation": "Most enzymes in the human body operate at maximal activity around a temperature of 37°C and a pH of 7.4, which is the pH of most body fluids. In addition, as characterized by the Michaelis–Menten equation, enzymes form an enzyme–substrate complex, which can either dissociate back into the enzyme and substrate or proceed to form a product. So far, we can eliminate (B), (C), and (D), so let’s check (A). An increase in the substrate concentration, while maintaining a constant enzyme concentration, leads to a proportional increase in the rate of the reaction only initially. However, once most of the active sites are occupied, the reaction rate levels off, regardless of further increases in substrate concentration. At high concentrations of substrate, the reaction rate approaches its maximal velocity and is no longer changed by further increases in substrate concentration."
+  },
+  {
+   "q": "Some enzymes require the presence of a nonprotein molecule to behave catalytically. An enzyme devoid of this molecule is called a(n):",
+   "type": "mcq",
+   "choices": [
+    "holoenzyme.",
+    "apoenzyme.",
+    "coenzyme.",
+    "zymoenzyme."
+   ],
+   "correct": 1,
+   "explanation": "An enzyme devoid of its necessary cofactor is called an apoenzyme and is catalytically inactive."
+  },
+  {
+   "q": "Which of the following factors determine an enzyme’s specificity?",
+   "type": "mcq",
+   "choices": [
+    "The three-dimensional shape of the active site",
+    "The Michaelis constant",
+    "The type of cofactor required for the enzyme to be active",
+    "The prosthetic group on the enzyme"
+   ],
+   "correct": 0,
+   "explanation": "An enzyme’s specificity is determined by the three-dimensional shape of its active site. Regardless of which explanation for enzyme specificity we are discussing (lock and key or induced fit), the active site determines which substrate the enzyme will react with."
+  },
+  {
+   "q": "Human DNA polymerase is removed from the freezer and placed in a 60°C water bath. Which of the following best describes the change in enzyme activity as the polymerase sample comes to thermal equilibrium with the water bath?",
+   "type": "mcq",
+   "choices": [
+    "Increases then decreases",
+    "Decreases then plateaus",
+    "Increases then plateaus",
+    "Decreases then increases"
+   ],
+   "correct": 0,
+   "explanation": "As the temperature of the DNA polymerase sample increases from 0°C to the usual physiological temperature, i.e. 37°C, the enzyme’s activity will increase. However, at temperatures above 37°C, the enzyme’s activity will rapidly decline due to denaturation."
+  },
+  {
+   "q": "In the equation below, substrate C is an allosteric inhibitor to enzyme 1. Which of the following is another mechanism necessarily caused by substrate C? A enzyme 1B enzyme 2C",
+   "type": "mcq",
+   "choices": [
+    "Competitive inhibition",
+    "Irreversible inhibition",
+    "Feedback enhancement",
+    "Negative feedback"
+   ],
+   "correct": 3,
+   "explanation": "By limiting the activity of enzyme 1, the rest of the pathway is slowed, which is the definition of negative feedback. (A) is incorrect because there is no competition for the active site with allosteric interactions. While many products do indeed competitively inhibit an enzyme in the pathway that creates them, this is an example of an allosterically inhibited enzyme. There is not enough information for (B) to be correct because we aren’t told whether the inhibition is reversible. In general, allosteric interactions are temporary. (C) is incorrect because it is the opposite of what occurs when enzyme 1 activity is reduced."
+  },
+  {
+   "q": "The activity of an enzyme is measured at several different substrate concentrations, and the data are shown in the table below. [S] (mM) V ( mmol sec ) [S] (mM) V ( mmol sec ) 0.01 1 0.05 9.1 0.1 17 0.5 50 1 67 5 91 10 95 50 99 100 100 Km for this enzyme is approximately:",
+   "type": "mcq",
+   "choices": [
+    "0.5",
+    "1.0",
+    "10.0",
+    "50.0 Questions 8 and 9 refer to the following statement: Consider a reaction catalyzed by enzyme A with a Km value of 5 × 10−6 M and vmax of 20 mmol min ."
+   ],
+   "correct": 0,
+   "explanation": "While the equations given in the text are useful, recognizing relationships is even more important. You can see that as substrate concentration increases significantly, there is only a small change in the rate. This occurs as we approach vmax. Because the vmax is near 100 mmol min , vmax 2 equals 50 mmol min . The substrate concentration giving this rate is 0.5 mM and corresponds to Km; therefore, (A) is correct."
+  },
+  {
+   "q": "At a concentration of 5 × 10−6 M substrate, the rate of the reaction will be:",
+   "type": "mcq",
+   "choices": [
+    "10 mmol min .",
+    "20 mmol min .",
+    "30 mmol min .",
+    "40 mmol min ."
+   ],
+   "correct": 0,
+   "explanation": "As with the last question, relationships are important. At a concentration of 5 × 10−6 M, enzyme A is working at one-half of its vmax because the concentration is equal to the Km of the enzyme. Therefore, one-half of 20 mmol min is 10 mmol min , which corresponds to (A)."
+  },
+  {
+   "q": "At a concentration of 5 × 10−4 M substrate, the rate of the reaction will be:",
+   "type": "mcq",
+   "choices": [
+    "10 mmol min .",
+    "15 mmol min .",
+    "20 mmol min .",
+    "30 mmol min ."
+   ],
+   "correct": 2,
+   "explanation": "At a concentration of 5 × 10−4 M, there is 100 times more substrate than present at half maximal velocity. At high values (significantly larger than the value of Km), the enzyme is at or near its vmax, which is 20 mmol min ."
+  },
+  {
+   "q": "The graph below shows kinetic data obtained for flu virus enzyme activity as a function of substrate concentration in the presence and absence of two antiviral drugs. Based on the graph, which of the following statements is correct?",
+   "type": "mcq",
+   "choices": [
+    "Both drugs are noncompetitive inhibitors of the viral enzyme.",
+    "Oseltamivir increases the Km value for the substrate compared to Relenza.",
+    "Zanamivir increases the vmax value for the substrate compared to Tamiflu.",
+    "Both drugs are competitive inhibitors of the viral enzyme."
+   ],
+   "correct": 1,
+   "explanation": "Based on the graph, when the substrate is present, oseltamivir results in the same vmax and a higher Km compared to when no inhibitor is added. These are hallmarks of competitive inhibitors. Noncompetitive inhibitors result in decreased vmax and the same Km as the uninhibited reaction, which is shown by the zanamivir line in the graph. Because the question is only comparing the values between the two inhibitors, and not the enzyme without inhibitor, the mechanism of inhibition is less important to determine than the values of Km and vmax. This is a great example of why previewing the answer choices works well in the sciences."
+  },
+  {
+   "q": "The conversion of ATP to cyclic AMP and inorganic phosphate is most likely catalyzed by which class of enzyme?",
+   "type": "mcq",
+   "choices": [
+    "Ligase",
+    "Hydrolase",
+    "Lyase",
+    "Transferase"
+   ],
+   "correct": 2,
+   "explanation": "Lyases are responsible for the breakdown of a single molecule into two molecules without the addition of water or the transfer of electrons. Lyases often form cyclic compounds or double bonds in the products to accommodate this. Water was not a reactant, and no cofactor was mentioned; thus lyase, (C), remains the best answer choice."
+  },
+  {
+   "q": "Which of the following is NOT a method by which enzymes decrease the activation energy for biological reactions?",
+   "type": "mcq",
+   "choices": [
+    "Modifying the local charge environment",
+    "Forming transient covalent bonds",
+    "Acting as electron donors or receptors",
+    "Breaking bonds in the enzyme irreversibly to provide energy"
+   ],
+   "correct": 3,
+   "explanation": "Enzymes are not altered by the process of catalysis. A molecule that breaks intramolecular bonds to provide activation energy would not be able to be reused."
+  },
+  {
+   "q": "A certain enzyme that displays positive cooperativity has four subunits, two of which are bound to substrate. Which of the following statements must be true?",
+   "type": "mcq",
+   "choices": [
+    "The affinity of the enzyme for the substrate has just increased.",
+    "The affinity of the enzyme for the substrate has just decreased.",
+    "The affinity of the enzyme for the substrate is half of what it would be if four sites had substrate bound.",
+    "The affinity of the enzyme for the substrate is greater than with one substrate bound."
+   ],
+   "correct": 3,
+   "explanation": "Cooperative enzymes demonstrate a change in affinity for the substrate depending on how many substrate molecules are bound and whether the last change was accomplished because a substrate molecule was bound or left the active site of the enzyme. Because we cannot determine whether the most recent reaction was binding or dissociation, (A) and (B) are eliminated. We can make absolute comparisons though. For enzymes expressing positive cooperativity, the unbound enzyme has the lowest affinity for substrate, and the enzyme with all but one subunit bound has the highest. The increase in affinity is not necessarily linear. Furthermore, if all four sites have substrate bound, the enzyme cannot bind to any more substrate. Therefore, (C) is not true. An enzyme with two subunits occupied must have a higher affinity for the substrate than the same enzyme with only one subunit occupied; thus, (D) is correct."
+  },
+  {
+   "q": "Which of the following is LEAST likely to be required for a series of metabolic reactions?",
+   "type": "mcq",
+   "choices": [
+    "Triacylglycerol acting as a coenzyme",
+    "Oxidoreductase enzymes",
+    "Magnesium acting as a cofactor",
+    "Transferase enzymes"
+   ],
+   "correct": 0,
+   "explanation": "Triglycerides are unlikely to act as coenzymes for a few reasons, including their large size, neutral charge, and ubiquity in cells. Cofactors and coenzymes tend to be small in size, such as metal ions like (C) or small organic molecules. They can usually carry a charge by ionization, protonation, or deprotonation. Finally, they are usually in low, tightly regulated concentrations within cells. Metabolic pathways would be expected to include both oxidation–reduction reactions and movement of functional groups, thus eliminating (B) and (D)."
+  },
+  {
+   "q": "How does the ideal temperature for a reaction change with and without an enzyme catalyst?",
+   "type": "mcq",
+   "choices": [
+    "The ideal temperature is generally higher with a catalyst than without.",
+    "The ideal temperature is generally lower with a catalyst than without.",
+    "The ideal temperature is characteristic of the reaction, not the enzyme.",
+    "No conclusion can be made without knowing the enzyme type."
+   ],
+   "correct": 1,
+   "explanation": "The rate of reaction increases with temperature because of the increased kinetic energy of the reactants, but reaches a peak temperature because the enzyme denatures with the disruption of hydrogen bonds at excessively high temperatures. In the absence of enzyme, this peak temperature is generally much hotter. Heating a reaction provides molecules with an increased chance of achieving the activation energy, but the enzyme catalyst would typically reduce activation energy. Keep in mind that thermodynamics and kinetics are not interchangeable, so we are not considering the impact of heat on the equilibrium position. GO ONLINE Consult your online resources for additional practice. Equations to Remember (2.1) Michaelis–Menten rates: E + S k1 ⇌ k−1 kcat →E + P (2.2) Michaelis–Menten equation: v = vmax [S] Km + [S] (2.3) Turnover number (kcat): vmax = [E]kcat Shared Concepts Biochemistry Chapter 1 Amino Acids, Peptides, and Proteins Biochemistry Chapter 12 Bioenergetics and Regulation of Metabolism Biology Chapter 5 The Endocrine System Biology Chapter 9 The Digestive System General Chemistry Chapter 5 Chemical Kinetics General Chemistry Chapter 7 Thermochemistry General Chemistry Chapter 11 Oxidation–Reduction Reactions"
+  }
+ ]
+}

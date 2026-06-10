@@ -1,0 +1,325 @@
+{
+ "id": 1,
+ "num": 1,
+ "title": "Amino Acids, Peptides, and Proteins",
+ "slug": "amino_acids_peptides_and_proteins",
+ "sections": [
+  {
+   "title": "1.1 Amino Acids Found in Proteins",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig01.png",
+     "alt": "Chapter 1 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig02.png",
+     "alt": "Chapter 1 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig03.png",
+     "alt": "Figure 1.1.",
+     "caption": "Figure 1.1."
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig04.png",
+     "alt": "Figure 1.2 Glycine",
+     "caption": "Figure 1.2 Glycine"
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig05.png",
+     "alt": "Figure 1.4a, fall into this class. Glycine,",
+     "caption": "Figure 1.4a, fall into this class. Glycine,"
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig06.png",
+     "alt": "Figure 1.4b Amino Acids with Aromatic Side Chains",
+     "caption": "Figure 1.4b Amino Acids with Aromatic Side Chains"
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig07.png",
+     "alt": "Figure 1.4c Amino Acids with Polar Side Chains",
+     "caption": "Figure 1.4c Amino Acids with Polar Side Chains"
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig08.png",
+     "alt": "Figure 1.4d Amino Acids with Negatively Charged Side Chains",
+     "caption": "Figure 1.4d Amino Acids with Negatively Charged Side Chains"
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig09.png",
+     "alt": "Figure 1.4e Amino Acids with Positively Charged Side Chains",
+     "caption": "Figure 1.4e Amino Acids with Positively Charged Side Chains"
+    }
+   ]
+  },
+  {
+   "title": "1.2 Acid–Base Chemistry of Amino Acids",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig10.png",
+     "alt": "Figure 1.5 Amino Acid Structure at Acidic pH",
+     "caption": "Figure 1.5 Amino Acid Structure at Acidic pH"
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig11.png",
+     "alt": "Figure 1.7.",
+     "caption": "Figure 1.7."
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig12.png",
+     "alt": "Figure 1.8 Titration Curve for Glycine",
+     "caption": "Figure 1.8 Titration Curve for Glycine"
+    }
+   ]
+  },
+  {
+   "title": "1.3 Peptide Bond Formation and Hydrolysis",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig13.png",
+     "alt": "Figure 1.9. Dipeptides consist of two amino acid residues;",
+     "caption": "Figure 1.9. Dipeptides consist of two amino acid residues;"
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig14.png",
+     "alt": "Figure 1.9 Peptide Residues",
+     "caption": "Figure 1.9 Peptide Residues"
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig15.png",
+     "alt": "Figure 1.10 Peptide Bond Formation and Cleavage",
+     "caption": "Figure 1.10 Peptide Bond Formation and Cleavage"
+    }
+   ]
+  },
+  {
+   "title": "1.4 Primary and Secondary Protein Structure",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig16.png",
+     "alt": "Figure 1.12, is a rodlike structure in which the peptide",
+     "caption": "Figure 1.12, is a rodlike structure in which the peptide"
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig17.png",
+     "alt": "Figure 1.13 Hydrogen Bonding and Spatial Configuration of a β-",
+     "caption": "Figure 1.13 Hydrogen Bonding and Spatial Configuration of a β-"
+    }
+   ]
+  },
+  {
+   "title": "1.5 Tertiary and Quaternary Protein Structure",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig18.png",
+     "alt": "Figure 1.14 Disulfide Bond Formation",
+     "caption": "Figure 1.14 Disulfide Bond Formation"
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig19.png",
+     "alt": "Figure 1.15a Hemoglobin Heme molecules are visible in each chain.",
+     "caption": "Figure 1.15a Hemoglobin Heme molecules are visible in each chain."
+    },
+    {
+     "src": "biochem/ch01_amino_acids_peptides_and_proteins/fig20.png",
+     "alt": "Figure 1.15b Immunoglobulin G",
+     "caption": "Figure 1.15b Immunoglobulin G"
+    }
+   ]
+  },
+  {
+   "title": "1.6 Denaturation",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "In a neutral solution, most amino acids exist as:",
+   "type": "mcq",
+   "choices": [
+    "positively charged compounds.",
+    "zwitterions.",
+    "negatively charged compounds.",
+    "hydrophobic molecules."
+   ],
+   "correct": 1,
+   "explanation": "Most amino acids (except the acidic and basic amino acids) have two sites for protonation: the carboxylic acid and the amine. At neutral pH, the carboxylic acid will be deprotonated (−COO−) and the amine will remain protonated (−NH+ 3 ). This dipolar ion is a zwitterion, so (B) is the correct answer."
+  },
+  {
+   "q": "At pH 7, the charge on a glutamic acid molecule is:",
+   "type": "mcq",
+   "choices": [
+    "−2.",
+    "−1.",
+    "0.",
+    "+1."
+   ],
+   "correct": 1,
+   "explanation": "Glutamic acid is an acidic amino acid because it has an extra carboxyl group. At neutral pH, both carboxyl groups are deprotonated and thus negatively charged. The amino group has a positive charge because it remains protonated at pH 7. Overall, therefore, glutamic acid has a net charge of −1, and (B) is correct. Notice that you do not even need to know the pI values to solve this question; as an acidic amino acid, glutamic acid must have a pI below 7."
+  },
+  {
+   "q": "Which of the following statements is most likely to be true of nonpolar R groups in aqueous solution?",
+   "type": "mcq",
+   "choices": [
+    "They are hydrophilic and found buried within proteins.",
+    "They are hydrophilic and found on protein surfaces.",
+    "They are hydrophobic and found buried within proteins.",
+    "They are hydrophobic and found on protein surfaces."
+   ],
+   "correct": 2,
+   "explanation": "Nonpolar groups are not capable of forming dipoles or hydrogen bonds; this makes them hydrophobic. Burying hydrophobic R groups inside proteins means they don’t have to interact with water, which is polar. This makes (C) correct. (A) and (B) are incorrect because nonpolar molecules are hydrophobic, not hydrophilic; (D) is incorrect because they are not generally found on protein surfaces."
+  },
+  {
+   "q": "Scientists discover a cDNA sequence for an uncharacterized protein. In their initial studies, they use a computer program designed to predict protein structure. Which of the following levels of protein structure can be most accurately predicted?",
+   "type": "mcq",
+   "choices": [
+    "Primary structure",
+    "Secondary structure",
+    "Tertiary structure",
+    "Quaternary structure"
+   ],
+   "correct": 0,
+   "explanation": "The cDNA sequence is a DNA copy of the mRNA used to generate a protein. A computer program can quickly identify the amino acid that corresponds to each codon and generate a list of these amino acids. This amino acid sequence is the primary structure of the protein. These observations support (A) as the correct answer. By contrast, the secondary, tertiary, and quaternary structures involve higher level interactions between the backbone and R groups and are increasingly difficult to predict."
+  },
+  {
+   "q": "How many distinct tripeptides can be formed from one valine molecule, one alanine molecule, and one leucine molecule?",
+   "type": "mcq",
+   "choices": [
+    "1",
+    "3",
+    "6",
+    "27"
+   ],
+   "correct": 2,
+   "explanation": "There are three choices for the first amino acid, leaving two choices for the second, and one choice for the third. Multiplying those numbers gives us a total of 3 × 2 × 1 = 6 distinct tripeptides. (Using the one-letter codes for valine (V), alanine (A), and leucine (L), those six tripeptides are VAL, VLA, ALV, AVL, LVA, and LAV.)"
+  },
+  {
+   "q": "Which of the following best describes the change in entropy that occurs during protein folding?",
+   "type": "mcq",
+   "choices": [
+    "Entropy of both the water and the protein increase.",
+    "Entropy of the water increases; entropy of the protein decreases.",
+    "Entropy of the water decreases; entropy of the protein increases.",
+    "Entropy of both the water and the protein decrease."
+   ],
+   "correct": 1,
+   "explanation": "As the protein folds, it takes on an organized structure and thus its entropy decreases. However, the opposite trend is true for the water surrounding the protein. Prior to protein folding, hydrophobic amino acid residues are exposed and the water molecules must form structured hydration shells around these hydrophobic residues. During folding, these hydrophobic residues are generally buried in the interior of the protein so that the surrounding water molecules gain more latitude in their interactions. Thus, the entropy of the surrounding water increases, making the correct answer (B)."
+  },
+  {
+   "q": "An α-helix is most likely to be held together by:",
+   "type": "mcq",
+   "choices": [
+    "disulfide bonds.",
+    "hydrophobic effects.",
+    "hydrogen bonds.",
+    "ionic attractions between side chains."
+   ],
+   "correct": 2,
+   "explanation": "The α-helix is held together primarily by hydrogen bonds between the carboxyl groups and amino groups of amino acids. Disulfide bridges, (A), and hydrophobic effects, (B), are primarily involved in tertiary structures, not secondary. Even if they were charged, the side chains of amino acids are too far apart to participate in strong interactions in secondary structure."
+  },
+  {
+   "q": "Which of the following is least likely to cause denaturation of proteins?",
+   "type": "mcq",
+   "choices": [
+    "Heating the protein to 100°C",
+    "Adding 8 M urea",
+    "Moving it to a more hypotonic environment",
+    "Adding a detergent such as sodium dodecyl sulfate"
+   ],
+   "correct": 2,
+   "explanation": "High salt concentrations and detergents can denature a protein, as can high temperatures. But moving a protein to a hypotonic environment—that is, a lower solute concentration—should not lead to denaturation."
+  },
+  {
+   "q": "A particular α-helix is known to cross the cell membrane. Which of these amino acids is most likely to be found in the transmembrane portion of the helix?",
+   "type": "mcq",
+   "choices": [
+    "Glutamate",
+    "Lysine",
+    "Phenylalanine",
+    "Aspartate"
+   ],
+   "correct": 2,
+   "explanation": "An amino acid likely to be found in a transmembrane portion of an α-helix will be exposed to a hydrophobic environment, so we need an amino acid with a hydrophobic side chain. The only choice that has a hydrophobic side chain is (C), phenylalanine. The other choices are all polar or charged."
+  },
+  {
+   "q": "Which of these amino acids has a chiral carbon in its side chain? I. Serine II. Threonine III. Isoleucine",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 2,
+   "explanation": "Every amino acid except glycine has a chiral α-carbon, but only two of the 20 amino acids—threonine and isoleucine—also have a chiral carbon in their side chains as well. Thus, the correct answer is (C). Just as only one configuration is normally seen at the α carbon, only one configuration is seen in the side chain chiral carbon."
+  },
+  {
+   "q": "Following translation and folding, many receptor tyrosine kinases exist as monomers in their inactive state on the cell membrane. Upon the binding of a ligand, these proteins dimerize and initiate a signaling cascade. During this process, their highest element of protein structure changes from:",
+   "type": "mcq",
+   "choices": [
+    "secondary to tertiary.",
+    "tertiary to quaternary.",
+    "primary to secondary.",
+    "secondary to quaternary."
+   ],
+   "correct": 1,
+   "explanation": "In their inactive state, the receptor tyrosine kinases are fully folded single polypeptide chains and thus have tertiary structure. When these monomers dimerize, they become a protein complex and thus have elements of quaternary structure. This change from tertiary to quaternary structure justifies (B)."
+  },
+  {
+   "q": "Which of these amino acids has a side chain that can become ionized in cells?",
+   "type": "mcq",
+   "choices": [
+    "Histidine",
+    "Leucine",
+    "Proline",
+    "Threonine"
+   ],
+   "correct": 0,
+   "explanation": "Histidine has an ionizable side chain: its imidazole ring has a nitrogen atom that can be protonated. None of the remaining answers have ionizable atoms in their side chains."
+  },
+  {
+   "q": "In lysine, the pKa of the side chain is about 10.5. Assuming that the pKa of the carboxyl and amino groups are 2 and 9, respectively, the pI of lysine is closest to:",
+   "type": "mcq",
+   "choices": [
+    "5.5.",
+    "6.2.",
+    "7.4.",
+    "9.8."
+   ],
+   "correct": 3,
+   "explanation": "Because lysine has a basic side chain, we ignore the pKa of the carboxyl group, and average the pKa of the side chain and the amino group; the average of 9 and 10.5 is 9.75, which is closest to (D)."
+  },
+  {
+   "q": "Which of the following is a reason for conjugating proteins? I. To direct their delivery to a particular organelle II. To direct their delivery to the cell membrane III. To add a cofactor needed for their activity",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 3,
+   "explanation": "Conjugated proteins can have lipid or carbohydrate “tags” added to them. These tags can indicate that these proteins should be directed to the cell membrane (especially lipid tags) or to specific organelles (such as the lysosome). They can also provide the activity of the protein; for example, the heme group in hemoglobin is needed for it to bind oxygen. Thus, (D) is the correct answer."
+  },
+  {
+   "q": "Collagen consists of three helices with carbon backbones that are tightly wrapped around one another in a “triple helix.” Which of these amino acids is most likely to be found in the highest concentration in collagen?",
+   "type": "mcq",
+   "choices": [
+    "Proline",
+    "Glycine",
+    "Threonine",
+    "Cysteine"
+   ],
+   "correct": 1,
+   "explanation": "Because collagen has a triple helix, the carbon backbones are very close together. Thus, steric hindrance is a potential problem. To reduce that hindrance, we need small side chains; glycine has the smallest side chain of all: a hydrogen atom. GO ONLINE Consult your online resources for additional practice. Equations to Remember (1.1) Isoelectric point of a neutral amino acid: pIneutral amino acid = pKa,NH+ 3 group + pKa,COOH group 2 (1.2) Isoelectric point of an acidic amino acid: pIacidic amino acid = pKa,R group + pKa,COOH group 2 (1.3) Isoelectric point of a basic amino acid: pIbasic amino acid = pKa,NH+ 3 group + pKa,R group 2 Shared Concepts Biochemistry Chapter 2 Enzymes Biochemistry Chapter 3 Nonenzymatic Protein Function and Protein Analysis Biochemistry Chapter 7 RNA and the Genetic Code Biology Chapter 1 The Cell Biology Chapter 9 The Digestive System General Chemistry Chapter 7 Thermochemistry Organic Chemistry Chapter 8 Carboxylic Acids Organic Chemistry Chapter 9 Carboxylic Acid Derivatives"
+  }
+ ]
+}

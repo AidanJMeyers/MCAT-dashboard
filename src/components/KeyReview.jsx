@@ -1,6 +1,11 @@
 import React from 'react';
 import { Card } from './Visual.jsx';
 import { Eq } from './Equation.jsx';
+import Markdown from './Markdown.jsx';
+
+const Inline = ({ children }) => (
+  <Markdown className="[&_p]:my-0 [&_p]:text-current [&_strong]:text-current [&_ul]:my-1">{children}</Markdown>
+);
 
 export default function KeyReview({ keyReview, chapterTitle }) {
   if (!keyReview) return null;
@@ -31,7 +36,7 @@ export default function KeyReview({ keyReview, chapterTitle }) {
         <Card title="🧠 Mnemonics & Memory Hooks">
           <ul className="space-y-2">
             {mnemonics.map((m, i) => (
-              <li key={i} className="border-l-4 border-emerald-400 bg-emerald-50 rounded-r pl-3 py-2 text-sm text-emerald-950">{m}</li>
+              <li key={i} className="border-l-4 border-emerald-400 bg-emerald-50 rounded-r pl-3 py-2 text-sm text-emerald-950"><Inline>{m}</Inline></li>
             ))}
           </ul>
         </Card>
@@ -41,7 +46,7 @@ export default function KeyReview({ keyReview, chapterTitle }) {
         <Card title="⭐ Key Concepts">
           <ul className="space-y-2">
             {keyConcepts.map((k, i) => (
-              <li key={i} className="border-l-4 border-sky-400 bg-sky-50 rounded-r pl-3 py-2 text-sm text-sky-950">{k}</li>
+              <li key={i} className="border-l-4 border-sky-400 bg-sky-50 rounded-r pl-3 py-2 text-sm text-sky-950"><Inline>{k}</Inline></li>
             ))}
           </ul>
         </Card>
@@ -54,7 +59,7 @@ export default function KeyReview({ keyReview, chapterTitle }) {
               <div key={i}>
                 <h3 className="font-bold text-slate-900 mb-1.5">{g.section}</h3>
                 <ul className="list-disc ml-6 space-y-1 text-sm text-slate-700">
-                  {g.points.map((p, j) => <li key={j}>{p}</li>)}
+                  {g.points.map((p, j) => <li key={j}><Inline>{p}</Inline></li>)}
                 </ul>
               </div>
             ))}

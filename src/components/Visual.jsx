@@ -27,12 +27,17 @@ export function Callout({ kind = 'info', title, children }) {
     info: 'bg-sky-50 border-sky-300 text-sky-900',
     warn: 'bg-amber-50 border-amber-300 text-amber-900',
     danger: 'bg-red-50 border-red-300 text-red-900',
-    tip: 'bg-emerald-50 border-emerald-300 text-emerald-900'
+    tip: 'bg-emerald-50 border-emerald-300 text-emerald-900',
+    concept: 'bg-emerald-50 border-emerald-400 text-emerald-900',
+    mnemonic: 'bg-purple-50 border-purple-400 text-purple-900',
+    bridge: 'bg-sky-50 border-sky-400 text-sky-900',
+    realworld: 'bg-indigo-50 border-indigo-300 text-indigo-900',
+    expertise: 'bg-violet-50 border-violet-300 text-violet-900'
   };
   return (
-    <div className={`border-l-4 p-3 rounded-r ${map[kind]}`}>
-      {title && <div className="font-semibold mb-1">{title}</div>}
-      <div className="text-sm">{children}</div>
+    <div className={`border-l-4 p-3 rounded-r my-3 ${map[kind] || map.info}`}>
+      {title && <div className="font-semibold mb-1 text-[13px] uppercase tracking-wide opacity-90">{title}</div>}
+      <div className="text-sm [&>*:first-child]:mt-0 [&>*:last-child]:mb-0">{children}</div>
     </div>
   );
 }
@@ -65,6 +70,17 @@ export function DifficultyChip({ level }) {
   const label = { E: 'Easy', M: 'Medium', H: 'Hard' }[level] || '';
   if (!level) return null;
   return <span className={`inline-flex items-center justify-center w-6 h-6 rounded-full text-[10px] font-bold ${map[level]}`} title={label}>{level}</span>;
+}
+
+// Inline custom SVG diagram. `svg` is a raw <svg> string (exact attribute casing preserved).
+export function SvgFigure({ svg, title, caption }) {
+  return (
+    <figure className="my-3 bg-white border border-slate-200 rounded-lg shadow-sm p-3">
+      {title && <figcaption className="text-sm font-semibold text-slate-700 mb-2">{title}</figcaption>}
+      <div className="flex justify-center [&>svg]:max-w-full [&>svg]:h-auto" dangerouslySetInnerHTML={{ __html: svg }} />
+      {caption && <figcaption className="text-xs text-slate-500 mt-2 italic">{caption}</figcaption>}
+    </figure>
+  );
 }
 
 export function AnchorImage({ src, alt, caption }) {

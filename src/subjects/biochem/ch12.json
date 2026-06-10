@@ -1,0 +1,306 @@
+{
+ "id": 12,
+ "num": 12,
+ "title": "Bioenergetics and Regulation of Metabolism",
+ "slug": "bioenergetics_and_regulation_of_metaboli",
+ "sections": [
+  {
+   "title": "12.1 Thermodynamics and Bioenergetics",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig01.png",
+     "alt": "Chapter 12 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig02.png",
+     "alt": "Chapter 12 figure 2",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "12.2 The Role of ATP",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig03.png",
+     "alt": "Figure 12.1.",
+     "caption": "Figure 12.1."
+    }
+   ]
+  },
+  {
+   "title": "12.3 Biological Oxidation and Reduction",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "12.4 Metabolic States",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig04.png",
+     "alt": "Figure 12.2 Metabolic Profile of the Postprandial (Absorptive) State",
+     "caption": "Figure 12.2 Metabolic Profile of the Postprandial (Absorptive) State"
+    },
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig05.png",
+     "alt": "Figure 12.3. Hepatic gluconeogenesis is also",
+     "caption": "Figure 12.3. Hepatic gluconeogenesis is also"
+    }
+   ]
+  },
+  {
+   "title": "12.5 Hormonal Regulation of Metabolism",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig06.png",
+     "alt": "Chapter 12 figure 6",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig07.png",
+     "alt": "Figure 12.4 Insulin (Light Brown) in Pancreatic β-Cells",
+     "caption": "Figure 12.4 Insulin (Light Brown) in Pancreatic β-Cells"
+    },
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig08.png",
+     "alt": "Figure 12.5. The primary target for",
+     "caption": "Figure 12.5. The primary target for"
+    },
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig09.png",
+     "alt": "Figure 12.6 Relationship of Glucagon and Insulin in Metabolism",
+     "caption": "Figure 12.6 Relationship of Glucagon and Insulin in Metabolism"
+    },
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig10.png",
+     "alt": "Figure 12.7 Structure of Cortisol",
+     "caption": "Figure 12.7 Structure of Cortisol"
+    },
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig11.png",
+     "alt": "Figure 12.8 Adrenal Gland (Enlarged) The adrenal cortex (yellow) and",
+     "caption": "Figure 12.8 Adrenal Gland (Enlarged) The adrenal cortex (yellow) and"
+    },
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig12.png",
+     "alt": "Figure 12.9 Structures of Adrenal Catecholamines (a) Epinephrine; (b)",
+     "caption": "Figure 12.9 Structures of Adrenal Catecholamines (a) Epinephrine; (b)"
+    },
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig13.png",
+     "alt": "Figure 12.10 Structures of Thyroid Hormones (a) Triiodothyronine (T3);",
+     "caption": "Figure 12.10 Structures of Thyroid Hormones (a) Triiodothyronine (T3);"
+    }
+   ]
+  },
+  {
+   "title": "12.6 Tissue-Specific Metabolism",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig14.png",
+     "alt": "Chapter 12 figure 14",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "12.7 Integrative Metabolism",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch12_bioenergetics_and_regulation_of_metaboli/fig15.png",
+     "alt": "Figure 12.11 Leptin Knockout Mouse (left) Compared to Normal Mouse",
+     "caption": "Figure 12.11 Leptin Knockout Mouse (left) Compared to Normal Mouse"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Adding heat to a closed biological system will do all of the following EXCEPT:",
+   "type": "mcq",
+   "choices": [
+    "increase the internal energy of the system.",
+    "increase the average of the vibrational, rotational, and translational energies.",
+    "cause the system to do work to maintain a fixed internal energy.",
+    "increase the enthalpy of the system."
+   ],
+   "correct": 2,
+   "explanation": "In a closed biological system, enthalpy, heat, and internal energy are all directly related because there is no change in pressure or volume. Because pressure and volume are fixed, work cannot be done, thus (C) is correct."
+  },
+  {
+   "q": "At 25°C the ΔG° for a certain reaction A ⇋ B + 2 C is 0. If the concentration of A, B, and C in the cell at 25°C are all 10 mM, how does the ΔG compare to the measurement taken with 1 M concentrations?",
+   "type": "mcq",
+   "choices": [
+    "ΔG is greater than ΔG°, thus the reaction is spontaneous.",
+    "ΔG is less than ΔG°, thus the reaction is spontaneous.",
+    "ΔG is greater than ΔG°, thus the reaction is nonspontaneous.",
+    "ΔG is less than ΔG°, thus the reaction is nonspontaneous."
+   ],
+   "correct": 1,
+   "explanation": "To solve this question, we can use the equation ΔG = ΔG° + RT lnQ. Q, the reaction quotient, is [B][C]2 [A] for this reaction. Plugging in the variables, we get: Because both R and T are positive, and natural log values being greater than 0, we know that ΔG must be negative and therefore lower than the original value. A negative ΔG corresponds to a spontaneous reaction."
+  },
+  {
+   "q": "Which of the following statements is true about the hydrolysis of ATP?",
+   "type": "mcq",
+   "choices": [
+    "The free energy of ATP hydrolysis is independent of pH.",
+    "One mole of creatine phosphate can phosphorylate two moles of ADP.",
+    "The free energy of hydrolysis of ATP is nearly the same as for ADP.",
+    "ATP yields cyclic AMP after two hydrolysis reactions."
+   ],
+   "correct": 2,
+   "explanation": "The hydrolysis of ATP is energetically favorable because there are repulsive negative charges that are relieved when hydrolyzed, and the new compounds are stabilized by resonance. This is true of both ATP and ADP. Some of the other answer choices are tempting, though. In (A), ATP hydrolysis relies on pH because a protonated ATP molecule contains less negative charge and therefore experiences less repulsive force. For (B), the energy released by one mole of creatine phosphate upon hydrolysis is not sufficient to phosphorylate two moles of ADP according to Table 12.1; creatine phosphate donates one phosphate group to a molecule of ADP, so one mole of creatine phosphate will phosphorylate one mole of ADP. For (D), the removal of two phosphate groups from ATP yields AMP, not cyclic AMP."
+  },
+  {
+   "q": "The reduction half-reaction in the last step of the electron transport chain is:",
+   "type": "mcq",
+   "choices": [
+    "O2 + 4e− + 4 H+ → 2 H2O",
+    "NADPH → NADP+ + e− + H+",
+    "NADP+ + e− + H+ → NADPH",
+    "Ubiquinone (Q) → Ubiquinol (QH2)"
+   ],
+   "correct": 0,
+   "explanation": "Reduction is a gain of electrons, which eliminates (B) because it is an oxidation reaction. NADPH, (C), is a product of the pentose phosphate pathway. Ubiquinone, (D), transfers electrons during the course of the electron transport chain, but is not the final electron acceptor. This title belongs to oxygen."
+  },
+  {
+   "q": "The ability to exist in both an oxidized and a reduced state is characteristic of:",
+   "type": "mcq",
+   "choices": [
+    "adenosine triphosphate (ATP).",
+    "electron carriers.",
+    "regulatory enzymes.",
+    "peptide hormones."
+   ],
+   "correct": 1,
+   "explanation": "In order to transport electrons, electron carriers like flavoproteins must be able to exist in a stable oxidized state and a stable reduced form. ATP can be dephosphorylated but is generally not oxidized or reduced. Regulatory ΔG= 0 + RT ln [10×10−3][10×10−3] 2 [10×10−3] = RT ln 10−4 = −4RT ln 10. enzymes may also be phosphorylated or dephosphorylated but are not generally oxidized or reduced."
+  },
+  {
+   "q": "What energy state was described in the introduction to this chapter?",
+   "type": "mcq",
+   "choices": [
+    "Absorptive",
+    "Postabsorptive",
+    "Starvation",
+    "Vegetative"
+   ],
+   "correct": 1,
+   "explanation": "Skipping a single meal is not a prolonged fast. However, the increase in hormones that promote gluconeogenesis and glycogenolysis indicates that the absorptive phase has ended."
+  },
+  {
+   "q": "Which of the following correctly pairs a tissue with its preferred energy source in the well fed state?",
+   "type": "mcq",
+   "choices": [
+    "Liver - ketone bodies",
+    "Adipose tissue - fatty acids",
+    "Brain - amino acids",
+    "Cardiac muscle - fatty acids"
+   ],
+   "correct": 3,
+   "explanation": "In the well-fed state, the liver runs off of glucose and amino acids, the brain and adipose tissue run off of glucose, and cardiac muscle runs off of fatty acids. Only (D) correctly pairs the tissue with its energy source."
+  },
+  {
+   "q": "How do hormonal controls of glycogen metabolism differ from allosteric controls?",
+   "type": "mcq",
+   "choices": [
+    "Hormonal control is systemic and covalent.",
+    "Hormonal control is local and covalent.",
+    "Hormonal control is systemic and noncovalent.",
+    "Hormonal control is local and noncovalent."
+   ],
+   "correct": 0,
+   "explanation": "Hormonal controls are coordinated to regulate the metabolic activity of the entire organism, while allosteric controls can be local or systemic. The modification of the enzymes of glycogen metabolism by insulin and glucagon is either through phosphorylation or dephosphorylation, both of which modify covalent bonds."
+  },
+  {
+   "q": "Which of the following tissues is most dependent on insulin?",
+   "type": "mcq",
+   "choices": [
+    "Active skeletal muscle",
+    "Resting skeletal muscle",
+    "Cardiac muscle",
+    "Smooth muscle"
+   ],
+   "correct": 1,
+   "explanation": "Adipose tissue and resting skeletal muscle require insulin for glucose uptake. Active skeletal muscle, (A), uses creatine phosphate and glycogen (regulated by epinephrine and AMP) to maintain its energy requirements."
+  },
+  {
+   "q": "Glucocorticoids have been implicated in stress-related weight gain because:",
+   "type": "mcq",
+   "choices": [
+    "they increase appetite and decrease satiety signals.",
+    "they increase the activity of catabolic hormones.",
+    "they increase glucose levels, which causes insulin secretion.",
+    "they interfere with activity of the leptin receptor."
+   ],
+   "correct": 2,
+   "explanation": "Short-term glucocorticoid exposure causes a release of glucose and the hydrolysis of fats from adipocytes. However, if this glucose is not used for metabolism, it causes an increase in glucose level which promotes fat storage. The net result is the release of glucose from the liver to be converted into lipids in the adipose tissue under insulin stimulation."
+  },
+  {
+   "q": "In the absence of oxygen, which tissue will experience damage most rapidly?",
+   "type": "mcq",
+   "choices": [
+    "Skin",
+    "Brain",
+    "Red blood cells",
+    "Liver"
+   ],
+   "correct": 1,
+   "explanation": "The brain uses aerobic metabolism of glucose exclusively and therefore is very sensitive to oxygen levels. The extremely high oxygen requirement of the brain (20% of the body’s oxygen content) relative to its size (2% of total body weight) implies that brain is the most sensitive organ to oxygen deprivation."
+  },
+  {
+   "q": "A respiratory quotient approaching 0.7 indicates metabolism primarily of which macromolecule?",
+   "type": "mcq",
+   "choices": [
+    "Carbohydrates",
+    "Lipids",
+    "Nucleic acids",
+    "Amino acids"
+   ],
+   "correct": 1,
+   "explanation": "The respiratory quotient (RQ) gives an indication of the primary fuel being utilized. An RQ around 0.7 indicates lipid metabolism, 0.8–0.9 indicates amino acid metabolism, (D), and 1.0 indicates carbohydrate metabolism, (A). Nucleic acids do not contribute significantly to the respiratory quotient."
+  },
+  {
+   "q": "Which of the following side effects would be anticipated in someone taking leptin to promote weight loss?",
+   "type": "mcq",
+   "choices": [
+    "Drowsiness",
+    "Increased appetite",
+    "Irritability",
+    "Fever"
+   ],
+   "correct": 0,
+   "explanation": "Leptin acts to decrease appetite by inhibiting the production of orexin. Orexin is also associated with alertness, so decreasing the level of orexin in the body is expected to cause drowsiness. Even without this information, the answer should be apparent because the body tends to maintain an energy balance. If consumption decreases, energy expenditures are expected to decrease as well."
+  },
+  {
+   "q": "Which of the following statements is FALSE?",
+   "type": "mcq",
+   "choices": [
+    "Growth hormone participates in glucose counterregulation.",
+    "T4 acts more slowly than T3.",
+    "ATP stores are turned over more than 10,000 times daily.",
+    "Catecholamines stimulate the sympathetic nervous system."
+   ],
+   "correct": 2,
+   "explanation": "ATP stores are turned over about 1,000 times per day, not 10,000."
+  },
+  {
+   "q": "Which process is expected to begin earliest in a prolonged fast?",
+   "type": "mcq",
+   "choices": [
+    "Ketone bodies are used by the brain.",
+    "Glycogen storage is halted.",
+    "Proteins are broken down.",
+    "Enzyme phosphorylation and dephosphorylation."
+   ],
+   "correct": 3,
+   "explanation": "A prolonged fast is characterized by an increase in glucagon, which accomplishes its cellular activity by phosphorylating and dephosphorylating metabolic enzymes. Glycogen storage, (B), is then halted, but this requires enzyme regulation by glucagon to occur. Later in the postabsorptive state, protein breakdown, (C), begins. Eventually, in starvation, ketone bodies, (A), are used by the brain for its main energy source. GO ONLINE Consult your online resources for additional practice. Equations to Remember (12.1) Gibbs free energy: ΔG = ΔH − TΔS (12.2) Modified standard state: ΔG = ΔG° + RT ln(Q) (12.3) Respiratory quotient: RQ = CO2 produced O2 consumed (12.4) Body mass index: BMI = mass height2 Shared Concepts Biochemistry Chapter 9 Carbohydrate Metabolism I Biochemistry Chapter 10 Carbohydrate Metabolism II Biochemistry Chapter 11 Lipid and Amino Acid Metabolism Biology Chapter 5 The Endocrine System General Chemistry Chapter 11 Oxidation–Reduction Reactions Physics and Math Chapter 3 Thermodynamics"
+  }
+ ]
+}

@@ -1,0 +1,298 @@
+{
+ "id": 8,
+ "num": 8,
+ "title": "Biological Membranes",
+ "slug": "biological_membranes",
+ "sections": [
+  {
+   "title": "8.1 Fluid Mosaic Model",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch08_biological_membranes/fig01.png",
+     "alt": "Chapter 8 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch08_biological_membranes/fig02.png",
+     "alt": "Chapter 8 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch08_biological_membranes/fig03.png",
+     "alt": "Figure 8.1; the theory that underlies the structure and function of the cell",
+     "caption": "Figure 8.1; the theory that underlies the structure and function of the cell"
+    }
+   ]
+  },
+  {
+   "title": "8.2 Membrane Components",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch08_biological_membranes/fig04.png",
+     "alt": "Chapter 8 figure 4",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch08_biological_membranes/fig05.png",
+     "alt": "Figure 8.2 Triacylglycerol and Glycerophospholipid (Phosphatidylinositol)",
+     "caption": "Figure 8.2 Triacylglycerol and Glycerophospholipid (Phosphatidylinositol)"
+    },
+    {
+     "src": "biochem/ch08_biological_membranes/fig06.png",
+     "alt": "Figure 8.3 Types of Sphingolipids Sphingolipids are sequentially modified to form each",
+     "caption": "Figure 8.3 Types of Sphingolipids Sphingolipids are sequentially modified to form each"
+    },
+    {
+     "src": "biochem/ch08_biological_membranes/fig07.png",
+     "alt": "Figure 8.4. Transmembrane proteins pass completely through the lipid bilayer.",
+     "caption": "Figure 8.4. Transmembrane proteins pass completely through the lipid bilayer."
+    },
+    {
+     "src": "biochem/ch08_biological_membranes/fig08.png",
+     "alt": "Figure 8.5. In addition, carbohydrates",
+     "caption": "Figure 8.5. In addition, carbohydrates"
+    },
+    {
+     "src": "biochem/ch08_biological_membranes/fig09.png",
+     "alt": "Figure 8.6.",
+     "caption": "Figure 8.6."
+    },
+    {
+     "src": "biochem/ch08_biological_membranes/fig10.png",
+     "alt": "Figure 8.7 Desmosomes Between Adjacent Cells",
+     "caption": "Figure 8.7 Desmosomes Between Adjacent Cells"
+    },
+    {
+     "src": "biochem/ch08_biological_membranes/fig11.png",
+     "alt": "Chapter 8 figure 11",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch08_biological_membranes/fig12.png",
+     "alt": "Chapter 8 figure 12",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "8.3 Membrane Transport",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch08_biological_membranes/fig13.png",
+     "alt": "Chapter 8 figure 13",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch08_biological_membranes/fig14.png",
+     "alt": "Figure 8.8 Osmosis Water moves from areas of low solute (high water) concentration to",
+     "caption": "Figure 8.8 Osmosis Water moves from areas of low solute (high water) concentration to"
+    },
+    {
+     "src": "biochem/ch08_biological_membranes/fig15.png",
+     "alt": "Figure 8.9.",
+     "caption": "Figure 8.9."
+    },
+    {
+     "src": "biochem/ch08_biological_membranes/fig16.png",
+     "alt": "Figure 8.10 Membrane Transport Processes The movement of solutes across the cell",
+     "caption": "Figure 8.10 Membrane Transport Processes The movement of solutes across the cell"
+    },
+    {
+     "src": "biochem/ch08_biological_membranes/fig17.png",
+     "alt": "Figure 8.11.",
+     "caption": "Figure 8.11."
+    }
+   ]
+  },
+  {
+   "title": "8.4 Specialized Membranes",
+   "goals": [],
+   "figures": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "A student is trying to determine the type of membrane transport occurring in a cell. The student finds that the molecule to be transported is very large and polar, and when transported across the membrane, no energy is required. Which of the following is the most likely mechanism of transport?",
+   "type": "mcq",
+   "choices": [
+    "Active transport",
+    "Simple diffusion",
+    "Facilitated diffusion",
+    "Exocytosis"
+   ],
+   "correct": 2,
+   "explanation": "We are asked to identify the type of transport that would allow a large, polar molecule to cross the membrane without any energy expenditure. This scenario describes facilitated diffusion, which uses a transport protein (or channel) to facilitate the movement of large, polar molecules across the nonpolar, hydrophobic membrane. Facilitated diffusion, like simple diffusion, does not require energy."
+  },
+  {
+   "q": "A researcher treats a solution containing animal cells with ouabain, a poisonous substance that interferes with the sodium– potassium ATPase embedded in the cell membrane, and the cell lyses as a result. Which of the following statements best describes ouabain’s effects?",
+   "type": "mcq",
+   "choices": [
+    "Treatment with ouabain results in high levels of extracellular calcium.",
+    "Treatment with ouabain results in high levels of extracellular potassium and sodium.",
+    "Treatment with ouabain increases intracellular concentrations of sodium.",
+    "Treatment with ouabain decreases intracellular concentrations of sodium."
+   ],
+   "correct": 2,
+   "explanation": "This question requires an understanding of osmosis and the action of the sodium– potassium pump. When a cell is placed in a hypertonic solution (a solution having a higher solute concentration than the cell), fluid will diffuse out of the cell and result in cell shrinkage. When a cell is placed in hypotonic solution (a solution having a lower solute concentration than the cell), fluid will diffuse from the solution into the cell, causing the cell to expand and possibly lyse. The sodium–potassium pump moves three sodium ions out of the cell for every two potassium ions it lets into the cell. Therefore, inhibition of the sodium–potassium pump by ouabain will cause a net increase in the sodium concentration inside the cell and water will diffuse in, causing the cell to swell and then lyse."
+  },
+  {
+   "q": "Resting membrane potential depends on: I. the differential distribution of ions across the membrane. II. active transport processes. III. selective permeability of the phospholipid bilayer.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "I and III only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 3,
+   "explanation": "The polarization of the membrane at rest is the result of an uneven distribution of ions between the inside and outside of the cell. This difference is achieved through active pumping of ions (predominantly sodium and potassium) into and out of the cell and the selective permeability of the membrane, which allows only certain ions to cross."
+  },
+  {
+   "q": "Which of the following is NOT a function of the cell membrane?",
+   "type": "mcq",
+   "choices": [
+    "Cytoskeletal attachment",
+    "Protein synthesis",
+    "Transport regulation",
+    "Second messenger reservoir"
+   ],
+   "correct": 1,
+   "explanation": "Ribosomes are the site of protein synthesis within a cell and are not coupled to the cell membrane. The cell membrane functions as a site for cytoskeletal attachment, (A), through proteins and lipid rafts. Transport regulation, (C), is accomplished through channels, transporters, and selective permeability, while the phospholipids act as a reagent for second messenger formation, (D)."
+  },
+  {
+   "q": "The dynamic properties of molecules in the cell membrane are most rapid in:",
+   "type": "mcq",
+   "choices": [
+    "phospholipids moving within the plane of the membrane.",
+    "phospholipids moving between the layers of the membrane.",
+    "proteins moving within the plane of the membrane.",
+    "proteins exiting the cell through exocytosis."
+   ],
+   "correct": 0,
+   "explanation": "Movement of individual molecules in the cell membrane will be affected by size and polarity, just as with diffusion. Lipids are much smaller than proteins in the plasma membrane and will move more quickly. Lipids will move fastest within the plane of the cell membrane because the polar head group does not need to pass through the hydrophobic tail region in the same way that it would if it were moving between the membrane layers."
+  },
+  {
+   "q": "Which lipid type is LEAST likely to contribute to membrane fluidity?",
+   "type": "mcq",
+   "choices": [
+    "Unsaturated glycerophospholipids",
+    "trans glycerophospholipids",
+    "Cholesterol",
+    "Unsaturated sphingolipids"
+   ],
+   "correct": 1,
+   "explanation": "Compounds that contribute to membrane fluidity will lower the melting point or disrupt the crystal structure. Cholesterol, (C), and unsaturated lipids, (A) and (D), are known for these functions. trans glycerophospholipids tend to increase the melting point of the membrane and therefore decrease membrane fluidity."
+  },
+  {
+   "q": "A membrane receptor is most likely to be a(n):",
+   "type": "mcq",
+   "choices": [
+    "embedded protein with catalytic activity.",
+    "transmembrane protein with sequestration activity.",
+    "membrane-associated protein with sequestration activity.",
+    "transmembrane protein with catalytic activity."
+   ],
+   "correct": 3,
+   "explanation": "Membrane receptors must have both an extracellular and intracellular domain; therefore, they are considered transmembrane proteins. In order to initiate a second messenger cascade, they typically display enzymatic activity, although some may act strictly as channels."
+  },
+  {
+   "q": "Which of the following is NOT a cell–cell junction in animals?",
+   "type": "mcq",
+   "choices": [
+    "Desmosomes",
+    "Gap junctions",
+    "Plasmodesmata",
+    "Tight junctions"
+   ],
+   "correct": 2,
+   "explanation": "Plasmodesmata are cell–cell junctions that are found in plants, not animals. Gap junctions, tight junctions, desmosomes, and hemidesmosomes are all found in animals, particularly in epithelia."
+  },
+  {
+   "q": "Which of the following is true of diffusion and osmosis?",
+   "type": "mcq",
+   "choices": [
+    "Diffusion and osmosis rely on the concentration gradient of only the compound of interest.",
+    "Diffusion and osmosis rely on the concentration gradient of all compounds in a cell.",
+    "Diffusion and osmosis will proceed in the same direction if there is only one solute.",
+    "Diffusion and osmosis cannot occur simultaneously."
+   ],
+   "correct": 0,
+   "explanation": "The movement of any molecule is dependent on multiple factors, including electric potential, membrane solubility, and concentration gradient. While the electric potential takes into account multiple molecules, the movement of any one solute or water by diffusion or osmosis is dependent only on the concentration gradient of that molecule."
+  },
+  {
+   "q": "The bulk movement of liquid into a cell through vesicular infoldings is known as:",
+   "type": "mcq",
+   "choices": [
+    "phagocytosis.",
+    "pinocytosis.",
+    "exocytosis.",
+    "drinking."
+   ],
+   "correct": 1,
+   "explanation": "The endocytosis (bulk uptake through vesicle formation) of fluid is known as pinocytosis. Phagocytosis, (A), is the endocytotic intake of solids, while exocytosis, (C), is a method of releasing vesicular contents. Drinking, (D), does not apply on a cellular level."
+  },
+  {
+   "q": "Which of the following is LEAST likely to be the resting membrane potential of a cell?",
+   "type": "mcq",
+   "choices": [
+    "−70 mV",
+    "−55 mV",
+    "0 mV",
+    "+35 mV"
+   ],
+   "correct": 2,
+   "explanation": "Cell membranes are most likely to have a resting membrane potential that is nonzero because the resting membrane potential creates a state that is capable of responding to stimuli. Signaling molecules and channels would not be as useful with a membrane potential of zero. The values given in the answer choices correspond to different stages of the action potential, but the key information is that a resting potential of 0 mV does not maintain gradients for later activity."
+  },
+  {
+   "q": "How does the inner mitochondrial membrane differ from the outer mitochondrial membrane?",
+   "type": "mcq",
+   "choices": [
+    "The inner mitochondrial membrane is more permeable and lacks cholesterol.",
+    "The inner mitochondrial membrane is less permeable and lacks cholesterol.",
+    "The inner mitochondrial membrane is more permeable and has cholesterol.",
+    "The inner mitochondrial membrane is less permeable and has cholesterol."
+   ],
+   "correct": 1,
+   "explanation": "The outer mitochondrial membrane is very permeable while the inner membrane is highly impermeable. The inner mitochondrial membrane is unique within the cell because it lacks cholesterol."
+  },
+  {
+   "q": "For most cells, the extracellular calcium concentration is around 10,000 times higher than the intracellular calcium concentration. What is the membrane potential established by this electrochemical gradient?",
+   "type": "mcq",
+   "choices": [
+    "−123 mV",
+    "−61.5 mV",
+    "+61.5 mV",
+    "+123 mV"
+   ],
+   "correct": 3,
+   "explanation": "The Nernst equation relates the intra- and extracellular concentrations of an ion to the potential created by that gradient. At physiological temperature, it can be simplified to E = 61.5 z log [ion]outside [ion]inside . For calcium, z = +2 (Ca2+) and the ratio of [ionoutside] to [ioninside] = 104. Plugging in, we get: E = 61.5 +2 log 104 = 61.5 +2 × 4 = 123 mV"
+  },
+  {
+   "q": "Which of the following statements conflicts with the fluid mosaic model?",
+   "type": "mcq",
+   "choices": [
+    "The cell membrane is static in structure.",
+    "Membrane components can be derived from multiple biomolecules.",
+    "Hydrophobic interactions stabilize the lipid bilayer.",
+    "Proteins are asymmetrically distributed within the cell membrane."
+   ],
+   "correct": 0,
+   "explanation": "The fluid mosaic model accounts for a dynamic membrane. In this model, membrane components contain both fatty and carbohydrate-derived components, eliminating (B). Further, the membrane is stabilized by the hydrophobic interactions of both fatty acid tails and membrane proteins, which may be found on the cytosolic or extracellular side of the membrane, or may run directly through the membrane; thus, (C) and (D) are also eliminated."
+  },
+  {
+   "q": "Which of the following is a sphingolipid?",
+   "type": "mcq",
+   "choices": [
+    "Lecithin",
+    "Phosphatidylinositol",
+    "Cholesterol",
+    "Ganglioside"
+   ],
+   "correct": 3,
+   "explanation": "Gangliosides, along with ceramide, sphingomyelin, and cerebrosides, are sphingolipids. GO ONLINE Consult your online resources for additional practice. Equations to Remember (8.1) Osmotic pressure: Π = iMRT (8.2) Nernst equation: E = RT zF ln [ion]outside [ion]inside = 61.5 z log [ion]outside [ion]inside (8.3) Goldman–Hodgkin–Katz voltage equation: Vm = 61.5 log [ PNa+ × [Na+]outside + PK+ × [K+]outside + PCl−× [Cl−]inside PNa+ × [Na+]inside + PK+ × [K+]inside + PCl−× [Cl−]outside ] Shared Concepts Biochemistry Chapter 3 Nonenzymatic Protein Function and Protein Analysis Biochemistry Chapter 5 Lipid Structure and Function Biology Chapter 1 The Cell Biology Chapter 10 Homeostasis General Chemistry Chapter 9 Solutions Physics and Math Chapter 5 Electrostatics"
+  }
+ ]
+}

@@ -1,0 +1,322 @@
+{
+ "id": 9,
+ "num": 9,
+ "title": "Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and The Pentose Phosphate Pathway",
+ "slug": "carbohydrate_metabolism_i_glycolysis_gly",
+ "sections": [
+  {
+   "title": "9.1 Glucose Transport",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig01.png",
+     "alt": "Chapter 9 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig02.png",
+     "alt": "Chapter 9 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig03.png",
+     "alt": "Figure 9.1. The Km of GLUT 4 is close to the normal",
+     "caption": "Figure 9.1. The Km of GLUT 4 is close to the normal"
+    },
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig04.png",
+     "alt": "Chapter 9 figure 4",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig05.png",
+     "alt": "Chapter 9 figure 5",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig06.png",
+     "alt": "Chapter 9 figure 6",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "9.2 Glycolysis",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig07.png",
+     "alt": "Figure 9.2 Glycolysis",
+     "caption": "Figure 9.2 Glycolysis"
+    },
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig08.png",
+     "alt": "Figure 9.3 Effect of 2,3-Bisphosphoglycerate on Hemoglobin A",
+     "caption": "Figure 9.3 Effect of 2,3-Bisphosphoglycerate on Hemoglobin A"
+    }
+   ]
+  },
+  {
+   "title": "9.3 Other Monosaccharides",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig09.png",
+     "alt": "Figure 9.4 Galactose Metabolism",
+     "caption": "Figure 9.4 Galactose Metabolism"
+    },
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig10.png",
+     "alt": "Figure 9.5 Fructose Metabolism",
+     "caption": "Figure 9.5 Fructose Metabolism"
+    }
+   ]
+  },
+  {
+   "title": "9.4 Pyruvate Dehydrogenase",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig11.png",
+     "alt": "Figure 9.6 Pyruvate Dehydrogenase",
+     "caption": "Figure 9.6 Pyruvate Dehydrogenase"
+    }
+   ]
+  },
+  {
+   "title": "9.5 Glycogenesis and Glycogenolysis",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig12.png",
+     "alt": "Figure 9.7. Glycogen granules composed entirely of linear chains have the",
+     "caption": "Figure 9.7. Glycogen granules composed entirely of linear chains have the"
+    },
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig13.png",
+     "alt": "Figure 9.8 Potatoes and Potato Starch",
+     "caption": "Figure 9.8 Potatoes and Potato Starch"
+    },
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig14.png",
+     "alt": "Figure 9.9 Glycogen Metabolism",
+     "caption": "Figure 9.9 Glycogen Metabolism"
+    },
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig15.png",
+     "alt": "Figure 9.10. Branching enzyme:",
+     "caption": "Figure 9.10. Branching enzyme:"
+    },
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig16.png",
+     "alt": "Figure 9.11 Debranching Enzyme",
+     "caption": "Figure 9.11 Debranching Enzyme"
+    }
+   ]
+  },
+  {
+   "title": "9.6 Gluconeogenesis",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig17.png",
+     "alt": "Figure 9.12 Gluconeogenesis",
+     "caption": "Figure 9.12 Gluconeogenesis"
+    }
+   ]
+  },
+  {
+   "title": "9.7 The Pentose Phosphate Pathway",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch09_carbohydrate_metabolism_i_glycolysis_gly/fig18.png",
+     "alt": "Figure 9.13 The Pentose Phosphate Pathway",
+     "caption": "Figure 9.13 The Pentose Phosphate Pathway"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following transporters is used by cells in the liver to store excess glucose and by beta cells in the pancreas as a glucose sensor?",
+   "type": "mcq",
+   "choices": [
+    "GLUT 1",
+    "GLUT 2",
+    "GLUT 3",
+    "GLUT 4"
+   ],
+   "correct": 1,
+   "explanation": "The GLUT 2 receptor, (B), has a high Km and is expressed in hepatocytes of the liver. When the concentration of glucose in the blood is high, glucose is transported into the liver with first order kinetics. Also, in the pancreas, GLUT 2 and glucokinase serve as a glucose sensor. These observations together support (B) as the right answer."
+  },
+  {
+   "q": "Which of the following organs does NOT require a constant supply of glucose from the blood for energy during a fast?",
+   "type": "mcq",
+   "choices": [
+    "Red blood cells",
+    "Brain",
+    "Pancreas",
+    "Liver"
+   ],
+   "correct": 3,
+   "explanation": "The liver, like all cells, needs a constant supply of glucose; however, it is able to produce its own glucose through gluconeogenesis (cells in the kidney can also complete low levels of gluconeogenesis). The other cells listed here are absolutely dependent on a glucose source from the blood for energy, although they may also use other fuels in addition to glucose. For example, the brain can utilize ketone bodies during lengthy periods of starvation; however, it still requires at least some glucose for proper function."
+  },
+  {
+   "q": "When insulin is released, it acts to increase the absorption of glucose into skeletal muscle predominantly through which of the following transporters?",
+   "type": "mcq",
+   "choices": [
+    "GLUT 1",
+    "GLUT 2",
+    "GLUT 3",
+    "GLUT 4"
+   ],
+   "correct": 3,
+   "explanation": "GLUT is an abbreviation for glucose transporter and describes a family of sugar transporters with varying distributions and activities. GLUT 4 is found in adipose tissue and muscle, and mediates insulin-stimulated glucose uptake; in fact, it is the only insulin-responsive glucose transporter. Insulin acts via its receptor to translocate GLUT 4 to the plasma membrane. GLUT 4 in skeletal muscle is also stimulated by exercise through an insulin- independent pathway."
+  },
+  {
+   "q": "After an overnight fast, which of the following enzymes would be expected to have little, if any, physiological activity?",
+   "type": "mcq",
+   "choices": [
+    "Malate dehydrogenase",
+    "Glucokinase",
+    "α-Ketoglutarate dehydrogenase",
+    "Phosphofructokinase-1"
+   ],
+   "correct": 1,
+   "explanation": "After an overnight fast, the liver is producing glucose and glucokinase activity would be insignificant. Glucokinase is used to trap extra glucose in liver cells as part of a storage mechanism; with low blood glucose, liver cells would be generating new glucose, not storing it. It is also in the pancreas, where it serves as a glucose sensor; if glucose levels are low, it has little activity in this tissue as well. Malate dehydrogenase, (A), and α-ketoglutarate dehydrogenase, (C), are citric acid cycle enzymes. Phosphofructokinase-1, (D), is a glycolytic enzyme. Other enzymes used in glycolysis, the citric acid cycle, or gluconeogenesis, such as phosphofructokinase-1, would be expected to maintain normal activity after an overnight fast, using glucose derived from glycogen or gluconeogenesis, rather than orally ingested glucose."
+  },
+  {
+   "q": "Which of the following enzymes is NOT used to trap sugar in the cell?",
+   "type": "mcq",
+   "choices": [
+    "Hexokinase",
+    "Galactokinase",
+    "Phosphofructokinase",
+    "Fructokinase"
+   ],
+   "correct": 2,
+   "explanation": "This question asks for an enzyme whose role is not to trap sugar in the cell. Phosphofructokinase (C) is the rate-limiting enzyme of glycolysis. Its role is to phosphorylate fructose-6-phosphate to fructose-1,6-bisphosphate during the third step of glycolysis. Importantly, the substrate of phosphofructokinase, i.e. fructose-6-phosphate, has already been once phosphorylated before reaching phosphofructokinase. Therefore, fructose- 6-phosphate is already trapped in the cell before even reaching phosphofructokinase. For this reason, it cannot be said that phosphofructokinase is used to trap sugar in the cell. By contrast, (A), (B), and (D), can be eliminated because hexokinase phosphorylates glucose, galactokinase phosphorylates galactose, and fructokinase phosphorylates fructose, each reaction trapping the previously unphosphorylated sugar in the cell."
+  },
+  {
+   "q": "When fatty acid β-oxidation predominates in the liver, mitochondrial pyruvate is most likely to be:",
+   "type": "mcq",
+   "choices": [
+    "carboxylated to phosphoenolpyruvate for entry into gluconeogenesis.",
+    "oxidatively decarboxylated to acetyl-CoA for oxidation in the citric acid cycle.",
+    "carboxylated to oxaloacetate for entry into gluconeogenesis.",
+    "reduced to lactate in the process of fermentation."
+   ],
+   "correct": 2,
+   "explanation": "Pyruvate is converted primarily into three main intermediates: acetyl-CoA, (B), for the citric acid cycle (via pyruvate dehydrogenase complex); lactate, (D), during fermentation (via lactate dehydrogenase); or oxaloacetate, (C), for gluconeogenesis (via pyruvate carboxylase). High levels of acetyl-CoA, which is produced during β-oxidation, will inhibit pyruvate dehydrogenase and shift the citric acid cycle to run in the reverse direction, producing oxaloacetate for gluconeogenesis. Acetyl-CoA also stimulates pyruvate carboxylase directly."
+  },
+  {
+   "q": "A biopsy is done on a child with an enlarged liver and shows accumulation of glycogen granules with single glucose residues remaining at the branch points near the periphery of the granule. The most likely genetic defect is in the gene encoding:",
+   "type": "mcq",
+   "choices": [
+    "α-1,4 phosphorylase (glycogen phosphorylase).",
+    "α-1,4:α-1,6 transferase (branching enzyme).",
+    "α-1,4:α-1,4 transferase (part of debranching enzyme complex).",
+    "α-1,6 glucosidase (part of debranching enzyme complex)."
+   ],
+   "correct": 3,
+   "explanation": "The pattern described for this child’s glycogen demonstrates appropriate production: there are long chains of glucose monomers, implying that glycogen synthase works. There are also branch points, implying that branching enzyme, (B) works. During glycogenolysis, it seems that the child is able to remove individual glucose monomers and process glycogen down to the branch point itself, which requires glycogen phosphorylase, (A), and α-1,4:α-1,4 transferase, (C). The metabolic problem here is removing the final glucose at the branch point, which is an α-1,6 (not α-1,4) link. This requires (D), α-1,6 glucosidase."
+  },
+  {
+   "q": "An investigator is measuring the activity of various enzymes involved in reactions of intermediary metabolism. One of the enzymes has greatly decreased activity compared to reference values. The buffer of the assay contains citrate. Which of the following enzymes will most likely be directly affected by the use of citrate?",
+   "type": "mcq",
+   "choices": [
+    "Fructose-2,6-bisphosphatase",
+    "Isocitrate dehydrogenase",
+    "Phosphofructokinase-1",
+    "Pyruvate carboxylase"
+   ],
+   "correct": 2,
+   "explanation": "Citrate is produced by citrate synthase from acetyl-CoA and oxaloacetate. This reaction takes place in the mitochondria. When the citric acid cycle slows down, citrate accumulates. In the cytosol, it acts as a negative allosteric regulator of phosphofructokinase-1, the enzyme that catalyzes the rate- limiting step of glycolysis."
+  },
+  {
+   "q": "After a brief period of intense exercise, the activity of muscle pyruvate dehydrogenase is greatly increased. This increased activity is most likely due to:",
+   "type": "mcq",
+   "choices": [
+    "decreased ADP.",
+    "increased acetyl-CoA.",
+    "increased NADH/NAD+ ratio.",
+    "increased pyruvate concentration."
+   ],
+   "correct": 3,
+   "explanation": "In most biochemical pathways, only a few enzymatic reactions are under regulatory control. These often occur either at the beginning of pathways or at pathway branch points. The pyruvate dehydrogenase (PDH) complex controls the link between glycolysis and the citric acid cycle, and decarboxylates pyruvate (the end product of glycolysis) with production of NADH and acetyl-CoA (the substrate for the citric acid cycle). After intense exercise, one would expect PDH to be highly active to generate ATP. ADP levels, (A), should be high because ATP was just burned by the muscle. Acetyl-CoA, (B), is an inhibitor of PDH, causing a shift of pyruvate into the gluconeogenic pathway. A high NADH/NAD+ ratio, (C), would imply that the cell is already energetically satisfied and not in need of energy, which would not be expected in intensely exercising muscle."
+  },
+  {
+   "q": "The metabolism of which of the following sugars would be LEAST affected by the inhibition of the enzyme phosphofructokinase-1?",
+   "type": "mcq",
+   "choices": [
+    "Lactose",
+    "Fructose",
+    "Glucose",
+    "Galactose"
+   ],
+   "correct": 1,
+   "explanation": "In this question, the right answer will be the molecule whose metabolism will be the least impacted by the inhibition of phosphofructokinase-1 (PFK1). The enzyme PFK1 catalyzes the rate-limiting step of glycolysis. So sugars that enter the glycolytic pathway after this rate-limiting step, i.e. downstream of PFK1, would be least impacted by inhibition of PFK1. Given this criterion, recall the metabolic pathway of fructose, choice (B), which is phosphorylated and then cleaved into glyceraldehyde and DHAP, both of which enter glycolysis downstream of PFK1. Therefore the metabolism of fructose does not depend on PFK-1, and would therefore be least impacted by the inhibition of PFK1, making (B) the correct answer. By contrast, glucose, (C), is metabolised using the the usual glycolytic pathway, and would therefore be impacted by inhibition of PFK1. Similarly, galactose, (D), is phosphorylated and subsequently isomerized into glucose-6- phosphate, which then follows the usual pathway and would therefore be impacted by inhibition of PFK1. And lactose, (A), is cleaved by lactase into glucose and galactose. For these reasons, (A), (B), and (D) can be eliminated."
+  },
+  {
+   "q": "A patient is given antibiotics to treat a urinary tract infection and develops an episode of red blood cell lysis. Further studies show weakness of the plasma membrane and Heinz bodies (collections of oxidized hemoglobin). Which of the following enzymes is most likely defective in this patient?",
+   "type": "mcq",
+   "choices": [
+    "Fructose-1,6-bisphosphatase",
+    "Glucose-6-phosphate dehydrogenase",
+    "Hexokinase",
+    "Pyruvate kinase"
+   ],
+   "correct": 1,
+   "explanation": "Based on the question stem, we can infer that the antibiotics must have been an oxidative stress on the patient (antibiotics, antimalarial medications, infections, certain foods like fava beans, and other common exposures can induce an oxidative stress). The pentose phosphate pathway is responsible for generating NADPH, which is used to reduce glutathione, one of the natural antioxidants present in the body. In individuals with glucose-6- phosphate dehydrogenase (G6PD) deficiency, NADPH cannot be produced at sufficient levels, and oxidative stresses lead to cell membrane and protein (hemoglobin) damage. Note that you do not need to actually know the disease to answer this question; merely knowing that the enzyme must be from the pentose phosphate pathway, which is involved in mitigating oxidative stress, is sufficient."
+  },
+  {
+   "q": "The unique enzymes of gluconeogenesis are used to circumvent specific irreversible steps of glycolysis. Which of the following correctly pairs an enzyme from glycolysis with its corresponding enzyme(s) used in gluconeogenesis?",
+   "type": "mcq",
+   "choices": [
+    "Phosphofructokinase-1/fructose-1,6-bisphosphatase",
+    "Pyruvate dehydrogenase/pyruvate carboxylase and phosphoenolpyruvate carboxykinase",
+    "Hexokinase/glucokinase",
+    "Pyruvate kinase/glucose-6-phosphatase"
+   ],
+   "correct": 0,
+   "explanation": "The irreversible enzymes in glycolysis are hexokinase (or glucokinase in liver and pancreatic β-cells), phosphofructokinase-1, and pyruvate kinase. Pyruvate dehydrogenase is not considered a glycolytic enzyme because it requires the mitochondria to function. The list below shows the correct pairing of glycolytic enzymes with gluconeogenic enzymes: Hexokinase or glucokinase/glucose-6-phosphatase Phosphofructokinase-1/fructose-1,6-bisphosphatase Pyruvate kinase/pyruvate carboxylase and phosphoenolpyruvate carboxykinase (PEPCK)"
+  },
+  {
+   "q": "After an overnight fast, which of the following processes would be expected to occur at an elevated rate compared with the well-fed state?",
+   "type": "mcq",
+   "choices": [
+    "Glycolysis",
+    "Glycogenolysis",
+    "Glycogenesis",
+    "Glycerol synthesis"
+   ],
+   "correct": 1,
+   "explanation": "After a fast, the liver must contribute glucose into the bloodstream through two main processes: glycogenolysis (early to intermediate fasting) and gluconeogenesis (intermediate to late fasting). The other processes would continue at normal basal levels or have decreased activity after a fast."
+  },
+  {
+   "q": "Andersen disease is caused by a mutation in branching enzyme and is associated with cirrhosis. Scientists theorize the cause is likely an immune response against abnormal glycogen. Which of the following best describes the ratio of glycogen α-1,4 to α-1,6 linkages in individuals with this disorder?",
+   "type": "mcq",
+   "choices": [
+    "Elevated",
+    "Decreased",
+    "No difference",
+    "Cannot determine"
+   ],
+   "correct": 0,
+   "explanation": "A deficiency in branching enzyme would result in chains of unbranched glycogen. Since glycogen synthase is not affected, the chain length would be normal, indicating a normal abundance of α-1,4 linkages. However, a loss of branching would correspond to a decrease in α-1,6, linkages. Thus, the ratio of α-1,4 to α-1,6 would increase as division by a smaller denominator yields a larger value, making (A) the correct answer."
+  },
+  {
+   "q": "Each of the following catalyzes a rate-limiting step of a carbohydrate metabolism pathway EXCEPT:",
+   "type": "mcq",
+   "choices": [
+    "hexokinase.",
+    "glycogen synthase.",
+    "glucose-6-phosphate dehydrogenase.",
+    "fructose-1,6-bisphosphatase."
+   ],
+   "correct": 0,
+   "explanation": "Hexokinase catalyzes an important irreversible step of glycolysis, but it is not the rate-limiting step. Phosphofructokinase-1 catalyzes the rate-limiting step of glycolysis. Glycogen synthase, (B), catalyzes the rate-limiting step of glycogenesis; glucose-6-phosphate dehydrogenase, (C), catalyzes the rate- limiting step of the pentose phosphate pathway; and fructose-1,6- bisphosphatase, >(D), catalyzes the rate-limiting step of gluconeogenesis. GO ONLINE Consult your online resources for additional practice. Shared Concepts Biochemistry Chapter 4 Carbohydrate Structure and Function Biochemistry Chapter 10 Carbohydrate Metabolism II Biochemistry Chapter 12 Bioenergetics and Regulation of Metabolism Biology Chapter 7 The Cardiovascular System General Chemistry Chapter 5 Chemical Kinetics General Chemistry Chapter 11 Oxidation–Reduction Reactions"
+  }
+ ]
+}

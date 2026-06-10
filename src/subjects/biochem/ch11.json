@@ -1,0 +1,325 @@
+{
+ "id": 11,
+ "num": 11,
+ "title": "Lipid and Amino Acid Metabolism",
+ "slug": "lipid_and_amino_acid_metabolism",
+ "sections": [
+  {
+   "title": "11.1 Lipid Digestion and Absorption",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig01.png",
+     "alt": "Chapter 11 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig02.png",
+     "alt": "Chapter 11 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig03.png",
+     "alt": "Figure 11.1 Absorption of Lipids",
+     "caption": "Figure 11.1 Absorption of Lipids"
+    }
+   ]
+  },
+  {
+   "title": "11.2 Lipid Mobilization",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "11.3 Lipid Transport",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig04.png",
+     "alt": "Figure 11.2 Mobilization of Triacylglycerols and Metabolism by the Liver",
+     "caption": "Figure 11.2 Mobilization of Triacylglycerols and Metabolism by the Liver"
+    },
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig05.png",
+     "alt": "Figure 11.3. Lipoproteins are named according to their density,",
+     "caption": "Figure 11.3. Lipoproteins are named according to their density,"
+    },
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig06.png",
+     "alt": "Figure 11.4.",
+     "caption": "Figure 11.4."
+    }
+   ]
+  },
+  {
+   "title": "11.4 Cholesterol Metabolism",
+   "goals": [],
+   "figures": []
+  },
+  {
+   "title": "11.5 Fatty Acids and Triacylglycerols",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig07.png",
+     "alt": "Figure 11.5, occurs in the liver and its",
+     "caption": "Figure 11.5, occurs in the liver and its"
+    },
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig08.png",
+     "alt": "Figure 11.6 Action of Fatty Acid Synthase Reactions include activation",
+     "caption": "Figure 11.6 Action of Fatty Acid Synthase Reactions include activation"
+    },
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig09.png",
+     "alt": "Figure 11.7 Fatty Acid Activation and Transport",
+     "caption": "Figure 11.7 Fatty Acid Activation and Transport"
+    },
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig10.png",
+     "alt": "Figure 11.8, are:",
+     "caption": "Figure 11.8, are:"
+    },
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig11.png",
+     "alt": "Figure 11.9. Propionyl-CoA is converted to methylmalonyl-CoA by",
+     "caption": "Figure 11.9. Propionyl-CoA is converted to methylmalonyl-CoA by"
+    },
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig12.png",
+     "alt": "Figure 11.10, rearranges cis double",
+     "caption": "Figure 11.10, rearranges cis double"
+    },
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig13.png",
+     "alt": "Figure 11.11 Reaction of 2,4-Dienoyl-CoA Reductase",
+     "caption": "Figure 11.11 Reaction of 2,4-Dienoyl-CoA Reductase"
+    },
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig14.png",
+     "alt": "Chapter 11 figure 14",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig15.png",
+     "alt": "Chapter 11 figure 15",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "11.6 Ketone Bodies",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig16.png",
+     "alt": "Figure 11.12.",
+     "caption": "Figure 11.12."
+    }
+   ]
+  },
+  {
+   "title": "11.7 Protein Catabolism",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig17.png",
+     "alt": "Figure\n11.13 illustrates the major transport mechanisms involved in moving amino",
+     "caption": "Figure\n11.13 illustrates the major transport mechanisms involved in moving amino"
+    },
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig18.png",
+     "alt": "Figure 11.14 The Urea Cycle",
+     "caption": "Figure 11.14 The Urea Cycle"
+    },
+    {
+     "src": "biochem/ch11_lipid_and_amino_acid_metabolism/fig19.png",
+     "alt": "Figure 11.6.",
+     "caption": "Figure 11.6."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following hormones does NOT directly regulate the activity of hormone-sensitive lipase in adipose tissue?",
+   "type": "mcq",
+   "choices": [
+    "Insulin",
+    "Glucogen",
+    "Epinephrine",
+    "Cortisol"
+   ],
+   "correct": 1,
+   "explanation": "This question asks for the hormone that does not directly regulate the activity of hormone-sensitive lipase (HSL). Hormone sensitive lipase is an enzyme that cleaves fatty acids from their glycerol backbones, releasing these free fatty acids for use in energy production. HSL is directly activated by epinephrine and cortisol, so (C) and (D) can be eliminated. Regarding insulin vs. glucagon, observe that free fatty acid mobilization, and therefore HSL activity, is generally associated with low blood sugar, which is also associated with elevated glucagon levels. However, glucagon does not directly regulate the activity of HSL. Rather, HSL is activated by a drop in insulin levels. For this reason, insulin does directly regulate HSL activity, and therefore (A) can be eliminated. Only glucagon, (B), does not directly influence HSL activity. Therefore (B) is the correct answer."
+  },
+  {
+   "q": "What is the fate of long-chain fatty acids that are contained within micelles?",
+   "type": "mcq",
+   "choices": [
+    "Transport into chylomicrons released into the lymphatic system",
+    "Transport into chylomicrons released into the circulatory system",
+    "Direct diffusion across the intestine into the lymphatic system",
+    "Direct diffusion across the intestine into the circulatory system"
+   ],
+   "correct": 0,
+   "explanation": "Short-chain fatty acids are soluble in the intestinal lumen, and thus do not interact with micelles as longer fatty acid chains do. The long-chain fatty acids are taken up by the intestinal cells and packaged into triacylglycerols for transport as chylomicrons. Chylomicrons exit the intestine through lacteals that feed into the lymphatic system, which joins with the bloodstream in the base of the neck through the thoracic duct."
+  },
+  {
+   "q": "During fatty acid mobilization, which of the following occur(s)? I. HSL is activated. II. Free fatty acids are released. III. Gluconeogenesis proceeds in adipocytes.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "III only",
+    "I and II only",
+    "II and III only"
+   ],
+   "correct": 2,
+   "explanation": "During fatty acid mobilization, there is a breakdown of triacylglycerols in adipocytes by hormone-sensitive lipase (HSL). This breakdown results in the release of three fatty acids and a glycerol molecule. The glycerol may be used by the liver for gluconeogenesis, but adipocytes do not have the ability to carry out gluconeogenesis."
+  },
+  {
+   "q": "How do chylomicrons and VLDL differ?",
+   "type": "mcq",
+   "choices": [
+    "Chylomicrons contain apoproteins, VLDL do not.",
+    "Chylomicrons are synthesized in the intestine, VLDL are synthesized in the liver.",
+    "Chylomicrons transport triacylglycerol, VLDL transport cholesterol.",
+    "VLDL are another term for chylomicron remnants; they differ in age."
+   ],
+   "correct": 1,
+   "explanation": "Chylomicrons and VLDL are very similar. Both contain apolipoproteins and primarily transport triacylglycerols, eliminating (A) and (C). The only major difference between them is the tissue of origin. Chylomicrons transport dietary triacylglycerol and originate in the small intestine, while VLDL transport newly synthesized triacylglycerols and originate in the liver."
+  },
+  {
+   "q": "Which of the following could result from an absence of apolipoproteins? I. An inability to secrete lipid transport lipoproteins II. An inability to endocytose lipoproteins III. A decreased ability to remove excess cholesterol from blood vessels",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "III only",
+    "I and II only",
+    "I, II, and III"
+   ],
+   "correct": 3,
+   "explanation": "While the transport and lipid binding functions of most lipoproteins are independent of the apolipoprotein component, the interaction of these lipoproteins with the environment is controlled almost exclusively by apolipoproteins. Lipoproteins cannot exit or enter cells without apolipoproteins, and are unable to transfer lipids without specialized apolipoproteins or cholesterol-specific enzymes."
+  },
+  {
+   "q": "Statin drugs inhibit HMG-CoA reductase. As such, they are likely prescribed for:",
+   "type": "mcq",
+   "choices": [
+    "hypercholesterolemia (high cholesterol).",
+    "hypertriglyceridemia (high triacylglycerol).",
+    "hypocholesterolemia (low cholesterol).",
+    "visceral adiposity (obesity)."
+   ],
+   "correct": 0,
+   "explanation": "Statins are drugs that are prescribed to treat high cholesterol and act as competitive inhibitors of HMG-CoA reductase. HMG-CoA reductase is the rate-limiting enzyme of de novo cholesterol synthesis; inhibition of this enzyme lowers production of cholesterol, thus lowering overall levels of cholesterol."
+  },
+  {
+   "q": "What is the function of LCAT?",
+   "type": "mcq",
+   "choices": [
+    "LCAT catalyzes the production of cholesteryl esters.",
+    "LCAT catalyzes the production of cholesterol.",
+    "LCAT catalyzes the transfer of cholesteryl esters.",
+    "LCAT catalyzes the transfer of cholesterol."
+   ],
+   "correct": 0,
+   "explanation": "LCAT adds a fatty acid to cholesterol, producing cholesteryl esters, which dissolve in the core of HDL, allowing HDL to transport cholesterol from the periphery to the liver."
+  },
+  {
+   "q": "Which fatty acid can be synthesized by humans?",
+   "type": "mcq",
+   "choices": [
+    "12:0",
+    "16:0",
+    "16:1",
+    "18:3"
+   ],
+   "correct": 1,
+   "explanation": "Humans can only synthesize one fatty acid, palmitic acid. Palmitic acid is fully saturated and therefore does not contain any double bonds. Palmitic acid has 16 carbons, and is synthesized from eight molecules of acetyl-CoA. In shorthand notation, palmitic acid is written as 16:0 (16 carbons, no double bonds)."
+  },
+  {
+   "q": "Which of the following best characterizes the process of fatty acid synthesis?",
+   "type": "mcq",
+   "choices": [
+    "Two reductions followed by a dehydration and bond formation",
+    "Reduction followed by activation, bond formation, dehydration, and reduction",
+    "Activation followed by bond formation, reduction, dehydration, and reduction",
+    "Activation followed by bond formation, oxidation, dehydration, and reduction"
+   ],
+   "correct": 2,
+   "explanation": "The steps in fatty acid synthesis are activation (attachment to acyl carrier protein), bond formation (between malonyl-CoA and the growing fatty acid chain), reduction (of a carboxyl group), dehydration, and reduction (of a double bond)."
+  },
+  {
+   "q": "Which of the following best describes how the body creates or processes ketone bodies?",
+   "type": "mcq",
+   "choices": [
+    "Ketone bodies are produced in the peroxisomes of liver cells during periods of fasting.",
+    "Acetyl-CoA is converted into acetoacetate, 3-hydroxybutyrate, or acetone, all of which are utilized for energy.",
+    "Ketone bodies are produced in the mitochondria of liver cells after prolonged fasting.",
+    "The brain is the first organ to use ketone bodies."
+   ],
+   "correct": 2,
+   "explanation": "Ketone bodies are produced in the mitochondria of liver cells as acetyl-CoA accumulates during fasting, consistent with (C). On the other hand, to eliminate (B), observe that while acetyl-CoA is indeed converted to acetoacetate, 3-hydroxybutyrate, or acetone, the acetone that is produced is only a byproduct and is not used for energy, which conflicts with the assertion in (B) that “all of which are used for energy.” Muscle cells will begin using ketone bodies for energy before the brain. The brain will only start using ketone bodies once they have accumulated to higher concentrations in the blood, eliminating choice (D)."
+  },
+  {
+   "q": "The majority of triacylglycerols stored in adipocytes originate from:",
+   "type": "mcq",
+   "choices": [
+    "synthesis in the adipocyte.",
+    "dietary intake.",
+    "ketone bodies.",
+    "synthesis in the liver."
+   ],
+   "correct": 3,
+   "explanation": "The liver is the major metabolic organ in the body and is responsible for much of the synthesis and interconversion of fuel sources. Most of the triacylglycerols that are synthesized in the liver are transported as VLDL to adipose tissue for storage. Both the adipocytes, (A), and dietary intake, (B), constitute a minor source of triacylglycerols."
+  },
+  {
+   "q": "2,4-Dienoyl-CoA reductase is used in the oxidation of:",
+   "type": "mcq",
+   "choices": [
+    "saturated fatty acids.",
+    "monounsaturated fatty acids.",
+    "polyunsaturated fatty acids.",
+    "cholesterol."
+   ],
+   "correct": 2,
+   "explanation": "In order for the enzymes of fatty acid oxidation to operate, there can be, at most, one double bond in the area of enzyme activity, and it must be oriented between carbons 2 and 3. In order to accomplish this in monounsaturated fatty acids, an isomerase is employed. When there are multiple double bonds that fall within the enzymatic binding site, both an isomerase and 2,4-dienoyl-CoA reductase are required for the oxidative enzymes to act on the fatty acid. For this question, simply recognizing that dienoyl refers to having multiple double bonds is sufficient to arrive at the answer."
+  },
+  {
+   "q": "Which of the following is true regarding ketolysis?",
+   "type": "mcq",
+   "choices": [
+    "Ketolysis occurs only in the brain.",
+    "Ketolysis occurs in the liver.",
+    "Ketolysis generates acetyl-CoA.",
+    "Ketolysis increases glucose metabolism."
+   ],
+   "correct": 2,
+   "explanation": "Ketolysis is the breakdown of ketone bodies to acetyl-CoA for energy. This process occurs in the brain and muscle tissues, but cannot occur in the liver, which lacks an enzyme necessary for ketone body breakdown. Ketolysis is not associated with an increase in glucose metabolism because it most often occurs under conditions of starvation."
+  },
+  {
+   "q": "Which of the following amino acids will provide the most energy when degraded?",
+   "type": "mcq",
+   "choices": [
+    "Glycine",
+    "Alanine",
+    "Valine",
+    "Isoleucine"
+   ],
+   "correct": 3,
+   "explanation": "The energy contribution of an amino acid depends on its ability to be turned into glucose through gluconeogenesis (glucogenic amino acids), ketone bodies (ketogenic amino acids), or both. All of the amino acids listed in the answer choices are glucogenic; isoleucine is also ketogenic. The energy acquired from an amino acid will also depend on the number of carbons it can donate to these energy-creating processes, which depends on the size of its side chain. Isoleucine has the largest side chain of the answer choices, and will thus contribute the most energy per molecule."
+  },
+  {
+   "q": "Which of the following is LEAST likely to result from protein degradation and processing by the liver?",
+   "type": "mcq",
+   "choices": [
+    "Fatty acids",
+    "Glucose",
+    "Acetoacetate",
+    "3-Hydroxybutyrate"
+   ],
+   "correct": 0,
+   "explanation": "The degradation of protein and processing by the liver implies a prolonged starvation state; protein will not be used for energy unless absolutely necessary. Thus, gluconeogenesis is the most likely process. When gluconeogenesis is not possible, easily metabolized molecules, such as ketone bodies, are synthesized. Fatty acid production occurs when energy is being stored; proteins would not be broken down to store energy in fatty acids. GO ONLINE Consult your online resources for additional practice. Shared Concepts Biochemistry Chapter 1 Amino Acids, Peptides, and Proteins Biochemistry Chapter 5 Lipid Structure and Function Biochemistry Chapter 8 Biological Membranes Biochemistry Chapter 12 Bioenergetics and Regulation of Metabolism Biology Chapter 9 The Digestive System Biology Chapter 10 Homeostasis"
+  }
+ ]
+}

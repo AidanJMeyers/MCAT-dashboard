@@ -1,0 +1,323 @@
+{
+ "id": 4,
+ "num": 4,
+ "title": "Carbohydrate Structure and Function",
+ "slug": "carbohydrate_structure_and_function",
+ "sections": [
+  {
+   "title": "4.1 Carbohydrate Classification",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig01.png",
+     "alt": "Chapter 4 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig02.png",
+     "alt": "Chapter 4 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig03.png",
+     "alt": "Chapter 4 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig04.png",
+     "alt": "Chapter 4 figure 4",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig05.png",
+     "alt": "Chapter 4 figure 5",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig06.png",
+     "alt": "Chapter 4 figure 6",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig07.png",
+     "alt": "Chapter 4 figure 7",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig08.png",
+     "alt": "Chapter 4 figure 8",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig09.png",
+     "alt": "Chapter 4 figure 9",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig10.png",
+     "alt": "Figure 4.2 Dihydroxyacetone The simplest ketose (a ketotriose)",
+     "caption": "Figure 4.2 Dihydroxyacetone The simplest ketose (a ketotriose)"
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig11.png",
+     "alt": "Chapter 4 figure 11",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig12.png",
+     "alt": "Chapter 4 figure 12",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig13.png",
+     "alt": "Figure 4.4 Enantiomers of Glyceraldehyde",
+     "caption": "Figure 4.4 Enantiomers of Glyceraldehyde"
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig14.png",
+     "alt": "Figure 4.5.",
+     "caption": "Figure 4.5."
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig15.png",
+     "alt": "Figure 4.7).",
+     "caption": "Figure 4.7)."
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig16.png",
+     "alt": "Figure 4.7 D-Ribose and D-Arabinose Are C-2 Epimers",
+     "caption": "Figure 4.7 D-Ribose and D-Arabinose Are C-2 Epimers"
+    }
+   ]
+  },
+  {
+   "title": "4.2 Cyclic Sugar Molecules",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig17.png",
+     "alt": "Figure 4.9 demonstrates how the carbonyl containing C-1",
+     "caption": "Figure 4.9 demonstrates how the carbonyl containing C-1"
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig18.png",
+     "alt": "Figure 4.9 Cyclic Sugar Formation via Intramolecular Nucleophilic",
+     "caption": "Figure 4.9 Cyclic Sugar Formation via Intramolecular Nucleophilic"
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig19.png",
+     "alt": "Figure 4.10. This spontaneous change of",
+     "caption": "Figure 4.10. This spontaneous change of"
+    }
+   ]
+  },
+  {
+   "title": "4.3 Monosaccharides",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig20.png",
+     "alt": "Figure 4.11. Lactones, such",
+     "caption": "Figure 4.11. Lactones, such"
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig21.png",
+     "alt": "Figure 4.13.",
+     "caption": "Figure 4.13."
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig22.png",
+     "alt": "Figure 4.14. Hexokinase (or glucokinase, in",
+     "caption": "Figure 4.14. Hexokinase (or glucokinase, in"
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig23.png",
+     "alt": "Figure 4.15 Glycosidic Linkage Formation Hemiacetal (or hemiketal)",
+     "caption": "Figure 4.15 Glycosidic Linkage Formation Hemiacetal (or hemiketal)"
+    }
+   ]
+  },
+  {
+   "title": "4.4 Complex Carbohydrates",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig24.png",
+     "alt": "Figure 4.16.",
+     "caption": "Figure 4.16."
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig25.png",
+     "alt": "Figure 4.17.",
+     "caption": "Figure 4.17."
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig26.png",
+     "alt": "Figure 4.18 Important Disaccharides (a) Sucrose (glucose-α-1,2-",
+     "caption": "Figure 4.18 Important Disaccharides (a) Sucrose (glucose-α-1,2-"
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig27.png",
+     "alt": "Figure 4.19 below.",
+     "caption": "Figure 4.19 below."
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig28.png",
+     "alt": "Figure 4.20.",
+     "caption": "Figure 4.20."
+    },
+    {
+     "src": "biochem/ch04_carbohydrate_structure_and_function/fig29.png",
+     "alt": "Chapter 4 figure 29",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "When glucose is in a straight-chain formation, it:",
+   "type": "mcq",
+   "choices": [
+    "is an aldoketose.",
+    "is a pentose.",
+    "has five chiral carbons.",
+    "is one of a group of 16 stereoisomers."
+   ],
+   "correct": 3,
+   "explanation": "Glucose is an aldohexose, meaning that it has one aldehyde group and six carbons. Given this information, (A) and (B) can be eliminated. In aldose sugars, each nonterminal carbon is chiral. Therefore, glucose has four chiral centers, not five, as mentioned in (C). The number of stereoisomers possible for a chiral molecule is 2n, where n is the number of chiral carbons. Because glucose has four chiral centers, there are 24 = 16 possible stereoisomers."
+  },
+  {
+   "q": "All of the following are true of epimers EXCEPT:",
+   "type": "mcq",
+   "choices": [
+    "they differ in configuration about only one carbon.",
+    "they usually have slightly different chemical and physical properties.",
+    "they are diastereomers (with the exception of glyceraldehyde).",
+    "they have equal but opposite optical activities."
+   ],
+   "correct": 3,
+   "explanation": "Epimers are monosaccharide diastereomers that differ in their configuration about only one carbon. As with all diastereomers, epimers have different chemical and physical properties, and their optical activities have no relation to each other. Enantiomers have equal but opposite optical activities. Therefore, (D) is the only statement that does not apply to epimers."
+  },
+  {
+   "q": "Aldonic acids are compounds that:",
+   "type": "mcq",
+   "choices": [
+    "can be oxidized, and therefore act as reducing agents.",
+    "can be reduced, and therefore act as reducing agents.",
+    "have been oxidized, and have acted as reducing agents.",
+    "have been oxidized, and have acted as oxidizing agents."
+   ],
+   "correct": 2,
+   "explanation": "Aldonic acids form after the aldehyde group on a reducing sugar reduces another compound, becoming oxidized in the process."
+  },
+  {
+   "q": "The formation of α-D-glucopyranose from β -D-glucopyranose is called:",
+   "type": "mcq",
+   "choices": [
+    "glycosidation.",
+    "mutarotation.",
+    "enantiomerization.",
+    "racemization."
+   ],
+   "correct": 1,
+   "explanation": "Mutarotation is the interconversion between anomers of a compound. Enantiomerization and racemization, (C) and (D), are related: enantiomerization is the formation of a mirror-image or optically inverted form of a compound, whereas racemization is moving a solution toward an equal concentration of both enantiomers. Glycosidation, (A), is the addition of a sugar to another compound."
+  },
+  {
+   "q": "Ketose sugars may have the ability to act as reducing sugars. Which process explains this?",
+   "type": "mcq",
+   "choices": [
+    "Ketose sugars undergo tautomerization.",
+    "The ketone group is oxidized directly.",
+    "Ketose sugars undergo anomerization.",
+    "The ketone group is reduced directly."
+   ],
+   "correct": 0,
+   "explanation": "Ketose sugars undergo tautomerization, a rearrangement of bonds, to undergo keto–enol shifts. This forms an aldose, which then allows them to act as reducing sugars. A ketone group alone cannot be oxidized. Anomerization, mentioned in (C), refers to ring closure of a monosaccharide, creating an anomeric carbon."
+  },
+  {
+   "q": "Which of the following enzymes cleaves polysaccharide chains and yields maltose exclusively?",
+   "type": "mcq",
+   "choices": [
+    "α-Amylase",
+    "β-Amylase",
+    "Debranching enzyme",
+    "Glycogen phosphorylase"
+   ],
+   "correct": 1,
+   "explanation": "β-Amylase cleaves amylose at the nonreducing end of the polymer to yield maltose exclusively, while α-amylase, (A), cleaves amylose anywhere along the chain to yield short polysaccharides, maltose, and glucose. Debranching enzyme, (C), removes oligosaccharides from a branch in glycogen or starches, while glycogen phosphorylase, (D), yields glucose 1-phosphate."
+  },
+  {
+   "q": "Why is the α-anomer of D-glucose less likely to form than the β - anomer?",
+   "type": "mcq",
+   "choices": [
+    "The β-anomer is preferred for metabolism.",
+    "The β-anomer undergoes less electron repulsion.",
+    "The α-anomer is the more stable anomer.",
+    "The α-anomer forms more in L-glucose."
+   ],
+   "correct": 1,
+   "explanation": "The hydroxyl group on the anomeric carbon of the β-anomer is equatorial, thereby creating less nonbonded strain than the α-anomer, which has the hydroxyl group of the anomeric carbon in axial position."
+  },
+  {
+   "q": "Which two polysaccharides share all of their glycosidic linkage types in common?",
+   "type": "mcq",
+   "choices": [
+    "Cellulose and amylopectin",
+    "Amylose and glycogen",
+    "Amylose and cellulose",
+    "Glycogen and amylopectin"
+   ],
+   "correct": 3,
+   "explanation": "Glycogen and amylopectin are the only polysaccharide forms that demonstrate branching structure, making them most similar in terms of linkage. Both glycogen and amylopectin use α-1,4 and α-1,6 linkages. Cellulose uses β-1,4 linkages and amylose does not contain α-1,6 linkages."
+  },
+  {
+   "q": "Which of the following is digestible by humans and is made up of only one type of monosaccharide?",
+   "type": "mcq",
+   "choices": [
+    "Lactose",
+    "Sucrose",
+    "Maltose",
+    "Cellobiose"
+   ],
+   "correct": 2,
+   "explanation": "While maltose and cellobiose both have the same glucose subunits, only maltose is digestible by humans because the β-glycosidic linkages in cellobiose cannot be cleaved in the human body."
+  },
+  {
+   "q": "The reaction below is an example of one step in:",
+   "type": "mcq",
+   "choices": [
+    "aldehyde formation.",
+    "hemiketal formation.",
+    "mutarotation.",
+    "glycosidic bond cleavage."
+   ],
+   "correct": 2,
+   "explanation": "In solution, the hemiacetal ring of glucose will break open spontaneously and then re-form. When the ring is broken, bond rotation occurs between C-1 and C-2 to produce either the α- or the β-anomer. The reaction given in this question depicts the mutarotation of glucose. (A) is incorrect because the reactant is an aldehyde, not the product. (B) is incorrect because a hemiketal has an −OH group, an −OR group, and two −R groups. In addition, hemiketals are formed from ketones, and our starting reactant is an aldehyde. Finally, (D) is incorrect because there is no glycosidic bond in the starting reactant."
+  },
+  {
+   "q": "Andersen’s disease (glycogen storage disease type IV) is a condition characterized by a deficiency in glycogen branching enzyme. Absence of this enzyme would be likely to cause all of the following effects EXCEPT:",
+   "type": "mcq",
+   "choices": [
+    "decreased glycogen solubility in human cells.",
+    "slower action of glycogen phosphorylase.",
+    "less storage of glucose in the body.",
+    "glycogen devoid of α-1,4 linkages."
+   ],
+   "correct": 3,
+   "explanation": "In Andersen’s disease, glycogen is less branched than normal, thereby inducing lower solubility of glycogen. Branches reduce the interactions between adjacent chains of glycogen and encourage interactions with the aqueous environment. The smaller number of branches means that glycogen phosphorylase has fewer terminal glucose monomers on which to act, making enzyme activity slower than normal overall. Finally, without branches, the density of glucose monomers cannot be as high; therefore, the total glucose stored is lower than normal. Glycogen synthase is still functioning normally, so we would expect normal α-1,4 linkages in the glycogen of an individual with Andersen’s disease but few (if any) α-1,6 linkages."
+  },
+  {
+   "q": "The cyclic forms of monosaccharides are: I. hemiacetals. II. hemiketals. III. acetals.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "III only",
+    "I and II only",
+    "I, II, and III Answer Key follows on next page."
+   ],
+   "correct": 2,
+   "explanation": "Monosaccharides can exist as hemiacetals or hemiketals, depending on whether they are aldoses or ketoses. When a monosaccharide is in its cyclic form, the anomeric carbon is attached to the oxygen in the ring and a hydroxyl group. Hence, it is only a hemiacetal or hemiketal because an acetal or ketal would require the −OH group to be converted to another −OR group. GO ONLINE Consult your online resources for additional practice. Equations to Remember (4.1) Number of stereoisomers with common backbone = 2n Shared Concepts Biochemistry Chapter 9 Carbohydrate Metabolism I Biochemistry Chapter 10 Carbohydrate Metabolism II Organic Chemistry Chapter 1 Nomenclature Organic Chemistry Chapter 2 Isomers Organic Chemistry Chapter 5 Alcohols Organic Chemistry Chapter 6 Aldehydes and Ketones I"
+  }
+ ]
+}

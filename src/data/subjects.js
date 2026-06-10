@@ -1,4 +1,5 @@
 import { chapters as bio } from '../subjects/bio/index.js';
+import { chapters as biochem } from '../subjects/biochem/index.js';
 
 // status: 'ready' (built) | 'soon' (planned, phased build)
 export const SUBJECTS = [
@@ -7,7 +8,7 @@ export const SUBJECTS = [
     source: 'Kaplan MCAT Biology Review', status: 'ready', chapters: bio },
   { id: 'biochem', name: 'Biochemistry', short: 'Biochem', icon: '🧪', accent: 'rose',
     blurb: 'Amino acids & proteins, enzymes, bioenergetics, metabolism, and lab techniques.',
-    source: 'Kaplan MCAT Biochemistry Review', status: 'soon', chapters: [] },
+    source: 'Kaplan MCAT Biochemistry Review', status: 'ready', chapters: biochem },
   { id: 'gchem', name: 'General Chemistry', short: 'Gen Chem', icon: '⚗️', accent: 'sky',
     blurb: 'Atomic theory, bonding, stoichiometry, thermodynamics, kinetics, equilibrium, acids/bases, electrochemistry.',
     source: 'Kaplan MCAT General Chemistry Review', status: 'soon', chapters: [] },

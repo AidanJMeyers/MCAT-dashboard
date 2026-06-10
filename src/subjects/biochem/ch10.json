@@ -1,0 +1,314 @@
+{
+ "id": 10,
+ "num": 10,
+ "title": "Carbohydrate Metabolism II: Aerobic Respiration",
+ "slug": "carbohydrate_metabolism_ii_aerobic_respi",
+ "sections": [
+  {
+   "title": "10.1 Acetyl-CoA",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig01.png",
+     "alt": "Chapter 10 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig02.png",
+     "alt": "Chapter 10 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig03.png",
+     "alt": "Figure 10.1 Overall Reaction of Pyruvate Dehydrogenase Complex",
+     "caption": "Figure 10.1 Overall Reaction of Pyruvate Dehydrogenase Complex"
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig04.png",
+     "alt": "Figure 10.2 Mechanism of Pyruvate Dehydrogenase",
+     "caption": "Figure 10.2 Mechanism of Pyruvate Dehydrogenase"
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig05.png",
+     "alt": "Figure 10.3 Fatty Acid Activation and Transport",
+     "caption": "Figure 10.3 Fatty Acid Activation and Transport"
+    }
+   ]
+  },
+  {
+   "title": "10.2 Reactions of the Citric Acid Cycle",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig06.png",
+     "alt": "Figure 10.4 The Citric Acid Cycle",
+     "caption": "Figure 10.4 The Citric Acid Cycle"
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig07.png",
+     "alt": "Figure 10.5.",
+     "caption": "Figure 10.5."
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig08.png",
+     "alt": "Figure 10.5 Citrate Formation",
+     "caption": "Figure 10.5 Citrate Formation"
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig09.png",
+     "alt": "Figure 10.6, you can see that this results",
+     "caption": "Figure 10.6, you can see that this results"
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig10.png",
+     "alt": "Figure 10.8. This carbon dioxide represents the second and last carbon lost",
+     "caption": "Figure 10.8. This carbon dioxide represents the second and last carbon lost"
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig11.png",
+     "alt": "Figure 10.9 Succinate Formation",
+     "caption": "Figure 10.9 Succinate Formation"
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig12.png",
+     "alt": "Figure 10.10.",
+     "caption": "Figure 10.10."
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig13.png",
+     "alt": "Figure 10.11 Checkpoints and Regulation of the Citric Acid Cycle",
+     "caption": "Figure 10.11 Checkpoints and Regulation of the Citric Acid Cycle"
+    }
+   ]
+  },
+  {
+   "title": "10.3 The Electron Transport Chain",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig14.png",
+     "alt": "Figure 10.12, notice how the",
+     "caption": "Figure 10.12, notice how the"
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig15.png",
+     "alt": "Figure 10.12 Mitochondrial Structure",
+     "caption": "Figure 10.12 Mitochondrial Structure"
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig16.png",
+     "alt": "Figure 10.13 and further",
+     "caption": "Figure 10.13 and further"
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig17.png",
+     "alt": "Chapter 10 figure 17",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig18.png",
+     "alt": "Figure 10.14 Glycerol-3-Phosphate Shuttle",
+     "caption": "Figure 10.14 Glycerol-3-Phosphate Shuttle"
+    },
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig19.png",
+     "alt": "Figure 10.15 Malate–Aspartate Shuttle",
+     "caption": "Figure 10.15 Malate–Aspartate Shuttle"
+    }
+   ]
+  },
+  {
+   "title": "10.4 Oxidative Phosphorylation",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch10_carbohydrate_metabolism_ii_aerobic_respi/fig20.png",
+     "alt": "Figure 10.16. The specific",
+     "caption": "Figure 10.16. The specific"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "During a myocardial infarction, the oxygen supply to an area of the heart is dramatically reduced, forcing the cardiac myocytes to switch to anaerobic metabolism. Under these conditions, which of the following enzymes would be activated by increased levels of intracellular AMP?",
+   "type": "mcq",
+   "choices": [
+    "Succinate dehydrogenase",
+    "Phosphofructokinase-1",
+    "Isocitrate dehydrogenase",
+    "Pyruvate dehydrogenase"
+   ],
+   "correct": 1,
+   "explanation": "Phosphofructokinase-1 (PFK-1), which catalyzes the rate-limiting step of glycolysis, is the only enzyme listed here that functions under anaerobic conditions. The other enzymes are all involved in the oxygen-requiring processes discussed in this chapter. Succinate dehydrogenase, (A), appears in both the citric acid cycle and as part of Complex II of the electron transport chain. Isocitrate dehydrogenase, (C), catalyzes the rate-limiting step of the citric acid cycle. Pyruvate dehydrogenase, (D), is one of the five enzymes that make up the pyruvate dehydrogenase complex."
+  },
+  {
+   "q": "A patient has been exposed to a toxic compound that increases the permeability of mitochondrial membranes to protons. Which of the following metabolic changes would be expected in this patient?",
+   "type": "mcq",
+   "choices": [
+    "Increased ATP levels",
+    "Increased oxygen utilization",
+    "Increased ATP synthase activity",
+    "Decreased pyruvate dehydrogenase activity"
+   ],
+   "correct": 1,
+   "explanation": "The increased permeability of the inner mitochondrial membrane allows the proton-motive force to be dissipated through locations besides the F0 portion of ATP synthase. Therefore, ATP synthase is less active and is forming less ATP, invalidating (A) and (C). The body will attempt to regenerate the proton-motive force by increasing fuel catabolism, eliminating (D). This increase in fuel use requires more oxygen utilization in the electron transport chain."
+  },
+  {
+   "q": "Which of the following INCORRECTLY pairs a metabolic process with its site of occurrence?",
+   "type": "mcq",
+   "choices": [
+    "Glycolysis—cytosol",
+    "Citric acid cycle—outer mitochondrial membrane",
+    "ATP phosphorylation—cytosol and mitochondria",
+    "Electron transport chain—inner mitochondrial membrane"
+   ],
+   "correct": 1,
+   "explanation": "The citric acid cycle takes place in the mitochondrial matrix, not the outer mitochondrial membrane. While most citric acid cycle enzymes are located within the matrix, succinate dehydrogenase is located on the inner mitochondrial membrane."
+  },
+  {
+   "q": "Which of the following processes has the following net reaction? 2 acetyl-CoA + 6 NAD+ + 2 FAD + 2 GDP + 2 Pi + 6 H2O → 4 CO2 + 6 NADH + 2 FADH2 + 2 GTP + 6 H+ + 2 CoA−SH",
+   "type": "mcq",
+   "choices": [
+    "Pyruvate decarboxylation",
+    "Fermentation",
+    "Tricarboxylic acid cycle",
+    "Electron transport chain"
+   ],
+   "correct": 2,
+   "explanation": "It is not necessary to have all the net reactions memorized for each metabolic process to answer this question; all we need is to identify a few key reactants and products. In this case, we start with acetyl-CoA and end with CoA−SH. We also notice that in this reaction, NAD+ and FAD are reduced to NADH and FADH2, and that CO2 is formed. The only metabolic process in which all of the above reactions would occur is the citric acid cycle, also called the tricarboxylic acid (TCA) or Krebs cycle."
+  },
+  {
+   "q": "In glucose degradation under aerobic conditions:",
+   "type": "mcq",
+   "choices": [
+    "oxygen is the final electron acceptor.",
+    "oxygen is necessary for all ATP synthesis.",
+    "net water is consumed.",
+    "the proton-motive force is necessary for all ATP synthesis."
+   ],
+   "correct": 0,
+   "explanation": "This question is testing our general knowledge of cellular respiration. Notice that all types of cellular respiration (aerobic and anaerobic) start with the degradation of glucose by glycolysis. In aerobic respiration, oxygen is the final electron acceptor, and water is therefore produced at the end of the electron transport chain. While oxygen is needed for aerobic respiration in order to produce the optimal 32 molecules of ATP per glucose, it is not the only method by which ATP is produced. Glycolysis still provides 2 ATP per glucose without the need for oxygen, thus making (B) and (D) incorrect. Water, mentioned in (C), is produced in aerobic metabolism, not consumed."
+  },
+  {
+   "q": "Fatty acids enter the catabolic pathway in the form of:",
+   "type": "mcq",
+   "choices": [
+    "glycerol.",
+    "adipose tissue.",
+    "acetyl-CoA.",
+    "ketone bodies."
+   ],
+   "correct": 2,
+   "explanation": "Fat molecules stored in adipose tissue can be hydrolyzed by lipases to fatty acids and glycerol. While glycerol can be converted into glyceraldehyde 3- phosphate, a glycolytic intermediate, a fatty acid must first be activated in the cytoplasm by coupling the fatty acid to CoA−SH, forming fatty acyl- CoA. The fatty acid is then transferred to a molecule of carnitine, which can carry it across the inner mitochondrial membrane. Once inside, the fatty acid is transferred to a mitochondrial CoA−SH, re-forming fatty acyl-CoA. Through fatty acid oxidation, this fatty acyl-CoA can become acetyl-CoA, which enters the citric acid cycle."
+  },
+  {
+   "q": "All of the following methods are used to produce acetyl-CoA in cells EXCEPT for one. What is the exception?",
+   "type": "mcq",
+   "choices": [
+    "Decarboxylation of pyruvate",
+    "Catabolism of ketogenic amino acids",
+    "Reduction of fatty acids",
+    "Metabolism of alcohol"
+   ],
+   "correct": 2,
+   "explanation": "Based on the wording of this question, three choices are used to produce acetyl-CoA and one is not. As part of aerobic metabolism, decarboxylation of pyruvate by the pyruvate dehydrogenase complex yields acetyl-CoA, NADH, and CO2. Other sources of acetyl-CoA include amino acid catabolism, beta oxidation of fatty acids, and alcohol metabolism. Fatty acids are produced via reduction of acetyl-CoA and cannot be further reduced, making (C) correct."
+  },
+  {
+   "q": "In which part of the cell is cytochrome c located?",
+   "type": "mcq",
+   "choices": [
+    "Mitochondrial matrix",
+    "Outer mitochondrial membrane",
+    "Inner mitochondrial membrane",
+    "Cytosol"
+   ],
+   "correct": 2,
+   "explanation": "Cytochrome c carries electrons from CoQH2-cytochrome c oxidoreductase (Complex III) to cytochrome c oxidase (Complex IV) as part of the electron transport chain. The ETC takes place on the inner mitochondrial membrane."
+  },
+  {
+   "q": "Which of the following correctly shows the amount of ATP produced from the given high-energy carriers?",
+   "type": "mcq",
+   "choices": [
+    "FADH2 → 1 ATP",
+    "FADH2 → 1.5 ATP",
+    "NADH → 3 ATP",
+    "NADH → 3.5 ATP"
+   ],
+   "correct": 1,
+   "explanation": "During oxidative phosphorylation, energy is harvested from the energy carriers FADH2 and NADH in order to form ATP. One molecule of mitochondrial FADH2 is oxidized to produce 1.5 molecules of ATP. Similarly, one molecule of mitochondrial NADH is oxidized to produce 2.5 molecules of ATP in the electron transport chain."
+  },
+  {
+   "q": "Why is it preferable to cleave thioester links rather than typical ester links in aerobic metabolism?",
+   "type": "mcq",
+   "choices": [
+    "Oxygen must be conserved for the electron transport chain.",
+    "Thioester hydrolysis has a higher energy yield.",
+    "Typical ester hydrolysis cannot occur in vivo.",
+    "Thioester cleavage requires more energy."
+   ],
+   "correct": 1,
+   "explanation": "Thioester links release a great deal of energy when hydrolyzed, making them well-suited as respiration reaction drivers. They are particularly useful because they release more energy than typical ester cleavage. It is thioester formation, not hydrolysis, that requires a great deal of energy, making (D) incorrect."
+  },
+  {
+   "q": "Which enzyme converts GDP to GTP?",
+   "type": "mcq",
+   "choices": [
+    "Nucleosidediphosphate phosphatase",
+    "Nucleosidediphosphate kinase",
+    "Isocitrate dehydrogenase",
+    "Pyruvate dehydrogenase"
+   ],
+   "correct": 1,
+   "explanation": "The conversion of GDP to GTP is a phosphorylation reaction, in which a phosphate group is added to a molecule. Such reactions are catalyzed by kinases. Nomenclature is helpful here, as nucleosidediphosphate kinase is the only enzyme that contains kinase in its name."
+  },
+  {
+   "q": "Which of the following best explains why cytosolic NADH can yield potentially less ATP than mitochondrial NADH?",
+   "type": "mcq",
+   "choices": [
+    "Cytosolic NADH always loses energy when transferring electrons.",
+    "Once NADH enters the matrix from the cytosol, it becomes FADH2.",
+    "Electron transfer from cytosol to matrix can take more than one pathway.",
+    "There is an energy cost for bringing cytosolic NADH into the matrix."
+   ],
+   "correct": 2,
+   "explanation": "The wording of these answer choices is critical. The electrons from cytosolic NADH can enter the mitochondrion through one of two shuttle mechanisms: the glycerol 3-phosphate shuttle, which ultimately moves these electrons to mitochondrial FAD, and the malate–aspartate shuttle, which ultimately moves these electrons to mitochondrial NAD+. If the electrons are transferred using the malate–aspartate shuttle, then no energy is lost, making (A) and (D) incorrect. NADH cannot enter the matrix directly, making (B) incorrect. It is the fact that electrons can use more than one pathway—one of which loses energy that could be used for ATP synthesis— that accounts for the potentially decreased yield of ATP from cytosolic NADH."
+  },
+  {
+   "q": "In high doses, aspirin functions as a mitochondrial uncoupler. How would this affect glycogen stores?",
+   "type": "mcq",
+   "choices": [
+    "It causes depletion of glycogen stores.",
+    "It has no effect on glycogen stores.",
+    "It promotes additional storage of glucose as glycogen.",
+    "Its effect on glycogen stores varies from cell to cell."
+   ],
+   "correct": 0,
+   "explanation": "Uncouplers inhibit ATP synthesis without affecting the electron transport chain. Because the body must burn more fuel to maintain the proton-motive force, glycogen stores will be mobilized to feed into glycolysis, then the TCA, and finally oxidative phosphorylation."
+  },
+  {
+   "q": "Which complex does NOT contribute to the proton-motive force?",
+   "type": "mcq",
+   "choices": [
+    "Complex I",
+    "Complex II",
+    "Complex III",
+    "Complex IV"
+   ],
+   "correct": 1,
+   "explanation": "Complex II is the only complex of the ETC that does not contribute to the proton gradient. Complexes I and III each add four protons to the gradient; Complex IV adds two protons to the gradient."
+  },
+  {
+   "q": "Which of the following directly provides the energy needed to form ATP in the mitochondrion?",
+   "type": "mcq",
+   "choices": [
+    "Electron transfer in the electron transport chain",
+    "An electrochemical proton gradient",
+    "Oxidation of acetyl-CoA",
+    "β-Oxidation of fatty acids"
+   ],
+   "correct": 1,
+   "explanation": "While all of the other answers contribute to energy production, it is the electrochemical gradient (proton-motive force) that directly drives the phosphorylation of ATP by the F1 portion of ATP synthase. GO ONLINE Consult your online resources for additional practice. Shared Concepts Biochemistry Chapter 2 Enzymes Biochemistry Chapter 4 Carbohydrate Structure and Function Biochemistry Chapter 9 Carbohydrate Metabolism I Biochemistry Chapter 11 Lipid and Amino Acid Metabolism Biochemistry Chapter 12 Bioenergetics and Regulation of Metabolism General Chemistry Chapter 12 Electrochemistry"
+  }
+ ]
+}

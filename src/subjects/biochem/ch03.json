@@ -1,0 +1,294 @@
+{
+ "id": 3,
+ "num": 3,
+ "title": "Nonenzymatic Protein Function and Protein Analysis",
+ "slug": "nonenzymatic_protein_function_and_protei",
+ "sections": [
+  {
+   "title": "3.1 Cellular Functions",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig01.png",
+     "alt": "Chapter 3 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig02.png",
+     "alt": "Chapter 3 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig03.png",
+     "alt": "Figure 3.1 below.",
+     "caption": "Figure 3.1 below."
+    },
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig04.png",
+     "alt": "Figure 3.2.",
+     "caption": "Figure 3.2."
+    },
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig05.png",
+     "alt": "Figure 3.3 Structure of an Antibody Molecule",
+     "caption": "Figure 3.3 Structure of an Antibody Molecule"
+    }
+   ]
+  },
+  {
+   "title": "3.2 Biosignaling",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig06.png",
+     "alt": "Figure 3.4.",
+     "caption": "Figure 3.4."
+    },
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig07.png",
+     "alt": "Figure 3.5. Once GDP is replaced with GTP, the α subunit is able to",
+     "caption": "Figure 3.5. Once GDP is replaced with GTP, the α subunit is able to"
+    }
+   ]
+  },
+  {
+   "title": "3.3 Protein Isolation",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig08.png",
+     "alt": "Chapter 3 figure 8",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig09.png",
+     "alt": "Chapter 3 figure 9",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig10.png",
+     "alt": "Figure 3.6 Electrophoresis As an electrolytic (nonspontaneous) cell,",
+     "caption": "Figure 3.6 Electrophoresis As an electrolytic (nonspontaneous) cell,"
+    },
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig11.png",
+     "alt": "Figure 3.7. Each component can then be",
+     "caption": "Figure 3.7. Each component can then be"
+    },
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig12.png",
+     "alt": "Figure 3.8. As the solution flows through the column,",
+     "caption": "Figure 3.8. As the solution flows through the column,"
+    },
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig13.png",
+     "alt": "Chapter 3 figure 13",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "3.4 Protein Analysis",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig14.png",
+     "alt": "Figure 3.9 Diffraction Pattern in X-Ray Crystallography",
+     "caption": "Figure 3.9 Diffraction Pattern in X-Ray Crystallography"
+    },
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig15.png",
+     "alt": "Figure 3.10 Bradford Protein Assay The acidic form (left) has a brown-",
+     "caption": "Figure 3.10 Bradford Protein Assay The acidic form (left) has a brown-"
+    },
+    {
+     "src": "biochem/ch03_nonenzymatic_protein_function_and_protei/fig16.png",
+     "alt": "Chapter 3 figure 16",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "At what pH can protein A best be obtained through electrophoresis? (Note: MM = molar mass) Protein pI MM Protein A 4.5 25,000 Protein B 6.0 10,000 Protein C 9.5 12,000",
+   "type": "mcq",
+   "choices": [
+    "2.5",
+    "3.5",
+    "4.5",
+    "5.5"
+   ],
+   "correct": 3,
+   "explanation": "In most electrophoresis experiments, we attempt to separate out one component from the others. Because we are attempting to isolate protein A only, a pH that causes protein A to be negative while proteins B and C are neutral or positive will be best. pH 5.5 accomplishes this goal; proteins B and C will be positively charged. A pH of 4.5, (C), would make protein A neutral, and it would thus not migrate across the gel. Any neutral impurities would also remain in the well with protein A, making this pH not the best choice."
+  },
+  {
+   "q": "What is the function of sodium dodecyl sulfate (SDS) in SDS- PAGE?",
+   "type": "mcq",
+   "choices": [
+    "SDS stabilizes the gel matrix, improving resolution during electrophoresis.",
+    "SDS solubilizes proteins to give them uniformly negative charges, so the separation is based purely on size.",
+    "SDS raises the pH of the gel, separating multiunit proteins into individual subunits.",
+    "SDS solubilizes proteins to give them uniformly positive charges, so separation is based purely on pH."
+   ],
+   "correct": 1,
+   "explanation": "Sodium dodecyl sulfate is a detergent and will digest proteins to form micelles with uniform negative charges. Because the protein is sequestered within the micelle, other factors such as charge of the protein and shape have minimal roles during separation. In essence, the protein micelles can be modeled as being spheres, dependent only on size."
+  },
+  {
+   "q": "Which of the following is NOT involved in cell migration?",
+   "type": "mcq",
+   "choices": [
+    "Dynein",
+    "Flagella",
+    "Actin",
+    "Centrioles"
+   ],
+   "correct": 3,
+   "explanation": "From the given choices, all of them are involved in cell movement with the exception of (D). Centrioles are composed of microtubules, but are involved in mitosis, not cell migration."
+  },
+  {
+   "q": "Which of the following proteins is most likely to be found extracellularly?",
+   "type": "mcq",
+   "choices": [
+    "Tubulin",
+    "Myosin",
+    "Collagen",
+    "Actin"
+   ],
+   "correct": 2,
+   "explanation": "The most prevalent extracellular proteins are keratin, elastin, and collagen. Tubulin and actin are the primary cytoskeletal proteins, while myosin is a motor protein."
+  },
+  {
+   "q": "Hormones are found in the body in very low concentrations, but tend to have a strong effect. What type of receptor are hormones most likely to act on? I. Ligand-gated ion channels II. Enzyme-linked receptors III. G protein-coupled receptors",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "III only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 2,
+   "explanation": "For a ligand present in low quantities to have a strong action, we expect it to initiate a second messenger cascade system. Second messenger systems amplify signals because enzymes can catalyze a reaction more than once while they are active, and often activate other enzymes. Both enzyme-linked receptors and G protein-coupled receptors use second messenger systems, while ion channels do not."
+  },
+  {
+   "q": "Which of the following is most likely to be found bound to a protein in the body?",
+   "type": "mcq",
+   "choices": [
+    "Sodium",
+    "Potassium",
+    "Chloride",
+    "Calcium"
+   ],
+   "correct": 3,
+   "explanation": "Ions that are not readily accessible in the cytoplasm or extracellular space are likely to be bound to a binding protein. Classically, calcium and magnesium are protein-bound. Without this background knowledge, the question can still be answered. Sodium, (A), and potassium, (B), must exist in their free states to participate in action potentials. Chloride, (C), is readily excreted by the kidney, which would not be true if it were protein-bound. Calcium must be sequestered in both the bloodstream and intracellularly because calcium is used for muscle contraction, exocytosis (of neurotransmitters and other signals), and many other cellular processes that must be tightly regulated."
+  },
+  {
+   "q": "Which of the following characteristics is NOT attributed to antibodies?",
+   "type": "mcq",
+   "choices": [
+    "Antibodies bind to more than one distinct antigen.",
+    "Antibodies label antigens for targeting by other immune cells.",
+    "Antibodies can cause agglutination by interaction with antigen.",
+    "Antibodies have two heavy chains and two light chains."
+   ],
+   "correct": 0,
+   "explanation": "Antibodies are specific to a single antigen. Each B-cell produces a single type of antibody with a constant region that is specific to the host and a variable region that is specific to an antigen."
+  },
+  {
+   "q": "Which ion channels are responsible for maintaining the resting membrane potential?",
+   "type": "mcq",
+   "choices": [
+    "Ungated channels",
+    "Voltage-gated channels",
+    "Ligand-gated channels",
+    "No ion channels are involved in maintenance of the resting membrane potential."
+   ],
+   "correct": 0,
+   "explanation": "The resting membrane potential is displayed by cells that are not actively involved in signal transduction. Ungated or “leak” channels permit limited free flow of ions, while the sodium–potassium pump is also active and corrects for this leakage. Ligand-gated and voltage-gated channels are involved in cell signaling and in the pacemaker potentials of certain cells, but cause deviation from—not maintenance of—the resting membrane potential."
+  },
+  {
+   "q": "Which of the following is NOT a component of all trimeric G proteins?",
+   "type": "mcq",
+   "choices": [
+    "Gα",
+    "Gβ",
+    "Gγ",
+    "Gi"
+   ],
+   "correct": 3,
+   "explanation": "All trimeric G proteins have α, β, and γ subunits—(A), (B), and (C), respectively. Gs, Gi, and Gq are subtypes of the Gα subunit of the trimeric G protein and differ depending on the G protein-coupled receptor’s function."
+  },
+  {
+   "q": "Which of the following methods would be best to separate large quantities of the following proteins? (Note: MM = molar mass) Protein pI MM Protein A 6.5 28,000 Protein B 6.3 70,000 Protein C 6.6 200,000",
+   "type": "mcq",
+   "choices": [
+    "Ion-exchange chromatography",
+    "Size-exclusion chromatography",
+    "Isoelectric focusing",
+    "Native PAGE"
+   ],
+   "correct": 1,
+   "explanation": "The proteins described in the question differ primarily in their molecular weights. Their pI values are very close, so ion-exchange chromatography, (A), is not a good choice. The question specifies a large quantity, which is better processed through chromatography than through electrophoresis— (C) and (D)—because the gel can only handle a small volume of protein."
+  },
+  {
+   "q": "Which amino acids contribute most significantly to the pI of a protein? I. Lysine II. Glycine III. Arginine",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "I and II only",
+    "I and III only",
+    "II and III only"
+   ],
+   "correct": 2,
+   "explanation": "The overall pI of a protein is determined by the relative number of acidic and basic amino acids. The basic amino acids are arginine, lysine, and histidine, and the acidic amino acids are aspartic acid and glutamic acid. Glycine’s side chain is a hydrogen atom, so it will have the least contribution of all the amino acids."
+  },
+  {
+   "q": "How does the gel for isoelectric focusing differ from the gel for traditional electrophoresis?",
+   "type": "mcq",
+   "choices": [
+    "Isoelectric focusing uses a gel with much larger pore sizes to allow for complete migration.",
+    "Isoelectric focusing uses a gel with SDS added to encourage a uniform negative charge.",
+    "Isoelectric focusing uses a gel with a pH gradient that encourages a variable charge.",
+    "The gel is unchanged in isoelectric focusing; the protein mixture is treated before loading."
+   ],
+   "correct": 2,
+   "explanation": "The gel in isoelectric focusing uses a pH gradient. When a protein is in a region with a pH above its pI, it is negatively charged and moves toward the anode. When it is in a pH region below its pI, it is positively charged and moves toward the cathode. When the pH equals the pI, the migration of the protein is halted."
+  },
+  {
+   "q": "Which protein properties allow UV spectroscopy to be used as a method of determining concentration?",
+   "type": "mcq",
+   "choices": [
+    "Proteins have partially planar characteristics in peptide bonds.",
+    "Globular proteins cause scattering of light.",
+    "Proteins contain aromatic groups in certain amino acids.",
+    "All organic macromolecules can be assessed with UV spectroscopy."
+   ],
+   "correct": 2,
+   "explanation": "UV spectroscopy is best used with conjugated systems of double bonds. While the double bond in the peptide bond does display resonance, this is not adequate for UV absorption. However, aromatic systems are conjugated, and phenylalanine, tyrosine, and tryptophan all contain aromatic ring structures."
+  },
+  {
+   "q": "A protein collected through affinity chromatography displays no activity even though it is found to have a high concentration using the Bradford protein assay. What best explains these findings?",
+   "type": "mcq",
+   "choices": [
+    "The Bradford reagent was prepared incorrectly.",
+    "The active site is occupied by free ligand.",
+    "The protein is bound to the column.",
+    "The protein does not catalyze the reaction of interest."
+   ],
+   "correct": 1,
+   "explanation": "Protein activity and concentration are generally correlated. Because we have a high concentration of protein, we expect a high activity unless the protein has been damaged or inactivated in some way. The protein could have been inactivated by experimental conditions like detergents, heat, or pH; however, these are not answer choices. Rather, we must consider how the experimental procedure works. Protein elutes off of an affinity column by binding free ligand. In this situation, the binding may not have been reversed and thus the free ligand competes for the active site of the enzyme, lowering its activity."
+  },
+  {
+   "q": "What property of protein-digesting enzymes allows for a sequence to be determined without fully degrading the protein?",
+   "type": "mcq",
+   "choices": [
+    "Selectivity",
+    "Sensitivity",
+    "Turnover",
+    "Inhibition"
+   ],
+   "correct": 0,
+   "explanation": "The selective cleavage of proteins by digestive enzymes allows fragments of different lengths with known amino acid endpoints to be created. By cleaving the protein with several different enzymes, a basic outline of the amino acid sequence can be created. GO ONLINE Consult your online resources for additional practice. Equations to Remember (3.1) Migration velocity: v = Ez f Shared Concepts Biochemistry Chapter 1 Amino Acids, Peptides, and Proteins Biology Chapter 1 The Cell Biology Chapter 8 The Immune System Biology Chapter 11 The Musculoskeletal System General Chemistry Chapter 12 Electrochemistry Organic Chemistry Chapter 12 Separations and Purifications"
+  }
+ ]
+}

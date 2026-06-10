@@ -1,6 +1,7 @@
 import React from 'react';
 import { Callout, Table, AnchorImage } from './Visual.jsx';
 import { Eq } from './Equation.jsx';
+import Markdown from './Markdown.jsx';
 
 // Renders an ordered array of content nodes extracted from the source book.
 export default function ContentRenderer({ nodes }) {
@@ -9,6 +10,8 @@ export default function ContentRenderer({ nodes }) {
     <div className="space-y-3">
       {nodes.map((n, i) => {
         switch (n.t) {
+          case 'md':
+            return <Markdown key={i}>{n.x}</Markdown>;
           case 'p':
             return <p key={i} className="text-[15px] leading-relaxed text-slate-800">{n.x}</p>;
           case 'h':

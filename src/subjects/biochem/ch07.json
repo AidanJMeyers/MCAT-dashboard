@@ -1,0 +1,335 @@
+{
+ "id": 7,
+ "num": 7,
+ "title": "RNA and The Genetic Code",
+ "slug": "rna_and_the_genetic_code",
+ "sections": [
+  {
+   "title": "7.1 The Genetic Code",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig01.png",
+     "alt": "Chapter 7 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig02.png",
+     "alt": "Chapter 7 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig03.png",
+     "alt": "Figure 7.1. Classically, a",
+     "caption": "Figure 7.1. Classically, a"
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig04.png",
+     "alt": "Figure 7.2 Flow of Genetic Information from DNA to Protein",
+     "caption": "Figure 7.2 Flow of Genetic Information from DNA to Protein"
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig05.png",
+     "alt": "Figure 7.3 The Structure of tRNA",
+     "caption": "Figure 7.3 The Structure of tRNA"
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig06.png",
+     "alt": "Figure 7.4 Activation of Amino Acid for Protein Synthesis",
+     "caption": "Figure 7.4 Activation of Amino Acid for Protein Synthesis"
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig07.png",
+     "alt": "Figure 7.5, serve as an easy way",
+     "caption": "Figure 7.5, serve as an easy way"
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig08.png",
+     "alt": "Figure 7.6.",
+     "caption": "Figure 7.6."
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig09.png",
+     "alt": "Figure 7.7 Some Common Types of Mutations in DNA",
+     "caption": "Figure 7.7 Some Common Types of Mutations in DNA"
+    }
+   ]
+  },
+  {
+   "title": "7.2 Transcription",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig10.png",
+     "alt": "Chapter 7 figure 10",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig11.png",
+     "alt": "Figure 7.8. The first base",
+     "caption": "Figure 7.8. The first base"
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig12.png",
+     "alt": "Figure 7.9 Processing Eukaryotic hnRNA to Form mRNA",
+     "caption": "Figure 7.9 Processing Eukaryotic hnRNA to Form mRNA"
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig13.png",
+     "alt": "Figure 7.10. By",
+     "caption": "Figure 7.10. By"
+    }
+   ]
+  },
+  {
+   "title": "7.3 Translation",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig14.png",
+     "alt": "Chapter 7 figure 14",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig15.png",
+     "alt": "Figure 7.11 The Composition of Prokaryotic and Eukaryotic Ribosomes",
+     "caption": "Figure 7.11 The Composition of Prokaryotic and Eukaryotic Ribosomes"
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig16.png",
+     "alt": "Figure 7.12. Steps in Translation",
+     "caption": "Figure 7.12. Steps in Translation"
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig17.png",
+     "alt": "Figure 7.13. For peptides",
+     "caption": "Figure 7.13. For peptides"
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig18.png",
+     "alt": "Chapter 7 figure 18",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "7.4 Control of Gene Expression in Prokaryotes",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig19.png",
+     "alt": "Figure 7.14. The structural",
+     "caption": "Figure 7.14. The structural"
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig20.png",
+     "alt": "Figure 7.15. Bacteria can digest",
+     "caption": "Figure 7.15. Bacteria can digest"
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig21.png",
+     "alt": "Figure 7.16.",
+     "caption": "Figure 7.16."
+    }
+   ]
+  },
+  {
+   "title": "7.5 Control of Gene Expression in Eukaryotes",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig22.png",
+     "alt": "Figure 7.17 Stimulation of Transcription by an Enhancer and Its",
+     "caption": "Figure 7.17 Stimulation of Transcription by an Enhancer and Its"
+    },
+    {
+     "src": "biochem/ch07_rna_and_the_genetic_code/fig23.png",
+     "alt": "Figure 7.18 Chromatin Remodeling by Acetylation Increases space",
+     "caption": "Figure 7.18 Chromatin Remodeling by Acetylation Increases space"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "What role does peptidyl transferase play in protein synthesis?",
+   "type": "mcq",
+   "choices": [
+    "It transports the initiator aminoacyl-tRNA complex.",
+    "It helps the ribosome to advance three nucleotides along the mRNA in the 5′ to 3′ direction.",
+    "It holds the protein in its tertiary structure.",
+    "It catalyzes the formation of a peptide bond."
+   ],
+   "correct": 3,
+   "explanation": "Peptidyl transferase is an enzyme that catalyzes the formation of a peptide bond between the incoming amino acid in the A site and the growing polypeptide chain in the P site. Initiation and elongation factors help transport charged tRNA molecules into the ribosome and advance the ribosome down the mRNA transcript, as in (A) and (B). Chaperones maintain a protein’s three-dimensional shape as it is formed, as in (C)."
+  },
+  {
+   "q": "A mutation in which of the following components of the lac operon would lead to a significant reduction in the expression of lactase (one of the structural genes)?",
+   "type": "mcq",
+   "choices": [
+    "Operator",
+    "Regulatory gene",
+    "Promoter",
+    "Structural genes"
+   ],
+   "correct": 2,
+   "explanation": "The promoter functions as a recruitment site for RNA polymerase and is required for gene expression. A mutation in this region would hinder RNA polymerase recruitment, resulting in a decrease in gene expression. These observations support (C) as the correct answer. By contrast, mutations in the operator and regulatory genes would render the repressor less able to block transcription, leading to the opposite effect, i.e. an increase in lactase expression. This result eliminates both (A) and (B). Finally, mutations in the structural genes could lead to the production of a nonfunctional enzyme, but are unlikely to affect gene expression, eliminating (D)."
+  },
+  {
+   "q": "Topoisomerases are enzymes involved in:",
+   "type": "mcq",
+   "choices": [
+    "DNA replication and transcription.",
+    "posttranscriptional processing.",
+    "RNA synthesis and translation.",
+    "posttranslational processing."
+   ],
+   "correct": 0,
+   "explanation": "Topoisomerases, such as prokaryotic DNA gyrase, are involved in DNA replication and mRNA synthesis (transcription). DNA gyrase is a type of topoisomerase that enhances the action of helicase enzymes by the introduction of negative supercoils into the DNA molecule. These negative supercoils facilitate DNA replication by keeping the strands separated and untangled."
+  },
+  {
+   "q": "Val-tRNAVal is the tRNA that carries valine to the ribosome during translation. Which of the following sequences gives an appropriate anticodon for this tRNA? (Note: Refer to Figure 7.5 for a genetic code table.)",
+   "type": "mcq",
+   "choices": [
+    "CAU",
+    "AUC",
+    "UAC",
+    "GUG"
+   ],
+   "correct": 2,
+   "explanation": "There are four different codons for valine: GUU, GUC, GUA, and GUG. Through base-pairing, we can determine that the proper anticodon must end with “AC.” Remember that the codon and anticodon are antiparallel to each other, and that nucleic acids are always written 5′ → 3′ on the MCAT. Therefore, we are looking for an answer that ends with “AC” (rather than starting with “CA”)."
+  },
+  {
+   "q": "Enhancers are transcriptional regulatory sequences that function by enhancing the activity of:",
+   "type": "mcq",
+   "choices": [
+    "RNA polymerase at a single promoter site.",
+    "RNA polymerase at multiple promoter sites.",
+    "spliceosomes and lariat formation in the ribosome.",
+    "transcription factors that bind to the promoter but not to RNA polymerase."
+   ],
+   "correct": 0,
+   "explanation": "Specific transcription factors bind to a specific DNA sequence, such as an enhancer, and to RNA polymerase at a single promoter sequence. They enable the RNA polymerase to transcribe the specific gene for that enhancer more efficiently."
+  },
+  {
+   "q": "In the genetic code of human nuclear DNA, one of the codons specifying the amino acid tyrosine is UAC. If one nucleotide is changed and the codon is mutated to UAG, what type of mutation will occur?",
+   "type": "mcq",
+   "choices": [
+    "Silent mutation",
+    "Missense mutation",
+    "Nonsense mutation",
+    "Frameshift mutation"
+   ],
+   "correct": 2,
+   "explanation": "UAG is one of the three known stop codons, so changing tyrosine to a stop codon must be a nonsense (or truncation) mutation."
+  },
+  {
+   "q": "Which of the following is NOT used by eukaryotes to increase the transcription of a gene?",
+   "type": "mcq",
+   "choices": [
+    "Gene duplication",
+    "Histone acetylation",
+    "DNA methylation",
+    "Enhancers"
+   ],
+   "correct": 2,
+   "explanation": "In this question, the correct answer is the answer that is not associated with increased transcription. DNA methylation, (C), is associated with silencing of gene expression. Regions of DNA with poor gene expression, called heterochromatin, are heavily methylated. These modifications significantly decrease the ability of RNA polymerase to access DNA."
+  },
+  {
+   "q": "When trypsin converts chymotrypsinogen to chymotrypsin, some molecules of chymotrypsin bind to a repressor, which in turn binds to an operator region and prevents further transcription of trypsin. This is most similar to which of the following operons?",
+   "type": "mcq",
+   "choices": [
+    "trp operon during lack of tryptophan",
+    "trp operon during abundance of tryptophan",
+    "lac operon during lack of lactose",
+    "lac operon during abundance of lactose"
+   ],
+   "correct": 1,
+   "explanation": "The example given is a sample of repression due to the abundance of a corepressor. In other words, this is a repressible system that is currently blocking transcription. For the trp operon, an abundance of tryptophan in the environment allows for the repressor to bind tryptophan and then to the operator site. This blocks transcription of the genes required to synthesize tryptophan within the cell. The system described is a repressible system; the lac operon is an inducible system, in which an inducer binds to the repressor, thus permitting transcription."
+  },
+  {
+   "q": "Which of the following RNA molecules or proteins is NOT found in the spliceosome during intron excision?",
+   "type": "mcq",
+   "choices": [
+    "snRNA",
+    "hnRNA",
+    "shRNA",
+    "snRNPs"
+   ],
+   "correct": 2,
+   "explanation": "shRNA (short hairpin RNA) is a useful biotechnology tool used in RNA interference. It is not, however, produced in the nucleus for use in the spliceosome. It targets mRNA to be degraded in the cytoplasm; it is not utilized in splicing of the hnRNA (heterogeneous nuclear RNA). snRNA (small nuclear RNA) and snRNPs (small nuclear ribonucleoproteins), however, do bind to the hnRNA to induce splicing."
+  },
+  {
+   "q": "A 4-year-old toddler with cystic fibrosis (CF) is seen by his physician for an upper respiratory infection. Prior genetic testing has shown that there has been a deletion of three base pairs in exon 10 of the CFTR gene that affects codons 507 and 508. The nucleotide sequence in this region for normal and mutant alleles is shown below (X denotes the missing nucleotide): Codon Number 506 507 508 509 510 511 Normal gene (coding strand) ATC ATC TTT GGT GTT TCC Mutant gene (coding strand) ATC ATX XXT GGT GTT TCC What effect will this mutation have on the amino acid sequence of the protein encoded by the CFTR gene? (Note: Refer to Figure 7.5 for a genetic code table.)",
+   "type": "mcq",
+   "choices": [
+    "Deletion of a phenylalanine residue with no change in the C- terminus sequence",
+    "Deletion of a leucine residue with no change in the C-terminus sequence",
+    "Deletion of a phenylalanine residue with a change in the C- terminus sequence",
+    "Deletion of a leucine residue with a change in the C-terminus sequence"
+   ],
+   "correct": 0,
+   "explanation": "In this table, we are given the sequence of the sense (coding) DNA strand. This will be identical to the mRNA transcript, except all thymine nucleotides will be replaced with uracil. With the deletion of these three bases, codon 507 changes from AUC to AUU in the transcript; these both code for isoleucine due to wobble. However, codon 508 (UUU in the transcript) has been lost. UUU codes for phenylalanine. The C-terminus sequence will remain unchanged because the deletion of three bases (exactly one codon) will not throw off the reading frame. For reference, the mutant reading frames would be: (Note: refer back to Figure 7.5 for a table of the genetic code) AUC AUU GGU GUU UCC"
+  },
+  {
+   "q": "A gene encodes a protein with 150 amino acids. There is one intron of 1000 base pairs (bp), a 5′-untranslated region of 100 bp, and a 3′-untranslated region of 200 bp. In the final mRNA, about how many bases lie between the start AUG codon and final termination codon?",
+   "type": "mcq",
+   "choices": [
+    "150",
+    "450",
+    "650",
+    "1750"
+   ],
+   "correct": 1,
+   "explanation": "The intron will not be a part of the final, processed mRNA, and the untranslated regions of the mRNA will not be turned into amino acids. Translation will begin with codon 1 (which would be AUG). Because there are 150 amino acids, we can surmise that there will be 151 codons. Each codon will use 3 nucleotides, so 150 × 3 = 450 because codon 151 will be the stop codon."
+  },
+  {
+   "q": "Peptidyl transferase connects the carboxylate group of one amino acid to the amino group of an incoming amino acid. What type of linkage is created in this peptide bond?",
+   "type": "mcq",
+   "choices": [
+    "Ester",
+    "Amide",
+    "Anhydride",
+    "Ether"
+   ],
+   "correct": 1,
+   "explanation": "Peptidyl transferase connects the incoming amino terminal to the previous carboxyl terminal; the only functional group listed here with a carbonyl and amino group is the amide. Peptide bonds are thus amide linkages, and the correct answer is (B)."
+  },
+  {
+   "q": "A eukaryotic cell has been found to exhibit a truncation mutation that creates an inactive RNA polymerase I enzyme. Which type of RNA will be affected by this inactivation?",
+   "type": "mcq",
+   "choices": [
+    "rRNA",
+    "tRNA",
+    "snRNA",
+    "hnRNA"
+   ],
+   "correct": 0,
+   "explanation": "RNA polymerase I in eukaryotes is found in the nucleolus and is in charge of transcribing most of the rRNA for use during ribosomal creation. RNA polymerase II is responsible for hnRNA and snRNA. RNA polymerase III is responsible for tRNA and the 5S rRNA."
+  },
+  {
+   "q": "You have just sequenced a piece of DNA that reads as follows: 5′—TCTTTGAGACATCC—3′ What would the base sequence of the mRNA transcribed from this DNA be?",
+   "type": "mcq",
+   "choices": [
+    "5′—AGAAACUCUGUAGG—3′",
+    "5′—GGAUGUCUCAAAGA—3′",
+    "5′—AGAAACTCTGTAGG—3′",
+    "5′—GGATCTCTCAAAGA—3′"
+   ],
+   "correct": 1,
+   "explanation": "To answer this question correctly, we must remember that mRNA will be antiparallel to DNA. Our answer should be 5′ to 3′ mRNA, with the 5′ end complementary to the 3′ end of the DNA that is being transcribed. Thus, the mRNA transcribed from this strand will be 5′—GGAUGUCUCAAAGA— 3′. mRNA contains uracil, rather than thymine."
+  },
+  {
+   "q": "Double-stranded RNA cannot be translated by the ribosome and is marked for degradation in the cell. Which of the following strands of RNA would prevent mature mRNA in the cytoplasm from being translated?",
+   "type": "mcq",
+   "choices": [
+    "Identical mRNA to the one produced",
+    "Antisense mRNA to the one produced",
+    "mRNA with thymine substituted for uracil",
+    "Sense mRNA to the one produced"
+   ],
+   "correct": 1,
+   "explanation": "The mRNA produced has the same structure as the sense strand of DNA (with uracils instead of thymines). Because bonding of nucleic acids is always complementary but antiparallel, the antisense strand of mRNA would be the one that binds to the produced mRNA, creating double- stranded RNA that is then degraded once found in the cytoplasm. GO ONLINE Consult your online resources for additional practice. Shared Concepts Biochemistry Chapter 1 Amino Acids, Peptides, and Proteins Biochemistry Chapter 2 Enzymes Biochemistry Chapter 6 DNA and Biotechnology Biology Chapter 1 The Cell Biology Chapter 3 Embryogenesis and Development Biology Chapter 12 Genetics and Evolution"
+  }
+ ]
+}

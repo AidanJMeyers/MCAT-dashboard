@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { storage } from '../storage';
-import { AnchorImage } from './Visual.jsx';
+import { AnchorImage, SvgFigure } from './Visual.jsx';
 import ContentRenderer from './ContentRenderer.jsx';
+import Markdown from './Markdown.jsx';
 import CommentBox from './CommentBox.jsx';
 
 export const confidenceColors = {
@@ -16,7 +17,10 @@ export default function StudyBlock({ subjectId, chapterId, block, onStateChange 
 
   const [reviewed, setReviewed] = useState(false);
   const [confidence, setConfidence] = useState(0);
-  const hasRecap = block.summaryPoints && block.summaryPoints.length > 0;
+  const recapMd = typeof block.recap === 'string' ? block.recap.trim() : '';
+  const detailMd = typeof block.detail === 'string' ? block.detail.trim() : '';
+  const hasRecap = !!recapMd || (block.summaryPoints && block.summaryPoints.length > 0);
+  const hasDetail = !!detailMd || (block.nodes && block.nodes.length > 0);
   const [showDetail, setShowDetail] = useState(!hasRecap);
 
   useEffect(() => {
@@ -64,30 +68,42 @@ export default function StudyBlock({ subjectId, chapterId, block, onStateChange 
           </div>
         )}
 
+        {/* Custom SVG diagrams (processes the figures don't cleanly show) */}
+        {block.svgs && block.svgs.length > 0 &&
+          block.svgs.map((s, i) => <SvgFigure key={i} svg={s.svg} title={s.title} caption={s.caption} />)}
+
         {/* High-yield recap (always visible) */}
         {hasRecap && (
           <div className="border-l-4 border-emerald-400 bg-emerald-50 rounded-r-lg p-4">
             <div className="text-xs font-bold uppercase tracking-wide text-emerald-700 mb-2">⚡ High-Yield Recap</div>
-            <ul className="list-disc ml-5 space-y-1 text-[15px] text-emerald-950">
-              {block.summaryPoints.map((p, i) => <li key={i}>{p}</li>)}
-            </ul>
+            {recapMd ? (
+              <Markdown className="text-emerald-950 [&_p]:text-emerald-950 [&_li]:text-emerald-950 [&_strong]:text-emerald-900 [&_*:first-child]:mt-0 [&_*:last-child]:mb-0">{recapMd}</Markdown>
+            ) : (
+              <ul className="list-disc ml-5 space-y-1 text-[15px] text-emerald-950">
+                {block.summaryPoints.map((p, i) => <li key={i}>{p}</li>)}
+              </ul>
+            )}
           </div>
         )}
 
         {/* Full detail (expandable when recap exists) */}
-        {hasRecap ? (
+        {hasDetail && (hasRecap ? (
           <div>
             <button
               onClick={() => setShowDetail((v) => !v)}
               className="text-sm font-semibold text-sky-700 hover:text-sky-900 flex items-center gap-1"
             >
-              {showDetail ? '▲ Hide full detail' : `▼ Show full detail (${block.nodes.length} sections)`}
+              {showDetail ? '▲ Hide full detail' : '▼ Show full detail'}
             </button>
-            {showDetail && <div className="mt-4 pt-4 border-t border-slate-100"><ContentRenderer nodes={block.nodes} /></div>}
+            {showDetail && (
+              <div className="mt-4 pt-4 border-t border-slate-100">
+                {detailMd ? <Markdown>{detailMd}</Markdown> : <ContentRenderer nodes={block.nodes} />}
+              </div>
+            )}
           </div>
         ) : (
-          <ContentRenderer nodes={block.nodes} />
-        )}
+          detailMd ? <Markdown>{detailMd}</Markdown> : <ContentRenderer nodes={block.nodes} />
+        ))}
       </div>
 
       <footer className="px-5 py-4 border-t border-slate-100 bg-slate-50 rounded-b-xl">

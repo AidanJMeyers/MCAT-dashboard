@@ -1,0 +1,283 @@
+{
+ "id": 5,
+ "num": 5,
+ "title": "Lipid Structure and Function",
+ "slug": "lipid_structure_and_function",
+ "sections": [
+  {
+   "title": "5.1 Structural Lipids",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig01.png",
+     "alt": "Chapter 5 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig02.png",
+     "alt": "Chapter 5 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig03.png",
+     "alt": "Chapter 5 figure 3",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig04.png",
+     "alt": "Figure 5.1.",
+     "caption": "Figure 5.1."
+    },
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig05.png",
+     "alt": "Figure 5.2. Because the head",
+     "caption": "Figure 5.2. Because the head"
+    },
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig06.png",
+     "alt": "Figure 5.3 Types of Sphingolipids Ceramide has a single hydrogen atom",
+     "caption": "Figure 5.3 Types of Sphingolipids Ceramide has a single hydrogen atom"
+    },
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig07.png",
+     "alt": "Figure 5.4.",
+     "caption": "Figure 5.4."
+    }
+   ]
+  },
+  {
+   "title": "5.2 Signaling Lipids",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig08.png",
+     "alt": "Figure 5.6 Common Steroid Structure",
+     "caption": "Figure 5.6 Common Steroid Structure"
+    },
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig09.png",
+     "alt": "Figure 5.7, is a steroid of primary importance.",
+     "caption": "Figure 5.7, is a steroid of primary importance."
+    }
+   ]
+  },
+  {
+   "title": "5.3 Energy Storage",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig10.png",
+     "alt": "Figure 5.8. For most naturally",
+     "caption": "Figure 5.8. For most naturally"
+    },
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig11.png",
+     "alt": "Figure 5.8 Triacylglycerol Structure The fatty acids used here are palmitic",
+     "caption": "Figure 5.8 Triacylglycerol Structure The fatty acids used here are palmitic"
+    },
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig12.png",
+     "alt": "Figure 5.9. The fatty",
+     "caption": "Figure 5.9. The fatty"
+    },
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig13.png",
+     "alt": "Figure 5.10. We saw these earlier when we discussed membrane lipids.",
+     "caption": "Figure 5.10. We saw these earlier when we discussed membrane lipids."
+    },
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig14.png",
+     "alt": "Chapter 5 figure 14",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch05_lipid_structure_and_function/fig15.png",
+     "alt": "Chapter 5 figure 15",
+     "caption": ""
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following is NOT a type of glycolipid?",
+   "type": "mcq",
+   "choices": [
+    "Cerebroside",
+    "Globoside",
+    "Ganglioside",
+    "Sphingomyelin"
+   ],
+   "correct": 3,
+   "explanation": "Glycolipids contain sugar moieties connected to their backbone. Sphingomyelin is not a glycolipid, but rather a phospholipid. This class can either have phosphatidylcholine or phosphatidylethanolamine as a head group and therefore contains a phosphodiester, not glycosidic, bond."
+  },
+  {
+   "q": "During saponification:",
+   "type": "mcq",
+   "choices": [
+    "triacylglycerols undergo a condensation reaction.",
+    "triacylglycerols undergo ester hydrolysis.",
+    "fatty acid salts are produced using a strong acid.",
+    "fatty acid salts are bound to albumin."
+   ],
+   "correct": 1,
+   "explanation": "Saponification is the ester hydrolysis of triacylglycerol using a strong base like sodium or potassium hydroxide to form glycerol and fatty acid salts. This is not a condensation reaction, as in (A), but a cleavage reaction. Fatty acids do travel in the body bonded to serum albumin, as in (D), but that is unrelated to the process of saponification."
+  },
+  {
+   "q": "Which of the following best describes the structure of steroids?",
+   "type": "mcq",
+   "choices": [
+    "Three cyclopentane rings, one cyclohexane ring",
+    "Three cyclohexane rings, one cyclopentane ring",
+    "Four carbon rings, differing in structure for each steroid",
+    "Three cyclic carbon rings and a functional group"
+   ],
+   "correct": 1,
+   "explanation": "The basic backbone of steroid structure contains three cyclohexane rings and one cyclopentane ring. Although the oxidation status of these rings varies for different steroids, the overall structure does not, as in (C)."
+  },
+  {
+   "q": "Soap bubbles form because fatty acid salts organize into:",
+   "type": "mcq",
+   "choices": [
+    "lysosomes.",
+    "micelles.",
+    "phospholipid bilayers.",
+    "hydrogen bonds."
+   ],
+   "correct": 1,
+   "explanation": "Fatty acid salt micelles are responsible for the formation of soap bubbles. While phospholipids can form bilayers, as in (C), the fatty acids in soap are free fatty acids, not phospholipids."
+  },
+  {
+   "q": "Steroid hormones are steroids that: I. have specific high-affinity receptors. II. travel in the bloodstream from endocrine glands to distant sites. III. affect gene transcription by binding directly to DNA.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "III only",
+    "I and II only",
+    "I and III only"
+   ],
+   "correct": 2,
+   "explanation": "Steroid hormones are produced in endocrine glands and travel in the bloodstream to bind high-affinity receptors in the nucleus. The hormone’s receptor binds to DNA as part of the hormone–receptor complex, but the hormone itself does not."
+  },
+  {
+   "q": "Why are triacylglycerols used in the human body for energy storage?",
+   "type": "mcq",
+   "choices": [
+    "They are highly hydrated and therefore can store lots of energy.",
+    "They always have short fatty acid chains for easy access by metabolic enzymes.",
+    "The carbon atoms of the fatty acid chains are highly reduced and therefore yield more energy upon oxidation.",
+    "Polysaccharides, which would actually be a better energy storage form, would dissolve in the body."
+   ],
+   "correct": 2,
+   "explanation": "Triacylglycerols are highly hydrophobic and therefore not highly hydrated (which would add extra weight from the water of hydration, taking away from the energy density of these molecules), eliminating (A). The fatty acid chains produce twice as much energy as polysaccharides during oxidation because they are highly reduced. The fatty acid chains vary in length and saturation."
+  },
+  {
+   "q": "Which of the following is correct about fat-soluble vitamins? I. Vitamin E is important for calcium regulation. II. Vitamin D protects against cancer because it is a biological antioxidant. III. Vitamin K is necessary for the posttranslational introduction of calcium-binding sites. IV. Vitamin A is metabolized to retinal, which is important for sight.",
+   "type": "mcq",
+   "choices": [
+    "III only",
+    "I and II only",
+    "III and IV only",
+    "II, III, and IV only"
+   ],
+   "correct": 2,
+   "explanation": "Vitamin A is metabolized to retinal, which is important for sight. Vitamin D is metabolized to calcitriol, which is important for calcium regulation. Vitamin E is made up of tocopherols, which are biological antioxidants. Vitamin K is necessary for the introduction of calcium binding sites, such as during the posttranslational modification of prothrombin."
+  },
+  {
+   "q": "Which of the following is true of amphipathic molecules?",
+   "type": "mcq",
+   "choices": [
+    "They form protective spheres in any solvent, with hydrophobic molecules interior and hydrophilic molecules exterior.",
+    "They have two fatty acid chains and a polar head group.",
+    "They are important to the formation of the phospholipid bilayer and soap bubbles.",
+    "They have a glycerol base."
+   ],
+   "correct": 2,
+   "explanation": "Phospholipids are amphipathic, as are fatty acid salts. Although amphipathic molecules take spherical forms with hydrophobic molecules interior in aqueous solution, as in (A), the opposite would be true in a nonpolar solvent. (B) describes phospholipids and sphingolipids, and (D) describes triacylglycerols and phospholipids; both groups do not include fatty acid salts."
+  },
+  {
+   "q": "Which of the following is/are true about sphingolipids? I. They are all phospholipids. II. They all contain a sphingosine backbone. III. They can have either phosphodiester or glycosidic linkages to their polar head groups.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "III only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 1,
+   "explanation": "Sphingolipids can either have a phosphodiester bond, and therefore be phospholipids, or have a glycosidic linkage and therefore be glycolipids. Not all sphingolipids have a sphingosine backbone, as in statement II; some have related (sphingoid) compounds as backbones instead."
+  },
+  {
+   "q": "Which of the following statements about saturation is FALSE?",
+   "type": "mcq",
+   "choices": [
+    "It can describe the number of double or triple bonds in a fatty acid tail.",
+    "It determines at least one of the properties of membranes.",
+    "More saturated fatty acids make for a more fluid solution.",
+    "Fully saturated fatty acids have only single bonds."
+   ],
+   "correct": 2,
+   "explanation": "More saturated fatty acids make for a less fluid solution. This is because they can pack more tightly and form more noncovalent bonds, resulting in more energy being needed to disrupt the overall structure."
+  },
+  {
+   "q": "Which of the following is true about glycerophospholipids?",
+   "type": "mcq",
+   "choices": [
+    "Glycerophospholipids can sometimes be sphingolipids, depending on the bonds in their head groups.",
+    "Glycerophospholipids are merely a subset of phospholipids.",
+    "Glycerophospholipids are used in the ABO blood typing system.",
+    "Glycerophospholipids have one glycerol, one polar head group, and one fatty acid tail."
+   ],
+   "correct": 1,
+   "explanation": "Glycerophospholipids are a subset of phospholipids, as are sphingomyelins. Glycerophospholipids are never sphingolipids because they contain a glycerol backbone (rather than sphingosine or a sphingoid backbone), eliminating (A). Sphingolipids are used in the ABO blood typing system, eliminating (C). Glycerophospholipids have a polar head group, glycerol, and two fatty acid tails, not one, as in (D)."
+  },
+  {
+   "q": "Which of the following statements about terpenes is FALSE?",
+   "type": "mcq",
+   "choices": [
+    "Terpenes are strongly scented molecules that sometimes serve protective functions.",
+    "Terpenes are steroid precursors.",
+    "A triterpene is made of three isoprene moieties, and therefore has 15 carbons.",
+    "Terpenes are made by plants and insects."
+   ],
+   "correct": 2,
+   "explanation": "A triterpene is made of six isoprene moieties (remember, one terpene unit contains two isoprene units), and therefore has a 30-carbon backbone."
+  },
+  {
+   "q": "Which of the following is true about cholesterol?",
+   "type": "mcq",
+   "choices": [
+    "Cholesterol always increases membrane fluidity in cells.",
+    "Cholesterol is a steroid hormone precursor.",
+    "Cholesterol is a precursor for vitamin A, which is produced in the skin.",
+    "Cholesterol interacts only with the hydrophobic tails of phospholipids."
+   ],
+   "correct": 1,
+   "explanation": "Cholesterol is a steroid hormone precursor that has variable effects on membrane fluidity depending on temperature, eliminating (A). It interacts with both the hydrophobic tails and the hydrophilic heads of membrane lipids, nullifying (D). It is also a precursor for vitamin D (not vitamin A), which can be produced in the skin in a UV-driven reaction, eliminating (C)."
+  },
+  {
+   "q": "Which of the following statements regarding prostaglandins is FALSE?",
+   "type": "mcq",
+   "choices": [
+    "Prostaglandins regulate the synthesis of cAMP.",
+    "Prostaglandin synthesis is inhibited by NSAIDs.",
+    "Prostaglandins affect pain, inflammation, and smooth muscle function.",
+    "Prostaglandins are endocrine hormones, like steroid hormones."
+   ],
+   "correct": 3,
+   "explanation": "Prostaglandins are paracrine or autocrine signaling molecules, not endocrine —they affect regions close to where they are produced, rather than affecting the entire body. Think of the swelling that happens when you bash your knee into your desk: your knee will swell, become discolored, and possibly bruise. Luckily, however, your entire body won’t swell as well."
+  },
+  {
+   "q": "Which of the statements regarding waxes is FALSE?",
+   "type": "mcq",
+   "choices": [
+    "Waxes generally have melting points above room temperature.",
+    "Waxes are produced only in plants and insects and therefore must be consumed by humans.",
+    "Waxes protect against dehydration and parasites.",
+    "Waxes are esters of long-chain fatty acids and long-chain alcohols."
+   ],
+   "correct": 1,
+   "explanation": "Waxes are also produced in animals for similar protective functions. Cerumen, or earwax, is a prime example in humans. GO ONLINE Consult your online resources for additional practice. Shared Concepts Biochemistry Chapter 2 Enzymes Biochemistry Chapter 8 Biological Membranes Biochemistry Chapter 11 Lipid and Amino Acid Metabolism Biology Chapter 5 The Endocrine System Biology Chapter 9 The Digestive System Organic Chemistry Chapter 8 Carboxylic Acids"
+  }
+ ]
+}

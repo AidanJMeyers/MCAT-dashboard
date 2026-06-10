@@ -1,20 +1,23 @@
-// Transform Kaplan Biology per-chapter JSON into the dashboard chapter shape.
-import ch01 from './ch01.json';
-import ch02 from './ch02.json';
-import ch03 from './ch03.json';
-import ch04 from './ch04.json';
-import ch05 from './ch05.json';
-import ch06 from './ch06.json';
-import ch07 from './ch07.json';
-import ch08 from './ch08.json';
-import ch09 from './ch09.json';
-import ch10 from './ch10.json';
-import ch11 from './ch11.json';
-import ch12 from './ch12.json';
+// Biology chapters. Authored modules (chNN.js) carry the rich markdown recap/detail
+// and pull figures/goals/questions/concept-summary from the matching chNN.json
+// (already-correct mechanical extraction). Chapters not yet re-authored fall back to
+// transforming the raw JSON so the build always stays green.
+import ch01 from './ch01.js';
+import ch02 from './ch02.js';
+import ch03 from './ch03.js';
+import ch04 from './ch04.js';
+import ch05 from './ch05.js';
+import ch06 from './ch06.js';
+import ch07 from './ch07.js';
+import ch08 from './ch08.js';
+import ch09 from './ch09.js';
+import ch10 from './ch10.js';
+import ch11 from './ch11.js';
+import ch12 from './ch12.js';
 
 const RAW = [ch01, ch02, ch03, ch04, ch05, ch06, ch07, ch08, ch09, ch10, ch11, ch12];
 
-// High-yield equations to remember (KaTeX), added per chapter id.
+// High-yield equations to remember (KaTeX), added per chapter id (legacy JSON chapters).
 const EQUATIONS = {
   7: [
     { name: 'Cardiac output', tex: 'CO = HR \\times SV', note: 'Volume of blood pumped per minute = heart rate × stroke volume.' },
@@ -31,7 +34,36 @@ const EQUATIONS = {
 
 const norm = (s) => (s || '').toLowerCase().replace(/[^a-z0-9]+/g, '');
 
-function transform(ch) {
+// Build the final chapter shape from an authored module (already has .blocks with recap/detail).
+function finalizeAuthored(ch) {
+  const blocks = ch.blocks.map((b, i) => ({
+    id: b.id || `s${i + 1}`,
+    num: b.num || '',
+    title: b.title,
+    goals: b.goals || [],
+    images: b.images || [],
+    svgs: b.svgs || [],
+    recap: b.recap || '',
+    detail: b.detail || ''
+  }));
+  return {
+    id: ch.id,
+    title: `Chapter ${ch.id}: ${ch.title}`,
+    shortTitle: ch.title,
+    subtitle: ch.subtitle || blocks.map((b) => `${b.num} ${b.title}`.trim()).join('  ·  '),
+    blocks,
+    keyReview: {
+      conceptSummary: ch.keyReview?.conceptSummary || [],
+      mnemonics: ch.keyReview?.mnemonics || [],
+      keyConcepts: ch.keyReview?.keyConcepts || [],
+      equations: ch.keyReview?.equations || []
+    },
+    questions: ch.questions || []
+  };
+}
+
+// Transform a legacy raw-JSON chapter into the final shape (flat nodes).
+function transformRaw(ch) {
   const sumByTitle = {};
   (ch.conceptSummary || []).forEach((g) => { sumByTitle[norm(g.section)] = g.points; });
 
@@ -50,7 +82,6 @@ function transform(ch) {
     };
   });
 
-  // Mnemonics & Key Concepts surfaced for fast recall
   const mnemonics = [];
   const keyConcepts = [];
   ch.sections.forEach((s) => (s.nodes || []).forEach((n) => {
@@ -71,13 +102,9 @@ function transform(ch) {
       equations: EQUATIONS[ch.id] || []
     },
     questions: (ch.questions || []).map((q) => ({
-      q: q.q,
-      type: 'mcq',
-      choices: q.choices,
-      correct: q.correct,
-      explanation: q.explanation
+      q: q.q, type: 'mcq', choices: q.choices, correct: q.correct, explanation: q.explanation
     }))
   };
 }
 
-export const chapters = RAW.map(transform);
+export const chapters = RAW.map((ch) => (ch.blocks ? finalizeAuthored(ch) : transformRaw(ch)));

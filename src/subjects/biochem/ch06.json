@@ -1,0 +1,350 @@
+{
+ "id": 6,
+ "num": 6,
+ "title": "DNA and Biotechnology",
+ "slug": "dna_and_biotechnology",
+ "sections": [
+  {
+   "title": "6.1 DNA Structure",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig01.png",
+     "alt": "Chapter 6 figure 1",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig02.png",
+     "alt": "Chapter 6 figure 2",
+     "caption": ""
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig03.png",
+     "alt": "Figure 6.1. Note that the carbon atoms",
+     "caption": "Figure 6.1. Note that the carbon atoms"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig04.png",
+     "alt": "Figure 6.1 Examples of Nucleosides",
+     "caption": "Figure 6.1 Examples of Nucleosides"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig05.png",
+     "alt": "Figure 6.3 Ribose and Deoxyribose Ribose has an −OH group at C-2;",
+     "caption": "Figure 6.3 Ribose and Deoxyribose Ribose has an −OH group at C-2;"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig06.png",
+     "alt": "Figure 6.4 DNA Strand Polarity DNA strands run antiparallel to one",
+     "caption": "Figure 6.4 DNA Strand Polarity DNA strands run antiparallel to one"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig07.png",
+     "alt": "Figure\n6.5, represent the common bases in eukaryotes; however, it should be noted",
+     "caption": "Figure\n6.5, represent the common bases in eukaryotes; however, it should be noted"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig08.png",
+     "alt": "Figure 6.6. This delocalization is characteristic of all aromatic",
+     "caption": "Figure 6.6. This delocalization is characteristic of all aromatic"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig09.png",
+     "alt": "Figure 6.7 Base-Pairing in DNA",
+     "caption": "Figure 6.7 Base-Pairing in DNA"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig10.png",
+     "alt": "Figure 6.8 The B-DNA Double Helix",
+     "caption": "Figure 6.8 The B-DNA Double Helix"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig11.png",
+     "alt": "Figure 6.9.",
+     "caption": "Figure 6.9."
+    }
+   ]
+  },
+  {
+   "title": "6.2 Eukaryotic Chromosome Organization",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig12.png",
+     "alt": "Figure 6.10. Under an electron microscope, the nucleosomes look",
+     "caption": "Figure 6.10. Under an electron microscope, the nucleosomes look"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig13.png",
+     "alt": "Figure 6.10 Nucleosome Structure Nucleosomes are composed of",
+     "caption": "Figure 6.10 Nucleosome Structure Nucleosomes are composed of"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig14.png",
+     "alt": "Chapter 6 figure 14",
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "title": "6.3 DNA Replication",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig15.png",
+     "alt": "Figure 6.12 Origins of Replication Replication forks form on both sides",
+     "caption": "Figure 6.12 Origins of Replication Replication forks form on both sides"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig16.png",
+     "alt": "Figure\n6.13.",
+     "caption": "Figure\n6.13."
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig17.png",
+     "alt": "Figure 6.14 Semiconservative Replication A new double helix is made",
+     "caption": "Figure 6.14 Semiconservative Replication A new double helix is made"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig18.png",
+     "alt": "Figure 6.15 Enzymes of DNA Replication This process involves the",
+     "caption": "Figure 6.15 Enzymes of DNA Replication This process involves the"
+    }
+   ]
+  },
+  {
+   "title": "6.4 DNA Repair",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig19.png",
+     "alt": "Figure 6.16 Proofreading by DNA Polymerase",
+     "caption": "Figure 6.16 Proofreading by DNA Polymerase"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig20.png",
+     "alt": "Figure 6.17 Thymine Dimer Formation and Nucleotide Excision Repair",
+     "caption": "Figure 6.17 Thymine Dimer Formation and Nucleotide Excision Repair"
+    }
+   ]
+  },
+  {
+   "title": "6.5 Recombinant DNA and Biotechnology",
+   "goals": [],
+   "figures": [
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig21.png",
+     "alt": "Figure 6.18 Cloning Recombinant DNA Cloning allows production of",
+     "caption": "Figure 6.18 Cloning Recombinant DNA Cloning allows production of"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig22.png",
+     "alt": "Figure 6.19 A Restriction Enzyme (EcoRI) Creating Sticky Ends",
+     "caption": "Figure 6.19 A Restriction Enzyme (EcoRI) Creating Sticky Ends"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig23.png",
+     "alt": "Figure 6.20.",
+     "caption": "Figure 6.20."
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig24.png",
+     "alt": "Figure 6.21 Cloning Expressed Genes by Producing cDNA",
+     "caption": "Figure 6.21 Cloning Expressed Genes by Producing cDNA"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig25.png",
+     "alt": "Figure 6.22 Retroviral Gene Therapy The example given here uses a",
+     "caption": "Figure 6.22 Retroviral Gene Therapy The example given here uses a"
+    },
+    {
+     "src": "biochem/ch06_dna_and_biotechnology/fig26.png",
+     "alt": "Figure 6.23 Creation of a Transgenic Mouse",
+     "caption": "Figure 6.23 Creation of a Transgenic Mouse"
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "In a single strand of a nucleic acid, nucleotides are linked by:",
+   "type": "mcq",
+   "choices": [
+    "hydrogen bonds.",
+    "phosphodiester bonds.",
+    "ionic bonds.",
+    "van der Waals forces."
+   ],
+   "correct": 1,
+   "explanation": "Nucleotides bond together to form polynucleotides. The 3′ hydroxyl group of one nucleotide’s sugar joins the 5′ hydroxyl group of the adjacent nucleotide’s sugar by a phosphodiester bond. Hydrogen bonding, (A), is important for holding complementary strands together, but does not play a role in the bonds formed between adjacent nucleotides on a single strand."
+  },
+  {
+   "q": "Which of the following statements regarding differences between DNA and RNA is FALSE?",
+   "type": "mcq",
+   "choices": [
+    "In cells, DNA is double-stranded, whereas RNA is single- stranded.",
+    "DNA uses the nitrogenous base thymine; RNA uses uracil.",
+    "The sugar in DNA is deoxyribose; the sugar in RNA is ribose.",
+    "DNA strands replicate in a 5′ to 3′ direction, whereas RNA is synthesized in a 3′ to 5′ direction."
+   ],
+   "correct": 3,
+   "explanation": "Because we are looking for the false statement, we have to read each choice to eliminate those that are true or find one that is overtly false. Let’s quickly review the main differences between DNA and RNA. In cells, DNA is double-stranded, with a deoxyribose sugar and the nitrogenous bases A, T, C, and G. RNA, on the other hand, is usually single-stranded, with a ribose sugar and the bases A, U, C, and G. (D) is false because both DNA replication and RNA synthesis proceed in a 5′ to 3′ direction."
+  },
+  {
+   "q": "Which of the following DNA sequences would have the highest melting temperature?",
+   "type": "mcq",
+   "choices": [
+    "CGCAACCATCCG",
+    "CGCAATAATACA",
+    "CGTAATAATACA",
+    "CATAACAAATCA"
+   ],
+   "correct": 0,
+   "explanation": "The melting temperature of DNA is the temperature at which a DNA double helix separates into two single strands (denatures). To do this, the hydrogen bonds linking the base pairs must be broken. Cytosine binds to guanine with three hydrogen bonds, whereas adenine binds to thymine with two hydrogen bonds. The amount of heat needed to disrupt the bonding is proportional to the number of bonds. Thus, the higher the GC-content in a DNA segment, the higher the melting point."
+  },
+  {
+   "q": "Which of the following biomolecules is LEAST likely to contain an aromatic ring?",
+   "type": "mcq",
+   "choices": [
+    "Proteins",
+    "Purines",
+    "Carbohydrates",
+    "Pyrimidines"
+   ],
+   "correct": 2,
+   "explanation": "Aromatic rings must contain conjugated π electrons, which require alternating single and multiple bonds, or lone pairs. In carbohydrate ring structures, only single bonds are present, thus preventing aromaticity. Nucleic acids contain aromatic heterocycles, while proteins will generally contain at least one aromatic amino acid (tryptophan, phenylalanine, or tyrosine)."
+  },
+  {
+   "q": "For a compound to be aromatic, all of the following must be true EXCEPT:",
+   "type": "mcq",
+   "choices": [
+    "the molecule is cyclic.",
+    "the molecule contains 4n + 2 π electrons.",
+    "the molecule contains alternating single and double bonds.",
+    "the molecule is planar."
+   ],
+   "correct": 2,
+   "explanation": "For a compound to be aromatic, it must be cyclic, planar, conjugated, and contain 4n + 2 π electrons, where n is any integer. Conjugation requires that every atom in the ring have at least one unhybridized p-orbital. While most examples of aromatic compounds have alternating single and double bonds, compounds can be aromatic if they contain triple bonds as well; this would still permit at least one unhybridized p-orbital."
+  },
+  {
+   "q": "Which of the following enzymes is NOT involved in DNA replication?",
+   "type": "mcq",
+   "choices": [
+    "Primase",
+    "DNA ligase",
+    "RNA polymerase I",
+    "Telomerase"
+   ],
+   "correct": 2,
+   "explanation": "During DNA replication, the strands are separated by DNA helicase. At the replication fork, primase, (A), creates a primer for the initiation of replication, which is followed by DNA polymerase. On the lagging strand, Okazaki fragments form and are joined by DNA ligase, (B). After the chromosome has been processed, the ends, called telomeres, are replicated with the assistance of the enzyme telomerase, (D). RNA polymerase I is located in the nucleolus and synthesizes rRNA."
+  },
+  {
+   "q": "How is cDNA best characterized?",
+   "type": "mcq",
+   "choices": [
+    "cDNA results from a DNA transcript with noncoding regions removed.",
+    "cDNA results from the reverse transcription of processed mRNA.",
+    "cDNA is the abbreviation for deoxycytosine.",
+    "cDNA is the circular DNA molecule that forms the bacterial genome."
+   ],
+   "correct": 1,
+   "explanation": "cDNA (complementary DNA) is formed from a processed mRNA strand by reverse transcription. cDNA is used in DNA libraries and contains only the exons of genes that are transcriptionally active in the sample tissue."
+  },
+  {
+   "q": "Which of the following statements regarding polymerase chain reaction is FALSE?",
+   "type": "mcq",
+   "choices": [
+    "Human DNA polymerase is used because it is the most accurate.",
+    "A primer must be prepared with a complementary sequence to part of the DNA of interest.",
+    "Repeated heating and cooling cycles allow the enzymes to act specifically and replaces helicase.",
+    "Each cycle of the polymerase chain reaction doubles the amount of DNA of interest."
+   ],
+   "correct": 0,
+   "explanation": "The polymerase chain reaction is used to clone a sequence of DNA using a DNA sample, a primer, free nucleotides, and enzymes. The polymerase from Thermus aquaticus is used because the reaction is regulated by thermal cycling, which would denature human enzymes."
+  },
+  {
+   "q": "Endonucleases are used for which of the following? I. Gene therapy II. Southern blotting III. DNA repair",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "II only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "correct": 3,
+   "explanation": "Endonucleases are enzymes that cut DNA. They are used by the cell for DNA repair. They are also used by scientists during DNA analysis, as restriction enzymes are endonucleases. Restriction enzymes are used to cleave DNA before electrophoresis and Southern blotting, and to introduce a gene of interest into a viral vector for gene therapy."
+  },
+  {
+   "q": "How does prokaryotic DNA differ from eukaryotic DNA? I. Prokaryotic DNA lacks nucleosomes. II. Eukaryotic DNA has telomeres. III. Prokaryotic DNA is replicated by a different DNA polymerase. IV. Eukaryotic DNA is circular when not restricted by centromeres.",
+   "type": "mcq",
+   "choices": [
+    "I only",
+    "IV only",
+    "II and III only",
+    "I, II, and III only"
+   ],
+   "correct": 3,
+   "explanation": "Prokaryotic DNA is circular and lacks histone proteins, and thus does not form nucleosomes. Both prokaryotic and eukaryotic DNA are replicated by DNA polymerases, although these polymerases differ in identity. Eukaryotic DNA is organized into chromatin, which can condense to form linear chromosomes; only prokaryotes have circular chromosomes. Only eukaryotic DNA has telomeres."
+  },
+  {
+   "q": "Why might uracil be excluded from DNA but NOT RNA?",
+   "type": "mcq",
+   "choices": [
+    "Uracil is much more difficult to synthesize than thymine.",
+    "Uracil binds adenine too strongly for replication.",
+    "Cytosine degradation results in uracil.",
+    "Uracil is used as a DNA synthesis activator."
+   ],
+   "correct": 2,
+   "explanation": "One common DNA mutation is the transition from cytosine to uracil in the presence of heat. DNA repair enzymes recognize uracil and correct this error by excising the base and inserting cytosine. RNA exists only transiently in the cell, such that cytosine degradation is insignificant. Were uracil to be used in DNA under normal circumstances, it would be impossible to tell if a base should be uracil or if it is a damaged cytosine nucleotide."
+  },
+  {
+   "q": "Tumor suppressor genes are most likely to result in cancer through:",
+   "type": "mcq",
+   "choices": [
+    "loss of function mutations.",
+    "gain of function mutations.",
+    "overexpression.",
+    "proto-oncogene formation."
+   ],
+   "correct": 0,
+   "explanation": "Oncogenes are most likely to result in cancer through activation, (B), while tumor suppressor genes are most likely to result in cancer through inactivation."
+  },
+  {
+   "q": "Which of the following is an ethical concern of gene sequencing?",
+   "type": "mcq",
+   "choices": [
+    "Gene sequencing is invasive, thus the potential health risks must be thoroughly explained.",
+    "Gene sequencing impacts relatives, thus privacy concerns may be raised.",
+    "Gene sequencing is very inaccurate, which increases anxiety related to findings.",
+    "Gene sequencing can provide false-negative results, giving a false sense of security."
+   ],
+   "correct": 1,
+   "explanation": "One of the primary ethical concerns related to gene sequencing is the issue of consent and privacy. Because genetic screening provides information on direct relatives, there are potential violations of privacy in communicating this information to family members who may be at risk. There are not significant physical risks, eliminating (A), and gene sequencing is fairly accurate, eliminating (C) and (D)."
+  },
+  {
+   "q": "Which of the following is NOT a difference between heterochromatin and euchromatin?",
+   "type": "mcq",
+   "choices": [
+    "Euchromatin has areas that can be transcribed, whereas heterochromatin is silent.",
+    "Heterochromatin is tightly packed, whereas euchromatin is less dense.",
+    "Heterochromatin stains darkly, whereas euchromatin stains lightly.",
+    "Heterochromatin is found in the nucleus, whereas euchromatin is in the cytoplasm."
+   ],
+   "correct": 3,
+   "explanation": "Euchromatin has a classic “beads on a string” appearance that stains lightly, while heterochromatin is tightly packed and stains darkly. Heterochromatin is primarily composed of inactive genes or untranslated regions, while euchromatin is able to be expressed. All chromatin is found in the nucleus, not the cytoplasm."
+  },
+  {
+   "q": "During which phase of the cell cycle are DNA repair mechanisms least active?",
+   "type": "mcq",
+   "choices": [
+    "G1",
+    "S",
+    "G2",
+    "M"
+   ],
+   "correct": 3,
+   "explanation": "Mismatch repair mechanisms are active during S phase (proofreading) and G2 phase (MSH2 and MLH1), eliminating (B) and (C). Nucleotide and base excision repair mechanisms are most active during the G1 and G2 phases, also eliminating (A). These mechanisms exist during interphase because they are aimed at preventing propagation of the error into daughter cells during M phase (mitosis). GO ONLINE Consult your online resources for additional practice. Shared Concepts Biochemistry Chapter 4 Carbohydrate Structure and Function Biochemistry Chapter 7 RNA and the Genetic Code Biology Chapter 1 The Cell Biology Chapter 2 Reproduction Biology Chapter 3 Embryogenesis and Development Biology Chapter 12 Genetics and Evolution"
+  }
+ ]
+}
