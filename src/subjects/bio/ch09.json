@@ -1,0 +1,746 @@
+{
+ "id": 9,
+ "num": 9,
+ "title": "The Digestive System",
+ "slug": "ch09_the_digestive_system",
+ "sections": [
+  {
+   "title": "9.1 Anatomy of the Digestive System",
+   "goals": [
+    "Describe mechanical and chemical digestion and differentiate between them",
+    "Identify the interactions between the sympathetic and parasympathetic nervous systems and the digestive system",
+    "Trace the path of food through the body, naming major organs and valves in the digestive tract"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch09_the_digestive_system/09_01a_labeled_mouth_salivary_glands_pharynx_es.png",
+     "alt": "labeled: mouth, salivary glands, pharynx, esophagus, stomach, small intestine, liver, gallbladder, pancreas, ascending, transverse, descending, and sigmoid colon, appendix, rectum, anus",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "There are two types of digestion that occur. First, intracellular digestion , as a part of metabolism , involves the oxidation of glucose and fatty acids for energy. However, our diets do not consist of pure glucose and fatty acids; rather, these substances must be extracted from our food. The process by which these nutrients are obtained from food occurs within the lumen of the alimentary canal and is known as extracellular digestion . This is technically “outside” the body, because the lumen of the gastrointestinal tract communicates directly with the outside world. The alimentary canal runs from the mouth to the anus and is sectioned off by sphincters , or circular smooth muscles around the canal that can contract to allow compartmentalization of function."
+    },
+    {
+     "t": "p",
+     "x": "The human digestive tract has specialized sections with different functional roles. The most basic functional distinction is between digestion and absorption. Digestion involves the breakdown of food into its constituent organic molecules: starches and other carbohydrates into monosaccharides, lipids (fats) into free fatty acids and glycerol, and proteins into amino acids. Digestion can be subdivided into mechanical and chemical processes. Mechanical digestion is the physical breakdown of large food particles into smaller food particles, but does not involve breaking chemical bonds. Chemical digestion is the enzymatic cleavage of chemical bonds, such as the peptide bonds of proteins or the glycosidic bonds of starches. Absorption involves the transport of products of digestion from the digestive tract into the circulatory system for distribution to the body’s tissues and cells."
+    },
+    {
+     "t": "p",
+     "x": "The digestive tract, shown in Figure 9.1, begins with the oral cavity (mouth) followed by the pharynx , a shared pathway for both food entering the digestive system and air entering the respiratory system. From the pharynx, food enters the esophagus , which transports it to the stomach . From the stomach, food travels to the small intestine , and then to the large intestine . Finally, waste products of digestion enter the rectum , where feces are stored until an appropriate time of release. In addition to the digestive tract itself, the salivary glands , pancreas , liver , and gallbladder help to provide the enzymes and lubrication necessary to aid in the digestion of food."
+    },
+    {
+     "t": "p",
+     "x": "The enteric nervous system is a collection of one hundred million neurons that govern the function of the gastrointestinal system. These neurons are present in the walls of the digestive tract and trigger peristalsis , or rhythmic contractions of the gut tube, in order to move materials through the system. This system can function independently of the brain and spinal cord, although it is heavily regulated by the autonomic nervous system. The parasympathetic division is involved in stimulation of digestive activities, increasing secretions from exocrine glands and promoting peristalsis. The sympathetic division is involved in the inhibition of these activities. The fact that so often we feel sleepy and lethargic after eating a big meal (often called a food coma colloquially) is due, in part, to parasympathetic activity. On the other hand, during periods of high sympathetic activity, blood flow is decreased to the digestive tract, and gut motility slows significantly."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "All of the glands of the body (except sweat glands) are innervated by the parasympathetic nervous system."
+    }
+   ]
+  },
+  {
+   "title": "9.2 Ingestion and Digestion",
+   "goals": [
+    "Identify the secretory cells of the digestive tract, their secretions, and the function of their secretions",
+    "Explain how bile and pancreatic lipase work together to digest fats",
+    "Recall the key digestive enzymes and hormones produced in saliva, the stomach, and the intestines, and summarize the function of each"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch09_the_digestive_system/09_02a_labeled_esophagus_fundus_body_pylorus_an.png",
+     "alt": "labeled: esophagus, fundus, body, pylorus, antrum, pyloric sphincter, duodenum, lesser and greater curvature, angular notch, rugae",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch09_the_digestive_system/09_02b_cck_stimulated_by_duodenal_fat_and_amino.png",
+     "alt": "CCK, stimulated by duodenal fat and amino acids, and parasympathetic innervation cause enzyme release from the pancreas; secretin, stimulated by duodenal acid, causes bicarbonate and fluid release from the pancreas",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "To supply the body with nutrients, we must ingest (eat) food. Several hormones are involved with feeding behavior, including antidiuretic hormone (ADH or vasopressin), aldosterone, glucagon, ghrelin, leptin, and cholecystokinin. ADH and aldosterone trigger the sensation of thirst, encouraging the behavior of fluid consumption. Glucagon, secreted by the pancreas, and ghrelin, secreted by the stomach and pancreas, stimulate feelings of hunger. Leptin and cholecystokinin do the opposite, stimulating feelings of satiety. Digestion begins in the oral cavity and continues in the stomach and the first part of the small intestine, known as the duodenum."
+    },
+    {
+     "t": "h",
+     "x": "Oral Cavity"
+    },
+    {
+     "t": "p",
+     "x": "The oral cavity plays a role in both mechanical and chemical digestion of food. Mechanical digestion in the mouth involves the breaking up of large food particles into smaller particles using the teeth, tongue, and lips. This process is called mastication (chewing). Chewing helps to increase the surface area-to-volume ratio of the food, creating more surface area for enzymatic digestion as it passes through the gut tube. It also moderates the size of food particles entering the lumen of the alimentary canal; food particles that are too large create an obstruction risk in the tract."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "The chemical digestion of carbohydrates is initiated in the mouth, but is completed in the small intestine. Salivary amylase (active in the mouth) and pancreatic amylase (active in the small intestine) have the same function."
+    },
+    {
+     "t": "p",
+     "x": "Chemical digestion is the breakdown of chemical bonds in the macromolecules that make up food. This relies on enzymes from saliva produced by the three pairs of salivary glands . Saliva also aids mechanical digestion by moistening and lubricating food. The salivary glands, like all glands of the digestive tract, are innervated by the parasympathetic nervous system. The presence of food in the oral cavity triggers a neural circuit that ultimately leads to increased parasympathetic stimulation of these glands. Salivation can also be triggered by signals that food is near, such as smell or sight. Saliva contains salivary amylase , also known as ptyalin , and lipase . Salivary amylase is capable of hydrolyzing starch into smaller sugars (maltose and dextrins), while lipase catalyzes the hydrolysis of lipids. The amount of chemical digestion that occurs in the mouth is minimal, though, because the food does not stay in the mouth for long. Our muscular tongue forms the food into a bolus , which is forced back to the pharynx and swallowed."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "There are three pairs of major salivary glands: the parotid, submandibular, and sublingual glands. Other microscopic salivary glands are scattered throughout the upper digestive system. While the parasympathetic nervous system is responsible for promoting salivation, the sympathetic nervous system has some input into the glands as well. The sympathetic nervous system increases the viscosity of saliva, which is why dry mouth and even a tacky sensation in the mouth occurs during a fight-or-flight response."
+    },
+    {
+     "t": "h",
+     "x": "Pharynx"
+    },
+    {
+     "t": "p",
+     "x": "The pharynx is the cavity that leads from the mouth and posterior nasal cavity to the esophagus. The pharynx connects not only to the esophagus, but also to the larynx, which is a part of the respiratory tract. The pharynx can be divided into three parts: the nasopharynx (behind the nasal cavity), the oropharynx (at the back of the mouth), and the laryngopharynx (above the vocal cords). Food is prevented from entering the larynx during swallowing by the epiglottis , a cartilaginous structure that folds down to cover the laryngeal inlet. Failure of this mechanism can lead to aspiration of food and choking."
+    },
+    {
+     "t": "h",
+     "x": "Esophagus"
+    },
+    {
+     "t": "p",
+     "x": "The esophagus is a muscular tube that connects the pharynx to the stomach. The top third of the esophagus is composed of skeletal muscle, the bottom third is composed of smooth muscle, and the middle third is a mix of both. What does this mean in terms of nervous control? While the top of the esophagus is under somatic (voluntary) motor control, the bottom—and most of the rest of the gastrointestinal tract, for that matter—is under autonomic (involuntary) nervous control. The rhythmic contraction of smooth muscle that propels food toward the stomach is called peristalsis . Under normal circumstances, peristalsis proceeds down the digestive tract. However, certain factors such as exposure to chemicals, infectious agents, physical stimulation in the posterior pharynx, and even cognitive stimulation, can lead to reversal of peristalsis in the process of emesis ( vomiting )."
+    },
+    {
+     "t": "p",
+     "x": "Swallowing is initiated in the muscles of the oropharynx, which constitute the upper esophageal sphincter . Peristalsis squeezes, pushes, and propels the bolus toward the stomach. As the bolus approaches the stomach, a muscular ring known as the lower esophageal sphincter ( cardiac sphincter ) relaxes and opens to allow the passage of food."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Weakness in the lower esophageal sphincter is a key feature of gastroesophageal reflux disease (GERD), which causes classic heartburn symptoms after eating. As food and acid reflux into the lower esophagus, they irritate the less-protected mucosa, stimulating pain receptors. These receptors localize pain poorly, so a general burning sensation is felt in the lower chest—leading to the common term heartburn ."
+    },
+    {
+     "t": "h",
+     "x": "Stomach"
+    },
+    {
+     "t": "p",
+     "x": "There are three main energy sources: carbohydrates, fats, and proteins. As mentioned earlier, the chemical digestion of carbohydrates and fats is initiated in the mouth. No mechanical or chemical digestion takes place in the esophagus, except for the continued enzymatic activity initiated in the mouth by salivary enzymes. Thus, digestion that occurs prior to the entrance of the bolus into the stomach is minimal compared to the digestion that occurs in the stomach and small intestine."
+    },
+    {
+     "t": "p",
+     "x": "The stomach is a highly muscular organ with a capacity of approximately two liters. In humans, the stomach is located in the upper left quadrant of the abdominal cavity, underneath the diaphragm. This organ uses hydrochloric acid and enzymes to digest food, creating a fairly harsh environment. Therefore, its mucosa is quite thick to prevent autodigestion. The stomach can be divided into four main anatomical divisions, as shown in Figure 9.2: the fundus and body , which contain mostly gastric glands, and the antrum and pylorus, which contain mostly pyloric glands. The internal curvature of the stomach is called the lesser curvature ; the external curvature is called the greater curvature . The lining of the stomach is thrown into folds called rugae ."
+    },
+    {
+     "t": "p",
+     "x": "The mucosa of the stomach contains gastric glands and pyloric glands. The gastric glands respond to signals from the vagus nerve of the parasympathetic nervous system, which is activated by the brain in response to the sight, taste, and smell of food. Gastric glands have three different cell types: mucous cells, chief cells, and parietal cells. Mucous cells produce the bicarbonate-rich mucus that protects the muscular wall from the harshly acidic (pH = 2) and proteolytic environment of the stomach."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Nonsteroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen, naproxen, and aspirin, are very common drugs. However, these drugs are not without side effects. One such side effect is the disruption of mucus production within the stomach. This leaves the mucosa of the stomach unprotected, and irritation results. This irritation can be in the form of gastritis , inflammation of the mucosa of the stomach, or gastric ulcers , deep wounds in the lining of the stomach."
+    },
+    {
+     "t": "p",
+     "x": "Gastric juice is a combination of secretions from the other two cell types in the gastric glands: chief cells and parietal cells. The chief cells secrete pepsinogen . This is the inactive, zymogen form of pepsin , a proteolytic enzyme. Hydrogen ions in the stomach, secreted by parietal cells as hydrochloric acid, cleave pepsinogen to pepsin. Pepsin digests proteins by cleaving peptide bonds near aromatic amino acids, resulting in short peptide fragments. Because pepsin is activated by the acidic environment, it follows that pepsin is most active at a low pH. This is a unique characteristic among human enzymes, as most human enzymes are most active at physiological pH. Stomach acid also kills most harmful bacteria (with the exception of Helicobacter pylori , infection with which is usually asymptomatic but can cause inflammation, ulcers, and even certain gastric cancers). The acidic environment also helps to denature proteins and can break down some intramolecular bonds that hold food together. In addition to HCl, parietal cells secrete intrinsic factor , a glycoprotein involved in the proper absorption of vitamin B 12 ."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "The stomach secretes six products: HCl (kills microbes, denatures proteins, and converts pepsinogen into pepsin) Pepsinogen (cleaved in the stomach to pepsin; an enzyme that partially digests proteins) Mucus (protects mucosa) Bicarbonate (protects mucosa) Water (dissolves and dilutes ingested material) Intrinsic factor (required for normal absorption of vitamin B 12 )"
+    },
+    {
+     "t": "p",
+     "x": "The pyloric glands contain G-cells that secrete gastrin, a peptide hormone. Gastrin induces the parietal cells in the stomach to secrete more HCl and signals the stomach to contract, mixing its contents. The digestion of solid food in the stomach results in an acidic, semifluid mixture known as chyme . The combined mechanical and chemical digestive activities of the stomach result in a significant increase in the surface area of the now unrecognizable food particles, so when the chyme reaches the small intestine, the absorption of nutrients from it can be maximized. There are a few substances that are absorbed directly from the stomach (such as alcohol and aspirin), but the stomach is mainly an organ of digestion."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Zollinger–Ellison syndrome is a rare disease resulting from a gastrin-secreting tumor (gastrinoma). Typically, this tumor is found in the pancreas. The excess gastrin leads to excessive HCl production by parietal cells. Not surprisingly, one of the most common signs of Zollinger–Ellison syndrome is the presence of intractable ulcer disease."
+    },
+    {
+     "t": "h",
+     "x": "Duodenum"
+    },
+    {
+     "t": "p",
+     "x": "The small intestine consists of three segments: the duodenum, the jejunum, and the ileum. The small intestine is quite long, up to seven meters. The duodenum is responsible for the majority of chemical digestion and has some minor involvement in absorption. However, most of the absorption in the small intestine takes place in the jejunum and ileum."
+    },
+    {
+     "t": "p",
+     "x": "Food leaves the stomach through the pyloric sphincter and enters the duodenum. The presence of chyme in the duodenum causes the release of brush-border enzymes like disaccharidases ( maltase , isomaltase , lactase , and sucrase ) and peptidases (including dipeptidase ). Brush-border enzymes are present on the luminal surface of cells lining the duodenum and break down dimers and trimers of biomolecules into absorbable monomers. The duodenum also secretes enteropeptidase , which is involved in the activation of other digestive enzymes from the accessory organs of digestion. Finally, it secretes hormones like secretin and cholecystokinin (CCK) into the bloodstream."
+    },
+    {
+     "t": "p",
+     "x": "The disaccharidases digest disaccharides. Maltase digests maltose, isomaltase digests isomaltose, lactase digests lactose, and sucrase digests sucrose. Lack of a particular disaccharidase causes an inability to break down the corresponding disaccharide. Then bacteria in the intestines are able to hydrolyze that disaccharide, producing methane gas as a byproduct. In addition, undigested disaccharides can have an osmotic effect, pulling water into the stool and causing diarrhea. This is why people who are lactose intolerant have symptoms of bloating, flatulence, and possibly diarrhea after ingesting dairy products."
+    },
+    {
+     "t": "p",
+     "x": "Peptidases break down proteins (or peptides, as the name implies). Aminopeptidase is a peptidase secreted by glands in the duodenum that removes the N-terminal amino acid from a peptide. Dipeptidases cleave the peptide bonds of dipeptides to release free amino acids. Unlike carbohydrates, which must be broken down into monosaccharides for absorption, proteins can be broken down into di- and even tripeptides and can be absorbed across the small intestine wall."
+    },
+    {
+     "t": "p",
+     "x": "Enteropeptidase (formerly called enterokinase ) is an enzyme critical for the activation of trypsinogen , a pancreatic protease, to trypsin . Trypsin then initiates an activation cascade, as described later in this chapter. Enteropeptidase can also activate procarboxypeptidases A and B to their active forms."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Celiac disease results from an immune reaction against gluten, a protein found in grains, especially wheat. In this condition, the immune system develops antibodies against certain components of gluten. These antibodies then cross-react with elements of the small intestine, causing damage to the mucosa. This results in diarrhea and discomfort. Sometimes, this condition also results in malabsorptive syndromes, including the inability to absorb fat and fat-soluble vitamins. Contrary to popular belief, celiac disease and gluten sensitivity are immune conditions, but not true allergies."
+    },
+    {
+     "t": "p",
+     "x": "Secretin is a peptide hormone that causes pancreatic enzymes to be released into the duodenum. It also regulates the pH of the digestive tract by reducing HCl secretion from parietal cells and increasing bicarbonate secretion from the pancreas. Secretin is also an enterogastrone , a hormone that slows motility through the digestive tract. Slowing of motility allows increased time for digestive enzymes to act on chyme—especially fats."
+    },
+    {
+     "t": "p",
+     "x": "Finally, cholecystokinin ( CCK ) is secreted in response to the entry of chyme (specifically, amino acids and fat in the chyme) into the duodenum. This peptide hormone stimulates the release of both bile and pancreatic juices and also acts in the brain, where it promotes satiety. Bile is a complex fluid composed of bile salts, pigments, and cholesterol. Bile salts are derived from cholesterol. They are not enzymes and therefore do not directly perform chemical digestion (the enzymatic cleavage of chemical bonds). However, bile salts serve an important role in the mechanical digestion of fats and ultimately facilitate the chemical digestion of lipids. Bile salts have hydrophobic and hydrophilic regions, allowing them to serve as a bridge between aqueous and lipid environments. In fact, bile salts are much like the common soaps and detergents we use to wash our hands, clothes, and dishes. In the small intestine, bile salts emulsify fats and cholesterol into micelles . Without bile, fats would spontaneously separate out of the aqueous mixture in the duodenum and would not be accessible to pancreatic lipase , which is water-soluble. In addition, these micelles increase the surface area of the fats, increasing the rate at which lipase can act. Ultimately, proper fat digestion depends on both bile and lipase. Bile gets the fats into the solution and increases their surface area by placing them in micelles (mechanical digestion). Then, lipase can come in to hydrolyze the ester bonds holding the lipids together (chemical digestion)."
+    },
+    {
+     "t": "p",
+     "x": "CCK also promotes the secretion of pancreatic juices into the duodenum, as shown in Figure 9.3. Pancreatic juices are a complex mixture of several enzymes in a bicarbonate-rich alkaline solution. This bicarbonate helps to neutralize acidic chyme, as well as provide an ideal working environment for the digestive enzymes, which are most active around pH 8.5. Pancreatic juices contain enzymes that can digest all three types of nutrients: carbohydrates, fats, and proteins. The identities and functions of these enzymes will be discussed in the next section of this chapter."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "The acidic environment of the stomach and basic environment of the duodenum point out the important correlation between pH and enzyme activity. Pepsin is active in the stomach and works best at pH 2. Pancreatic enzymes are active in the duodenum and work best at pH 8.5. pH, temperature, and salinity can all affect enzyme function, as highlighted in Chapter 2 of MCAT Biochemistry Review ."
+    }
+   ]
+  },
+  {
+   "title": "9.3 Accessory Organs of Digestion",
+   "goals": [
+    "Recall the pancreatic enzymes and the molecules they help to digest",
+    "Describe the significance and the function of bile, including its production, components, and release",
+    "List the major functions of the liver",
+    "Associate the accessory organs of digestion with their germ layer of origin"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch09_the_digestive_system/09_03a_labeled_head_body_and_tail_lobules_pancr.png",
+     "alt": "labeled: head, body, and tail; lobules, pancreatic and accessory pancreatic ducts, gallbladder and bile duct, major and minor duodenal papillae, duodenum",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch09_the_digestive_system/09_03b_triacylglycerols_lipase_mouth_and_pancre.png",
+     "alt": "triacylglycerols: lipase (mouth and pancreas), bile micelles (gallbladder); carbohydrates: amylase (mouth and pancreas), sucrase, lactase, maltase, isomaltase (intestinal brush border); proteins: pepsin (stomach), trypsin, chymotrypsin, carboxypeptidases A and B (pancreas), dipeptidases, aminopeptidase (intestinal brush border)",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "Digestion is a complex process that requires the release of enzymes not only from the cells directly lining the alimentary canal, but also from the pancreas, liver, and gallbladder. Collectively, these organs—which all originate as outgrowths of endoderm from the gut tube during development—are called accessory organs of digestion ."
+    },
+    {
+     "t": "h",
+     "x": "Pancreas"
+    },
+    {
+     "t": "p",
+     "x": "The pancreas serves two quite different roles in the body, reflecting its exocrine and endocrine functions. As discussed in Chapter 5 of MCAT Biology Review , the endocrine functions of the pancreas include the release of insulin, glucagon, and somatostatin—peptide hormones necessary for the maintenance of proper blood sugar levels. The hormonal function of the pancreas is limited to cells residing in islets of Langerhans scattered throughout the organ. The bulk of the pancreas, however, is made of exocrine cells called acinar cells that produce pancreatic juices. As mentioned earlier, pancreatic juices are bicarbonate-rich alkaline secretions containing many digestive enzymes that work on all three classes of biomolecules. Pancreatic amylase breaks down large polysaccharides into small disaccharides and is therefore responsible for carbohydrate digestion. The pancreatic peptidases ( trypsinogen , chymotrypsinogen , and carboxypeptidases A and B ) are released in their zymogen form, but once activated are responsible for protein digestion. Enteropeptidase, produced by the duodenum, is the master switch. It converts trypsinogen to trypsin, which can then activate the other zymogens, and also activates procarboxypeptidases A and B. Finally, the pancreas secretes pancreatic lipase , which is capable of breaking down fats into free fatty acids and glycerol."
+    },
+    {
+     "t": "p",
+     "x": "Pancreatic juices are transferred to the duodenum via a duct system that runs along the middle of the pancreas, as shown in Figure 9.4. Like all exocrine cells, acinar cells secrete their products into ducts. These ducts then empty into the duodenum through the major and minor duodenal papillae ."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Pancreatitis, or inflammation of the pancreas, is usually caused by gallstones or excessive consumption of alcohol. Regardless of the cause, pancreatitis results from premature activation of pancreatic enzymes and autodigestion of the pancreatic tissue. This is a very painful condition that may result in a long hospital stay and long-term consequences such as diabetes and the reduced digestion of proteins and fats."
+    },
+    {
+     "t": "h",
+     "x": "Liver"
+    },
+    {
+     "t": "p",
+     "x": "The liver is located in the upper right quadrant of the abdomen and contains two unique structures for communicating with the digestive system. First, bile ducts connect the liver with both the gallbladder and small intestine. Bile is produced in the liver and travels down these bile ducts where it may be stored in the gallbladder or secreted into the duodenum. The liver also receives all blood draining from the abdominal portion of the digestive tract through the hepatic portal vein . This nutrient-rich blood can be processed by the liver before draining into the inferior vena cava on its way to the right side of the heart. For example, the liver takes up excess sugar to create glycogen , the storage form of glucose, and stores fats as triacylglycerols . The liver can also reverse these processes, producing glucose for the rest of the body through glycogenolysis and gluconeogenesis and mobilizing fats in lipoproteins . The liver detoxifies both endogenous compounds (those made in the body) and exogenous compounds (those brought in from the environment). For example, the liver converts ammonia, a toxic waste product of amino acid metabolism, into urea, which can be excreted by the kidneys. The liver also detoxifies and metabolizes alcohol and medications. Some drugs actually require activation by the enzymes of the liver. In addition, some drugs cannot be taken orally because modification of these drugs by the liver renders them inactive."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "The functions of the liver include processing and synthesis of nutrients (glycogenesis and glycogenolysis, storage and mobilization of fats, gluconeogenesis), production of urea, detoxification of chemicals, production of bile, and synthesis of albumin and clotting factors."
+    },
+    {
+     "t": "p",
+     "x": "Bile production is one of the most significant jobs of the liver vis-à-vis the digestive system. As mentioned earlier, bile is composed of bile salts, pigments, and cholesterol. Bile salts are amphipathic molecules that can emulsify fat in the digestive system. The major pigment in bile is bilirubin , which is a byproduct of the breakdown of hemoglobin. Bilirubin travels to the liver, where it is conjugated (attached to a protein) and secreted into the bile for excretion. If the liver is unable to process or excrete bilirubin (due to liver damage, excessive red blood cell destruction, or blockage of the bile ducts), jaundice or yellowing of the skin may occur."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "The major components of bile are bile salts, which emulsify fats; pigments (especially bilirubin, from the breakdown of hemoglobin); and cholesterol."
+    },
+    {
+     "t": "p",
+     "x": "In addition to bile production, processing of nutrients, and detoxification and drug metabolism, the liver also synthesizes certain proteins necessary for proper body function. These proteins include albumin , a protein that maintains plasma oncotic pressure and also serves as a carrier for many drugs and hormones, and clotting factors used during blood coagulation."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Cirrhosis of the liver can result from many different processes, including chronic alcohol consumption, hepatitis C infection, autoimmune hepatitis, and fatty liver disease. However, the outcome is the same. Cirrhosis is scarring of the liver, and this scar tissue builds up, creating increased resistance within the portal vein, resulting in portal hypertension. This causes a backup of fluid within the portal system, resulting in swollen veins in the digestive system, especially the esophagus, which may rupture and cause life-threatening bleeding. This often manifests as hematemesis , or vomiting of blood. Cirrhosis also causes bleeding disorders because production of clotting factors is disrupted. The inability to properly dispose of ammonia results in increased ammonia in the blood, which affects mentation. Finally, cirrhosis may also cause hepatocellular carcinoma, or cancer of the hepatocytes."
+    },
+    {
+     "t": "h",
+     "x": "Gallbladder"
+    },
+    {
+     "t": "p",
+     "x": "The gallbladder is located just beneath the liver and both stores and concentrates bile. Upon release of CCK, the gallbladder contracts and pushes bile out into the biliary tree . The bile duct system merges with the pancreatic duct, as shown in Figure 9.3 earlier, before emptying into the duodenum."
+    },
+    {
+     "t": "p",
+     "x": "The gallbladder is a common site of cholesterol or bilirubin stone formation. This painful condition causes inflammation of the gallbladder. The stones may also travel into the bile ducts and get stuck in the biliary tree. In some cases, stones can get caught just before entering the duodenum, resulting in blockage of not only the biliary tree, but the pancreatic duct as well, causing pancreatitis."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "Stone formation is nothing more than precipitation of a solid once its concentration has reached the K sp of the compound. This is particularly common in the gallbladder because bile is concentrated there. Solubility and K sp are discussed in Chapter 9 of MCAT General Chemistry Review ."
+    },
+    {
+     "t": "p",
+     "x": "The functions of the various digestive enzymes (and bile) are summarized in Table 9.1."
+    },
+    {
+     "t": "table",
+     "headers": [
+      "Nutrient",
+      "Enzyme",
+      "Site of Production",
+      "Site of Function",
+      "Function"
+     ],
+     "rows": [
+      [
+       "*Note: Bile is not an enzyme, but is involved in mechanical digestion of fats."
+      ],
+      [
+       "Carbohydrates"
+      ],
+      [
+       "Salivary amylase (ptyalin)",
+       "Salivary glands",
+       "Mouth",
+       "Hydrolyzes starch to maltose and dextrins"
+      ],
+      [
+       "Pancreatic amylase",
+       "Pancreas (acinar cells)",
+       "Duodenum",
+       "Hydrolyzes starch to maltose and dextrins"
+      ],
+      [
+       "Maltase",
+       "Intestinal glands",
+       "Duodenum",
+       "Hydrolyzes maltose to two glucose molecules"
+      ],
+      [
+       "Isomaltase",
+       "Intestinal glands",
+       "Duodenum",
+       "Hydrolyzes isomaltose to two glucose molecules"
+      ],
+      [
+       "Sucrase",
+       "Intestinal glands",
+       "Duodenum",
+       "Hydrolyzes sucrose to glucose and fructose"
+      ],
+      [
+       "Lactase",
+       "Intestinal glands",
+       "Duodenum",
+       "Hydrolyzes lactose to glucose and galactose"
+      ],
+      [
+       "Proteins"
+      ],
+      [
+       "Pepsin(ogen)",
+       "Gastric glands (chief cells)",
+       "Stomach",
+       "Hydrolyzes specific peptide bonds; activated by HCl"
+      ],
+      [
+       "Trypsin(ogen)",
+       "Pancreas (acinar cells)",
+       "Duodenum",
+       "Hydrolyzes specific peptide bonds; converts chymotrypsinogen to chymotrypsin; activated by enteropeptidase"
+      ],
+      [
+       "Chymotrypsin (ogen)",
+       "Pancreas (acinar cells)",
+       "Duodenum",
+       "Hydrolyzes specific peptide bonds; activated by trypsin"
+      ],
+      [
+       "(Pro)carboxy peptidases A and B",
+       "Pancreas (acinar cells)",
+       "Duodenum",
+       "Hydrolyzes terminal peptide bond at carboxy end; activated by enteropeptidase"
+      ],
+      [
+       "Aminopeptidase",
+       "Intestinal glands",
+       "Duodenum",
+       "Hydrolyzes terminal peptide bond at amino end"
+      ],
+      [
+       "Dipeptidases",
+       "Intestinal glands",
+       "Duodenum",
+       "Hydrolyzes pairs of amino acids"
+      ],
+      [
+       "Enteropeptidase",
+       "Intestinal glands",
+       "Duodenum",
+       "Converts trypsinogen to trypsin and procarboxypeptidases A and B to carboxypeptidases A and B"
+      ],
+      [
+       "Lipids"
+      ],
+      [
+       "Bile*",
+       "Liver (stored in gallbladder)",
+       "Duodenum",
+       "Emulsifies fat"
+      ],
+      [
+       "Lipase",
+       "Pancreas (acinar cells)",
+       "Duodenum",
+       "Hydrolyzes lipids"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "x": "A summary of the digestion of each major class of biomolecules is provided in Figure 9.5."
+    }
+   ]
+  },
+  {
+   "title": "9.4 Absorption and Defecation",
+   "goals": [
+    "Recall the four fat-soluble vitamins",
+    "Order the three sections of the small intestine and the three sections of the large intestine",
+    "Predict the portions of the gut impacted by a disease when given a digestive symptom, such as watery stool",
+    "Identify the biomolecules typically absorbed into each vessel of the villus:"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch09_the_digestive_system/09_04a_labeled_villus_microvilli_lacteal_capill.png",
+     "alt": "labeled: villus, microvilli, lacteal, capillaries, lymphatic vessel",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch09_the_digestive_system/09_04b_nutrients_brought_in_by_coupling_to_sodi.png",
+     "alt": "nutrients brought in by coupling to sodium and/or hydrogen ions; peptides broken down inside cell; monosaccharides and amino acids brought into blood by facilitated diffusion",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch09_the_digestive_system/09_04c_fatty_acids_2_monoacylglycerol_phospholi.png",
+     "alt": "fatty acids, 2 monoacylglycerol, phospholipids, cholesterol, and fat-soluble vitamins in micelle, brought into mucosal cell and packaged as chylomicron, which is put into lymph. short-chain fatty acids and bile salts travel to blood",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "Absorption of nutrients primarily occurs in the small intestine, especially in the jejunum and ileum. The large intestine largely absorbs water."
+    },
+    {
+     "t": "h",
+     "x": "Jejunum and Ileum"
+    },
+    {
+     "t": "p",
+     "x": "The small intestine consists of three segments: the duodenum, the jejunum, and the ileum. As discussed previously, the duodenum is primarily involved in digestion. The jejunum and ileum are involved in the absorption of nutrients. The small intestine is lined with villi , which are small, fingerlike projections from the epithelial lining, as shown in Figure 9.6. Each villus has many microvilli , drastically increasing the surface area available for absorption. In addition, at the middle of each villus there is a capillary bed for the absorption of water-soluble nutrients and a lacteal , a lymphatic channel that takes up fats for transport into the lymphatic system."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Segments of the small intestine: D ow J ones I ndustrial D uodenum J ejunum I leum"
+    },
+    {
+     "t": "p",
+     "x": "Simple sugars, such as glucose, fructose, and galactose, and amino acids are absorbed by secondary active transport and facilitated diffusion into the epithelial cells lining the small intestine, as shown in Figure 9.7. Then, these substances move across the epithelial cell membrane into the intestinal capillaries. Blood is constantly passing by the epithelial cells, carrying the carbohydrate and amino acid molecules away. This creates a concentration gradient such that the blood always has a lower concentration of monosaccharides and amino acids than inside the epithelial cells. Thus, simple carbohydrates and amino acids diffuse from the epithelial cells into the capillaries. The absorbed molecules then go to the liver via the hepatic portal circulation."
+    },
+    {
+     "t": "p",
+     "x": "What about fats? Short-chain fatty acids will follow the same process as carbohydrates and amino acids by diffusing directly into the intestinal capillaries. These fatty acids do not require transporters because they are nonpolar, so they can easily traverse the cellular membrane. Larger fats, glycerol, and cholesterol move separately into the intestinal cells but then reform into triglycerides, as shown in Figure 9.8. The triglycerides and esterified cholesterol molecules are packaged into chylomicrons . Rather than entering the bloodstream, chylomicrons enter the lymphatic circulation through lacteals , small vessels that form the beginning of the lymphatic system. These lacteals converge and enter the venous circulation at the thoracic duct in the base of the neck, which empties into the left subclavian vein."
+    },
+    {
+     "t": "p",
+     "x": "Vitamins are also absorbed in the small intestine. Vitamins can be categorized as either fat-soluble or water-soluble. Because there are only four fat-soluble vitamins (A, D, E, and K), these can be easily memorized. All other vitamins (B complex and C) are water-soluble. Fat-soluble vitamins dissolve directly into chylomicrons to enter the lymphatic circulation. Failure to digest and absorb fat properly, which can be due to pathologies in the liver, gallbladder, pancreas, or small intestine, may lead to deficiencies of fat-soluble vitamins. The water-soluble vitamins are taken up, along with water, amino acids, and carbohydrates, across the endothelial cells of the small intestine, passing directly into the plasma."
+    },
+    {
+     "t": "p",
+     "x": "In addition to fats, carbohydrates, amino acids, and vitamins, the small intestine also absorbs water. Much of the water in chyme is actually the result of secretions. The average person may consume up to two liters of fluid per day, but secretions into the upper gastrointestinal tract may total up to seven liters of fluid per day. In order to maintain proper fluid levels within the body, much of this fluid must be reabsorbed by osmosis. As solutes are absorbed into the bloodstream, water is drawn with them, eventually reaching the capillaries. Water passes not only transcellularly (across the cell membrane), but also paracellularly (squeezing between cells) to reach the blood."
+    },
+    {
+     "t": "h",
+     "x": "Large Intestine"
+    },
+    {
+     "t": "p",
+     "x": "The final part of the gastrointestinal tract is the large intestine . It is primarily involved in water absorption. The large intestine has a larger diameter but shorter length than the small intestine. It is divided into three major sections: the cecum, the colon, and the rectum. The cecum is simply an outpocketing that accepts fluid exiting the small intestine through the ileocecal valve and is the site of attachment of the appendix . The appendix is a small fingerlike projection that was once thought to be vestigial . Recent evidence, however, suggests that it may have a role in warding off certain bacterial infections and repopulating the large intestine with normal flora after episodes of diarrhea. Inflammation of the appendix (appendicitis) is a surgical emergency; in fact, it is the most common reason for an unscheduled surgery in the United States."
+    },
+    {
+     "t": "p",
+     "x": "The colon itself is divided into the ascending, transverse, descending, and sigmoid colons. Its main function is to absorb water and salts (such as sodium chloride) from the undigested material left over from the small intestine. The small intestine actually absorbs much more water than the colon, so the colon primarily concentrates the remaining material to form feces . Too little or too much water absorption can cause diarrhea or constipation, respectively."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "Note the similarity between the muscles that control voiding of urine and feces. In both cases, there is an internal sphincter under autonomic control (internal urethral sphincter and internal anal sphincter) and an external sphincter under somatic control (external urethral sphincter and external anal sphincter). Urination is discussed in Chapter 10 of MCAT Biology Review ."
+    },
+    {
+     "t": "p",
+     "x": "Finally, the rectum serves as a storage site for feces, which consists of indigestible material, water, bacteria ( E. coli and others), and certain digestive secretions that are not reabsorbed (enzymes and some bile). The anus is the opening through which wastes are eliminated and consists of two sphincters: the internal and external anal sphincters . The external sphincter is under voluntary control (somatic), but the internal sphincter is under involuntary control (autonomic)."
+    },
+    {
+     "t": "p",
+     "x": "The large intestine—and even the small intestine—is home to many different species of bacteria. In fact, 30 percent of the dry matter in stool consists of bacteria. Most of these bacteria are anaerobes, but the cecum is also home to many aerobic bacteria. The presence of bacteria in the colon represents a symbiotic relationship: the bacteria are provided with a steady source of food, and the byproducts produced by the bacteria are beneficial to humans. For example, bacteria in the gut produce vitamin K, which is essential for the production of clotting factors, and biotin (vitamin B 7 ), which is a coenzyme for many metabolic enzymes."
+    }
+   ]
+  }
+ ],
+ "conceptSummary": [
+  {
+   "section": "Anatomy of the Digestive System",
+   "points": [
+    "Intracellular digestion involves the oxidation of glucose and fatty acids to make energy. Extracellular digestion occurs in the lumen of the alimentary canal . Mechanical digestion is the physical breakdown of large food particles into smaller food particles. Chemical digestion is the enzymatic cleavage of chemical bonds, such as the peptide bonds of proteins or the glycosidic bonds of starches.",
+    "Mechanical digestion is the physical breakdown of large food particles into smaller food particles.",
+    "Chemical digestion is the enzymatic cleavage of chemical bonds, such as the peptide bonds of proteins or the glycosidic bonds of starches.",
+    "The pathway of the digestive tract is: oral cavity → pharynx → esophagus → stomach → small intestine → large intestine → rectum",
+    "The accessory organs of digestion are the salivary glands, pancreas, liver, and gallbladder.",
+    "The enteric nervous system is in the wall of the alimentary canal and controls peristalsis. Its activity is upregulated by the parasympathetic nervous system and downregulated by the sympathetic nervous system."
+   ]
+  },
+  {
+   "section": "Ingestion and Digestion",
+   "points": [
+    "Multiple hormones regulate feeding behavior, including antidiuretic hormone (ADH or vasopressin) and aldosterone, which promote thirst; glucagon and ghrelin, which promote hunger; and leptin and cholecystokinin, which promote satiety.",
+    "In the oral cavity , mastication starts the mechanical digestion of food, while salivary amylase and lipase start the chemical digestion of food. Food is formed into a bolus and swallowed.",
+    "The pharynx connects the mouth and posterior nasal cavity to the esophagus.",
+    "The esophagus propels food to the stomach using peristalsis. Food enters the stomach through the lower esophageal ( cardiac ) sphincter .",
+    "The stomach has four parts: fundus , body , antrum , and pylorus . The stomach has a lesser and greater curvature and is thrown into folds called rugae . Numerous secretory cells line the stomach. Mucous cells produce bicarbonate-rich mucus to protect the stomach. Chief cells secrete pepsinogen , a protease activated by the acidic environment of the stomach. Parietal cells secrete hydrochloric acid and intrinsic factor , which is needed for vitamin B 12 absorption. G-cells secrete gastrin , a peptide hormone that increases HCl secretion and gastric motility.",
+    "Mucous cells produce bicarbonate-rich mucus to protect the stomach.",
+    "Chief cells secrete pepsinogen , a protease activated by the acidic environment of the stomach.",
+    "Parietal cells secrete hydrochloric acid and intrinsic factor , which is needed for vitamin B 12 absorption.",
+    "G-cells secrete gastrin , a peptide hormone that increases HCl secretion and gastric motility.",
+    "After mechanical and chemical digestion in the stomach, the food particles are now called chyme . Food passes into the duodenum through the pyloric sphincter .",
+    "The duodenum is the first part of the small intestine and is primarily involved in chemical digestion. Disaccharidases are brush-border enzymes that break down maltose, isomaltose, lactose, and sucrose into monosaccharides. Brush-border peptidases include aminopeptidase and dipeptidases . Enteropeptidase activates trypsinogen and procarboxypeptidases, initiating an activation cascade. Secretin stimulates the release of pancreatic juices into the digestive tract and slows motility. Cholecystokinin stimulates bile release from the gallbladder, release of pancreatic juices, and satiety.",
+    "Disaccharidases are brush-border enzymes that break down maltose, isomaltose, lactose, and sucrose into monosaccharides.",
+    "Brush-border peptidases include aminopeptidase and dipeptidases .",
+    "Enteropeptidase activates trypsinogen and procarboxypeptidases, initiating an activation cascade.",
+    "Secretin stimulates the release of pancreatic juices into the digestive tract and slows motility.",
+    "Cholecystokinin stimulates bile release from the gallbladder, release of pancreatic juices, and satiety."
+   ]
+  },
+  {
+   "section": "Accessory Organs of Digestion",
+   "points": [
+    "Acinar cells in the pancreas produce pancreatic juices that contain bicarbonate, pancreatic amylase , pancreatic peptidases ( trypsinogen , chymotrypsinogen , carboxypeptidases A and B ), and pancreatic lipase .",
+    "The liver synthesizes bile , which can be stored in the gallbladder or secreted into the duodenum directly. Bile emulsifies fats, making them soluble and increasing their surface area. The main components of bile are bile salts , pigments (especially bilirubin from the breakdown of hemoglobin), and cholesterol.",
+    "Bile emulsifies fats, making them soluble and increasing their surface area.",
+    "The main components of bile are bile salts , pigments (especially bilirubin from the breakdown of hemoglobin), and cholesterol.",
+    "The liver also processes nutrients (through glycogenesis and glycogenolysis, storage and mobilization of fats, and gluconeogenesis), produces urea, detoxifies chemicals, activates or inactivates medications, produces bile, and synthesizes albumin and clotting factors.",
+    "The gallbladder stores and concentrates bile."
+   ]
+  },
+  {
+   "section": "Absorption and Defecation",
+   "points": [
+    "The jejunum and ileum of the small intestine are primarily involved in absorption. The small intestine is lined with villi , which are covered with microvilli , increasing the surface area available for absorption. Villi contain a capillary bed and a lacteal , a vessel of the lymphatic system. Water-soluble compounds, such as monosaccharides, amino acids, water-soluble vitamins, small fatty acids, and water, enter the capillary bed. Fat-soluble compounds, such as fats, cholesterol, and fat-soluble vitamins, enter the lacteal.",
+    "The small intestine is lined with villi , which are covered with microvilli , increasing the surface area available for absorption.",
+    "Villi contain a capillary bed and a lacteal , a vessel of the lymphatic system.",
+    "Water-soluble compounds, such as monosaccharides, amino acids, water-soluble vitamins, small fatty acids, and water, enter the capillary bed.",
+    "Fat-soluble compounds, such as fats, cholesterol, and fat-soluble vitamins, enter the lacteal.",
+    "The large intestine absorbs water and salts, forming semisolid feces. The cecum is an outpocketing that accepts fluid from the small intestine through the ileocecal valve and is the site of attachment of the appendix . The colon is divided into ascending, transverse, descending, and sigmoid portions. The rectum stores feces, which are then excreted through the anus . Gut bacteria produce vitamin K and biotin (vitamin B 7 ).",
+    "The cecum is an outpocketing that accepts fluid from the small intestine through the ileocecal valve and is the site of attachment of the appendix .",
+    "The colon is divided into ascending, transverse, descending, and sigmoid portions.",
+    "The rectum stores feces, which are then excreted through the anus .",
+    "Gut bacteria produce vitamin K and biotin (vitamin B 7 )."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following associations correctly matches a gastric cell with a compound it secretes?",
+   "choices": [
+    "G-cells—HCl",
+    "Chief cells—pepsinogen",
+    "Parietal cells—alkaline mucus",
+    "Mucous cells—intrinsic factor"
+   ],
+   "correct": 1,
+   "explanation": "Chief cells secrete pepsinogen, a protease secreted as a zymogen that is activated by the acidic environment of the stomach. G-cells secrete gastrin, parietal cells secrete hydrochloric acid and intrinsic factor, and mucous cells secrete alkaline mucus, eliminating the other answer choices."
+  },
+  {
+   "q": "Which of the following is NOT part of the small intestine?",
+   "choices": [
+    "Ileum",
+    "Cecum",
+    "Jejunum",
+    "Duodenum"
+   ],
+   "correct": 1,
+   "explanation": "The small intestine is divided into three sections: the duodenum, the jejunum, and the ileum. The cecum is part of the large intestine, making (B) the correct answer."
+  },
+  {
+   "q": "In an experiment, enteropeptidase secretion was blocked. As a direct result, levels of all of the following active enzymes would likely be affected EXCEPT:",
+   "choices": [
+    "trypsin.",
+    "aminopeptidase.",
+    "chymotrypsin.",
+    "carboxypeptidase A."
+   ],
+   "correct": 1,
+   "explanation": "Aminopeptidase is a brush-border peptidase secreted by the cells lining the duodenum; it does not require enteropeptidase for activation. Both trypsinogen and procarboxypeptidases A and B are activated by enteropeptidase, eliminating (A) and (D) . Once activated, trypsin can activate chymotrypsinogen; if trypsinogen cannot be activated, then chymotrypsinogen will not be activated either, eliminating (C) ."
+  },
+  {
+   "q": "Which of the following INCORRECTLY pairs a digestive hormone with its function?",
+   "choices": [
+    "Trypsin—hydrolyzes specific peptide bonds",
+    "Lactase—hydrolyzes lactose to glucose and galactose",
+    "Pancreatic amylase—hydrolyzes starch to maltose",
+    "Lipase—emulsifies fats"
+   ],
+   "correct": 3,
+   "explanation": "Lipase is involved in the digestion of fats, but its function is not to emulsify fats—this is the job of bile. Rather, lipase chemically digests fats in the duodenum, allowing them to be brought into duodenal cells and packaged into chylomicrons. The other associations given here are all correct."
+  },
+  {
+   "q": "Which of the following correctly lists two organs in which proteins are digested?",
+   "choices": [
+    "Mouth and stomach",
+    "Stomach and large intestine",
+    "Stomach and small intestine",
+    "Small intestine and large intestine"
+   ],
+   "correct": 2,
+   "explanation": "Protein digestion begins in the stomach, where pepsin (secreted as pepsinogen) hydrolyzes specific peptide bonds. Protein digestion continues in the small intestine as trypsin (secreted as trypsinogen), chymotrypsin (secreted as chymotrypsinogen), carboxypeptidases A and B (secreted as procarboxypeptidases A and B), aminopeptidase, and dipeptidases hydrolyze specific parts of the peptide. No protein digestion occurs in the mouth or large intestine."
+  },
+  {
+   "q": "Which of the following choices INCORRECTLY pairs a digestive enzyme with its site of secretion?",
+   "choices": [
+    "Sucrase—salivary glands",
+    "Carboxypeptidase—pancreas",
+    "Trypsin—pancreas",
+    "Lactase—duodenum"
+   ],
+   "correct": 0,
+   "explanation": "Sucrase is a brush-border enzyme found on duodenal cells and is not secreted by the salivary glands. This enzyme hydrolyzes sucrose (a disaccharide) to form glucose and fructose (monosaccharides). The other associations are all correct."
+  },
+  {
+   "q": "A two-week-old male infant is brought to the emergency room. His mother reports that he has been unable to keep any milk down; shortly after he nurses, he has sudden projectile vomiting. During exam, an olive-shaped mass can be felt in his upper abdomen. It is determined that there is a constriction in the digestive system that prevents food from reaching the small intestine from the stomach. Which structure is most likely the site of the problem?",
+   "choices": [
+    "Cardiac sphincter",
+    "Pyloric sphincter",
+    "Ileocecal valve",
+    "Internal anal sphincter"
+   ],
+   "correct": 1,
+   "explanation": "The question is basically asking us to identify the structure that lies between the stomach and the small intestine. This is the pyloric sphincter; the presentation given in the question is a classic example of what is called pyloric stenosis, in which the pyloric sphincter is thickened and cannot relax to permit chyme through. The cardiac sphincter, (A) , lies between the esophagus and the stomach. The ileocecal valve, (C) , lies between the ileum of the small intestine and the cecum of the large intestine. The internal anal sphincter, (D) , lies at the end of the rectum."
+  },
+  {
+   "q": "Many medications have anticholinergic side effects, which block the activity of parasympathetic neurons throughout the body. Older individuals may be on many such medications simultaneously, exacerbating the side effects. Which of the following would NOT be expected in an individual taking medications with anticholinergic activity?",
+   "choices": [
+    "Dry mouth",
+    "Diarrhea",
+    "Slow gastric emptying",
+    "Decreased gastric acid production"
+   ],
+   "correct": 1,
+   "explanation": "The parasympathetic nervous system has many roles in the digestive system. It promotes motility of the gut tube and secretion from glands. Therefore, blocking the parasympathetic nervous system would likely result in dry mouth (from reduced secretion of saliva), slow gastric emptying (from decreased peristalsis), and decreased gastric acid production (from reduced HCl secretion from the parietal cells in the gastric glands), eliminating (A) , (C) , and (D) . (B) is the correct answer because we would expect constipation in such an individual, not diarrhea: slowed motility through the colon would lead to increased water reabsorption, making the feces too firm and causing constipation."
+  },
+  {
+   "q": "The two graphs below show the relative activities of two enzymes in solutions of varying pH. Which of the following choices correctly identifies the two enzymes?",
+   "choices": [
+    "1—chymotrypsin; 2—pepsin",
+    "1—pepsin; 2—carboxypeptidase B",
+    "1—lactase; 2—aminopeptidase",
+    "1—enteropeptidase; 2—amylase"
+   ],
+   "correct": 1,
+   "explanation": "The first graph shows maximal activity at a very acidic pH, implying that this is an enzyme acting in the stomach. The second graph shows maximal activity around pH 8.5, implying that this is an enzyme acting in the duodenum. The only choice that matches the first graph with a stomach enzyme (pepsin) and the second with a duodenal enzyme (carboxypeptidase B) is (B) ."
+  },
+  {
+   "q": "Which of the following would NOT likely lead to elevated levels of bilirubin in the blood?",
+   "choices": [
+    "Cholangiocarcinoma, a cancer of the bile ducts that can ultimately lead to full occlusion of the duct lumen",
+    "Autoimmune hemolytic anemia, a disease in which the red blood cells are attacked by antibodies and are lysed",
+    "Ménétrier’s disease, in which rugae thicken and overlying glands lose secretory ability",
+    "Acetaminophen (Tylenol) overdose, in which the accumulation of toxic metabolites can cause rapid liver failure"
+   ],
+   "correct": 2,
+   "explanation": "Elevated bilirubin implies a blockage to bile flow, increased production of bilirubin (from massive hemoglobin release), or an inability of the liver to produce bile. If the bile duct were occluded, as in (A) , then bile would not be able to flow into the digestive tract and would build up, increasing bilirubin levels in the blood. If many red blood cells were lysed, as in (B) , then bilirubin levels would rise in accordance with the increased hemoglobin release. If liver failure occurred, as in (D) , then the liver would be unable to produce bile, and bilirubin would again build up. (C) refers to a pathology in the stomach—the key word given here is rugae, which are the folds in the stomach wall. Lack of gastric function would have no effect on bilirubin levels, making this the correct choice."
+  },
+  {
+   "q": "Which of the following correctly pairs the molecule with its primary site of absorption?",
+   "choices": [
+    "Chylomicrons—lacteals",
+    "Amino acids—large intestine",
+    "Vitamins A and E—stomach",
+    "Cholesterol—ascending colon"
+   ],
+   "correct": 0,
+   "explanation": "Chylomicrons contain triacylglycerols, cholesteryl esters, and fat-soluble vitamins and are secreted by intestinal cells into lacteals. Amino acids, fat-soluble vitamins (like vitamins A and E), and cholesterol are all absorbed in the small intestine."
+  },
+  {
+   "q": "Starch is hydrolyzed into maltose by enzymes from the:",
+   "choices": [
+    "salivary glands.",
+    "brush border.",
+    "pancreas."
+   ],
+   "correct": 1,
+   "explanation": "Starch is hydrolyzed to maltose by two enzymes: salivary amylase (secreted by the salivary glands) in the mouth and pancreatic amylase (secreted by the pancreas) in the duodenum. Brush-border disaccharidases can further break down maltose, but do not break down starch."
+  },
+  {
+   "q": "Which of the following biomolecules does NOT drain into the liver before arriving at the right side of the heart?",
+   "choices": [
+    "Cholecalciferol (Vitamin D)",
+    "Threonine (an amino acid)",
+    "Fructose (a monosaccharide)",
+    "Pantothenic acid (vitamin B 5 )"
+   ],
+   "correct": 0,
+   "explanation": "While the capillaries from the intestine come together to form the portal vein, which drains to the liver, the lacteals come together to form the thoracic duct, which drains directly into the left subclavian vein. Therefore, fat-soluble compounds do not pass through the liver before reaching the right heart. Only (A) , vitamin D, is fat-soluble."
+  },
+  {
+   "q": "Which of the following hormones increases feeding behavior?",
+   "choices": [
+    "Leptin",
+    "Cholecystokinin",
+    "Ghrelin",
+    "Gastrin"
+   ],
+   "correct": 2,
+   "explanation": "Ghrelin promotes a sensation of hunger, increasing feeding behavior. Both leptin and cholecystokinin promote satiety, decreasing feeding behavior—eliminating (A) and (B) . Gastrin increases acid production and gastric motility, but does not have any significant relationship with feeding behavior, eliminating (D) ."
+  },
+  {
+   "q": "Which of the following is likely to be seen in a patient with liver failure?",
+   "choices": [
+    "High concentrations of urea in the blood",
+    "High concentrations of albumin in the blood",
+    "Low concentrations of ammonia in the blood",
+    "Low concentrations of clotting factors in the blood"
+   ],
+   "correct": 3,
+   "explanation": "The liver serves many functions, including carrying out metabolic processes (glycogenesis and glycogenolysis, fat storage, and gluconeogenesis), detoxification or activation of medications, and synthesis of bile. Germane to this question are the roles of converting ammonia into urea through the urea cycle and synthesis of proteins, including albumin and clotting factors. A patient with liver failure would thus not be able to convert ammonia into urea and would have high concentrations of ammonia and low concentrations of urea in the blood, eliminating (A) and (C) . With decreased synthetic activity, both albumin and clotting factor concentrations would be low, eliminating (B) and making (D) the correct answer."
+  }
+ ]
+}

@@ -1,0 +1,524 @@
+{
+ "id": 6,
+ "num": 6,
+ "title": "The Respiratory System",
+ "slug": "ch06_the_respiratory_system",
+ "sections": [
+  {
+   "title": "6.1 Anatomy and Mechanism of Breathing",
+   "goals": [
+    "Identify the muscles involved in inhalation and exhalation",
+    "Explain the purpose and function of surfactant",
+    "Recall the mathematical relationships between vital capacity, inspiratory reserve volume, expiratory reserve volume, and tidal volume",
+    "Predict how the brain will alter respiratory rate in response to changing blood levels of O 2 and CO 2",
+    "Order the structures in the pathway that air uses to enter the body, from the nares to the alveoli"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch06_the_respiratory_system/06_01a_labeled_nasal_cavity_pharynx_larynx_trac.png",
+     "alt": "labeled: nasal cavity, pharynx, larynx, trachea, left and right bronchi, lobes of lungs and fissures between lobes",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch06_the_respiratory_system/06_01b_labeled_trachea_parietal_and_visceral_pl.png",
+     "alt": "labeled: trachea, parietal and visceral pleurae, intrapleural space, lungs, chest wall",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch06_the_respiratory_system/06_01c_inhalation_diaphragm_contracted_chest_wa.png",
+     "alt": "inhalation: diaphragm contracted; chest wall and rib cage expanded. exhalation: diaphragm relaxed; chest wall and rib cage contracted.",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch06_the_respiratory_system/06_01d_labeled_total_lung_capacity_tidal_volume.png",
+     "alt": "labeled: total lung capacity, tidal volume, expiratory and inspiratory reserve volumes, vital capacity, residual volume",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "The lungs are located in the thoracic cavity , the structure of which is specially designed to perform breathing."
+    },
+    {
+     "t": "h",
+     "x": "Anatomy"
+    },
+    {
+     "t": "p",
+     "x": "The anatomy of the respiratory system is summarized in Figure 6.1. Gas exchange occurs in the lungs. Air enters the respiratory tract through the external nares of the nose and then passes through the nasal cavity, where it is filtered by mucous membranes and nasal hairs ( vibrissae )."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "The nose and mouth serve several important roles in breathing by removing dirt and particulate matter from the air and warming and humidifying it before it reaches the lungs."
+    },
+    {
+     "t": "p",
+     "x": "Next, air passes into the pharynx and the larynx. The pharynx resides behind the nasal cavity and at the back of the mouth; it is a common pathway for both air destined for the lungs and food destined for the esophagus. In contrast, the larynx lies below the pharynx and is only a pathway for air. To keep food out of the respiratory tract, the opening of the larynx ( glottis ) is covered by the epiglottis during swallowing. The larynx contains two vocal cords that are maneuvered using skeletal muscle and cartilage. From the larynx, air passes into the cartilaginous trachea and then into one of the two mainstem bronchi . The bronchi and trachea contain ciliated epithelial cells to catch material that has made it past the mucous membranes in the nose and mouth."
+    },
+    {
+     "t": "p",
+     "x": "In the lungs , the bronchi continue to divide into smaller structures known as bronchioles , which divide further until they end in the tiny balloon-like structures in which gas exchange occurs ( alveoli ). Each alveolus is coated with surfactant , a detergent that lowers surface tension and prevents the alveolus from collapsing on itself. A network of capillaries surrounds each alveolus to carry oxygen and carbon dioxide. The branching and minute size of the alveoli allow for an exceptionally large surface area for gas exchange—approximately 100 m 2 in total."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "The left lung has a small indentation, making it slightly smaller than the right lung. It also contains only two lobes, while the right lung contains three. Why might this be? It is due to the position of the heart in the thoracic cavity."
+    },
+    {
+     "t": "p",
+     "x": "The lungs themselves are contained in the thoracic cavity, which also contains the heart. The chest wall forms the outside of the thoracic cavity. Membranes known as pleurae surround each lung, as shown in Figure 6.2. The pleura forms a closed sac against which the lung expands. The surface adjacent to the lung is the visceral pleura , and the outer part is the parietal pleura ."
+    },
+    {
+     "t": "p",
+     "x": "The lungs do not fill passively, and require skeletal muscle to generate the negative pressure for expansion. The most important of these muscles is the diaphragm , a thin, muscular structure that divides the thoracic (chest) cavity from the abdominal cavity. The diaphragm is under somatic control, even though breathing itself is under autonomic control. In addition, muscles of the chest wall, back, and neck may also participate in breathing, especially when breathing is labored due to a pathologic condition."
+    },
+    {
+     "t": "h",
+     "x": "Breathing"
+    },
+    {
+     "t": "p",
+     "x": "Before we discuss breathing itself, it is worth taking a closer look at the relationship between the pleurae and the lungs. Imagine that you have a large, partially deflated balloon. Now, imagine taking your fist and pushing it against the balloon so that the balloon comes up and surrounds your hand. This is analogous to a lung and its pleura. Our fist is the lung, and the balloon represents both pleural layers. The side directly touching our fist is the visceral pleura, and the outer layer is the parietal pleura, which is associated with the chest wall in real life. The space within the sac is referred to as the intrapleural space , which contains a thin layer of fluid. This pleural fluid helps lubricate the two pleural surfaces. The pressure differentials that can be created across the pleura ultimately drive breathing, as we explore in the next section."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "The intrapleural space is an example of a potential space—a space that is normally empty or collapsed. In some pathologic states, that potential space can be expanded by fluid or air that accumulates between the two pleural layers. For example, in a pleural effusion, fluid accumulates in the intrapleural space. In a pneumothorax, air collects here. Each of these states disturbs the normal mechanics of the breathing apparatus and can cause atelectasis, or lung collapse."
+    },
+    {
+     "t": "p",
+     "x": "Let’s turn to the mechanics of ventilation, which are grounded in physics. As discussed in Chapters 2 and 3 of MCAT Physics and Math Review , we can use pressure to do useful work in a system. Here, we use pressure differentials between the intrapleural space and the lungs to drive air into the lungs."
+    },
+    {
+     "t": "h",
+     "x": "Inhalation"
+    },
+    {
+     "t": "p",
+     "x": "Inhalation is an active process. We use our diaphragm as well as the external intercostal muscles (one of the layers of muscles between the ribs) to expand the thoracic cavity, as shown in Figure 6.3. As the diaphragm flattens and the chest wall expands outward, the intrathoracic volume (the volume of the chest cavity) increases. Specifically, because the intrapleural space most closely abuts the chest wall, its volume increases first. Can we predict what will happen to intrapleural pressure? From our understanding of Boyle’s law, an increase in intrapleural volume leads to a decrease in intrapleural pressure."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "Boyle’s law states that, at a constant temperature, the pressure and volume of gases are inversely related. This is the principle underlying negative-pressure breathing: as the chest wall expands, the pressure in the lungs drops, and air is drawn into the lungs."
+    },
+    {
+     "t": "p",
+     "x": "Now we have low pressure in the intrapleural space. What about inside the lungs? The gas in the lungs is initially at atmospheric pressure, which is now higher than the pressure in the intrapleural space. The lungs will therefore expand into the intrapleural space, and the pressure in the lungs will drop. Air will then be sucked in from a higher-pressure environment—the outside world. This mechanism is referred to as negative-pressure breathing because the driving force is the lower (relatively negative) pressure in the intrapleural space compared with the lungs."
+    },
+    {
+     "t": "h",
+     "x": "Exhalation"
+    },
+    {
+     "t": "p",
+     "x": "Unlike inhalation, exhalation does not have to be an active process. Simple relaxation of the external intercostal muscles will reverse the processes we discussed in the last paragraph. As the diaphragm and external intercostals relax, the chest cavity decreases in volume. What will happen to pressure in the intrapleural space? It will go up, again explained by Boyle’s law. Now pressure in the intrapleural space is higher than in the lungs, which is still at atmospheric pressure. Thus, air will be pushed out, resulting in exhalation. During active tasks, we can speed this process up by using the internal intercostal muscles and abdominal muscles, which oppose the external intercostals and pull the rib cage down. This actively decreases the volume of the thoracic cavity. Finally, recall that surfactant prevents the complete collapse of the alveoli during exhalation by reducing surface tension at the alveolar surface."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Inhalation and exhalation require different amounts of energy expenditure. Muscle contraction is required to create the negative pressure in the thoracic cavity that forces air into the lungs during inspiration. Expiration during calm states is entirely due to elastic recoil of the lungs and the musculature. During more active states, the muscles can be used to force air out and speed up the process of ventilation."
+    },
+    {
+     "t": "p",
+     "x": "Remember the balloon analogy from before. The lungs have a resilient, elastic quality and are attached via the pleurae to the chest wall. The chest wall expands on inhalation, pulling the lungs with it and creating the pressure differential required for inhalation. As the chest wall relaxes, the lungs recoil due to the intrinsic elastic quality of the lungs and surface tension in the alveoli, accentuating the relaxation process. When the lungs recoil, their volume becomes smaller, and the pressure increases. Now the pressure inside the lungs is higher than the outside pressure, and exhalation occurs. Note that the indirect connection of the lungs to the chest wall also prevents them from collapsing completely on recoil, like surfactant."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Emphysema is a disease characterized by the destruction of the alveolar walls. This results in reduced elastic recoil of the lungs, making the process of exhalation extremely difficult. Most cases of emphysema are caused by cigarette smoking."
+    },
+    {
+     "t": "h",
+     "x": "Lung Capacities and Volumes"
+    },
+    {
+     "t": "p",
+     "x": "In pulmonology (the medical field associated with the lungs and breathing), we frequently must assess lung capacities and volumes—but we don’t have the luxury of removing an individual’s lungs to do so. One instrument used to measure these quantities is a spirometer . While a spirometer cannot measure the amount of air remaining in the lung after complete exhalation (residual volume), it provides a number of measures that are useful in clinical medicine."
+    },
+    {
+     "t": "p",
+     "x": "Commonly tested lung volumes include:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Total lung capacity ( TLC ): The maximum volume of air in the lungs when one inhales completely; usually around 6 to 7 liters",
+      "Residual volume ( RV ): The volume of air remaining in the lungs when one exhales completely",
+      "Vital capacity ( VC ): The difference between the minimum and maximum volume of air in the lungs (TLC – RV)",
+      "Tidal volume ( TV ): The volume of air inhaled or exhaled in a normal breath",
+      "Expiratory reserve volume ( ERV ): The volume of additional air that can be forcibly exhaled after a normal exhalation",
+      "Inspiratory reserve volume ( IRV ): The volume of additional air that can be forcibly inhaled after a normal inhalation"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "These different lung volumes and capacities can be seen in Figure 6.4."
+    },
+    {
+     "t": "h",
+     "x": "Regulation of Breathing"
+    },
+    {
+     "t": "p",
+     "x": "Breathing requires input from our nervous control center. Ventilation is primarily regulated by a collection of neurons in the medulla oblongata called the ventilation center that fire rhythmically to cause regular contraction of respiratory muscles. These neurons contain chemoreceptors that are primarily sensitive to carbon dioxide concentration. As the partial pressure of carbon dioxide in the blood rises ( hypercarbia or hypercapnia ), the respiratory rate will increase so that more carbon dioxide is exhaled, causing carbon dioxide levels in the blood to fall. These cells also respond to changes in oxygen concentration, although this tends to have significance only during periods of significant hypoxemia (low oxygen concentration in the blood)."
+    },
+    {
+     "t": "p",
+     "x": "We can, to a limited extent, control our breathing consciously. We can choose to breathe more rapidly or slowly; however, extended periods of hypoventilation would lead to increased carbon dioxide levels and an override by the medulla oblongata (which would jump-start breathing). The opposite process (hyperventilation) would blow off too much carbon dioxide and ultimately inhibit ventilation."
+    }
+   ]
+  },
+  {
+   "title": "6.2 Functions of the Respiratory System",
+   "goals": [
+    "Describe the mechanisms used in the respiratory system to prevent infection",
+    "Recall the chemical equation for the bicarbonate buffer system",
+    "Predict how blood pH will change in response to changing concentrations of O 2 or CO 2"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch06_the_respiratory_system/06_02a_pulmonary_arteriole_from_right_ventricle.png",
+     "alt": "pulmonary arteriole from right ventricle with deoxygenated blood reaching alveolus and becoming oxygenated, travels back to left atrium in pulmonary venule",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "No organ system functions alone. The lungs function in gas exchange, but this is only part of the respiratory story. The lungs are lined with a tremendous number of capillaries that can also be used in thermoregulation. The lungs also represent a pathway into the body and serve an immune function to prevent invaders from gaining access to the bloodstream. Finally, the lungs also allow for control of blood pH by controlling carbon dioxide concentrations. Therefore, the lungs are integrated with many other body systems, including the cardiovascular, immune, renal, and nervous systems."
+    },
+    {
+     "t": "h",
+     "x": "Gas Exchange"
+    },
+    {
+     "t": "p",
+     "x": "Gas exchange is, of course, the primary function of the lungs. Each alveolus is surrounded by a network of capillaries. The capillaries bring deoxygenated blood from the pulmonary arteries , which originate from the right ventricle of the heart. The walls of the alveoli are only one cell thick, which facilitates the diffusion of carbon dioxide from the blood into the lungs, and oxygen into the blood. The oxygenated blood returns to the left atrium of the heart via the pulmonary veins ."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Diffusion of gases occurs across a very thin membrane between the alveolus and the capillary. However, certain diseases may cause fibrosis, or scarring, of this membrane, resulting in less effective diffusion. Other diseases may cause a limitation of ventilation (gas flow) or perfusion (blood flow) to the lung. All of these mechanisms can cause hypoxia—low blood oxygen levels—although they accomplish that same end result through different means."
+    },
+    {
+     "t": "p",
+     "x": "The driving force for gas exchange is the pressure differential of the gases. When it initially arrives at the alveoli, blood has a relatively low partial pressure of oxygen and a relatively high partial pressure of carbon dioxide, facilitating transfer of each down its respective concentration gradient, as shown in Figure 6.5. Because the gradient between the blood and air in the lungs is already present as the blood enters the lungs, no energy is required for gas transfer."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "O 2 in the alveoli flows down its partial pressure gradient from the alveoli into the pulmonary capillaries, where it can bind to hemoglobin for transport. Meanwhile, CO 2 flows down its partial pressure gradient from the capillaries into the alveoli for expiration."
+    },
+    {
+     "t": "p",
+     "x": "How would our respiratory systems adjust if we moved to higher altitudes where less oxygen is available? First, we would breathe more rapidly to try to avoid hypoxia; second, the binding dynamics of hemoglobin to oxygen would be altered to facilitate the unloading of oxygen at the tissues. As we will discuss in Chapter 7 of MCAT Biology Review , the natural response of hemoglobin to the decreased carbon dioxide concentration in the environment would actually be to decrease the unloading of oxygen to tissues, so other mechanisms must counteract and override this phenomenon. In the short term, the body can make more red blood cells to ensure the adequate delivery of oxygen. In the long term, the body could develop more blood vessels (vascularization), which would facilitate the distribution of oxygen to tissues."
+    },
+    {
+     "t": "h",
+     "x": "Thermoregulation"
+    },
+    {
+     "t": "p",
+     "x": "In order to maximize gas exchange, there is a tremendous surface area over which the alveoli and capillaries interact. Because the entire respiratory tract is highly vascular, it can also be used for thermoregulation , or the regulation of body temperature. Heat—the transfer of thermal energy—is regulated via the body surfaces by vasodilation and vasoconstriction . As capillaries expand, more blood can pass through these vessels, and a larger amount of thermal energy can be dissipated. As capillaries contract, less blood can pass through them, conserving thermal energy. Nasal and tracheal capillaries are most frequently used for these purposes within the respiratory system. While these capillary beds provide a mechanism for thermoregulation, humans predominantly regulate temperature using capillaries and sweat glands in the skin, or rapid muscle contraction (shivering). The respiratory system can also transfer heat to the environment through evaporation of water in mucous secretions. Other animals, such as dogs, take advantage of this cooling mechanism by panting ."
+    },
+    {
+     "t": "h",
+     "x": "Immune Function"
+    },
+    {
+     "t": "p",
+     "x": "As mentioned above, the lungs provide a large interface for the body to interact with the outside world. While this is important for gas exchange and thermoregulation, it also comes with potential risks—pathogens such as bacteria, viruses, and fungi can cause infections in the lung, or can gain access to the body through the rich vascularity of the alveolar membranes. By necessity, the lungs must be able to fight off potential invaders. The first line of defense is the nasal cavity, which has small hairs (vibrissae) that help to trap particulate matter and potentially infectious particles. The nasal cavity also contains an enzyme called lysozyme . Also found in tears and saliva, lysozyme is able to attack the peptidoglycan walls of gram-positive bacteria. The internal airways are lined with mucus, which traps particulate matter and larger invaders. Underlying cilia then propel the mucus up the respiratory tract to the oral cavity, where it can be expelled or swallowed; this mechanism is called the mucociliary escalator ."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Pneumonia is an infection of the lung most often caused by bacteria or viruses. Atypical pneumonia , commonly called walking pneumonia (because the infection does not require hospitalization and does not leave the patient bedridden), is often caused by a very small bacterium called Mycoplasma pneumoniae . This bacterium causes a prolonged cough because it damages epithelial cells lining the lung and paralyzes the cilia lining the respiratory tract. The lack of cilia makes it much more difficult to clear mucus from the lungs. The cough lasts until the respiratory epithelial cells have recovered and the cilia are once again functional."
+    },
+    {
+     "t": "p",
+     "x": "The lungs, especially the alveoli, also contain numerous immune cells, including macrophages. Macrophages can engulf and digest pathogens and signal to the rest of the immune system that there is an invader. Mucosal surfaces also contain IgA antibodies that help to protect against pathogens that contact the mucous membranes. Finally, mast cells also populate the lungs. These cells have preformed antibodies on their surfaces. When the right substance attaches to the antibody, the mast cell releases inflammatory chemicals into the surrounding area to promote an immune response. Unfortunately, these antibodies are often reactive to substances such as pollen and molds, so mast cells also provide the inflammatory chemicals that mediate allergic reactions."
+    },
+    {
+     "t": "h",
+     "x": "Control of p H"
+    },
+    {
+     "t": "p",
+     "x": "The respiratory system plays a role in pH balance through the bicarbonate buffer system in the blood:"
+    },
+    {
+     "t": "callout",
+     "kind": "warn",
+     "title": "MCAT Expertise",
+     "x": "The division within the sciences is largely artificial; the MCAT often contains questions that integrate multiple science disciplines. A question located in the Biological and Biochemical Foundations of Living Systems section may require knowledge of general chemistry. In fact, 10% of this section is chemistry: 5% general chemistry and 5% organic chemistry."
+    },
+    {
+     "t": "p",
+     "x": "Questions regarding the bicarbonate buffer system are MCAT favorites, and you are very likely to see it in some form on Test Day. This equation represents an opportunity for the MCAT to test understanding of basic chemistry concepts, such as Le Châtelier’s principle, as well as how disturbances in pH may affect respiration."
+    },
+    {
+     "t": "p",
+     "x": "The body attempts to maintain a pH between 7.35 and 7.45. When the pH is lower, and hydrogen ion concentration is higher ( acidemia ), acid-sensing chemoreceptors just outside the blood–brain barrier send signals to the brain to increase the respiratory rate. Further, an increasing hydrogen ion concentration will cause a shift in the bicarbonate buffer system, generating additional carbon dioxide. As described earlier, the respiratory centers in the brain are sensitive to this increasing partial pressure of carbon dioxide and will also promote an increase in respiratory rate."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Metabolic acidosis—a condition of excess acid by any mechanism besides hypoventilation—is a common occurrence in medicine. Anaerobic respiration can generate lactic acid; individuals with type 1 diabetes mellitus can produce ketoacids when they are hypoinsulinemic; certain poisons, like methanol and formaldehyde, can produce organic acids. In each of these cases, one of the primary methods of compensation is increasing respiration rate."
+    },
+    {
+     "t": "p",
+     "x": "As the respiratory rate increases, more carbon dioxide is blown off. This will also push the buffer equation to the left, but notice the difference: the shift to the left in the previous paragraph was caused by an increase in hydrogen ion concentration, which elevated the concentration of carbon dioxide. Here, the removal of carbon dioxide causes a shift to the left that allows the hydrogen ion concentration to drop back to normal."
+    },
+    {
+     "t": "p",
+     "x": "If the blood is too basic ( alkalemia ), then the body will seek to increase acidity. How can the lungs contribute to this? If the respiratory rate is slowed, then more carbon dioxide will be retained, shifting the buffer equation to the right and producing more hydrogen ions and bicarbonate ions. This results in a lower pH."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "If H + is an acid and is a base, then why doesn’t increasing both of them yield a constant pH? The reason is that H + is a strong acid, while is a weak base. Just like a titration, discussed in Chapter 10 of MCAT General Chemistry Review , this combination will shift the pH of the solution toward the acidic range."
+    },
+    {
+     "t": "p",
+     "x": "Overall, the lungs play a role in the immediate adjustment of carbon dioxide levels and, by extension, hydrogen ion levels. However, the lungs do not work alone to maintain proper pH. The kidneys also play a role by modulating secretion and reabsorption of acid and base within the nephron. This is a much slower response, however, and represents long-term compensation. For more information on kidney function and homeostasis, see Chapter 10 of MCAT Biology Review ."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "This equation is essential to Test Day success: It is likely to be tested in both the Biological and Biochemical Foundations of Living Systems and the Chemical and Physical Foundations of Biological Systems sections."
+    }
+   ]
+  }
+ ],
+ "conceptSummary": [
+  {
+   "section": "Anatomy and Mechanism of Breathing",
+   "points": [
+    "Air is drawn in through the nares , and through the nasal cavity and pharynx , where it is warmed and humidified. It is filtered by nasal hairs ( vibrissae ) and mucous membranes. It then enters the larynx , followed by the trachea . The trachea divides into two mainstem bronchi , which divide into bronchioles , which divide into continually smaller passages until they reach the alveoli.",
+    "Alveoli are small sacs that interface with the pulmonary capillaries, allowing gases to diffuse across a one-cell-thick membrane.",
+    "Surfactant in the alveoli reduces surface tension at the liquid–gas interface, preventing collapse.",
+    "The pleurae cover the lungs and line the chest wall. The visceral pleura lies adjacent to the lung itself. The parietal pleura lines the chest wall. The intrapleural space lies between these two layers and contains a thin layer of fluid that lubricates the two pleural surfaces.",
+    "The visceral pleura lies adjacent to the lung itself.",
+    "The parietal pleura lines the chest wall.",
+    "The intrapleural space lies between these two layers and contains a thin layer of fluid that lubricates the two pleural surfaces.",
+    "The diaphragm is a thin skeletal muscle that helps to create the pressure differential required for breathing.",
+    "Inhalation is an active process. The diaphragm and external intercostal muscles expand the thoracic cavity, increasing the volume of the intrapleural space. This decreases the intrapleural pressure. This pressure differential ultimately expands the lungs, dropping the pressure within and drawing in air from the environment. This mechanism is termed negative-pressure breathing .",
+    "The diaphragm and external intercostal muscles expand the thoracic cavity, increasing the volume of the intrapleural space. This decreases the intrapleural pressure.",
+    "This pressure differential ultimately expands the lungs, dropping the pressure within and drawing in air from the environment. This mechanism is termed negative-pressure breathing .",
+    "Exhalation may be passive or active. In passive exhalation, relaxation of the muscles of inspiration and elastic recoil of the lungs allow the chest cavity to decrease in volume, reversing the pressure differentials seen in inhalation. In active exhalation, the internal intercostal muscles and abdominal muscles can be used to forcibly decrease the volume of the thoracic cavity, pushing out air.",
+    "In passive exhalation, relaxation of the muscles of inspiration and elastic recoil of the lungs allow the chest cavity to decrease in volume, reversing the pressure differentials seen in inhalation.",
+    "In active exhalation, the internal intercostal muscles and abdominal muscles can be used to forcibly decrease the volume of the thoracic cavity, pushing out air.",
+    "A spirometer can be used to measure lung capacities and volumes. Total lung capacity ( TLC ) is the maximum volume of air in the lungs when one inhales completely. Residual volume ( RV ) is the volume of air remaining in the lungs when one exhales completely. Vital capacity ( VC ) is the difference between the minimum and maximum volume of air in the lungs. Tidal volume ( TV ) is the volume of air inhaled or exhaled in a normal breath. Expiratory reserve volume ( ERV ) is the volume of additional air that can be forcibly exhaled after a normal exhalation. Inspiratory reserve volume ( IRV ) is the volume of additional air that can be forcibly inhaled after a normal inhalation.",
+    "Total lung capacity ( TLC ) is the maximum volume of air in the lungs when one inhales completely.",
+    "Residual volume ( RV ) is the volume of air remaining in the lungs when one exhales completely.",
+    "Vital capacity ( VC ) is the difference between the minimum and maximum volume of air in the lungs.",
+    "Tidal volume ( TV ) is the volume of air inhaled or exhaled in a normal breath.",
+    "Expiratory reserve volume ( ERV ) is the volume of additional air that can be forcibly exhaled after a normal exhalation.",
+    "Inspiratory reserve volume ( IRV ) is the volume of additional air that can be forcibly inhaled after a normal inhalation.",
+    "Ventilation is regulated by the ventilation center , a collection of neurons in the medulla oblongata. Chemoreceptors respond to carbon dioxide concentrations, increasing the respiratory rate when there is a high concentration of carbon dioxide in the blood ( hypercarbia or hypercapnia ). The ventilation center can also respond to low oxygen concentrations in the blood ( hypoxemia ) by increasing ventilation rate. Ventilation can also be controlled consciously through the cerebrum, although the medulla oblongata will override the cerebrum during extended periods of hypo- or hyperventilation.",
+    "Chemoreceptors respond to carbon dioxide concentrations, increasing the respiratory rate when there is a high concentration of carbon dioxide in the blood ( hypercarbia or hypercapnia ).",
+    "The ventilation center can also respond to low oxygen concentrations in the blood ( hypoxemia ) by increasing ventilation rate.",
+    "Ventilation can also be controlled consciously through the cerebrum, although the medulla oblongata will override the cerebrum during extended periods of hypo- or hyperventilation."
+   ]
+  },
+  {
+   "section": "Functions of the Respiratory System",
+   "points": [
+    "The lungs perform gas exchange with the blood through simple diffusion across concentration gradients. Deoxygenated blood with a high carbon dioxide concentration is brought to the lungs via the pulmonary arteries . Oxygenated blood with a low carbon dioxide concentration leaves the lungs via the pulmonary veins .",
+    "Deoxygenated blood with a high carbon dioxide concentration is brought to the lungs via the pulmonary arteries .",
+    "Oxygenated blood with a low carbon dioxide concentration leaves the lungs via the pulmonary veins .",
+    "The large surface area of interaction between the alveoli and capillaries allows the respiratory system to assist in thermoregulation through vasodilation and vasoconstriction of capillary beds.",
+    "The respiratory system must be protected from potential pathogens. Multiple mechanisms, including vibrissae, mucous membranes, and the mucociliary escalator , help filter the incoming air and trap particulate matter. Lysozyme in the nasal cavity and saliva attacks peptidoglycan cell walls of gram-positive bacteria. Macrophages can engulf and digest pathogens and signal to the rest of the immune system that there is an invader. Mucosal surfaces are covered with IgA antibodies. Mast cells have antibodies on their surface that, when triggered, can promote the release of inflammatory chemicals. Mast cells are often involved in allergic reactions as well.",
+    "Multiple mechanisms, including vibrissae, mucous membranes, and the mucociliary escalator , help filter the incoming air and trap particulate matter.",
+    "Lysozyme in the nasal cavity and saliva attacks peptidoglycan cell walls of gram-positive bacteria.",
+    "Macrophages can engulf and digest pathogens and signal to the rest of the immune system that there is an invader.",
+    "Mucosal surfaces are covered with IgA antibodies.",
+    "Mast cells have antibodies on their surface that, when triggered, can promote the release of inflammatory chemicals. Mast cells are often involved in allergic reactions as well.",
+    "The respiratory system is involved in pH control through the bicarbonate buffer system. When blood pH decreases, respiration rate increases to compensate by blowing off carbon dioxide. This causes a left shift in the buffer equation, reducing hydrogen ion concentration. When blood pH increases, respiration rate decreases to compensate by trapping carbon dioxide. This causes a right shift in the buffer equation, increasing hydrogen ion concentration.",
+    "When blood pH decreases, respiration rate increases to compensate by blowing off carbon dioxide. This causes a left shift in the buffer equation, reducing hydrogen ion concentration.",
+    "When blood pH increases, respiration rate decreases to compensate by trapping carbon dioxide. This causes a right shift in the buffer equation, increasing hydrogen ion concentration."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "All of the following facilitate gas exchange in the lungs EXCEPT:",
+   "choices": [
+    "thin alveolar walls.",
+    "multiple subdivisions of the respiratory tree.",
+    "differences in the partial pressures of O 2 and CO 2 .",
+    "active transporters in alveolar cells."
+   ],
+   "correct": 3,
+   "explanation": "Gas exchange in the lungs relies on passive diffusion of oxygen and carbon dioxide. This is accomplished easily because there is always a difference in the partial pressures of these two gases and because the subdivision of the respiratory tree creates a large surface area of interaction between the alveoli and the circulatory system. In addition, the thin alveolar walls allow for fast diffusion and gas exchange. Therefore, (A) , (B) , and (C) can be eliminated. (D) is the correct answer because active transport is not used in the gas exchange process in the lungs."
+  },
+  {
+   "q": "Which of the following associations correctly pairs a stage of respiration with the muscle actions occurring during that stage?",
+   "choices": [
+    "Inhalation—diaphragm relaxes",
+    "Inhalation—internal intercostal muscles contract",
+    "Exhalation—diaphragm contracts",
+    "Exhalation—external intercostal muscles relax"
+   ],
+   "correct": 3,
+   "explanation": "The muscles involved in ventilation are the diaphragm, which separates the thoracic cavity from the abdominal cavity, and the intercostal muscles. During inhalation, the diaphragm contracts and flattens, while the external intercostal muscles contract, pulling the rib cage up and out. These actions cause an overall increase in the volume of the thoracic cavity. During exhalation, both the diaphragm and the external intercostals relax, causing a decrease in the volume of the thoracic cavity because of the recoil of these tissues. In forced exhalation, the internal intercostals and abdominal muscles may contract to force out air. Thus, the only correct association from the given answers is (D) ."
+  },
+  {
+   "q": "Total lung capacity is equal to the vital capacity plus the:",
+   "choices": [
+    "tidal volume.",
+    "expiratory reserve volume.",
+    "residual volume.",
+    "inspiratory reserve volume."
+   ],
+   "correct": 2,
+   "explanation": "Total lung capacity is equal to the vital capacity (the maximum volume of air that can be forcibly inhaled and exhaled from the lungs) plus the residual volume (the air that always remains in the lungs, preventing the alveoli from collapsing)."
+  },
+  {
+   "q": "The intrapleural pressure is necessarily lower than the atmospheric pressure during:",
+   "choices": [
+    "inhalation, because the expansion of the chest cavity causes compression of the intrapleural space, decreasing its pressure.",
+    "inhalation, because the expansion of the chest cavity causes expansion of the intrapleural space, decreasing its pressure.",
+    "exhalation, because the compression of the chest cavity causes compression of the intrapleural space, decreasing its pressure.",
+    "exhalation, because the compression of the chest cavity causes expansion of the intrapleural space, decreasing its pressure."
+   ],
+   "correct": 1,
+   "explanation": "During inhalation, the chest cavity expands, causing expansion of the intrapleural space. According to Boyle’s law, an increase in volume at a constant temperature is accompanied by a decrease in pressure. When the intrapleural pressure (and, by extension, the alveolar pressure) is less than atmospheric pressure, air enters the lungs. During exhalation, these pressure gradients reverse; thus, during exhalation, intrapleural pressure is higher than atmospheric pressure, not lower."
+  },
+  {
+   "q": "A patient presents to the emergency room with a stab wound to the left side of the chest. On a chest x-ray, blood is noted to be collecting in the chest cavity, causing collapse of both lobes of the left lung. The blood is most likely located between:",
+   "choices": [
+    "the parietal pleura and the chest wall.",
+    "the parietal pleura and the visceral pleura.",
+    "the visceral pleura and the lung.",
+    "the alveolar walls and the lung surface."
+   ],
+   "correct": 1,
+   "explanation": "The intrapleural space, bounded by the parietal and visceral pleurae, is a potential space. As such, it is normally collapsed and contains a small amount of fluid. However, introduction of fluid or air into the intrapleural space can fill the space, causing collapse of the lung. The other options listed are too firmly apposed to permit blood to collect in these spaces."
+  },
+  {
+   "q": "Each of the following statements regarding the anatomy of the respiratory system is true EXCEPT:",
+   "choices": [
+    "the epiglottis covers the glottis during swallowing to ensure that food does not enter the trachea.",
+    "the trachea and bronchi are lined by ciliated epithelial cells.",
+    "the pharynx contains two vocal cords, which are controlled by skeletal muscle and cartilage.",
+    "the nares are lined with vibrissae, which help filter out particulate matter from inhaled air."
+   ],
+   "correct": 2,
+   "explanation": "The pharynx, which lies behind the nasal cavity and oral cavity, is a common pathway for food entering the digestive system and air entering the respiratory system. It is the larynx that contains the vocal cords, not the pharynx."
+  },
+  {
+   "q": "Which of the following is a correct sequence of passageways through which air travels during inhalation?",
+   "choices": [
+    "Pharynx → trachea → bronchioles → bronchi → alveoli",
+    "Pharynx → trachea → larynx → bronchi → alveoli",
+    "Larynx → pharynx → trachea → bronchi → alveoli",
+    "Pharynx → larynx → trachea → bronchi → alveoli"
+   ],
+   "correct": 3,
+   "explanation": "Air enters the respiratory tract through the external nares (nostrils) and travels through the nasal cavities. It then passes through the pharynx and into the larynx. Ingested food also passes through the pharynx on its way to the esophagus; to ensure that food does not accidentally enter the larynx, the epiglottis covers the larynx during swallowing. After the larynx, air goes to the trachea, which eventually divides into two bronchi, one for each lung. The bronchi branch into smaller bronchioles, which terminate in clusters of alveoli. From the given sequences, only (D) correctly describes the sequence of the passages through which air travels."
+  },
+  {
+   "q": "Idiopathic pulmonary fibrosis (IPF) is a disease in which scar tissue forms in the alveolar walls, making the lung tissue significantly more stiff. Which of the following findings would likely be detected through spirometry in a patient with IPF?",
+   "choices": [
+    "Decreased total lung capacity",
+    "Decreased inspiratory reserve volume",
+    "Increased residual volume"
+   ],
+   "correct": 1,
+   "explanation": "In a patient with IPF, the increased stiffness of the lungs would likely decrease the volume of air the individual could inhale, which would decrease both the total lung capacity and inspiratory reserve volume. However, spirometry cannot measure the total lung capacity accurately because it cannot determine the residual volume—the volume of air left in the lungs when an individual has maximally exhaled. Because the residual volume makes up a portion of the total lung capacity (total lung capacity = vital capacity + residual volume), a spirometer cannot be used to determine the total lung capacity. Therefore, while Statement I is a true statement about individuals with IPF, it cannot appear in the answer choice. Finally, increased stiffness of the lungs would be expected to decrease the residual volume, not increase it; further, residual volume, as described above, cannot be measured with a spirometer."
+  },
+  {
+   "q": "Studies have indicated that premature babies are often deficient in lysozyme. What is a possible consequence of this deficiency?",
+   "choices": [
+    "Respiratory distress and alveolar collapse shortly after birth",
+    "Increased susceptibility to certain infections",
+    "Inability to humidify air as it passes through the nasal cavity",
+    "Slowing of the respiratory rate in response to acidemia"
+   ],
+   "correct": 1,
+   "explanation": "Lysozyme is an enzyme present in the nasal cavity, saliva, and tears that degrades peptidoglycan, preventing infection by gram-positive bacteria. Thus, premature infants who lack lysozyme are more likely to suffer from infections with these organisms."
+  },
+  {
+   "q": "Some forms of pneumonia cause an excess of fluids such as mucus or pus to build up within an entire lobe of the lung. How will this affect the diffusion of gases within the affected area?",
+   "choices": [
+    "Carbon dioxide can diffuse out, but oxygen will not be able to enter the blood.",
+    "Oxygen can diffuse into the blood, but carbon dioxide cannot diffuse out.",
+    "No change in diffusion will occur.",
+    "No diffusion will occur in the affected area."
+   ],
+   "correct": 3,
+   "explanation": "If an area of the lung becomes filled with mucus and inflammatory cells, the area will not be able to participate in gas exchange. Because no air will enter or leave the area, the concentration gradient will no longer exist, and neither oxygen nor carbon dioxide will be able to diffuse across the alveolar wall."
+  },
+  {
+   "q": "Some people with anxiety disorders respond to stress by hyperventilating. It is recommended that these people breathe into a paper bag and then rebreathe this air. Why is this treatment appropriate?",
+   "choices": [
+    "Hyperventilation causes an increase in blood carbon dioxide, and breathing the air in the bag helps to readjust blood levels of carbon dioxide.",
+    "Hyperventilation causes a decrease in blood carbon dioxide, and breathing the air in the bag helps to readjust blood levels of carbon dioxide.",
+    "Hyperventilation causes an increase in blood oxygen, and breathing the air in the bag helps to readjust blood levels of oxygen.",
+    "Hyperventilation causes a decrease in blood oxygen, and breathing the air in the bag helps to readjust blood levels of oxygen."
+   ],
+   "correct": 1,
+   "explanation": "When people hyperventilate, their respiratory rate increases. When the respiratory rate increases, more carbon dioxide is blown off. This causes a shift to the left in the bicarbonate buffer equation, and the blood becomes more alkaline. Breathing into the bag allows some of this carbon dioxide to be returned to the bloodstream in order to maintain the proper pH."
+  },
+  {
+   "q": "A patient presents to the emergency room with an asthma attack. The patient has been hyperventilating for the past hour and has a blood pH of 7.52. The patient is given treatment and does not appear to respond, but a subsequent blood pH reading is 7.41. Why might this normal blood pH NOT be a reassuring sign?",
+   "choices": [
+    "The patient’s kidneys may have compensated for the alkalemia.",
+    "The normal blood pH reading is likely inaccurate.",
+    "The patient may be descending into respiratory failure.",
+    "The patient’s blood should ideally become acidemic for some time to compensate for the alkalemia."
+   ],
+   "correct": 2,
+   "explanation": "When a patient with an asthma attack does not respond to treatment and has been hyperventilating for over an hour, he or she may become fatigued and may not be able to maintain hyperventilation. In this case, the patient begins to decrease his or her breathing rate and is not receiving adequate oxygen. By extension, carbon dioxide is trapped in the blood, and the pH begins to drop. Despite the fact that this pH is normal at the moment, this patient is crashing and may start demonstrating acidemia in the near future. While the kidneys should compensate for alkalemia, this is a slow process and would not normalize the blood pH within an hour; further, adequate compensation by the kidneys would actually be a reassuring sign, eliminating (A) . There is no evidence to suggest that the measurement was inaccurate, eliminating (B) . Finally, after treatment, the patient should return to a normal blood pH with adequate ventilation and would not be expected to overcompensate by becoming acidemic, eliminating (D) ."
+  },
+  {
+   "q": "Premature infants with respiratory distress are often placed on ventilators. Often, the ventilators are set to provide positive end-expiratory pressure. Why might this setting be useful for a premature infant?",
+   "choices": [
+    "Premature infants lack surfactant.",
+    "Premature infants lack lysozyme.",
+    "Premature infants cannot thermoregulate.",
+    "Premature infants are unable to control pH."
+   ],
+   "correct": 0,
+   "explanation": "This question requires a few different levels of thinking. The question stem states that premature infants often require ventilation using positive end-expiratory pressures. While you are not expected to know ventilator settings for the MCAT, you should be able to decode what this phrase means: at the end of expiration, the ventilator will provide a higher pressure than normal, which forces extra air into the alveoli. This pressure must be used to prevent alveolar collapse, which should remind you that surfactant serves the same purpose by reducing surface tension. Thus, it makes sense that if premature babies lack surfactant, providing extra air pressure at the end of expiration would be beneficial."
+  },
+  {
+   "q": "In emphysema, the alveolar walls are destroyed, decreasing the recoil of the lung tissue. Which of the following changes may be seen in a patient with emphysema?",
+   "choices": [
+    "Increased residual volume",
+    "Decreased total lung capacity",
+    "Increased blood concentration of oxygen",
+    "Decreased blood concentration of carbon dioxide"
+   ],
+   "correct": 0,
+   "explanation": "The intrinsic elastic properties of the lung are important during exhalation as the passive recoil of lung tissue helps decrease lung volume. With decreased recoil, the patient will have difficulty exhaling completely, increasing the residual volume. The total lung capacity would be expected to increase in this case because there would be less recoil opposing inhalation, eliminating (B) . With decreased alveolar surface area, one would expect decreased gas exchange, which would decrease blood concentrations of oxygen while increasing blood concentrations of carbon dioxide, eliminating (C) and (D) ."
+  },
+  {
+   "q": "Allergic reactions occur due to an overactive immune response to a substance. Which cells within the respiratory tract play the largest role in the generation of allergic reactions?",
+   "choices": [
+    "Alveolar epithelial cells",
+    "Macrophages",
+    "Mast cells",
+    "Ciliated epithelial cells"
+   ],
+   "correct": 2,
+   "explanation": "Allergic reactions occur when a substance binds to an antibody and promotes an overactive immune response with inflammatory chemicals. The antibody is already attached to a mast cell. Thus, when the substance binds to the antibody, the mast cell can release the inflammatory mediators that cause allergic reactions."
+  }
+ ]
+}

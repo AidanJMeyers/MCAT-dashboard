@@ -1,0 +1,910 @@
+{
+ "id": 7,
+ "num": 7,
+ "title": "The Cardiovascular System",
+ "slug": "ch07_the_cardiovascular_system",
+ "sections": [
+  {
+   "title": "7.1 Anatomy of the Cardiovascular System",
+   "goals": [
+    "Recall the names of the chambers and valves of the heart",
+    "Describe the chain of events in the conduction system of the heart that leads to heartbeat generation",
+    "Identify autonomic inputs into the heart and their effects",
+    "Distinguish between arteries, capillaries, and veins",
+    "Explain why the right side of the heart is less muscular than the left side",
+    "Trace the flow of blood through the heart:"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch07_the_cardiovascular_system/07_01a_labeled_right_atrium_and_ventricle_pulmo.png",
+     "alt": "labeled: right atrium and ventricle; pulmonary artery, capillary bed, and vein; left atrium and ventricle; aorta, systemic circulation, and venae cavae",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch07_the_cardiovascular_system/07_01b_description_given_in_caption.png",
+     "alt": "description given in caption",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch07_the_cardiovascular_system/07_01c_labeled_p_q_r_s_and_t_pr_interval_pr_seg.png",
+     "alt": "labeled: P, Q, R, S, and T; PR interval, PR segment, QRS complex, QT interval, ST segment",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch07_the_cardiovascular_system/07_01d_vertical_comparison_of_aortic_pressure_l.png",
+     "alt": "vertical comparison of aortic pressure, left ventricular pressure, left atrial pressure, ventricular volume, heart sounds, and EKG",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch07_the_cardiovascular_system/07_01e_vein_venule_artery_arteriole_and_capilla.png",
+     "alt": "vein, venule, artery, arteriole, and capillary. labeled: lumen, endothelium, smooth muscle",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch07_the_cardiovascular_system/07_01f_description_given_in_preceding_text.png",
+     "alt": "description given in preceding text",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "The cardiovascular system consists of a muscular four-chambered heart , blood vessels , and blood , as shown in Figure 7.1. The heart acts as a pump, distributing blood through the vasculature. The vasculature consists of arteries, capillaries, and veins. After blood travels through veins, it is returned to the right side of the heart where it is pumped to the lungs to be reoxygenated. Then, the oxygenated blood returns to the left side of the heart where it is once again pumped to the rest of the body."
+    },
+    {
+     "t": "h",
+     "x": "The Heart"
+    },
+    {
+     "t": "p",
+     "x": "The heart is a four-chambered structure composed predominantly of cardiac muscle. We often speak of the heart as a pump, supporting a single circulatory system. However, the heart is actually composed of two pumps supporting two different circulations in series. The right side of the heart accepts deoxygenated blood returning from the body and moves it to the lungs by way of the pulmonary arteries; this constitutes the first pump ( pulmonary circulation ). The second pump is the left side of the heart, which receives oxygenated blood from the lungs by way of the pulmonary veins and forces it out to the body through the aorta ( systemic circulation )."
+    },
+    {
+     "t": "p",
+     "x": "Each side of the heart consists of an atrium and a ventricle. The atria are thin-walled structures where blood is received from either the venae cavae (deoxygenated blood entering the right heart) or the pulmonary veins (oxygenated blood entering the left heart). The atria contract to push blood into the ventricles . After the ventricles fill, they contract to send blood to the lungs (right ventricle) and the systemic circulation (left ventricle). Note that the ventricles are far more muscular than the atria, allowing for more powerful contractions that are necessary to push blood through the rest of the body."
+    },
+    {
+     "t": "p",
+     "x": "The atria are separated from the ventricles by the atrioventricular valves . Likewise, the ventricles are separated from the vasculature by the semilunar valves . These valves allow the heart muscle to create the pressure within the ventricles necessary to propel the blood forward within the circulation, while also preventing backflow of blood. The valve between the right atrium and the right ventricle is known as the tricuspid valve (three leaflets), while the valve between the left atrium and the left ventricle is known as the mitral or bicuspid valve (two leaflets). The valve that separates the right ventricle from the pulmonary circulation is known as the pulmonary valve , while the valve that separates the left ventricle from the aorta is known as the aortic valve . Both semilunar valves have three leaflets."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Atrioventricular valves: LAB RAT L eft A trium = B icuspid R ight A trium = T ricuspid"
+    },
+    {
+     "t": "p",
+     "x": "One of the central themes in biology is something that we’ve touched on already in previous chapters: structure and function are related. The right and left sides of the heart are two different pumps, with the right heart pumping blood to the lungs, and the left heart pumping blood into the systemic circulation. Blood leaving the left heart must travel a considerable distance, so blood pressure must be maintained as far away as the feet. Thus, the left heart is more muscular than the right heart. In fact, if the right heart were as muscular as the left and pumped blood as forcefully, this would damage the lungs."
+    },
+    {
+     "t": "h",
+     "x": "Electrical Conduction in the Heart"
+    },
+    {
+     "t": "p",
+     "x": "The coordinated, rhythmic contraction of cardiac muscle originates in an electrical impulse generated by and traveling through a pathway formed by four electrically excitable structures, as shown in Figure 7.2. This commonly tested pathway consists of, in order of excitation: the sinoatrial (SA) node, the atrioventricular (AV) node, the bundle of His (AV bundle) and its branches, and the Purkinje fibers. Impulse initiation occurs at the SA node , which generates 60–100 signals per minute without requiring any neurological input. This small collection of cells is located in the wall of the right atrium. As the depolarization wave spreads from the SA node, it causes the two atria to contract simultaneously. While most ventricular filling is passive (that is, blood moves from the atria to the ventricles based solely on ventricular relaxation), atrial systole (contraction) results in an increase in atrial pressure that forces a little more blood into the ventricles. This additional volume of blood is called the atrial kick and accounts for about 5–30 percent of cardiac output. Next, the signal reaches the AV node , which sits at the junction of the atria and ventricles. The signal is delayed here to allow the ventricles to fill completely before they contract. The signal then travels down the bundle of His and its branches, embedded in the interventricular septum (wall), and to the Purkinje fibers , which distribute the electrical signal through the ventricular muscle. The muscle cells are connected by intercalated discs , which contain many gap junctions directly connecting the cytoplasm of adjacent cells. This allows for coordinated ventricular contraction."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Cardiac muscle has myogenic activity, meaning that it can contract without any neurological input. The SA node generates about 60–100 beats per minute, even if all innervation to the heart is cut. The neurological input to the heart is important in speeding up and slowing the rate of contraction, but not generating it in the first place."
+    },
+    {
+     "t": "p",
+     "x": "The SA node has an intrinsic rhythm of 60–100 signals per minute, so the normal human heart rate is 60–100 beats per minute. Highly conditioned athletes may have heart rates significantly lower than 60, in the range of 40–50 beats per minute. Stress, exercise, excitement, surprise, or danger can cause the heart rate to rise significantly above 100."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "The heart’s electrical impulses can be detected on the body’s surface by placing electrodes on the skin on opposite sides of the heart. A recording of these currents is called an electrocardiogram (ECG or EKG; the K , by the way, reflects the German spelling). Electrocardiograms are incredibly powerful tools for assessing the status of a patient’s heart. A normal EKG is shown below. Depolarization precedes cardiac muscle contraction, so the electrical spikes of the EKG occur just before a cardiac contractile event. The P-wave occurs immediately before the atria contract, and the QRS complex occurs just before the ventricles contract. The T-wave represents ventricular repolarization."
+    },
+    {
+     "t": "p",
+     "x": "The circulatory system is under autonomic control. The autonomic system consists of the sympathetic (“fight-or-flight”) and parasympathetic (“rest-and-digest”) branches, controls the heart and affects the vasculature. Sympathetic signals speed up the heart rate and increase the contractility of cardiac muscle, while parasympathetic signals, provided by the vagus nerve , slow down the heart rate."
+    },
+    {
+     "t": "h",
+     "x": "Contraction"
+    },
+    {
+     "t": "p",
+     "x": "The heart is a muscle that must contract in order to move blood. Each heartbeat is composed of two phases, known as systole and diastole. During systole , ventricular contraction and closure of the AV valves occurs and blood is pumped out of the ventricles. During diastole , the ventricles are relaxed, the semilunar valves are closed, and blood from the atria fills the ventricles. Contraction of the ventricles generates a higher pressure during systole, whereas their relaxation during diastole causes the pressure to decrease. The elasticity of the walls of the large arteries, which stretch to receive the volume of blood from the heart, allows the vessels to maintain sufficient pressure while the ventricular muscles are relaxed. In fact, if it weren’t for the elasticity of the large arteries, diastolic blood pressure would plummet to zero. The normal events of one heartbeat, including pressures in the left atrium, left ventricle, and aorta; left ventricular volume; normal and pathologic heart sounds; and an EKG are shown in Figure 7.3."
+    },
+    {
+     "t": "p",
+     "x": "A measure to be aware of is cardiac output , or the total blood volume pumped by a ventricle in a minute. Does it matter which ventricle one chooses? As mentioned previously, the two pumps are connected in series, so the volumes of blood passing through each side must be the same, much like the electrical current between two resistors in series must be the same. Cardiac output (CO) is the product of heart rate (HR, beats per minute) and stroke volume (SV, volume of blood pumped per beat):"
+    },
+    {
+     "t": "p",
+     "x": "CO = HR × SV"
+    },
+    {
+     "t": "p",
+     "x": "Equation 7.1"
+    },
+    {
+     "t": "p",
+     "x": "For humans, cardiac output is about 5 liters per minute. During periods of exercise or rest, the autonomic nervous system will increase (sympathetic) or decrease (parasympathetic) cardiac output, respectively."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "A heart attack, or myocardial infarction, is caused by a lack of bloodflow through the coronary arteries, which results in decreased oxygen delivery to the cardiac muscle itself. Anaerobic respiration cannot produce enough ATP to keep up with demand, so the muscle tissue begins to die. A person suffering a heart attack is often given a β -blocker, which blocks the sympathetic stimulation of the heart, resulting in lower heart rate and lower contractility. With a β -blocker, the heart does not work as hard, so its oxygen demand is diminished, which helps to prevent further damage to cardiac tissue."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "The rhythmic impulses we hear when we listen to someone’s heart with a stethoscope ( lub dub ) are referred to as the heart sounds. The first sound, S 1 , is produced when the two AV valves close at the start of systole to prevent backflow into the atria. The second sound, S 2 , is produced when the two semilunar valves close at the end of systole to prevent backflow into the ventricles. Extra heart sounds (S 3 and S 4 ) can result from stiffness of the heart muscle or high blood pressure. Heart murmurs, which may be so loud as to be audible without a stethoscope, may arise when the valves malfunction and become either narrow and stiff or wide and floppy, resulting in abnormal flow patterns across the valve."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "There is a limit to how fast the heart can beat and still pump blood effectively. Because the heart fills with blood when it is relaxing (diastole), the faster it beats, the less time there is for blood to enter the heart during relaxation. Thus, a faster heartbeat means diminishing returns in terms of the amount of blood supplied to the body. A dangerous condition called ventricular tachycardia (often abbreviated v-tach ) features a very rapid rate of ventricular contraction. The heart in v-tach cannot properly fill with blood and, paradoxically, stops pumping blood despite its fast rate. Systemic pressures drop precipitously. Death will result unless the heart is forced out of this abnormal rhythm."
+    },
+    {
+     "t": "h",
+     "x": "The Vasculature"
+    },
+    {
+     "t": "p",
+     "x": "In order to deliver blood to the entire body, the circulatory system utilizes vessels of different sizes. The three major types of vessels are arteries, veins, and capillaries. Blood travels away from the heart in arteries , the largest of which is the aorta (in the systemic circulation). Major arteries, such as the coronary, common carotid, subclavian, and renal arteries, distribute the bloodflow from the aorta toward different peripheral tissues. Arteries branch into arterioles , which ultimately lead to capillaries that perfuse the tissues. On the venous side of a capillary network, the capillaries join together into venules , which join to form veins . Venous blood empties into the superior and inferior venae cavae for entry into the right side of the heart. All blood vessels are lined with endothelial cells . This special type of cell helps to maintain the vessel by releasing chemicals that aid in vasodilation and vasoconstriction. In addition, endothelial cells can allow white blood cells to pass through the vessel wall and into the tissues during an inflammatory response. Finally, endothelial cells release certain chemicals when damaged that are involved in the formation of blood clots to repair the vessel and stop bleeding."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "A rteries carry blood a way from the heart."
+    },
+    {
+     "t": "p",
+     "x": "Cross-sections of the different blood vessels are shown in Figure 7.4. Don’t worry about the names of the layers; simply be able to recognize that the same types of cells comprise the different vessels and that arteries have much more smooth muscle than veins."
+    },
+    {
+     "t": "h",
+     "x": "Arteries"
+    },
+    {
+     "t": "p",
+     "x": "Arteries move blood away from the heart to the lungs and other parts of the body. Most arteries contain oxygenated blood; in fact, only the pulmonary arteries and umbilical arteries contain deoxygenated blood. Smaller, muscular arteries are known as arterioles."
+    },
+    {
+     "t": "p",
+     "x": "Arteries are highly muscular and elastic, creating tremendous resistance to the flow of blood. This is one of the reasons why the left heart must generate much higher pressures: to overcome the resistance caused by systemic arteries. After arteries are filled with blood, the elastic recoil from their walls maintains a high pressure and forces blood forward."
+    },
+    {
+     "t": "h",
+     "x": "Capillaries"
+    },
+    {
+     "t": "p",
+     "x": "Capillaries are vessels with a single endothelial cell layer and are so small that red blood cells must pass through the capillaries in a single-file line. The thin wall of the capillary allows easy diffusion of gases (O 2 and CO 2 ), nutrients (most notably, glucose), and wastes (ammonia and urea, among others). Capillaries are therefore the interface for communication of the circulatory system with the tissues. Remember, too, that blood also carries hormones, so capillaries allow endocrine signals to arrive at their target tissues."
+    },
+    {
+     "t": "p",
+     "x": "Capillaries can be quite delicate. When capillaries are damaged, blood can leave the capillaries and enter the interstitial space. If this occurs in a closed space, it results in a bruise."
+    },
+    {
+     "t": "h",
+     "x": "Veins"
+    },
+    {
+     "t": "p",
+     "x": "Veins are thin-walled, inelastic vessels that transport blood to the heart. Except for the pulmonary and umbilical veins, all veins carry deoxygenated blood. Venules are smaller venous structures that connect capillaries to the larger veins of the body."
+    },
+    {
+     "t": "p",
+     "x": "The smaller amount of smooth muscle in the walls of veins gives them less recoil than arteries. Furthermore, veins are able to stretch to accommodate larger quantities of blood. Indeed, three-fourths of our total blood volume may be in venous circulation at any one time. Note that, even though the volume of arterial blood is normally much less than the volume of venous blood, the total volume passing through either side of the heart per unit time (cardiac output) is the same."
+    },
+    {
+     "t": "p",
+     "x": "Given that the heart is located in the chest, bloodflow in most veins is upward from the lower body back to the heart, against gravity. In the inferior vena cava, this translates into a large amount of blood in a vertical column. The pressure at the bottom of this venous column in the large veins of the legs can be quite high. In fact, it can exceed systolic pressure (120 mmHg), going as high as 200 mmHg or more. Thus, veins must have structures to push the blood forward and prevent backflow. Larger veins contain valves; as blood flows forward in the veins, the valves open. When blood tries to move backward, the valves will slam shut. Failure of the venous valves can result in the formation of varicose veins, which are distended where blood has pooled. Pregnant women are especially susceptible to the formation of varicose veins due to an increase in the total blood volume during pregnancy and compression of the inferior vena cava by the fetus."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Blood clots may form in the deep veins of the legs as a result of injury, inactivity (blood stasis), or a hypercoagulable state (a tendency for the blood to clot excessively). The clots may dislodge and travel through the right atrium and right ventricle, through the pulmonary artery, and into the lungs. Such clots, called pulmonary emboli (or, more specifically, thromboemboli), block segments of the pulmonary arteries and produce rapid, labored breathing and chest pain. Death may occur if the thromboemboli are large."
+    },
+    {
+     "t": "p",
+     "x": "In addition to high pressure in the lower extremities, the small amount of smooth muscle also creates a challenge for propelling blood forward. Thus, the veins must rely on an external force to generate the pressure to push blood toward the heart. Most veins are surrounded by skeletal muscles, which squeeze the veins as the muscles contract, forcing the blood up against gravity in much the same way that squeezing the bottom of a tube of toothpaste causes the contents to be expelled through the top of the tube. This is why sitting motionless for long periods of time, such as in the cramped middle seat on a long transoceanic flight or after surgery, can increase the risk of blood clot formation in the veins of the legs and pelvis. Blood pools in the lower extremities, and sluggish blood coagulates more easily. A clot in the deep veins of the leg is called a deep vein thrombosis (DVT). This clot may become dislodged and travel through the right heart to the lungs, where it can cause a life-threatening condition called a pulmonary embolus."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Many patients may be immobile following a surgical procedure or during a long hospital stay. This introduces the threat of DVT and pulmonary emboli, which are very undesirable complications in someone who is already sick. Thus, in hospitals, special wraps are placed on the legs that contract rhythmically in order to prevent pooling of blood and the formation of blood clots. In addition, many patients receive medications like heparin or warfarin to prevent the formation of clots."
+    },
+    {
+     "t": "h",
+     "x": "Circulation"
+    },
+    {
+     "t": "p",
+     "x": "Circulation is, by definition, circular. Let’s return to the anatomy of the heart and vasculature, shown in Figure 7.1, to trace the flow of blood through the body. A close-up of bloodflow through the heart is also shown in Figure 7.5. Here, we begin with the return of blood to the right atrium. Blood returns to the heart from the body via the venae cavae, which are divided into the superior vena cava ( SVC ) and the inferior vena cava ( IVC ). The superior vena cava returns blood from the portions of the body above the heart, while the inferior vena cava returns blood from portions of the body below the heart. Deoxygenated blood enters the right atrium, travels through the tricuspid valve, and enters the right ventricle. On contraction, the blood from the right ventricle passes through the pulmonary valve and enters the pulmonary arteries, where it travels to the lungs and breaks up into continuously smaller vessels. Once the blood reaches the capillaries that line the alveoli, it participates in gas exchange, with carbon dioxide leaving the blood and oxygen entering the blood. The blood then travels into pulmonary venules and into the pulmonary veins, which carry the blood to the left side of the heart. Oxygenated blood enters the left atrium, travels through the mitral valve, and enters the left ventricle. On contraction, the blood from the left ventricle passes through the aortic valve and enters the aorta. From the aorta, blood enters arteries, then arterioles, and then capillaries. After gas and nutrient exchange occurs at the capillaries, the blood enters the venules, which lead to the larger veins. The veins then empty into either the SVC or IVC for return to the right side of the heart."
+    },
+    {
+     "t": "p",
+     "x": "Written in shorthand, the pathway appears like this:"
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "While bicuspid valve is an acceptable alternative name for mitral valve , it is rarely used in medicine. Most practitioners will refer to valves by one-letter abbreviations ( M for mitral). The name mitral refers to a miter , which is the name for the hat the pope and bishops wear in the Catholic church. The two large leaflets of the mitral valve somewhat resemble this headdress."
+    },
+    {
+     "t": "p",
+     "x": "In most cases, blood will pass through only one capillary bed before returning to the heart. However, there are three portal systems in the body, in which blood will pass through two capillary beds in series before returning to the heart. In the hepatic portal system , blood leaving capillary beds in the walls of the gut passes through the hepatic portal vein before reaching the capillary beds in the liver. In the hypophyseal portal system , blood leaving capillary beds in the hypothalamus travels to a capillary bed in the anterior pituitary to allow for paracrine secretion of releasing hormones. In the renal portal system , blood leaving the glomerulus travels through an efferent arteriole before surrounding the nephron in a capillary network called the vasa recta."
+    }
+   ]
+  },
+  {
+   "title": "7.2 Blood",
+   "goals": [
+    "Recall the components of plasma",
+    "Predict compatible blood types given a blood type, such as A–",
+    "Identify the purpose of hematocrit measurements, as well as the relevant unit of measurement",
+    "Recognize the different types of leukocytes and their functions",
+    "Describe how platelets are produced",
+    "Distinguish between cell types within blood that contain or do not contain a nucleus"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch07_the_cardiovascular_system/07_02a_components_of_plasma_water_salts_plasma_.png",
+     "alt": "components of plasma (water, salts, plasma proteins) and blood cells (erythrocytes, leukocytes, platelets)",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch07_the_cardiovascular_system/07_02b_hematopoietic_stem_cell_forms_lymphoid_a.png",
+     "alt": "hematopoietic stem cell forms lymphoid and myeloid stem cells; lymphoid forms NK, T-, and B- (plasma) cells; myeloid forms dendritic cell, monocyte (macrophage), neutrophil, eosinophil, mast cell, basophil, platelets, and erythrocytes",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "Now that we have examined the pump and the pipes through which blood travels, let’s take a look at this fluid."
+    },
+    {
+     "t": "h",
+     "x": "Composition"
+    },
+    {
+     "t": "p",
+     "x": "In the pathology lab, we frequently study the composition of the blood using a centrifuge. By spinning the blood at a rapid rate, we can separate this complex fluid into its components based on density. By volume, blood is about 55% liquid and 45% cells, as shown in Figure 7.6. Plasma is the liquid portion of blood, an aqueous mixture of nutrients, salts, respiratory gases, hormones, and blood proteins. Plasma can be further refined via the removal of clotting factors into serum. The cellular portion of blood consists of three major categories: erythrocytes , leukocytes , and platelets . All blood cells are formed from hematopoietic stem cells, which originate in the bone marrow."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Serum (plural sera) is used in a variety of medical testing procedures such as antibody testing and blood typing. Serum is considered preferable to plasma for many applications due to the lack of clotting factors and fibrinogens."
+    },
+    {
+     "t": "h",
+     "x": "Erythrocytes—Red Blood Cells"
+    },
+    {
+     "t": "p",
+     "x": "In the body, oxygen and nutrients are delivered to the peripheral tissues, and carbon dioxide and other wastes (such as hydrogen ions and ammonia) are picked up from the peripheral tissues and delivered to the organs that process this waste: the lungs, liver, and kidneys. The erythrocyte or red blood cell is a specialized cell designed for oxygen transport. Oxygen does not simply dissolve in the cytoplasm of the red blood cell—remember, molecular oxygen is nonpolar and therefore has low solubility in aqueous environments. Rather, each erythrocyte contains about 250 million molecules of hemoglobin , each of which can bind four molecules of oxygen. Therefore, each red blood cell can carry approximately 1 billion molecules of oxygen."
+    },
+    {
+     "t": "p",
+     "x": "Red blood cells are unique in a number of ways, and their modifications reflect the special role they play in the human body. Red blood cells are biconcave, or indented on both sides, which serves a dual purpose. First, this shape assists them in traveling through tiny capillaries. Second, it increases the cell’s surface area, which increases gas exchange. Red blood cells are also unique in that, when they mature, the nuclei, mitochondria, and other membrane-bound organelles are lost. The loss of organelles makes space for the molecules of hemoglobin. In addition, the loss of mitochondria in particular means that the red blood cell does not consume the oxygen it is carrying before it is delivered to peripheral tissues. In other words, red blood cells do not carry out oxidative phosphorylation to generate ATP; rather, they rely entirely on glycolysis for ATP, with lactic acid (arising from fermentation) as the main by-product. Because red blood cells lack nuclei, they are unable to divide. Erythrocytes can live for 120 days in the bloodstream before cells in the liver and spleen phagocytize senescent (old) red blood cells to recycle them for their parts."
+    },
+    {
+     "t": "p",
+     "x": "In medicine, a complete blood count measures the quantity of each cell type in the blood. For red blood cells, two commonly given measures are the hemoglobin and hematocrit. Hemoglobin, of course, measures the quantity of hemoglobin in the blood, giving a result in grams per deciliter. Hematocrit is a measure of how much of the blood sample consists of red blood cells, given as a percentage. A normal hemoglobin is considered to be between 13.5 and for males and between 12.0 and for females. A normal hematocrit is considered to be between 41 and 53% for males and between 36 and 46% for females. For example, a patient may have a hemoglobin of and a hematocrit of 41.2%."
+    },
+    {
+     "t": "h",
+     "x": "Leukocytes—White Blood Cells"
+    },
+    {
+     "t": "p",
+     "x": "Leukocytes or white blood cells usually comprise less than 1 percent of total blood volume. This translates into about 4500–11,000 leukocytes per microliter of blood, which is a small number relative to the erythrocyte concentration. This number can massively increase under certain conditions when we need more white blood cells, most notably during infection. White blood cells are a crucial part of the immune system, acting as our defenders against pathogens, foreign cells, cancer, and other materials not recognized as self . Let’s briefly discuss five basic types of leukocytes, which are all categorized into two classes: granulocytes and agranulocytes."
+    },
+    {
+     "t": "p",
+     "x": "The granular leukocytes or granulocytes ( neutrophils , eosinophils , and basophils ) are so named because they contain cytoplasmic granules that are visible by microscopy. These granules contain a variety of compounds that are toxic to invading microbes; these compounds can be released through exocytosis. Granular leukocytes are involved in inflammatory reactions, allergies, pus formation, and destruction of bacteria and parasites. The specific functions of the three granulocytes are discussed in Chapter 8 of MCAT Biology Review ."
+    },
+    {
+     "t": "p",
+     "x": "The agranulocytes, which do not contain granules that are released by exocytosis, consist of lymphocytes and monocytes . Lymphocytes are important in the specific immune response , the body’s targeted fight against particular pathogens, such as viruses and bacteria. Some lymphocytes act as primary responders against an infection, while others function to maintain a long-term memory bank of pathogen recognition. These cells, in a very real sense, help our body learn from experience and are prepared to mount a fast response upon repeated exposure to familiar pathogens. Many vaccines work by training these cells. Through exposure to a weakened pathogen, or an antigenic protein (a protein that can be recognized by the immune system) of the pathogen, memory cells can be created. For example, most children in the United States receive the varicella (chickenpox) vaccine, which includes a live but weakened strain of the varicella–zoster virus that causes chickenpox. When the vaccine is administered, the virus is recognized as foreign and an immune response is activated. During this process, certain immune cells form a memory of the virus; in other words, our body learns to remember the virus and prepares itself to ward off the virus if it appears again later in life."
+    },
+    {
+     "t": "p",
+     "x": "Lymphocyte maturation takes place in one of three locations. Lymphocytes that mature in the bone marrow are referred to as B-cells, and those that mature in the thymus are called T-cells. B-cells are responsible for antibody generation, whereas T-cells kill virally infected cells and activate other immune cells. The details of these two components of the specific immune response are discussed in Chapter 8 of MCAT Biology Review ."
+    },
+    {
+     "t": "p",
+     "x": "The other agranulocytes are monocytes, which phagocytize foreign matter such as bacteria. Most organs of the body contain a collection of these phagocytic cells; once they leave the bloodstream and enter an organ, monocytes are renamed macrophages . Each organ’s macrophage population may have a specific name, as well. In the central nervous system, for example, they are called microglia ; in the skin, they are called Langerhans cells ; in bone, they are called osteoclasts ."
+    },
+    {
+     "t": "h",
+     "x": "Thrombocytes— Platelets"
+    },
+    {
+     "t": "p",
+     "x": "Thrombocytes or platelets are cell fragments or shards released from cells in bone marrow known as megakaryocytes . Their function is to assist in blood clotting and they are present in high concentrations (150,000–400,000 per microliter of blood). The enzymatic reactions involved in the formation of a clot (the clotting cascade) will be discussed shortly."
+    },
+    {
+     "t": "p",
+     "x": "As mentioned above, all of the cellular elements of blood originate in the bone marrow. The production of blood cells and platelets is called hematopoiesis , and is triggered by a number of hormones, growth factors, and cytokines. The most notable of these are erythropoietin , which is secreted by the kidney and stimulates mainly red blood cell development, and thrombopoietin , which is secreted by the liver and kidney and stimulates mainly platelet development. The hematopoietic pathways are shown in Figure 7.7."
+    },
+    {
+     "t": "h",
+     "x": "Blood Antigens"
+    },
+    {
+     "t": "p",
+     "x": "Red blood cells express surface proteins called antigens . In general, an antigen is any specific target (usually a protein) to which the immune system can react. The two major antigen families relevant for blood groups are the ABO antigens and the Rh factor ."
+    },
+    {
+     "t": "h",
+     "x": "ABO Antigens"
+    },
+    {
+     "t": "p",
+     "x": "The ABO system is comprised of three alleles for blood type. In this particular class of erythrocyte cell-surface proteins, the A and B alleles are codominant, which means that a person may express one, both, or none of the ABO antigens. If the A allele (I A or simply A) is present on one chromosome and the B allele (I B or B) is present on the other chromosome, both will be expressed, and the person’s blood type will be AB. The O allele (i or O) is recessive to both the A and B alleles. People with type O blood do not express either variant (A or B antigen) of this protein and have a homozygous recessive genotype. The naming system of blood types is based on the presence or absence of these protein variants. The four blood types are: A, B, AB, and O. Because the A and B alleles are dominant, the genotypes for A may be I A I A or I A i, while the genotypes for B may be I B I B or I B i."
+    },
+    {
+     "t": "callout",
+     "kind": "warn",
+     "title": "MCAT Expertise",
+     "x": "There are two different ways of writing the ABO alleles: I A , I B , and i; or A, B, and O. Be comfortable using either system because the MCAT could show one or the other. Because the former system is more common in medical practice, we’ll be using it throughout this book."
+    },
+    {
+     "t": "p",
+     "x": "The ABO classification has important implications for medical practice; it is critical to match blood types for transfusions. It is no exaggeration to say that blood-type matching is a life and death matter, given the severe hemolysis that can result if the donor blood antigen is recognized as foreign by the recipient’s immune system. For example, a person with type A blood will recognize the type A protein as self but the type B protein as foreign and will make antibodies to types B and AB. Because type O blood cells express neither antigen variant, they will not initiate any immune response, regardless of the recipient’s actual blood type; people with type O blood are therefore considered universal donors because their blood will not cause ABO-related hemolysis in any recipient. However, a recipient who is type O will produce both anti-A and anti-B antibodies and can only receive blood from other type O individuals. On the other hand, people with type AB blood are considered universal recipients because they can receive blood from all blood types: no blood antigen is foreign to AB individuals, so no adverse reactions will occur upon transfusion. A more thorough description of each blood type is given in Table 7.1. Note that whole blood is almost never given in a transfusion; rather, packed red blood cells (with no plasma) are generally given. Thus, we care only about the donor’s red blood cell antigens (and not his or her plasma antibodies) when determining whether hemolysis will occur."
+    },
+    {
+     "t": "p",
+     "x": "Another important point needs to be made here about antibodies. Antibodies are created in response to an antigen, and they specifically target that antigen. You would not expect to have antibodies to the Ebola virus if you had never been exposed to it. This is true for the Rh factor as well—an Rh-negative individual would not have anti-Rh antibodies prior to exposure to Rh-positive blood. Why, then, does an individual lacking the A allele automatically have an anti-A antibody? The reason may lie in the gut: research has demonstrated that E. coli that inhabit the colon may have proteins that match the A and B alleles. This would serve as a source of exposure and would allow one to develop anti-A (or anti-B) antibodies prior to exposure to another person’s blood. This is why ABO compatibility is so important during blood transfusions—giving the wrong ABO blood type would lead to rapid hemolysis."
+    },
+    {
+     "t": "table",
+     "headers": [
+      "Blood Type",
+      "Genotype(s)",
+      "Antigens Produced",
+      "Antibodies Produced",
+      "Can Donate to…",
+      "Can Receive from…"
+     ],
+     "rows": [
+      [
+       "A",
+       "I A I A , I A i",
+       "A",
+       "anti-B",
+       "A, AB",
+       "A, O"
+      ],
+      [
+       "B",
+       "I B I B , I B i",
+       "B",
+       "anti-A",
+       "B, AB",
+       "B, O"
+      ],
+      [
+       "AB",
+       "I A I B",
+       "A and B",
+       "none",
+       "AB only",
+       "A, B, AB, O (universal recipient)"
+      ],
+      [
+       "O",
+       "ii",
+       "none",
+       "anti-A and anti-B",
+       "A, B, AB, O (universal donor)",
+       "O only"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "kind": "warn",
+     "title": "MCAT Expertise",
+     "x": "You are almost guaranteed to see at least one question on blood groups on Test Day. It is critical that you learn how the system works (I A and I B are codominant, i is recessive)."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Antigens are the stimuli for B-cells to make antibodies. After exposure of a B-cell to its specific antigen, the cell becomes an antibody-producing factory."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "The most common blood type in the United States is O + . The least common is AB – ."
+    },
+    {
+     "t": "h",
+     "x": "Rh Factor"
+    },
+    {
+     "t": "p",
+     "x": "The Rh factor (so named because it was first described in rhesus monkeys) is also a surface protein expressed on red blood cells. Although at one time it was thought to be a single antigen, it has since been found to exist as several variants. When left unmodified, Rh-positive (Rh + ) or Rh-negative (Rh – ) refers to the presence or absence of a specific allele called D. The presence or absence of D can also be indicated with a plus or minus superscript on the ABO blood type (such as O + or AB – ). Rh-positivity follows autosomal dominant inheritance; one positive allele is enough for the protein to be expressed."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "In blood bank pathology, the Rh factor is often referred to as D. Note that while the A, B, and D proteins are the most important for blood typing, dozens of other antigens can (and should) be matched as well, including C, E, Kell, Lewis, Duffy, and others. The more antigens that are correctly matched, the lower the probability of hemolysis."
+    },
+    {
+     "t": "p",
+     "x": "The Rh factor status is particularly important in maternal–fetal medicine. During childbirth, no matter how good the obstetrician is, women are exposed to a small amount of fetal blood. If a woman is Rh – and her fetus is Rh + , she will become sensitized to the Rh factor, and her immune system will begin making antibodies against it. This is not a problem for the first child; by the time the mother starts producing antibodies, the child has already been born. However, any subsequent pregnancy in which the fetus is Rh + will present a problem because maternal anti-Rh antibodies can cross the placenta and attack the fetal blood cells, resulting in hemolysis of the fetal cells. This condition is known as erythroblastosis fetalis and can be fatal to the fetus. Today, we can use medicine to prevent this condition. There is less concern with ABO mismatching between mother and fetus because these maternal antibodies against AB antigens are of a class called IgM, which does not readily cross the placenta (unlike anti-Rh IgG antibodies, which can)."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "When an Rh – woman is pregnant with her first Rh + fetus, the risk of erythroblastosis fetalis in subsequent Rh-mismatched pregnancies can usually be avoided by giving the Rh – mother Rh-immunoglobulin (RhoGAM) during pregnancy and immediately after delivery. Administration of immunoglobulin (which is a type of passive immunization) will absorb the fetus’s Rh + cells, preventing the production of anti-Rh antibodies by the mother."
+    }
+   ]
+  },
+  {
+   "title": "7.3 Physiology of the Cardiovascular System",
+   "goals": [
+    "Predict the impact of changing blood flow through arteries, capillaries, and veins on blood pressure and heart function",
+    "Recall the bicarbonate buffer chemical equation, including its catalyzing enzyme",
+    "Explain how the oxyhemoglobin dissociation curve can be shifted to the left or right",
+    "Recall the series of events and compounds in a coagulation cascade",
+    "Identify the regions of the body associated with different parts of the oxyhemoglobin dissociation curve:"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch07_the_cardiovascular_system/07_03a_pressure_stays_around_100_mmhg_through_a.png",
+     "alt": "pressure stays around 100 mmHg through aorta and arteries, drops to 20 mmHg through arterioles, and continues dropping to 0 by the venae cavae",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch07_the_cardiovascular_system/07_03b_s_shaped_curve_y_axis_oxygen_saturation_.png",
+     "alt": "S-shaped curve; y-axis = % oxygen saturation, x-axis = partial pressure of oxygen. reaches 100% saturation around 70 mmHg O2.",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch07_the_cardiovascular_system/07_03c_normal_hemoglobin_left_shift_higher_affi.png",
+     "alt": "normal hemoglobin, left shift (higher affinity), and right shift (lower affinity). all curves are at 100% saturation at 100 mmHg O2, but at different % saturations at 20 mmHg O2, with the difference in saturation representing the oxygen delivered to exercising muscle",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch07_the_cardiovascular_system/07_03d_at_arteriole_end_hydrostatic_pressure_36.png",
+     "alt": "at arteriole end, hydrostatic pressure = 36 mmHg, oncotic pressure = 25 (net flow 11 mmHg out of arteriole); at venule end, hydrostatic pressure = 15, oncotic pressure = 25 (net flow 10 mmHg into venule)",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch07_the_cardiovascular_system/07_03e_injury_in_blood_vessel_with_overlying_fi.png",
+     "alt": "injury in blood vessel with overlying fibrin net, capturing platelets and red blood cells",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "The cardiovascular system transports many compounds, including gases, nutrients, and waste products, to and from the body’s tissues via red blood cells and plasma. Furthermore, it serves an important role in immunity through specialized cells, such as leukocytes, which help the body fight localized or systemic pathogens. Capillaries within the body can dilate and constrict to maintain proper body temperature. In addition, the circulatory system mediates the formation of blood clots to repair damaged vessels. These functions reflect the important jobs of the cardiovascular system, which include maintenance of blood pressure, gas and solute exchange, coagulation, and thermoregulation."
+    },
+    {
+     "t": "h",
+     "x": "Blood Pressure"
+    },
+    {
+     "t": "p",
+     "x": "Before we can even discuss gas and solute exchange, it is important to recognize that, for the circulatory system to serve its predominant functions, blood pressure must be kept sufficiently high to propel blood forward. Blood pressure, therefore, provides healthcare professionals with information regarding the health of the circulatory system. In addition, high blood pressure, or hypertension , is a pathological state that may result in damage to the blood vessels and organs. Blood pressure is a measure of the force per unit area exerted on the wall of the blood vessels and is measured with a sphygmomanometer . Sphygmomanometers measure the gauge pressure in the systemic circulation, which is the pressure above and beyond atmospheric pressure (760 mmHg at sea level), as discussed in Chapter 4 of MCAT Physics and Math Review . Blood pressure is expressed as a ratio of the systolic (ventricular contraction) to diastolic (ventricular relaxation) pressures. Pressure gradually drops from the arterial to venous circulation, with the largest drop occurring across the arterioles, as shown in Figure 7.8. Normal blood pressure is considered to be between 90/60 and 120/80."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "The largest drop in blood pressure occurs across the arterioles. This is critical because the capillaries are thin-walled and unable to withstand the pressure of the arterial side of the vasculature."
+    },
+    {
+     "t": "p",
+     "x": "An analogy can be drawn between circulation and an electric circuit. Much like an electromotive force (voltage) drives a current through a given electrical resistance, the pressure gradient across the circulatory system drives cardiac output through a given vascular resistance. This analogy is an important one to remember because the equations of electric circuits can be applied to the cardiovascular system. For example, Ohm’s law ( V = IR ) can be translated into the following equation for circulation:"
+    },
+    {
+     "t": "p",
+     "x": "Δ P = CO × TPR"
+    },
+    {
+     "t": "p",
+     "x": "Equation 7.2"
+    },
+    {
+     "t": "p",
+     "x": "where Δ P is the pressure differential across the circulation, CO is the cardiac output, and TPR is the total peripheral (vascular) resistance."
+    },
+    {
+     "t": "p",
+     "x": "It is also important to note that arterioles and capillaries act much like resistors in a circuit. When electricity travels through a wire, the wire itself provides an intrinsic level of resistance that limits the flow of electricity through it. Resistance is based on three factors: resistivity, length, and cross-sectional area. Resistivity has no obvious correlate in physiology, but the other two factors certainly do. The longer a blood vessel is, the more resistance it offers. The larger the cross-sectional area of a blood vessel, the less resistance it offers. In addition, arteries are highly muscular and are able to expand and contract as needed to change vascular resistance and maintain blood pressure. Arterioles can also contract to limit the amount of blood entering a given capillary bed (much like increasing resistance will decrease current flow to a given branch in a circuit). Finally, with the exception of the three portal systems, all systemic capillary beds are in parallel with each other. Therefore, opening capillary beds will decrease vascular resistance (like adding another resistor in parallel) and, assuming the body can compensate, increase cardiac output."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Vital signs include temperature, heart rate, respiratory rate, and blood pressure. They provide a quick snapshot of a person’s condition at a given moment. High blood pressure may indicate clinical hypertension, anxiety, catecholamine-producing tumors, or stimulant use, while low blood pressure may indicate hemorrhage, a heart attack, sepsis (severe bloodstream infection), or neurological damage. These are very broad differential diagnoses; however, vital signs combined with a quick clinical history provide a way for clinicians to identify the patients that require immediate intervention."
+    },
+    {
+     "t": "p",
+     "x": "Blood pressure is regulated using baroreceptors in the walls of the vasculature. Baroreceptors are specialized neurons that detect changes in the mechanical forces on the walls of the vessel. When the blood pressure is too low, they can stimulate the sympathetic nervous system, which causes vasoconstriction, thereby increasing the blood pressure. In addition, chemoreceptors can sense when the osmolarity of the blood is too high, which could indicate dehydration. This promotes the release of antidiuretic hormone (ADH or vasopressin), a peptide hormone made in the hypothalamus but stored in the posterior pituitary, which increases the reabsorption of water, thereby increasing blood volume and pressure (while also diluting the blood). Low perfusion to the juxtaglomerular cells of the kidney stimulates aldosterone release through the renin–angiotensin–aldosterone system; aldosterone increases the reabsorption of sodium and, by extension, water, thereby increasing the blood volume and pressure."
+    },
+    {
+     "t": "p",
+     "x": "So, what if blood pressure is too high? Neurologically, sympathetic impulses could decrease, permitting relaxation of the vasculature with a concurrent drop in blood pressure. Within the heart, specialized atrial cells are able to secrete a hormone called atrial natriuretic peptide ( ANP ). This hormone aids in the loss of salt within the nephron, acting as a natural diuretic with loss of fluid. Interestingly, ANP is a fairly weak diuretic. Some fluid is lost, but it is often not enough to counter the effects of a high-salt diet on blood pressure. Indeed, the human body has many different ways to raise blood pressure, but very few ways to lower it."
+    },
+    {
+     "t": "h",
+     "x": "Gas and Solute Exchange"
+    },
+    {
+     "t": "p",
+     "x": "Blood pressure ensures sufficient forward flow of blood through the system. However, what happens when the blood reaches the capillaries? Here, oxygen and nutrients diffuse out of the blood into tissues, while waste products like carbon dioxide, hydrogen ions, urea, and ammonia diffuse into the blood. In addition, hormones are secreted into the capillaries, travel with the circulation, and diffuse into their target tissue. Ions and fluid must also be returned to the blood to ensure that no area becomes too swollen with fluid. Regardless of the substance being exchanged, there is one fundamental concept to be considered in this process: concentration gradients. In each case, one side of the capillary wall has a higher concentration of a given substance than the other. This allows for movement of gases and solutes by diffusion."
+    },
+    {
+     "t": "h",
+     "x": "Oxygen"
+    },
+    {
+     "t": "p",
+     "x": "Oxygen is carried primarily by hemoglobin in the blood. Hemoglobin is a protein composed of four cooperative subunits, each of which has a prosthetic heme group that binds to an oxygen molecule. The binding of oxygen occurs at the heme group’s central iron atom, which can undergo changes in its oxidation state. The binding or releasing of oxygen to or from the iron atom in the heme group is an oxidation–reduction reaction. It is also important to note that some oxygen does diffuse into the blood and dissolve into the plasma, but this amount is negligible compared to the quantity of oxygen bound to hemoglobin. The level of oxygen in the blood is often measured as the partial pressure of O 2 within the blood, or P a O 2 . A normal P a O 2 is approximately 70–100 mmHg. However, taking this measurement is inconvenient because it involves taking a sample of blood from an artery. By contrast, oxygen saturation —that is, the percentage of hemoglobin molecules carrying oxygen—is easily measured using a finger probe. Most healthy people have an oxygen saturation above 97 percent."
+    },
+    {
+     "t": "p",
+     "x": "In the lungs, oxygen diffuses into the alveolar capillaries. As the first oxygen binds to a heme group, it induces a conformational shift in the shape of hemoglobin from taut to relaxed. This shift increases hemoglobin’s affinity for oxygen, making it easier for subsequent molecules of oxygen to bind to the remaining three unoccupied heme groups. As other heme groups acquire an oxygen molecule, the affinity continues to increase, thus creating a positive feedback-like (spiraling forward) mechanism. Once all of the hemoglobin subunits are bound to oxygen, the removal of one molecule of oxygen will induce a conformational shift, decreasing the overall affinity for oxygen, and making it easier for the other molecules of oxygen to leave the heme groups. This is again a positive feedback process; as oxygen molecules leave hemoglobin, it becomes progressively easier for more oxygen to be removed. This phenomenon is a form of allosteric regulation referred to as cooperative binding and results in the classic sigmoidal ( S -shaped) oxyhemoglobin dissociation curve shown in Figure 7.9."
+    },
+    {
+     "t": "p",
+     "x": "Before looking at shifts in this curve, let’s make sure we understand what everything means. According to the curve, the blood is 100 percent saturated in the lungs, at a partial pressure of 100 mmHg O 2 . The tissues are at a lower partial pressure of oxygen, around 40 mmHg during rest; at this lower partial pressure, the hemoglobin is approximately 80 percent saturated. Therefore, about 100 – 80 = 20% of the oxygen has been released from the hemoglobin. Where did this oxygen go? Into the tissues, of course."
+    },
+    {
+     "t": "p",
+     "x": "During exercise, the partial pressure of oxygen in the tissues is even lower—around 20 mmHg. At this lower partial pressure, the hemoglobin is approximately 30 percent saturated. Therefore, about 100 – 30 = 70% of the oxygen has been released to the tissues. In reality, unloading of oxygen is also facilitated by shifts in the hemoglobin curve that occur during exercise, as described later."
+    },
+    {
+     "t": "h",
+     "x": "Carbon Dioxide"
+    },
+    {
+     "t": "p",
+     "x": "Delivering oxygen to tissues is only part of the job of transporting respiratory gases; removing carbon dioxide gas (CO 2 ), the primary waste product of cellular respiration, is also important. Carbon dioxide gas, like oxygen gas, is nonpolar and therefore has low solubility in the aqueous plasma; only a small percentage of the total CO 2 being transported in the blood to the lungs will be dissolved in the plasma. Carbon dioxide can be carried by hemoglobin, but hemoglobin has a much lower affinity for carbon dioxide than for oxygen. The vast majority of CO 2 exists in the blood as the bicarbonate ion When CO 2 enters a red blood cell, it encounters the enzyme carbonic anhydrase , which catalyzes the combination reaction between carbon dioxide and water to form carbonic acid (H 2 CO 3 ). Carbonic acid, a weak acid, will dissociate into a proton and the bicarbonate anion. The hydrogen ion (proton) and bicarbonate ion both have high solubilities in water, making them a more effective method of transporting metabolic waste products to the lungs for excretion. Upon reaching the alveolar capillaries in the lungs, the same reactions that led to the formation of the proton and bicarbonate anion can be reversed, allowing us to breathe out carbon dioxide:"
+    },
+    {
+     "t": "p",
+     "x": "This chemical reaction is important, not only because it provides an effective means of ridding the body’s tissues of carbon dioxide gas, but also because the concentration of free protons in the blood affects pH; the pH, in turn, can have allosteric effects on the oxyhemoglobin dissociation curve. Increased carbon dioxide production will cause a right shift in the bicarbonate buffer equation, resulting in increased [H + ] (decreased pH). These protons can bind to hemoglobin, reducing hemoglobin’s affinity for oxygen. This decreased affinity can be seen in the oxyhemoglobin curve as a shift to the right; this is known as the Bohr effect . Note that the triggers for this right shift (increased P a CO 2 , increased [H + ], decreased pH) are often associated with oxygen demand; higher rates of cellular metabolism result in increased carbon dioxide production and accumulation of lactic acid, both of which decrease pH. This decreased affinity allows more oxygen to be unloaded at the tissues, as shown in Figure 7.10. Looking at the red and green lines, we see that hemoglobin is nearly 100 percent saturated in the lungs (at a partial pressure of 100 mmHg O 2 ) for both lines. However, the green line is significantly lower than the red one when we reach a partial pressure of 20 mmHg O 2 , around that of exercising muscle. Therefore, the right shift represents greater unloading of oxygen into the tissues."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Causes of a right shift of the oxyhemoglobin curve: Exercise is the right thing to do. The following occur during exercise : Increased P a CO 2 Increased [H + ] (decreased pH) Increased temperature"
+    },
+    {
+     "t": "p",
+     "x": "Other causes of a right shift in the oxyhemoglobin curve include increased temperature and increased 2,3-bisphosphoglycerate (2,3-BPG), a side product of glycolysis in red blood cells."
+    },
+    {
+     "t": "p",
+     "x": "A left shift, like the blue line in Figure 7.10, may occur due to decreased P a CO 2 , decreased [H + ], increased pH, decreased temperature, and decreased 2,3-BPG. In addition, fetal hemoglobin ( HbF ) has a higher affinity for oxygen than adult hemoglobin ( HbA ). This should make sense because fetal red blood cells must literally pull oxygen off of maternal hemoglobin and onto fetal hemoglobin."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Fetal hemoglobin has a higher affinity for oxygen than adult hemoglobin, and therefore has a left-shifted curve compared to adult hemoglobin."
+    },
+    {
+     "t": "p",
+     "x": "The bicarbonate buffer system is also important because it links the respiratory and renal systems. Disturbances in either of these systems can lead to changes in the pH of the blood. For example, if an individual hyperventilates, excess CO 2 will be blown off, shifting the bicarbonate buffer system to the left and decreasing the concentration of protons. This leads to an increase in pH, or what is known as respiratory alkalosis. The kidney can compensate for this change by increasing excretion of bicarbonate, which brings the pH back to normal. In contrast, in renal tubular acidosis type I , the kidney is unable to excrete acid effectively. This leads to a buildup of protons in the blood (metabolic acidosis), which causes the buffer system to shift to the left. The excess CO 2 formed in the process can be exhaled, and the person may increase respiratory rate to compensate, bringing the pH back to normal."
+    },
+    {
+     "t": "h",
+     "x": "Nutrients, Waste, and Hormones"
+    },
+    {
+     "t": "p",
+     "x": "In addition to respiratory gases, blood also carries nutrients, waste products, and hormones to the appropriate location for use or disposal. As discussed earlier, concentration gradients guide much of the movement of these substances to and from the tissues."
+    },
+    {
+     "t": "p",
+     "x": "Carbohydrates and amino acids are absorbed into the capillaries of the small intestine and enter the systemic circulation via the hepatic portal system. Fats are absorbed into lacteals in the small intestine, bypassing the hepatic portal circulation to enter systemic circulation via the thoracic duct. When released from intestinal cells, fats are packaged into lipoproteins, which are water-soluble. The absorption of nutrients is covered more extensively in Chapter 9 of MCAT Biology Review ."
+    },
+    {
+     "t": "p",
+     "x": "Wastes, such as carbon dioxide, ammonia, and urea, enter the bloodstream by traveling down their respective concentration gradients from the tissues to the capillaries. The blood eventually travels to the kidney, where these waste products are filtered or secreted for elimination from the body."
+    },
+    {
+     "t": "p",
+     "x": "Hormones enter the circulation in or near the organ where the hormone is produced. This usually occurs by exocytosis, allowing for secretion of hormones into the bloodstream. Certain hormones are carried by proteins in the blood and are released under specific conditions. Once hormones reach their target tissues, they can activate cell-surface receptors (peptide hormones) or diffuse into the cell to activate intracellular or intranuclear receptors (steroid hormones)."
+    },
+    {
+     "t": "h",
+     "x": "Fluid Balance"
+    },
+    {
+     "t": "p",
+     "x": "In the bloodstream, two pressure gradients are essential for maintaining a proper balance of fluid volume and solute concentrations between the blood and the interstitium (the cells surrounding the blood vessels). These are the opposing but related hydrostatic and osmotic (oncotic) pressures."
+    },
+    {
+     "t": "p",
+     "x": "Hydrostatic pressure is the force per unit area that the blood exerts against the vessel walls. This is generated by the contraction of the heart and the elasticity of the arteries, and can be measured upstream in the large arteries as blood pressure. Hydrostatic pressure pushes fluid out of the bloodstream and into the interstitium through the capillary walls, which are somewhat leaky by design. Osmotic pressure , on the other hand, is the “sucking” pressure generated by solutes as they attempt to draw water into the bloodstream. Because most of this osmotic pressure is attributable to plasma proteins, it is usually called oncotic pressure ."
+    },
+    {
+     "t": "p",
+     "x": "At the arteriole end of a capillary bed, hydrostatic pressure (pushing fluid out) is much larger than oncotic pressure (drawing fluid in), and there is a net efflux of water from the circulation, as shown in Figure 7.11. As fluid moves out of the vessels, the hydrostatic pressure drops significantly, but the osmotic pressure stays about the same. Therefore, at the venule end of the capillary bed, hydrostatic pressure (pushing fluid out) has dropped below oncotic pressure (drawing fluid in), and there is a net influx of water back into the circulation."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Hydrostatic pressure pushes fluid out of vessels and is dependent on blood pressure generated by the heart and the elastic arteries. Osmotic pressure pulls fluid back into the vessels and is dependent on the number of particles dissolved in the plasma; most are proteins, so we often refer to this as oncotic pressure."
+    },
+    {
+     "t": "p",
+     "x": "The balance of these opposing pressures, also called Starling forces , is essential for maintaining the proper fluid volumes and solute concentrations inside and outside the vasculature. Imbalance of these pressures can result in too much or too little fluid in the tissues. For example, accumulation of excess fluid in the interstitium results in a condition called edema . We should note that some interstitial fluid is also taken up by the lymphatic system. Most lymphatic fluid ( lymph ) is returned to the central circulatory system by way of a channel called the thoracic duct . Blockage of lymph nodes by infection or surgery can also result in edema. Although you do not need to learn or memorize the Starling equation, which quantifies the net filtration rate between two fluid compartments, you should understand that the movement of solutes and fluid at the capillary level is governed by pressure differentials, just like the movement of carbon dioxide and oxygen in the lungs."
+    },
+    {
+     "t": "h",
+     "x": "Coagulation"
+    },
+    {
+     "t": "p",
+     "x": "We have now covered most of the functions of red blood cells and plasma. We’ve briefly touched on white blood cells, which we’ll explore more extensively in Chapter 8 of MCAT Biology Review . This leaves us with platelets, which protect the vascular system in the event of damage by forming a clot. Clots are composed of both coagulation factors (proteins) and platelets, and they prevent (or at least minimize) blood loss. When the endothelium of a blood vessel is damaged, it exposes the underlying connective tissue, which contains collagen and a protein called tissue factor . When platelets come into contact with exposed collagen, they sense this as evidence of injury. In response, they release their contents and begin to aggregate, or clump together. Simultaneously, coagulation factors , most of which are secreted by the liver, sense tissue factor and initiate a complex activation cascade. While the details of the coagulation cascade are beyond the scope of the MCAT, it is important to know that the endpoint of the cascade is the activation of prothrombin to form thrombin by thromboplastin . Thrombin can then convert fibrinogen into fibrin . Fibrin ultimately forms small fibers that aggregate and cross-link into a woven structure, like a net, that captures red blood cells and other platelets, forming a stable clot over the area of damage, as shown in Figure 7.12. A clot that forms on a surface vessel that has been cut is called a scab."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Certain genetic diseases, such as hemophilia, cause malfunctions in the cascade of clotting reactions and increase the risk of life-threatening blood loss from even relatively minor injuries. Hemophilia A is the most common form and, as a sex-linked trait, is far more common in males than females."
+    },
+    {
+     "t": "p",
+     "x": "Thrombus formation, or blood clotting, occurs when blood vessels are injured. The process begins when platelets attach to the matrix that becomes exposed when the endothelial cells lining blood vessels are disrupted. This attachment then activates quiescent α IIb β 3 integrin molecules, causing them to adhere to circulating proteins—including fibrinogen, which forms bridges to additional platelets. Together the cells and proteins ultimately form a network of cells and fibers dense enough to plug the injury and prevent blood loss until the wound can be repaired."
+    },
+    {
+     "t": "p",
+     "x": "Ultimately, the clot will have to be broken down. This task is accomplished predominantly by plasmin , which is generated from plasminogen ."
+    }
+   ]
+  }
+ ],
+ "conceptSummary": [
+  {
+   "section": "Anatomy of the Cardiovascular System",
+   "points": [
+    "The cardiovascular system consists of a muscular four-chambered heart, blood vessels, and blood.",
+    "The heart is composed of cardiac muscle and supports two different circulations: the pulmonary circulation and the systemic circulation . Each side of the heart consists of an atrium and a ventricle . The atria are separated from the ventricles by the atrioventricular valves ( tricuspid on the right, bicuspid [mitral] on the left). The ventricles are separated from the vasculature by the semilunar valves ( pulmonary on the right, aortic on the left). The left side of the heart contains more muscle than the right side because the systemic circulation has a much higher resistance and pressure. Electrical conduction of the heart starts at the sinoatrial ( SA ) node and then goes to the atrioventricular ( AV ) node . From the AV node, electrical impulses travel to the bundle of His before traveling through the Purkinje fibers . Systole refers to the period during ventricular contraction when the AV valves are closed. During diastole , the heart is relaxed and the semilunar valves are closed. The cardiac output is the product of heart rate and stroke volume . The sympathetic nervous system increases the heart rate and contractility. The parasympathetic nervous system decreases heart rate.",
+    "Each side of the heart consists of an atrium and a ventricle .",
+    "The atria are separated from the ventricles by the atrioventricular valves ( tricuspid on the right, bicuspid [mitral] on the left).",
+    "The ventricles are separated from the vasculature by the semilunar valves ( pulmonary on the right, aortic on the left).",
+    "The left side of the heart contains more muscle than the right side because the systemic circulation has a much higher resistance and pressure.",
+    "Electrical conduction of the heart starts at the sinoatrial ( SA ) node and then goes to the atrioventricular ( AV ) node . From the AV node, electrical impulses travel to the bundle of His before traveling through the Purkinje fibers .",
+    "Systole refers to the period during ventricular contraction when the AV valves are closed. During diastole , the heart is relaxed and the semilunar valves are closed.",
+    "The cardiac output is the product of heart rate and stroke volume .",
+    "The sympathetic nervous system increases the heart rate and contractility. The parasympathetic nervous system decreases heart rate.",
+    "The vasculature consists of arteries, veins, and capillaries. Arteries are thick, highly muscular structures with an elastic quality. This allows for recoil and helps to propel blood forward within the system. Small muscular arteries are arterioles , which control flow into capillary beds. Capillaries have walls that are one cell thick, making them so narrow that red blood cells must travel through them single-file. Capillaries are the sites of gas and solute exchange. Veins are inelastic, thin-walled structures that transport blood to the heart. They are able to stretch in order to accommodate large volumes of blood but do not have recoil capability. Veins are compressed by surrounding skeletal muscles and have valves to maintain one-way flow. Small veins are called venules .",
+    "Arteries are thick, highly muscular structures with an elastic quality. This allows for recoil and helps to propel blood forward within the system. Small muscular arteries are arterioles , which control flow into capillary beds.",
+    "Capillaries have walls that are one cell thick, making them so narrow that red blood cells must travel through them single-file. Capillaries are the sites of gas and solute exchange.",
+    "Veins are inelastic, thin-walled structures that transport blood to the heart. They are able to stretch in order to accommodate large volumes of blood but do not have recoil capability. Veins are compressed by surrounding skeletal muscles and have valves to maintain one-way flow. Small veins are called venules .",
+    "A portal system is one in which blood passes through two capillary beds in series. In the hepatic portal system , blood travels from the gut capillary beds to the liver capillary bed via the hepatic portal vein. In the hypophyseal portal system , blood travels from the capillary bed in the hypothalamus to the capillary bed in the anterior pituitary. In the renal portal system , blood travels from the glomerulus to the vasa recta through an efferent arteriole.",
+    "In the hepatic portal system , blood travels from the gut capillary beds to the liver capillary bed via the hepatic portal vein.",
+    "In the hypophyseal portal system , blood travels from the capillary bed in the hypothalamus to the capillary bed in the anterior pituitary.",
+    "In the renal portal system , blood travels from the glomerulus to the vasa recta through an efferent arteriole."
+   ]
+  },
+  {
+   "section": "Blood",
+   "points": [
+    "Blood is composed of cells and plasma, an aqueous mixture of nutrients, salts, respiratory gases, hormones, and blood proteins.",
+    "Erythrocytes ( red blood cells ) lack mitochondria, a nucleus, and organelles in order to make room for hemoglobin , a protein that carries oxygen. Common measurements include hemoglobin concentration and hematocrit , the percentage of blood composed of erythrocytes.",
+    "Leukocytes ( white blood cells ) are formed in the bone marrow. They are a crucial part of the immune system. Granular leukocytes such as neutrophils, eosinophils, and basophils play a role in nonspecific immunity. Agranulocytes, including lymphocytes and monocytes, also play a role in immunity, with lymphocytes playing a large role in specific immunity.",
+    "Granular leukocytes such as neutrophils, eosinophils, and basophils play a role in nonspecific immunity.",
+    "Agranulocytes, including lymphocytes and monocytes, also play a role in immunity, with lymphocytes playing a large role in specific immunity.",
+    "Thrombocytes ( platelets ) are cell fragments from megakaryocytes that are required for coagulation.",
+    "Blood antigens include the surface antigens A, B, and O, as well as Rh factor (D). The I A (A) and I B (B) alleles are codominant, while the i (O) allele is recessive. An individual has antibodies for any AB alleles he or she does not have. Positive Rh factor is dominant. An Rh-negative individual will only create anti-Rh antibodies after exposure to Rh-positive blood.",
+    "The I A (A) and I B (B) alleles are codominant, while the i (O) allele is recessive. An individual has antibodies for any AB alleles he or she does not have.",
+    "Positive Rh factor is dominant. An Rh-negative individual will only create anti-Rh antibodies after exposure to Rh-positive blood."
+   ]
+  },
+  {
+   "section": "Physiology of the Cardiovascular System",
+   "points": [
+    "Blood pressure refers to the force per unit area that is exerted on the walls of blood vessels by blood. It is divided into systolic and diastolic components. It must be high enough to overcome the resistance created by arterioles and capillaries, but low enough to avoid damaging the vasculature and surrounding structures. It can be measured with a sphygmomanometer . Blood pressure is maintained by baroreceptor and chemoreceptor reflexes. Low blood pressure promotes aldosterone and antidiuretic hormone ( ADH or vasopressin ) release. High blood osmolarity also promotes ADH release. High blood pressure promotes atrial natriuretic peptide ( ANP ) release.",
+    "It must be high enough to overcome the resistance created by arterioles and capillaries, but low enough to avoid damaging the vasculature and surrounding structures.",
+    "It can be measured with a sphygmomanometer .",
+    "Blood pressure is maintained by baroreceptor and chemoreceptor reflexes. Low blood pressure promotes aldosterone and antidiuretic hormone ( ADH or vasopressin ) release. High blood osmolarity also promotes ADH release. High blood pressure promotes atrial natriuretic peptide ( ANP ) release.",
+    "Gas and solute exchange occurs at the level of the capillaries and relies on the existence of concentration gradients to facilitate diffusion across the capillary walls. Capillaries are also leaky, which aids in the transport of gases and solutes. Starling forces consist of hydrostatic pressure and osmotic ( oncotic ) pressure . Hydrostatic pressure is the pressure of the fluid within the blood vessel, while osmotic pressure is the “sucking” pressure drawing water toward solutes. Oncotic pressure is osmotic pressure due to proteins. Hydrostatic pressure forces fluid out at the arteriolar end of a capillary bed; oncotic pressure draws it back in at the venule end. Oxygen is carried by hemoglobin, which exhibits cooperative binding . In the lungs, there is a high partial pressure of oxygen, resulting in loading of oxygen onto hemoglobin. In the tissues, there is a low partial pressure of oxygen, resulting in unloading. With cooperative binding, each successive oxygen bound to hemoglobin increases the affinity of the other subunits, while each successive oxygen released decreases the affinity of the other subunits. Carbon dioxide is largely carried in the blood in the form of carbonic acid, or bicarbonate and hydrogen ions. Carbon dioxide is nonpolar and not particularly soluble, while bicarbonate, hydrogen ions, and carbonic acid are polar and highly soluble. A high P a CO 2 , high [H + ], low pH, high temperature, and high concentration of 2,3-BPG can cause a right shift in the oxyhemoglobin dissociation curve , reflecting a decreased affinity for oxygen. In addition to the opposites of the causes of a right shift, a left shift can also be seen in the dissociation curve for fetal hemoglobin compared to adult hemoglobin. Nutrients, wastes, and hormones are carried in the bloodstream to tissues for use or disposal.",
+    "Starling forces consist of hydrostatic pressure and osmotic ( oncotic ) pressure . Hydrostatic pressure is the pressure of the fluid within the blood vessel, while osmotic pressure is the “sucking” pressure drawing water toward solutes. Oncotic pressure is osmotic pressure due to proteins. Hydrostatic pressure forces fluid out at the arteriolar end of a capillary bed; oncotic pressure draws it back in at the venule end.",
+    "Oxygen is carried by hemoglobin, which exhibits cooperative binding . In the lungs, there is a high partial pressure of oxygen, resulting in loading of oxygen onto hemoglobin. In the tissues, there is a low partial pressure of oxygen, resulting in unloading. With cooperative binding, each successive oxygen bound to hemoglobin increases the affinity of the other subunits, while each successive oxygen released decreases the affinity of the other subunits.",
+    "Carbon dioxide is largely carried in the blood in the form of carbonic acid, or bicarbonate and hydrogen ions. Carbon dioxide is nonpolar and not particularly soluble, while bicarbonate, hydrogen ions, and carbonic acid are polar and highly soluble.",
+    "A high P a CO 2 , high [H + ], low pH, high temperature, and high concentration of 2,3-BPG can cause a right shift in the oxyhemoglobin dissociation curve , reflecting a decreased affinity for oxygen.",
+    "In addition to the opposites of the causes of a right shift, a left shift can also be seen in the dissociation curve for fetal hemoglobin compared to adult hemoglobin.",
+    "Nutrients, wastes, and hormones are carried in the bloodstream to tissues for use or disposal.",
+    "Coagulation results from an activation cascade. When the endothelial lining of a blood vessel is damaged, the collagen and tissue factor underlying the endothelial cells are exposed. This results in a cascade of events known as the coagulation cascade , ultimately resulting in the formation of a clot over the damaged area. Platelets bind to the collagen and are stabilized by fibrin , which is activated by thrombin . Clots can be broken down by plasmin .",
+    "When the endothelial lining of a blood vessel is damaged, the collagen and tissue factor underlying the endothelial cells are exposed. This results in a cascade of events known as the coagulation cascade , ultimately resulting in the formation of a clot over the damaged area.",
+    "Platelets bind to the collagen and are stabilized by fibrin , which is activated by thrombin .",
+    "Clots can be broken down by plasmin ."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following is a FALSE statement regarding erythrocytes?",
+   "choices": [
+    "Erythrocytes contain hemoglobin.",
+    "Erythrocytes are anaerobic.",
+    "The nuclei of erythrocytes are located in the middle of the biconcave disc.",
+    "Erythrocytes are phagocytized in the spleen and liver after a certain period of time."
+   ],
+   "correct": 2,
+   "explanation": "Erythrocytes, or red blood cells, are produced in the red bone marrow and circulate in the blood for about 120 days, after which they are phagocytized in the spleen and the liver, eliminating (D) . Red blood cells have a disk-like shape and lose their membranous organelles (like mitochondria and nuclei) during maturation. This makes (C) the correct answer. Erythrocytes are filled with hemoglobin; their lack of mitochondria makes their metabolism solely anaerobic, eliminating (A) and (B) ."
+  },
+  {
+   "q": "Which of the following is the correct sequence of a cardiac impulse?",
+   "choices": [
+    "SA node → AV node → Purkinje fibers → bundle of His → ventricles",
+    "AV node → bundle of His → Purkinje fibers → ventricles → atria",
+    "SA node → atria → AV node → bundle of His → Purkinje fibers → ventricles",
+    "SA node → AV node → atria → bundle of His → Purkinje fibers → ventricles"
+   ],
+   "correct": 2,
+   "explanation": "An ordinary cardiac contraction originates in, and is regulated by, the sinoatrial (SA) node. The impulse travels through both atria, stimulating them to contract simultaneously. The impulse then arrives at the atrioventricular (AV) node, which momentarily slows conduction, allowing for completion of atrial contraction and ventricular filling. The impulse is then carried by the bundle of His and its branches through the Purkinje fibers in the walls of both ventricles, generating a strong contraction."
+  },
+  {
+   "q": "Hemoglobin’s affinity for O 2 :",
+   "choices": [
+    "increases in exercising muscle tissue.",
+    "decreases as blood P a CO 2 decreases.",
+    "decreases as blood pH decreases.",
+    "is higher in maternal blood than in fetal blood."
+   ],
+   "correct": 2,
+   "explanation": "According to the Bohr effect, decreasing the pH in the blood decreases hemoglobin’s affinity for O 2 . This makes (C) the correct answer. The affinity is generally lowered in exercising muscle to facilitate unloading of oxygen to tissues, eliminating (A) . A decrease in the P a CO 2 would cause a decrease in [H + ] or increased pH—which increases hemoglobin’s affinity for O 2 , eliminating (B) . Finally, (D) is incorrect because hemoglobin’s affinity for O 2 is higher in fetal blood than in adult blood."
+  },
+  {
+   "q": "Which of the following correctly traces the circulatory pathway?",
+   "choices": [
+    "Superior vena cava → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta",
+    "Superior vena cava → left atrium → left ventricle → pulmonary artery → lungs → pulmonary veins → right atrium → right ventricle → aorta",
+    "Aorta → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → superior vena cava",
+    "Superior vena cava → right atrium → right ventricle → pulmonary veins → lungs → pulmonary artery → left atrium → left ventricle → aorta"
+   ],
+   "correct": 0,
+   "explanation": "Blood drains from the superior and inferior venae cavae into the right atrium. It passes through the tricuspid valve and into the right ventricle, and then through the pulmonary valve into the pulmonary artery, which leads to the lungs. Oxygenated blood returns to the left atrium via the pulmonary veins. It flows through the mitral valve into the left ventricle. From the left ventricle, it is pumped through the aortic valve into the aorta for distribution throughout the body."
+  },
+  {
+   "q": "At the venous end of a capillary bed, the osmotic pressure:",
+   "choices": [
+    "is greater than the hydrostatic pressure.",
+    "results in a net outflow of fluid.",
+    "is significantly higher than the osmotic pressure at the arterial end.",
+    "causes proteins to enter the interstitium."
+   ],
+   "correct": 0,
+   "explanation": "The exchange of fluid is greatly influenced by the differences in the hydrostatic and osmotic pressures of blood and tissues. The osmotic (oncotic) pressure remains relatively constant; however, the hydrostatic pressure at the arterial end is greater than the hydrostatic pressure at the venous end. As a result, fluid moves out of the capillaries at the arterial end and back in at the venous end. Fluid is reabsorbed at the venous end because the osmotic pressure exceeds the hydrostatic pressure. Proteins should not cross the capillary wall under normal circumstances."
+  },
+  {
+   "q": "A patient’s chart reveals that he has a cardiac output of 7500 mL per minute and a stroke volume of 50 mL. What is his pulse, in beats per minute?",
+   "choices": [
+    "50",
+    "100",
+    "150",
+    "400"
+   ],
+   "correct": 2,
+   "explanation": "The first step in solving this problem is to define cardiac output: cardiac output = heart rate × stroke volume. We can therefore divide the cardiac output by the stroke volume to determine heart rate: Note that this heart rate is actually pathologically fast; a normal heart rate is considered to be between 60 and 100 beats per minute."
+  },
+  {
+   "q": "An unconscious patient is rushed into the emergency room and needs an immediate blood transfusion. Because there is no time to check her medical history or determine her blood type, which type of blood should she receive?",
+   "choices": [
+    "AB +",
+    "AB –",
+    "O +",
+    "O –"
+   ],
+   "correct": 3,
+   "explanation": "Without knowing a patient’s blood type, the only type of transfusion that we can safely give is O – . People with O – blood are considered universal donors because their blood cells contain no surface antigens. Therefore, O – blood can be given to anyone without potentially life-threatening consequences from ABO or Rh incompatibility."
+  },
+  {
+   "q": "Which of the following is true regarding arteries and veins?",
+   "choices": [
+    "Arteries are thin-walled, muscular, and elastic, whereas veins are thick-walled and inelastic.",
+    "Arteries always conduct oxygenated blood, whereas veins always carry deoxygenated blood.",
+    "The blood pressure in the aorta is always higher than the pressure in the superior vena cava.",
+    "Arteries facilitate blood transport by using skeletal muscle contractions, whereas veins make use of the pumping of the heart to push blood."
+   ],
+   "correct": 2,
+   "explanation": "The only answer choice that correctly describes arteries and veins is (C) ; the pressure in the aorta usually ranges between 120 and 80 mmHg, depending on whether the heart is in systole or diastole, whereas the pressure in the superior vena cava is near zero. (A) is incorrect because arteries are thick-walled and veins are thin-walled. (B) is also incorrect; this relationship is reversed in pulmonary and umbilical circulation. (D) is reversed as well; arteries make use of the pumping of the heart and the “snapping back” of their elastic walls to transport blood, whereas venous blood is propelled along by skeletal muscle contractions."
+  },
+  {
+   "q": "At any given time, there is more blood in the venous system than the arterial system. Which of the following features of veins allows for this?",
+   "choices": [
+    "Relative lack of smooth muscle in the wall",
+    "Presence of valves",
+    "Proximity of veins to lymphatic vessels",
+    "Thin endothelial lining"
+   ],
+   "correct": 0,
+   "explanation": "The relative lack of smooth muscle in venous walls allows stretching to store most of the blood in the body. Valves in the veins allow for one-way flow of blood toward the heart, not stretching. Both arteries and veins are close to lymphatic vessels, which has no bearing on their relative difference in volume. Both arteries and veins have a single-cell endothelial lining."
+  },
+  {
+   "q": "Which of the following is involved in the body’s primary blood-buffering mechanism?",
+   "choices": [
+    "Fluid intake",
+    "Absorption of nutrients in the gastrointestinal system",
+    "Carbon dioxide produced from metabolism",
+    "Hormones released by the kidney"
+   ],
+   "correct": 2,
+   "explanation": "Carbon dioxide is a byproduct of metabolism in cells that later combines with water to form bicarbonate in a reaction catalyzed by carbonic anhydrase. This system is blood plasma’s most important buffer system. Food and fluid absorption are not significant sources of buffering, eliminating (A) and (B) . While the kidney can be involved in acid–base balance, it carries out this function through its filtration, secretion, and reabsorption mechanisms, not through hormone release, eliminating (D) ."
+  },
+  {
+   "q": "Due to kidney disease, a person is losing albumin into the urine. What effect is this likely to have within the capillaries?",
+   "choices": [
+    "Increased oncotic pressure",
+    "Increased hydrostatic pressure",
+    "Decreased oncotic pressure",
+    "Decreased hydrostatic pressure"
+   ],
+   "correct": 2,
+   "explanation": "In circulation, plasma proteins play an important role in generating osmotic (oncotic) pressure. This allows water that is displaced at the arterial end of a capillary bed by hydrostatic pressure to be reabsorbed at the venule end. Loss of these plasma proteins would cause a decrease in the plasma osmotic (oncotic) pressure."
+  },
+  {
+   "q": "The tricuspid valve prevents backflow of blood from the:",
+   "choices": [
+    "left ventricle into the left atrium.",
+    "aorta into the left ventricle.",
+    "pulmonary artery into the right ventricle.",
+    "right ventricle into the right atrium."
+   ],
+   "correct": 3,
+   "explanation": "The atrioventricular valves are located between the atria and the ventricles on both sides of the heart. Their role is to prevent backflow of blood into the atria. The valve on the right side of the heart has three cusps and is called the tricuspid valve. It prevents backflow of blood from the right ventricle into the right atrium."
+  },
+  {
+   "q": "The world record for the longest-held breath is 22 minutes and 0 seconds. If a sample were taken from this individual during the last minute of breath-holding, which of the following might be observed?",
+   "choices": [
+    "Increased hemoglobin affinity for oxygen",
+    "Decreased P a CO 2",
+    "Increased hematocrit",
+    "Decreased pH"
+   ],
+   "correct": 3,
+   "explanation": "Holding one’s breath for a prolonged period would result in a drop in oxygenation and an increase in P a CO 2 . The increased carbon dioxide would associate with water to form carbonic acid, which would dissociate into a proton and a bicarbonate anion. Further, the low oxygen saturation would eventually lead to anaerobic metabolism in some tissues, causing an increase in lactic acid. These would all lead to a decreased pH."
+  },
+  {
+   "q": "A person has a heart attack that primarily affects the wall between the two ventricles. Which portion of the electrical conduction system is most likely affected?",
+   "choices": [
+    "AV node",
+    "SA node",
+    "Bundle of His",
+    "Left ventricular muscle"
+   ],
+   "correct": 2,
+   "explanation": "The cardiac conduction system starts at the SA node, which is located near the top of the right atrium, and continues down to the AV node, which is located between the two AV valves. The bundle of His is located within the wall between the ventricles, and is likely to be affected if the wall between the ventricles has been damaged by a heart attack. This may affect the left ventricle, but the left ventricular muscle itself is not part of the cardiac conduction system."
+  },
+  {
+   "q": "Which vascular structure creates the most resistance to blood flow?",
+   "choices": [
+    "Aorta",
+    "Arterioles",
+    "Capillaries",
+    "Veins"
+   ],
+   "correct": 1,
+   "explanation": "The greatest amount of resistance is provided by the arterioles. Arterioles are highly muscular and have the ability to contract and dilate in order to regulate blood pressure."
+  }
+ ]
+}

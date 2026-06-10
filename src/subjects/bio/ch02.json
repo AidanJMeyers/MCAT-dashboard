@@ -1,0 +1,810 @@
+{
+ "id": 2,
+ "num": 2,
+ "title": "Reproduction",
+ "slug": "ch02_reproduction",
+ "sections": [
+  {
+   "title": "2.1 The Cell Cycle and Mitosis",
+   "goals": [
+    "Describe the four phases of mitosis and the major events during each phase",
+    "Identify the five stages of the cell cycle and the major events during each stage"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch02_reproduction/02_01a_pie_chart_with_g1_s_g2_m_g0_shown_as_an_.png",
+     "alt": "Pie chart with G1, S, G2, M. G0 shown as an offshoot of G1. I shown as consisting of G1, S, and G2 combined.",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch02_reproduction/02_01b_one_chromatid_replicating_to_form_two_si.png",
+     "alt": "one chromatid replicating to form two sister chromatids, held together at centromere",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch02_reproduction/02_01c_diagram_of_mitosis_as_described_subseque.png",
+     "alt": "diagram of mitosis, as described subsequently in this chapter",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch02_reproduction/02_01d_centrosome_with_centrioles_composed_of_t.png",
+     "alt": "centrosome with centrioles, composed of triplet microtubules",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "In animals, autosomal cells are said to be diploid ( 2 n ), which means that they contain two copies of each chromosome. Germ cells, on the other hand, are haploid ( n ), containing only one copy of each chromosome. In humans, these numbers are 46 and 23, respectively; we inherit 23 chromosomes from each parent. Eukaryotic cells replicate through the cell cycle , a specific series of phases during which a cell grows, synthesizes DNA, and divides. Derangements of the cell cycle can lead to unchecked cell division and may be responsible for the formation of cancer."
+    },
+    {
+     "t": "h",
+     "x": "The Cell Cycle"
+    },
+    {
+     "t": "p",
+     "x": "The cell cycle, shown in Figure 2.1, is a perennial MCAT favorite. For actively dividing cells, the cell cycle consists of four stages: G 1 , S, G 2 , and M. The first three stages (G 1 , S, and G 2 ) are known collectively as interphase . Interphase is the longest part of the cell cycle; even actively dividing cells spend about 90 percent of their time in interphase. Cells that do not divide spend all of their time in an offshoot of G 1 called G 0 . During the G 0 stage , the cell is simply living and carrying out its functions, without any preparation for division."
+    },
+    {
+     "t": "p",
+     "x": "During interphase, individual chromosomes are not visible with light microscopy because they are in a less condensed form known as chromatin . This is because the DNA must be available to RNA polymerase so that genes can be transcribed. During mitosis, however, it is preferable to condense the DNA into tightly coiled chromosomes to avoid losing any genetic material during cell division."
+    },
+    {
+     "t": "h",
+     "x": "G 1 Stage: Presynthetic Gap"
+    },
+    {
+     "t": "p",
+     "x": "During the G 1 stage , cells create organelles for energy and protein production (mitochondria, ribosomes, and endoplasmic reticulum), while also increasing their size. In addition, passage into the S (synthesis) stage is governed by a restriction point . Certain criteria, such as containing the proper complement of DNA, must be met for the cell to pass the restriction point and enter the synthesis stage."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Each chromatid is composed of a complete double-stranded molecule of DNA. Sister chromatids are identical copies of each other. The term chromosome may be used to refer to either a single chromatid before S phase or the pair of chromatids attached at the centromere after S phase."
+    },
+    {
+     "t": "h",
+     "x": "S Stage: Synthesis of DNA"
+    },
+    {
+     "t": "p",
+     "x": "During the S stage , the cell replicates its genetic material so that each daughter cell will have identical copies. After replication, each chromosome consists of two identical chromatids that are bound together at a specialized region known as the centromere , as shown in Figure 2.2. Note that the ploidy of the cell does not change even though the number of chromatids has doubled. In other words, humans in this stage still only have 46 chromosomes, even though 92 chromatids are present. Cells entering G 2 have twice as much DNA as cells in G 1 ."
+    },
+    {
+     "t": "h",
+     "x": "G 2 Stage: Postsynthetic Gap"
+    },
+    {
+     "t": "p",
+     "x": "During the G 2 stage , the cell passes through another quality control checkpoint. DNA has already been duplicated, and the cell checks to ensure that there are enough organelles and cytoplasm for two daughter cells. Furthermore, the cell checks to make sure that DNA replication proceeded correctly to avoid passing on an error to daughter cells that may further pass on the error to their progeny."
+    },
+    {
+     "t": "h",
+     "x": "M Stage: Mitosis"
+    },
+    {
+     "t": "p",
+     "x": "The M stage consists of mitosis itself along with cytokinesis. Mitosis is divided into four phases: prophase, metaphase, anaphase, and telophase. The features of each phase will be discussed in the next section. Cytokinesis is the splitting of the cytoplasm and organelles between the two daughter cells."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "In autosomal cells, division results in two genetically identical daughter cells. In germ cells, the daughter cells are not equivalent."
+    },
+    {
+     "t": "h",
+     "x": "Control of the Cell Cycle"
+    },
+    {
+     "t": "p",
+     "x": "The cell cycle is controlled by checkpoints, most notably between the G 1 and S phase and the G 2 and M phase. At the G 1 /S checkpoint, the cell determines if the condition of the DNA is good enough for synthesis. As mentioned above, this checkpoint is also known as the restriction point. If there has been damage to the DNA, the cell cycle goes into arrest until the DNA has been repaired. The main protein in control of this is p53 ."
+    },
+    {
+     "t": "p",
+     "x": "At the G 2 /M checkpoint, the cell is mainly concerned with ensuring that it has achieved adequate size and the organelles have been properly replicated to support two daughter cells. p53 also plays a role in the G 2 /M checkpoint."
+    },
+    {
+     "t": "p",
+     "x": "The molecules responsible for the cell cycle are known as cyclins and cyclin-dependent kinases ( CDK ). In order to be activated, CDKs require the presence of the right cyclins. During the cell cycle, concentrations of the various cyclins increase and decrease during specific stages. These cyclins bind to CDKs, creating an activated CDK–cyclin complex. This complex can then phosphorylate transcription factors. Transcription factors then promote transcription of genes required for the next stage of the cell cycle."
+    },
+    {
+     "t": "h",
+     "x": "Cancer"
+    },
+    {
+     "t": "p",
+     "x": "Cell cycle control is essential to ensure that cells that are damaged or inadequately sized do not divide. When cell cycle control becomes deranged, and damaged cells are allowed to undergo mitosis, cancer may result. One of the most common mutations found in cancer is mutation of the gene that produces p53, called TP53. When this gene is mutated, the cell cycle is not stopped to repair damaged DNA. This allows mutations to accumulate, eventually resulting in a cancerous cell that divides continuously and without regard to the quality or quantity of the new cells produced. Often, cancer cells undergo rapid cell division, creating tumors . Eventually, if the cell begins to produce the right factors (such as proteases that can digest basement membranes or factors that encourage blood vessel formation), the damaged cells are then able to reach other tissues. This may include both local invasion as well as distant spread of cancerous cells through the bloodstream or lymphatic systems. The latter result is known as metastasis ."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "Cancer-causing genes can often be classified into oncogenes (genes that, when mutated, actively promote cell division) and tumor suppressor genes (genes that, when mutated, lose their ability to regulate or arrest the cell cycle). Different cancer types are often associated with specific mutations in either oncogenes or tumor suppressor genes, or both. The biochemistry of these genes is discussed in Chapter 6 of MCAT Biochemistry Review ."
+    },
+    {
+     "t": "h",
+     "x": "Mitosis"
+    },
+    {
+     "t": "p",
+     "x": "Mitosis , shown in Figure 2.3, is the process by which two identical daughter cells are created from a single cell. Mitosis consists of four distinct phases—prophase, metaphase, anaphase, and telophase—and occurs in somatic cells , or cells that are not involved in sexual reproduction."
+    },
+    {
+     "t": "h",
+     "x": "Prophase"
+    },
+    {
+     "t": "p",
+     "x": "Prophase is the first phase in mitosis. The first step in prophase involves condensation of the chromatin into chromosomes. Also, the centriole pairs separate and move toward opposite poles of the cell. These paired cylindrical organelles, shown in Figure 2.4, are located outside the nucleus in a region known as the centrosome and are responsible for the correct division of DNA. Once the centrioles migrate to opposite poles of the cell, they begin to form spindle fibers , which are made of microtubules. This establishes the centrosome as one of the two microtubule organizing centers of the cell—the other being the basal body of a flagellum or cilium. Each of the fibers radiates outward from the centrioles. Some microtubules form asters that anchor the centrioles to the cell membrane. Others extend toward the middle of the cell. The nuclear membrane dissolves during prophase, allowing these spindle fibers to contact the chromosomes. The nucleoli become less distinct and may disappear completely. Kinetochores , which appear at the centrosome, are protein structures located on the centromeres that serve as attachment points for specific fibers of the spindle apparatus (appropriately called kinetochore fibers )."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "The phases of mitosis: Prophase—chromosomes condense, spindle forms Metaphase—chromosomes align Anaphase—sister chromatids separate Telophase—new nuclear membranes form"
+    },
+    {
+     "t": "h",
+     "x": "Metaphase"
+    },
+    {
+     "t": "p",
+     "x": "In metaphase , the centriole pairs are now at opposite ends of the cell. The kinetochore fibers interact with the fibers of the spindle apparatus to align the chromosomes at the metaphase plate ( equatorial plate ), which is equidistant from the two poles of the cell."
+    },
+    {
+     "t": "h",
+     "x": "Anaphase"
+    },
+    {
+     "t": "p",
+     "x": "During anaphase , the centromeres split so that each chromatid has its own distinct centromere, thus allowing the sister chromatids to separate. The sister chromatids are pulled toward the opposite poles of the cell by the shortening of the kinetochore fibers."
+    },
+    {
+     "t": "h",
+     "x": "Telophase and Cytokinesis"
+    },
+    {
+     "t": "p",
+     "x": "Telophase is essentially the reverse of prophase. The spindle apparatus disappears. A nuclear membrane reforms around each set of chromosomes, and the nucleoli reappear. The chromosomes uncoil, resuming their interphase form. Each of the two new nuclei receives a complete copy of the genome identical to the original genome and to each other."
+    },
+    {
+     "t": "p",
+     "x": "Cytokinesis , which occurs at the end of telophase, is the separation of the cytoplasm and organelles, giving each daughter cell enough material to survive on its own. Each cell undergoes a finite number of divisions before programmed death; for human somatic cells, this is usually between 20 and 50. After that, the cell can no longer divide continuously."
+    }
+   ]
+  },
+  {
+   "title": "2.2 Meiosis",
+   "goals": [
+    "Predict the ploidy of daughter cells at the end of mitosis, meiosis I, and meiosis II",
+    "Differentiate between homologous chromosomes and sister chromatids",
+    "Compare and contrast mitosis and meiosis",
+    "Explain the importance of crossing over events in relation to genetic diversity"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch02_reproduction/02_02a_diagram_of_meiosis_as_described_subseque.png",
+     "alt": "diagram of meiosis as described subsequently in the chapter",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch02_reproduction/02_02b_homologous_chromosomes_align_forming_a_t.png",
+     "alt": "homologous chromosomes align, forming a tetrad; crossing over occurs at chiasma, forming recombinant chromosomes",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "Whereas mitosis occurs in somatic tissue and results in two identical daughter cells, meiosis occurs in gametocytes ( germ cells ) and results in up to four nonidentical sex cells ( gametes ). Meiosis shares some similarities with mitosis. In both processes, for instance, genetic material must be duplicated, chromatin is condensed to form chromosomes, and microtubules emanating from centrioles are involved in dividing genetic material. However, the MCAT tends to ask about the differences between these two processes."
+    },
+    {
+     "t": "p",
+     "x": "In contrast to mitosis, which consists of one round each of replication and division, meiosis consists of one round of replication followed by two rounds of division, as shown in Figure 2.5. Meiosis I results in homologous chromosomes being separated, generating haploid daughter cells; this is known as reductional division . Meiosis II is similar to mitosis, in that it results in the separation of sister chromatids without a change in ploidy, and is therefore known as equational division ."
+    },
+    {
+     "t": "h",
+     "x": "Meiosis I"
+    },
+    {
+     "t": "p",
+     "x": "The human genome is composed of 23 homologous pairs of chromosomes ( homologues ), each of which contains one chromosome inherited from each parent. This brings up an important note about terminology: whereas homologous pairs are considered separate chromosomes (such as maternal chromosome 15 and paternal chromosome 15), sister chromatids are identical strands of DNA connected at the centromere. Thus, after S phase, there are 92 chromatids organized into 46 chromosomes, which are organized into 23 homologous pairs."
+    },
+    {
+     "t": "h",
+     "x": "Prophase I"
+    },
+    {
+     "t": "p",
+     "x": "During prophase I , the chromatin condenses into chromosomes, the spindle apparatus forms, and the nucleoli and nuclear membrane disappear. The first major difference between meiosis and mitosis occurs at this point: homologous chromosomes come together and intertwine in a process called synapsis . At this point, each chromosome consists of two sister chromatids, so each synaptic pair contains four chromatids and is referred to as a tetrad ; the homologous chromosomes are held together by a group of proteins called the synaptonemal complex . Chromatids of homologous chromosomes may break at the point of contact, called the chiasma (plural: chiasmata ) and exchange equivalent pieces of DNA, as shown in Figure 2.6. This process is called crossing over , and can be characterized by the number of crossover events that occur in one strand of DNA, including single crossovers and double crossovers . Note that crossing over occurs between homologous chromosomes and not between sister chromatids of the same chromosome—the latter are identical, so crossing over would not produce any change. Those chromatids involved are left with an altered but structurally complete set of genes. Such genetic recombination can unlink linked genes, thereby increasing the variety of genetic combinations that can be produced via gametogenesis. Linkage refers to the tendency for genes to be inherited together; genes that are located farther from each other physically are less likely to be inherited together, and more likely to undergo crossing over relative to each other. Thus, as opposed to asexual reproduction, which produces identical offspring, sexual reproduction provides the advantage of great genetic diversity, which is believed to increase the ability of a species to evolve and adapt to a changing environment."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "The rate of gene unlinking is used to map differences between two genes on the same chromosome. The farther apart two genes are, the more likely they are to become unlinked during crossing over. These statistics can then be used to determine the distance between genes on the chromosome, measured in units called centimorgans."
+    },
+    {
+     "t": "p",
+     "x": "Because of crossing over, each daughter cell will have a unique pool of alleles (genes coding for alternative forms of a given trait) from a random mixture of maternal and paternal origin. In classical genetics, crossing over explains Mendel’s second law (of independent assortment) , which states that the inheritance of one allele has no effect on the likelihood of inheriting certain alleles for other genes."
+    },
+    {
+     "t": "h",
+     "x": "Metaphase I"
+    },
+    {
+     "t": "p",
+     "x": "During metaphase I , homologous pairs (tetrads) align at the metaphase plate, and each pair attaches to a separate spindle fiber by its kinetochore. Note the difference from mitosis: in mitosis, each chromosome is lined up on the metaphase plate by two spindle fibers (one from each pole); in meiosis, homologous chromosomes are lined up across from each other at the metaphase plate and are held by one spindle fiber."
+    },
+    {
+     "t": "h",
+     "x": "Anaphase I"
+    },
+    {
+     "t": "p",
+     "x": "During anaphase I , homologous pairs separate and are pulled to opposite poles of the cell. This process is called disjunction , and it accounts for Mendel’s first law (of segregation) . During disjunction, each chromosome of paternal origin separates (or disjoins) from its homologue of maternal origin, and either chromosome can end up in either daughter cell. Thus, the distribution of homologous chromosomes to the two intermediate daughter cells is random with respect to parental origin. This separating of the two homologous chromosomes is referred to as segregation ."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "It is critical to understand how meiosis I is different from mitosis. The chromosome number is halved (reductional division) in meiosis I, and the daughter cells have the haploid number of chromosomes (23 in humans). Meiosis II is similar to mitosis in that sister chromatids are separated from one another; therefore, no change in ploidy is observed."
+    },
+    {
+     "t": "h",
+     "x": "Telophase I"
+    },
+    {
+     "t": "p",
+     "x": "During telophase I , a nuclear membrane forms around each new nucleus. At this point, each chromosome still consists of two sister chromatids joined at the centromere. The cells are now haploid; once homologous chromosomes separate, only n chromosomes are found in each daughter cell (23 in humans). The cell divides into two daughter cells by cytokinesis. Between cell divisions, there may be a short rest period, or interkinesis , during which the chromosomes partially uncoil."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "If, during anaphase I or II of meiosis, homologous chromosomes (anaphase I) or sister chromatids (anaphase II) fail to separate, one of the resulting gametes will have two copies of a particular chromosome and the other gamete will have none. Subsequently, during fertilization, the resulting zygote may have too many or too few copies of that chromosome. Nondisjunction can affect both autosomal chromosomes (such as trisomy 21, resulting in Down syndrome) and the sex chromosomes (such as Klinefelter and Turner syndromes)."
+    },
+    {
+     "t": "h",
+     "x": "Meiosis II"
+    },
+    {
+     "t": "p",
+     "x": "Meiosis II is very similar to mitosis in that sister chromatids—rather than homologues—are separated from each other."
+    },
+    {
+     "t": "h",
+     "x": "Prophase II"
+    },
+    {
+     "t": "p",
+     "x": "During prophase II , the nuclear envelope dissolves, nucleoli disappear, the centrioles migrate to opposite poles, and the spindle apparatus begins to form."
+    },
+    {
+     "t": "h",
+     "x": "Metaphase II"
+    },
+    {
+     "t": "p",
+     "x": "During metaphase II , the chromosomes line up on the metaphase plate."
+    },
+    {
+     "t": "h",
+     "x": "Anaphase II"
+    },
+    {
+     "t": "p",
+     "x": "During anaphase II , the centromeres divide, separating the chromosomes into sister chromatids. These chromatids are pulled to opposite poles by spindle fibers."
+    },
+    {
+     "t": "h",
+     "x": "Telophase II"
+    },
+    {
+     "t": "p",
+     "x": "During telophase II , a nuclear membrane forms around each new nucleus. Cytokinesis follows, and two daughter cells are formed. Thus, by completion of meiosis II, up to four haploid daughter cells are produced per gametocyte. We use the phrase up to because oogenesis, discussed later in this chapter, may result in fewer than four cells if an egg remains unfertilized after ovulation."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Mitosis Meiosis 2 n → 2 n 2 n → n Occurs in all dividing cells Occurs in sex cells only Homologous chromosomes do not pair Homologous chromosomes align on opposite sides of the metaphase plate No crossing over Crossing over can occur"
+    }
+   ]
+  },
+  {
+   "title": "2.3 The Reproductive System",
+   "goals": [
+    "Recall the functions of the interstitial cells of Leydig and Sertoli cells",
+    "Identify the phases of meiosis in which primary and secondary oocytes are arrested",
+    "Describe the acrosome",
+    "Differentiate between male and female sex organs and development",
+    "Recall the phases of the menstrual cycle, including key features and relative hormone levels for each phase:"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch02_reproduction/02_03a_labeled_ureter_urinary_bladder_vas_defer.png",
+     "alt": "labeled: ureter, urinary bladder, vas deferens, seminal vesicle, ejaculatory duct, prostate gland, bulbourethral gland, urethra, epididymis, testis",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch02_reproduction/02_03b_labeled_head_with_acrosome_and_nucleus_m.png",
+     "alt": "labeled: head with acrosome and nucleus, midpiece with centriole and mitochondria, tail with axial filament, end piece",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch02_reproduction/02_03c_labeled_ovary_fallopian_tube_uterus_endo.png",
+     "alt": "labeled: ovary, fallopian tube, uterus, endometrium, cervix, vagina",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch02_reproduction/02_03d_description_given_in_caption.png",
+     "alt": "description given in caption",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "Biological sex is determined by the 23rd pair of chromosomes, with XX being female and XY being male. Ova can only carry the X chromosome, while sperm can carry either the X or Y chromosome. The X chromosome carries a sizeable amount of genetic information; mutations in these genes can cause sex-linked (X-linked) disorders. Males are termed hemizygous with respect to many of the genes on the X chromosome because they only have one copy. Therefore, a male with a disease-causing allele on the unpaired part of X chromosome will necessarily express that allele. Females, on the other hand, may be homozygous or heterozygous with respect to genes on the X chromosome. Most X-linked disorders are recessively inherited; therefore, females express these disorders far less frequently than males. Females carrying a diseased allele on an X-chromosome but not exhibiting the disease are said to be carriers ."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Se x -linked is X -linked."
+    },
+    {
+     "t": "p",
+     "x": "Comparatively, the Y chromosome contains very little genetic information. One notable gene on the Y chromosome is SRY ( sex-determining region Y ), which codes for a transcription factor that initiates testis differentiation and, thus, the formation of male gonads. Therefore, in the absence of the Y chromosome, all zygotes will be female. In the presence of the Y chromosome a zygote will be male."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "There are actually a handful of Y-linked diseases, most of which result in reduced fertility. A father will pass a Y-linked disease to all of his sons, assuming fertility has not been lost. These diseases are extremely rare and are not included on the official MCAT content lists."
+    },
+    {
+     "t": "h",
+     "x": "Male Reproductive Anatomy"
+    },
+    {
+     "t": "p",
+     "x": "The male reproductive system is shown in Figure 2.7."
+    },
+    {
+     "t": "p",
+     "x": "In males, the primitive gonads develop into the testes . The testes have two functional components: the seminiferous tubules and the interstitial cells of Leydig . Sperm are produced in the highly coiled seminiferous tubules, where they are nourished by Sertoli cells . The cells of Leydig secrete testosterone and other male sex hormones ( androgens ). The testes are located in the scrotum , an external pouch that hangs below the penis , a position that allows it to maintain a temperature 2° to 4°C lower than the body. In fact, there is a layer of muscle around the vas deferens (ductus deferens) that can raise and lower the testis to maintain the proper temperature for sperm development."
+    },
+    {
+     "t": "p",
+     "x": "As sperm are formed they are passed to the epididymis , where their flagella gain motility, and they are then stored until ejaculation . During ejaculation , sperm travel through the vas deferens and enter the ejaculatory duct at the posterior edge of the prostate gland. The two ejaculatory ducts then fuse to form the urethra , which carries sperm through the penis as they exit the body. In males, the reproductive and urinary systems share a common pathway; this is not the case in females."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Pathway of sperm through the male reproductive system: SEVE(N) UP S eminiferous tubules E pididymis V as deferens (also called the ductus deferens) E jaculatory duct ( N othing) U rethra P enis"
+    },
+    {
+     "t": "p",
+     "x": "As sperm pass through the reproductive tract they are mixed with seminal fluid , which is produced through a combined effort by the seminal vesicles, prostate gland, and bulbourethral gland. The seminal vesicles contribute fructose to nourish sperm, and both the seminal vesicles and prostate gland give the fluid mildly alkaline properties so the sperm can survive in the relative acidity of the female reproductive tract. The bulbourethral ( Cowper’s ) glands produce a clear viscous fluid that cleans out any remnants of urine and lubricates the urethra during sexual arousal. The combination of sperm and seminal fluid is known as semen ."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "The prostate enlarges with age and frequently causes problems in older males, including benign prostatic hyperplasia . Because the prostate surrounds the urethra, classic symptoms of this condition include urinary frequency, urgency, and nighttime awakenings to use the bathroom."
+    },
+    {
+     "t": "h",
+     "x": "Spermatogenesis"
+    },
+    {
+     "t": "p",
+     "x": "As mentioned above, spermatogenesis , the formation of haploid sperm through meiosis, occurs in the seminiferous tubules. In males, the diploid stem cells are known as spermatogonia . After replicating their genetic material (S stage), they develop into diploid primary spermatocytes . The first meiotic division will result in haploid secondary spermatocytes , which then undergo meiosis II to generate haploid spermatids . Finally, the spermatids undergo maturation to become mature spermatozoa . Spermatogenesis results in four functional sperm for each spermatogonium."
+    },
+    {
+     "t": "p",
+     "x": "Mature sperm are very compact. They consist of a head (containing the genetic material), a midpiece (which generates ATP from fructose), and a flagellum (for motility), as shown in Figure 2.8. The midpiece is filled with mitochondria, which generate the energy for swimming through the female reproductive tract to reach the ovum in the fallopian tubes. Each sperm head is covered by a cap known as an acrosome . This structure is derived from the Golgi apparatus and is necessary to penetrate the ovum . Once a male reaches sexual maturity during puberty, approximately 3 million sperm are produced per day for the rest of his life."
+    },
+    {
+     "t": "h",
+     "x": "Female Reproductive Anatomy"
+    },
+    {
+     "t": "p",
+     "x": "Unlike the male reproductive system, all of the female reproductive organs are internal, as shown in Figure 2.9. The gonads, known as ovaries , produce estrogen and progesterone. The ovaries are located in the pelvic cavity; each consists of thousands of follicles , which are multilayered sacs that contain, nourish, and protect immature ova (eggs). Between puberty and menopause, one egg per month is ovulated into the peritoneal sac , which lines the abdominal cavity. It is then drawn into the fallopian tube or oviduct , which is lined with cilia to propel the egg forward. The fallopian tubes are connected to the muscular uterus , which is the site of fetal development. The lower end of the uterus, known as the cervix , connects to the vaginal canal , where sperm are deposited during intercourse. The vagina is also the passageway through which childbirth occurs. The external female anatomy is known collectively as the vulva . As mentioned earlier, females have separate excretory and reproductive tracts."
+    },
+    {
+     "t": "h",
+     "x": "Oogenesis"
+    },
+    {
+     "t": "p",
+     "x": "The production of female gametes is known as oogenesis . Although gametocytes undergo the same meiotic process in both females and males, there are some significant differences between the two sexes. First, there is no unending supply of stem cells analogous to spermatogonia in females; all of the oogonia a woman will ever have are formed during fetal development. By birth, all of the oogonia have already undergone DNA replication and are considered primary oocytes . These cells are 2 n , like primary spermatocytes, and are actually arrested in prophase I. Once a woman reaches menarche (her first menstrual cycle), one primary oocyte per month will complete meiosis I, producing a secondary oocyte and a polar body. The division is characterized by unequal cytokinesis, which distributes ample cytoplasm to one daughter cell (the secondary oocyte) and nearly none to the other (the polar body). The polar body generally does not divide any further and will never produce functional gametes. The secondary oocyte, on the other hand, remains arrested in metaphase II and does not complete the remainder of meiosis II unless fertilization occurs."
+    },
+    {
+     "t": "p",
+     "x": "Oocytes are surrounded by two layers: the zona pellucida and the corona radiata. The zona pellucida surrounds the oocyte itself and is an acellular mixture of glycoproteins that protect the oocyte and contain compounds necessary for sperm cell binding. The corona radiata lies outside the zona pellucida and is a layer of cells that adhered to the oocyte during ovulation. Meiosis II is triggered when a sperm cell penetrates these layers with the help of acrosomal enzymes. The secondary oocyte undergoes the second meiotic division to split into a mature ovum and another polar body, which will eventually be broken down."
+    },
+    {
+     "t": "p",
+     "x": "A mature ovum is a very large cell consisting of large quantities of cytoplasm and organelles. The ovum contributes nearly everything to the zygote (half of the DNA and all of the cytoplasm, organelles [including mitochondria], and RNA for early cellular processes), whereas sperm only contribute half of the DNA. Upon completion of meiosis II, the haploid pronuclei of the sperm and the ovum join, creating a diploid zygote ."
+    },
+    {
+     "t": "h",
+     "x": "Sexual Development"
+    },
+    {
+     "t": "p",
+     "x": "The ability to reproduce is under hormonal control. Prior to puberty, the hypothalamus restricts production of gonadotropin-releasing hormone ( GnRH ). At the start of puberty, this restriction is lifted as the hypothalamus releases pulses of GnRH, which then triggers the anterior pituitary gland to synthesize and release follicle-stimulating hormone ( FSH ) and luteinizing hormone ( LH ). These hormones trigger the production of other sex hormones that develop and maintain the reproductive system."
+    },
+    {
+     "t": "h",
+     "x": "Male Sexual Development"
+    },
+    {
+     "t": "p",
+     "x": "During the fetal period (from nine weeks after fertilization until birth), presence of the Y chromosome leads to production of androgens, resulting in male sexual differentiation. For the duration of infancy and childhood, androgen production is low. Testosterone , produced by the testes, increases dramatically during puberty, and sperm production begins. In order to achieve this, there is a delicate interplay of FSH and LH stimulation on two cell types in the testes. FSH stimulates the Sertoli cells and triggers sperm maturation, whereas LH causes the interstitial cells to produce testosterone. Testosterone not only develops and maintains the male reproductive system, but also results in the development of secondary sexual characteristics such as facial and axillary hair, deepening of the voice, and increased muscle and bone mass. Testosterone production remains high into adulthood and declines as men age. This hormone exerts negative feedback on the hypothalamus and anterior pituitary so that production is kept within an appropriate range."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "If the receptors for testosterone are absent or defective, it cannot exert its effects. The result is a condition called androgen insensitivity syndrome (AIS), in which a genetic male (XY) has female secondary sexual characteristics. In complete androgen insensitivity, a genetic male will appear female at birth. Oftentimes these individuals are not discovered until puberty, when they are examined for amenorrhea (failure to menstruate)."
+    },
+    {
+     "t": "h",
+     "x": "Female Sexual Development"
+    },
+    {
+     "t": "p",
+     "x": "The ovaries, which are derived from the same embryonic structures as the testes, are also under the control of FSH and LH secreted by the anterior pituitary. The ovaries produce estrogens and progesterone."
+    },
+    {
+     "t": "p",
+     "x": "Estrogens are secreted in response to FSH and result in the development and maintenance of the female reproductive system and female secondary sexual characteristics (breast growth, widening of the hips, changes in fat distribution). In the embryo, estrogens stimulate development of the reproductive tract. In adults, estrogens lead to the thickening of the lining of the uterus ( endometrium ) each month in preparation for the implantation of a zygote."
+    },
+    {
+     "t": "p",
+     "x": "Progesterone is secreted by the corpus luteum —the remains of the ovarian follicle following ovulation—in response to LH. Interestingly, progesterone is involved in the development and maintenance of the endometrium, but not in the initial thickening of the endometrium—this is the role of estrogen. This means that both estrogen and progesterone are required for the generation, development, and maintenance of an endometrium capable of supporting a zygote. By the end of the first trimester of a pregnancy, progesterone is supplied by the placenta, while the corpus luteum atrophies and ceases to function."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Est rogen est ablishes and pro gesterone pro tects the endometrium."
+    },
+    {
+     "t": "h",
+     "x": "The Menstrual Cycle"
+    },
+    {
+     "t": "p",
+     "x": "During the reproductive years (from menarche to menopause), estrogen and progesterone levels rise and fall in a cyclic pattern. In response, the endometrial lining will grow and be shed. This is known as the menstrual cycle and can be divided into four events, as shown in Figure 2.10: the follicular phase, ovulation, the luteal phase, and menstruation."
+    },
+    {
+     "t": "h",
+     "x": "Follicular Phase"
+    },
+    {
+     "t": "p",
+     "x": "The follicular phase begins when the menstrual flow , which sheds the uterine lining of the previous cycle, begins. GnRH secretion from the hypothalamus increases in response to the decreased concentrations of estrogen and progesterone, which fall off toward the end of each cycle. The higher concentrations of GnRH cause increased secretions of both FSH and LH. These two hormones work in concert to develop several ovarian follicles. The follicles begin to produce estrogen, which has negative feedback effects and causes the GnRH, LH, and FSH concentrations to level off. Estrogen stimulates regrowth of the endometrial lining, stimulating vascularization and glandularization of the decidua ."
+    },
+    {
+     "t": "h",
+     "x": "Ovulation"
+    },
+    {
+     "t": "p",
+     "x": "Estrogen is interesting in that it can have both negative and positive feedback effects. Late in the follicular phase, the developing follicles secrete higher and higher concentrations of estrogen. Eventually, estrogen concentrations reach a threshold that paradoxically results in positive feedback, and GnRH, LH, and FSH levels spike. The surge in LH is important; it induces ovulation , the release of the ovum from the ovary into the abdominal (peritoneal) cavity."
+    },
+    {
+     "t": "h",
+     "x": "Luteal Phase"
+    },
+    {
+     "t": "p",
+     "x": "After ovulation, LH causes the ruptured follicle to form the corpus luteum, which secretes progesterone. Remember that estrogen helps regenerate the uterine lining, but progesterone maintains it for implantation. Progesterone levels begin to rise, while estrogen levels remain high. The high levels of progesterone cause negative feedback on GnRH, FSH, and LH, preventing the ovulation of multiple eggs."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Oral contraceptive pills (OCPs) are simply estrogen/progesterone (or progesterone-only) preparations. These block conception by inhibiting LH and FSH release through negative feedback, thereby inhibiting ovulation. When a woman takes the placebo pills at the end of the month, withdrawal menstruation still occurs because estrogen and progesterone levels drop, but no egg passes with the menstrual flow."
+    },
+    {
+     "t": "h",
+     "x": "Menstruation"
+    },
+    {
+     "t": "p",
+     "x": "Assuming that implantation does not occur, the corpus luteum loses its stimulation from LH, progesterone levels decline, and the uterine lining is sloughed off. The loss of high levels of estrogen and progesterone removes the block on GnRH so that the next cycle can begin."
+    },
+    {
+     "t": "callout",
+     "kind": "warn",
+     "title": "MCAT Expertise",
+     "x": "The MCAT likes to test your ability to identify graphs of the blood concentrations of FSH, LH, estrogen, and progesterone throughout the menstrual cycle. Be sure to know when each peaks by studying Figure 2.10."
+    },
+    {
+     "t": "h",
+     "x": "Pregnancy"
+    },
+    {
+     "t": "p",
+     "x": "On the other hand, if fertilization has occurred the resulting zygote will develop into a blastocyst that will implant in the uterine lining and secrete human chorionic gonadotropin ( hCG ), an analog of LH—it looks very similar chemically and can stimulate LH receptors. This maintains the corpus luteum. hCG is critical during first trimester development because the estrogen and progesterone secreted by the corpus luteum keep the uterine lining in place. By the second trimester, hCG levels decline because the placenta has grown to a sufficient size to secrete enough progesterone and estrogen by itself. The high levels of estrogen and progesterone continue to serve as negative feedback on GnRH secretion."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Menstrual cycle: Follicles mature during the follicular phase (FSH, LH) LH surge at midcycle triggers ovulation Ruptured follicle becomes corpus luteum, which secretes estrogen and progesterone to build up uterine lining in preparation for implantation; LH and FSH are inhibited If fertilization does not occur, corpus luteum atrophies, progesterone and estrogen levels decrease, menses occurs, and LH and FSH levels begin to rise again"
+    },
+    {
+     "t": "h",
+     "x": "Menopause"
+    },
+    {
+     "t": "p",
+     "x": "As a woman ages her ovaries become less sensitive to FSH and LH, resulting in ovarian atrophy. As estrogen and progesterone levels drop, the endometrium also atrophies, and menstruation stops. Also, because the negative feedback on FSH and LH is removed, the blood levels of these two hormones rise. This is called menopause . Profound physical and physiological changes usually accompany this process, including flushing, hot flashes, bloating, headaches, and irritability. Menopause usually occurs between the ages of 45 and 55."
+    }
+   ]
+  }
+ ],
+ "conceptSummary": [
+  {
+   "section": "The Cell Cycle and Mitosis",
+   "points": [
+    "Diploid ( 2 n ) cells have two copies of each chromosome; haploid ( n ) cells have one copy.",
+    "The cell cycle contains five stages. The G 1 , S, and G 2 stages are collectively called interphase , during which the DNA is uncoiled in the form of chromatin . In the G 1 stage ( presynthetic gap ), cells create organelles for energy and protein production, and increase their size. The restriction point , during which the DNA is checked for quality, must be passed for the cell to move into the S stage. In the S stage ( synthesis ), DNA is replicated. The strands of DNA, called chromatids , are held together at the centromere. In the G 2 stage ( postsynthetic gap ), there is further cell growth and replication of organelles in preparation for mitosis. Another quality checkpoint must be passed for the cell to enter into mitosis. In the M stage ( mitosis ), mitosis and cytokinesis occur. In the G 0 stage, the cell performs its functions without preparing for division.",
+    "In the G 1 stage ( presynthetic gap ), cells create organelles for energy and protein production, and increase their size. The restriction point , during which the DNA is checked for quality, must be passed for the cell to move into the S stage.",
+    "In the S stage ( synthesis ), DNA is replicated. The strands of DNA, called chromatids , are held together at the centromere.",
+    "In the G 2 stage ( postsynthetic gap ), there is further cell growth and replication of organelles in preparation for mitosis. Another quality checkpoint must be passed for the cell to enter into mitosis.",
+    "In the M stage ( mitosis ), mitosis and cytokinesis occur.",
+    "In the G 0 stage, the cell performs its functions without preparing for division.",
+    "p53 plays a role in the two major checkpoints of the cell cycle (G 1 to S, and G 2 to M).",
+    "Cyclins and cyclin-dependent kinases ( CDK ) rise and fall during the cell cycle. Cyclins bind to CDKs, phosphorylating and activating transcription factors for the next stage of the cell cycle.",
+    "Cancer occurs when cell cycle control becomes deranged, allowing damaged cells to undergo mitosis without regard to quality or quantity of the new cells produced. Cancerous cells may begin to produce factors that allow them to delocalize and invade adjacent tissues or metastasize elsewhere.",
+    "Mitosis produces two genetically identical diploid daughter cells from a single cell and occurs in s omatic cells .",
+    "Mitosis has four phases: In prophase , the chromosomes condense, the nuclear membrane dissolves, nucleoli disappear, centrioles migrate to opposite sides of the cell, and the spindle apparatus begins to form. The kinetochore of each chromosome is contacted by a spindle fiber. In metaphase , chromosomes line up along the metaphase plate ( equatorial plate ). In anaphase , sister chromatids are separated and pulled to opposite poles. In telophase , the nuclear membrane reforms, spindle apparatus disappears, and cytosol and organelles are split between the two daughter cells through cytokinesis .",
+    "In prophase , the chromosomes condense, the nuclear membrane dissolves, nucleoli disappear, centrioles migrate to opposite sides of the cell, and the spindle apparatus begins to form. The kinetochore of each chromosome is contacted by a spindle fiber.",
+    "In metaphase , chromosomes line up along the metaphase plate ( equatorial plate ).",
+    "In anaphase , sister chromatids are separated and pulled to opposite poles.",
+    "In telophase , the nuclear membrane reforms, spindle apparatus disappears, and cytosol and organelles are split between the two daughter cells through cytokinesis ."
+   ]
+  },
+  {
+   "section": "Meiosis",
+   "points": [
+    "Meiosis occurs in gametocytes ( germ cells ) and produces up to four nonidentical haploid sex cells ( gametes ).",
+    "Meiosis has one round of replication and two rounds of division (the reductional and equational divisions).",
+    "In meiosis I , homologous pairs of chromosomes (homologues) are separated from each other. Homologues are chromosomes that are given the same number, but are of opposite parental origin. In prophase I , the same events occur as in prophase of mitosis, except that homologues come together and intertwine in a process called synapsis . The four chromatids are referred to as a tetrad , and crossing over exchanges genetic material between one chromatid and material from a chromatid in the homologous chromosome. This accounts for Mendel’s second law (of independent assortment) . In metaphase I , homologous chromosomes line up on opposite sides of the metaphase plate. In anaphase I , homologous chromosomes are pulled to opposite poles of the cell. This accounts for Mendel’s first law (of segregation) . In telophase I , the chromosomes may or may not fully decondense, and the cell may enter interkinesis after cytokinesis.",
+    "In prophase I , the same events occur as in prophase of mitosis, except that homologues come together and intertwine in a process called synapsis . The four chromatids are referred to as a tetrad , and crossing over exchanges genetic material between one chromatid and material from a chromatid in the homologous chromosome. This accounts for Mendel’s second law (of independent assortment) .",
+    "In metaphase I , homologous chromosomes line up on opposite sides of the metaphase plate.",
+    "In anaphase I , homologous chromosomes are pulled to opposite poles of the cell. This accounts for Mendel’s first law (of segregation) .",
+    "In telophase I , the chromosomes may or may not fully decondense, and the cell may enter interkinesis after cytokinesis.",
+    "In meiosis II , sister chromatids are separated from each other in a process that is functionally identical to mitosis. Sister chromatids are copies of the same DNA held together at the centromere."
+   ]
+  },
+  {
+   "section": "The Reproductive System",
+   "points": [
+    "Biological sex is determined by the 23rd pair of chromosomes in humans, with XX being female and XY being male. The X chromosome carries a sizeable amount of genetic information; mutations of X-linked genes can cause sex-linked disorders. Males are hemizygous with respect to the unpaired genes on the X chromosome, so they will express sex-linked disorders, even if they only have one recessive disease-carrying allele. Women with one copy of the affected allele are called carriers . The Y chromosome carries little genetic information, but does contain the SRY ( sex-determining region Y ) gene, which causes the gonads to differentiate into testes.",
+    "The X chromosome carries a sizeable amount of genetic information; mutations of X-linked genes can cause sex-linked disorders. Males are hemizygous with respect to the unpaired genes on the X chromosome, so they will express sex-linked disorders, even if they only have one recessive disease-carrying allele. Women with one copy of the affected allele are called carriers .",
+    "The Y chromosome carries little genetic information, but does contain the SRY ( sex-determining region Y ) gene, which causes the gonads to differentiate into testes.",
+    "The male reproductive system contains both internal and external structures. Sperm develop in the seminiferous tubules in the testes . They are nourished by Sertoli cells . Interstitial cells of Leydig , in the testes, secrete testosterone and other male sex hormones ( androgens ). The testes are located in the scrotum , which hangs outside of the abdominal cavity and has a temperature 2° to 4°C lower than the rest of the body. Once formed, sperm gain motility in the epididymis and are stored there until ejaculation. During ejaculation , sperm travel through the vas deferens to the ejaculatory duct , and then to the urethra and out through the penis . The seminal vesicles contribute fructose to nourish sperm and produce alkaline fluid. The prostate gland also produces alkaline fluid. The bulbourethral glands produce a clear viscous fluid that cleans out any remnants of urine and lubricates the urethra during sexual arousal. Semen is composed of sperm and seminal fluid from the glands above.",
+    "Sperm develop in the seminiferous tubules in the testes . They are nourished by Sertoli cells .",
+    "Interstitial cells of Leydig , in the testes, secrete testosterone and other male sex hormones ( androgens ).",
+    "The testes are located in the scrotum , which hangs outside of the abdominal cavity and has a temperature 2° to 4°C lower than the rest of the body.",
+    "Once formed, sperm gain motility in the epididymis and are stored there until ejaculation.",
+    "During ejaculation , sperm travel through the vas deferens to the ejaculatory duct , and then to the urethra and out through the penis .",
+    "The seminal vesicles contribute fructose to nourish sperm and produce alkaline fluid.",
+    "The prostate gland also produces alkaline fluid.",
+    "The bulbourethral glands produce a clear viscous fluid that cleans out any remnants of urine and lubricates the urethra during sexual arousal.",
+    "Semen is composed of sperm and seminal fluid from the glands above.",
+    "In spermatogenesis , four haploid sperm are produced from a spermatogonium . After S stage, the germ cells are called primary spermatocytes . After meiosis I, the germ cells are called secondary spermatocytes . After meiosis II, the germ cells are called spermatids . After maturation, the germ cells are called spermatozoa .",
+    "After S stage, the germ cells are called primary spermatocytes .",
+    "After meiosis I, the germ cells are called secondary spermatocytes .",
+    "After meiosis II, the germ cells are called spermatids .",
+    "After maturation, the germ cells are called spermatozoa .",
+    "Sperm contain a head, midpiece, and flagellum. The head contains the genetic material and is covered with an acrosome —a modified Golgi apparatus that contains enzymes that help the sperm fuse with and penetrate the ovum. The midpiece generates ATP from fructose and contains many mitochondria. The flagellum promotes motility.",
+    "The head contains the genetic material and is covered with an acrosome —a modified Golgi apparatus that contains enzymes that help the sperm fuse with and penetrate the ovum.",
+    "The midpiece generates ATP from fructose and contains many mitochondria.",
+    "The flagellum promotes motility.",
+    "The female reproductive system only contains internal structures. Ova (eggs) are produced in follicles in the ovaries . Once each month, an egg is ovulated into the peritoneal sac and is drawn into the fallopian tube or oviduct . The fallopian tubes are connected to the uterus , the lower end of which is the cervix . The vaginal canal lies below the cervix and is the site where sperm are deposited during intercourse. The vaginal canal is also the site of natural childbirth. The external female anatomy is known as the vulva .",
+    "Ova (eggs) are produced in follicles in the ovaries .",
+    "Once each month, an egg is ovulated into the peritoneal sac and is drawn into the fallopian tube or oviduct .",
+    "The fallopian tubes are connected to the uterus , the lower end of which is the cervix .",
+    "The vaginal canal lies below the cervix and is the site where sperm are deposited during intercourse.",
+    "The vaginal canal is also the site of natural childbirth.",
+    "The external female anatomy is known as the vulva .",
+    "In oogenesis , one haploid ovum and a variable number of polar bodies are formed from an oogonium . At birth, all oogonia have already undergone replication and are considered primary oocytes . They are arrested in prophase I. The ovulated egg each month is a secondary oocyte , which is arrested in metaphase II. If the oocyte is fertilized, it will complete meiosis II to become a true ovum. Cytokinesis is uneven in oogenesis. The cell receiving very little cytoplasm and organelles is called a polar body . Oocytes are surrounded by the zona pellucida , an acellular mixture of glycoproteins that protect the oocyte and contain the compounds necessary for sperm binding; and the corona radiata , which is a layer of cells that adhered to the oocyte during ovulation.",
+    "At birth, all oogonia have already undergone replication and are considered primary oocytes . They are arrested in prophase I.",
+    "The ovulated egg each month is a secondary oocyte , which is arrested in metaphase II.",
+    "If the oocyte is fertilized, it will complete meiosis II to become a true ovum.",
+    "Cytokinesis is uneven in oogenesis. The cell receiving very little cytoplasm and organelles is called a polar body .",
+    "Oocytes are surrounded by the zona pellucida , an acellular mixture of glycoproteins that protect the oocyte and contain the compounds necessary for sperm binding; and the corona radiata , which is a layer of cells that adhered to the oocyte during ovulation.",
+    "Gonadotropin-releasing hormone ( GnRH ) from the hypothalamus causes the release of follicle-stimulating hormone ( FSH ) and luteinizing hormone ( LH ), the functions of which depend on the sex of the individual. In males, FSH stimulates the Sertoli cells and triggers spermatogenesis, while LH causes the interstitial cells to produce testosterone. Testosterone is responsible for the maintenance and development of the male reproductive system and male secondary sex characteristics (facial and axillary hair, deepening of the voice, and increased bone and muscle mass). In females, FSH stimulates development of the ovarian follicles, while LH causes ovulation. These hormones also stimulate production of estrogens and progesterone.",
+    "In males, FSH stimulates the Sertoli cells and triggers spermatogenesis, while LH causes the interstitial cells to produce testosterone. Testosterone is responsible for the maintenance and development of the male reproductive system and male secondary sex characteristics (facial and axillary hair, deepening of the voice, and increased bone and muscle mass).",
+    "In females, FSH stimulates development of the ovarian follicles, while LH causes ovulation. These hormones also stimulate production of estrogens and progesterone.",
+    "The menstrual cycle is a periodic growth and shedding of the endometrial lining. In the follicular phase , GnRH secretion stimulates FSH and LH secretion, which promotes follicle development. Estrogen is released, stimulating vascularization and glandularization of the decidua . Ovulation is stimulated by a sudden surge in LH. This surge is triggered when estrogen levels reach a threshold and switch from negative to positive feedback effects. In the luteal phase , LH causes the ruptured follicle to become the corpus luteum, which secretes progesterone that maintains the uterine lining. High estrogen and progesterone levels cause negative feedback on GnRH, LH, and FSH. Menstruation occurs if there is no fertilization. As the estrogen and progesterone levels drop, the endometrial lining is sloughed off, and the block on GnRH production is removed. If fertilization does occur, the blastula produces human chorionic gonadotropin ( hCG ) which, as an LH analog, can maintain the corpus luteum. Near the end of the first trimester, hCG levels drop as the placenta takes over progesterone production.",
+    "In the follicular phase , GnRH secretion stimulates FSH and LH secretion, which promotes follicle development. Estrogen is released, stimulating vascularization and glandularization of the decidua .",
+    "Ovulation is stimulated by a sudden surge in LH. This surge is triggered when estrogen levels reach a threshold and switch from negative to positive feedback effects.",
+    "In the luteal phase , LH causes the ruptured follicle to become the corpus luteum, which secretes progesterone that maintains the uterine lining. High estrogen and progesterone levels cause negative feedback on GnRH, LH, and FSH.",
+    "Menstruation occurs if there is no fertilization. As the estrogen and progesterone levels drop, the endometrial lining is sloughed off, and the block on GnRH production is removed.",
+    "If fertilization does occur, the blastula produces human chorionic gonadotropin ( hCG ) which, as an LH analog, can maintain the corpus luteum. Near the end of the first trimester, hCG levels drop as the placenta takes over progesterone production.",
+    "Menopause occurs when the ovaries stop producing estrogen and progesterone, usually between ages 45 and 55. Menstruation stops and FSH and LH levels rise. Physical and physiological changes accompanying menopause include flushing, hot flashes, bloating, headaches, and irritability."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following is the correct sequence of the development of a mature sperm cell?",
+   "choices": [
+    "Spermatid → spermatocyte → spermatogonium → 2 ° spermatocyte → spermatozoan",
+    "Spermatogonium → 1 ° spermatocyte → 2 ° spermatocyte → spermatid → spermatozoan",
+    "Spermatozoan → 1 ° spermatocyte → 2 ° spermatocyte → spermatogonium → spermatid",
+    "Spermatogonium → 1 ° spermatocyte → 2 ° spermatocyte → spermatozoan → spermatid"
+   ],
+   "correct": 1,
+   "explanation": "Diploid cells called spermatogonia differentiate into primary spermatocytes, which undergo the first meiotic division to yield two haploid secondary spermatocytes. These undergo a second meiotic division to become immature spermatids. The spermatids then undergo a series of changes leading to the production of mature sperm, or spermatozoa."
+  },
+  {
+   "q": "Which of the following correctly pairs the stage of development of an egg cell with the relevant point in a woman’s life cycle?",
+   "choices": [
+    "From birth to menarche—prophase II",
+    "At ovulation—metaphase I",
+    "At ovulation—metaphase II",
+    "At fertilization—prophase II"
+   ],
+   "correct": 2,
+   "explanation": "From the time of birth until shortly before ovulation, all egg cells are arrested at the prophase stage of meiosis I. These cells are referred to as primary oocytes. At ovulation, the egg cell has completed meiosis I and is now arrested in metaphase II as a haploid cell called a secondary oocyte. When a sperm penetrates the outer layers of the secondary oocyte, it completes meiosis II to become a mature ovum."
+  },
+  {
+   "q": "Some studies suggest that in patients with Alzheimer’s disease, there is a defect in the way the spindle apparatus attaches to the kinetochore fibers. At which stage of mitotic division would one first expect to be able to visualize this problem?",
+   "choices": [
+    "Prophase",
+    "Metaphase",
+    "Anaphase",
+    "Telophase"
+   ],
+   "correct": 0,
+   "explanation": "The spindle apparatus first interacts with the kinetochore fibers near the end of prophase. While the spindle apparatus aligns the chromosomes at the equatorial plate during metaphase, (B) , the initial connection of the microtubule to the kinetochore occurs in prophase."
+  },
+  {
+   "q": "A researcher wishes to incorporate a radiolabeled deoxyadenine into the genome of one of the two daughter cells that would arise as a result of mitosis. What is the latest stage of cellular development during which the radiolabeled deoxyadenine could be added to achieve this result?",
+   "choices": [
+    "G 1",
+    "G 2",
+    "M",
+    "S"
+   ],
+   "correct": 3,
+   "explanation": "To ensure that the labeled deoxyadenine will be incorporated into the DNA of one of the daughter cells, we have to insert the nucleotide before DNA replication has been completed. Because replication occurs during S stage, we could introduce the deoxyadenine during G 1 or S stage. Because G 1 precedes S, the latest point at which the deoxyadenine could be added is the S stage."
+  },
+  {
+   "q": "Certain ovarian tumors called granulosa cell tumors are known to produce excessive levels of estrogen. A physician who diagnoses a granulosa cell tumor should look for a secondary cancer in which of the following parts of the reproductive tract?",
+   "choices": [
+    "Fallopian tube",
+    "Cervix",
+    "Endometrium",
+    "Vagina"
+   ],
+   "correct": 2,
+   "explanation": "Estrogen is known to cause growth of the endometrial lining during the follicular phase of the menstrual cycle, and its levels stay high during the luteal phase to promote vascularization and glandularization of this tissue. Excessive levels of estrogen may provide a strong enough signal for cell growth to promote tumor formation or even cancer. The other tissues listed in this question require estrogen for development, but are not strongly dependent on estrogen for growth."
+  },
+  {
+   "q": "Upon ovulation, the oocyte is released into the:",
+   "choices": [
+    "fallopian tube.",
+    "follicle.",
+    "abdominal cavity.",
+    "uterus."
+   ],
+   "correct": 2,
+   "explanation": "This subtle point about ovulation is missed by most students and remains hard to believe until the organs are examined in anatomy class in medical school. The ruptured ovarian follicle releases an oocyte into the abdominal cavity, close to the entrance of the fallopian tube. With the aid of beating cilia, the oocyte is drawn into the fallopian tube, through which it travels until it reaches the uterus. If it is fertilized in the fallopian tube, it will implant in the uterine wall. If fertilization does not occur, it will be expelled along with the uterine lining during menstruation."
+  },
+  {
+   "q": "Cancer cells are cells in which mitosis occurs continuously, without regard to quality or quantity of the cells produced. For this reason, most chemotherapies attack rapidly dividing cells. At which point(s) in the cell cycle could chemotherapy effectively prevent cancer cell division?",
+   "choices": [
+    "S stage",
+    "Prophase",
+    "Metaphase"
+   ],
+   "correct": 3,
+   "explanation": "The question is asking us to determine at which points in the cell cycle we can prevent or at least lower the number of cells undergoing mitosis. One idea would be to prevent DNA synthesis during the S stage of the cell cycle. Without the DNA being replicated, two viable daughter cells could not be formed. Other ideas would be preventing the mitotic cycle from forming altogether in prophase by preventing spindle apparatus formation, preventing the nuclear membrane from dissolving, or interfering with other processes during this phase. Similarly, a treatment that would act on cells in the metaphase stage of the cell cycle would also interfere with the mitotic cycle. Therefore, any of the three solutions presented would be a viable option."
+  },
+  {
+   "q": "Which of the following INCORRECTLY pairs a structure of the male reproductive system with a feature of the structure?",
+   "choices": [
+    "Seminal vesicles—produce alkaline fructose-containing secretions",
+    "Epididymis—surrounded by muscle to raise and lower the testes",
+    "Vas deferens—tube connecting the epididymis to the ejaculatory duct",
+    "Cowper’s glands—produce a fluid to clear traces of urine in the urethra"
+   ],
+   "correct": 1,
+   "explanation": "The epididymis is the site of sperm maturation at the posterior side of the testis. In the epididymis, sperm gain mobility and are stored until ejaculation. It is the vas deferens (ductus deferens) that is surrounded by muscle that raises and lowers the testis to maintain a constant temperature suitable for sperm production, not the epididymis."
+  },
+  {
+   "q": "What is the last point in the meiotic cycle in which the cell has a diploid number of chromosomes?",
+   "choices": [
+    "During interphase",
+    "During telophase I",
+    "During interkinesis",
+    "During telophase II"
+   ],
+   "correct": 1,
+   "explanation": "The first meiotic division (reductional division) pulls homologous chromosomes to opposite poles of the cell during anaphase I. Near the end of telophase I, cytokinesis occurs, resulting in two haploid ( n ) daughter cells. Thus, during interkinesis and anaphase II, the daughter cells are already haploid, eliminating (C) and (D) . The cell is diploid during interphase, (A) , but remains diploid up until the end of telophase I."
+  },
+  {
+   "q": "Which of the following does NOT likely contribute to genetic variability?",
+   "choices": [
+    "Random fertilization of an egg by a sperm",
+    "Random segregation of homologous chromosomes",
+    "Crossing over between homologous chromosomes during meiosis",
+    "Replication of the DNA during S stage"
+   ],
+   "correct": 3,
+   "explanation": "The safest way to answer this question correctly is to go through each answer choice and eliminate the ones that contribute to genetic variability. The random fertilization of an egg by a sperm, the random segregation of homologous chromosomes during anaphase I, and crossing over between homologous chromosomes during prophase I all contribute to genetic variability during sexual reproduction because they result in novel combinations of genetic material, eliminating (A) , (B) , and (C) . S stage, (D) , should not cause increased genetic variability; the DNA should be copied precisely, without error, meaning that both strands of DNA should be identical."
+  },
+  {
+   "q": "Which of the following statements correctly identifies a key difference between mitosis and meiosis?",
+   "choices": [
+    "In metaphase of mitosis, replicated chromosomes line up in single file; in metaphase II of meiosis, replicated chromosomes line up on opposite sides of the metaphase plate.",
+    "During anaphase of mitosis, homologous chromosomes separate; during anaphase of meiosis I, sister chromatids separate.",
+    "At the end of telophase of mitosis, the daughter cells are identical to each other; at the end of meiosis I, the daughter cells are identical to the parent cell.",
+    "During metaphase of mitosis, centromeres are present directly on the metaphase plate; during metaphase of meiosis I, there are no centromeres on the metaphase plate."
+   ],
+   "correct": 3,
+   "explanation": "The key differences between mitosis and meiosis primarily appear during meiosis I. Of note, synapsis and crossing over occur during prophase I, and homologous chromosomes are separated during meiosis I (rather than sister chromatids, as in mitosis). While the location of the centromeres relative to the metaphase plate may seem trivial, it is representative of the fact that homologous chromosomes line up on opposite sides of the equatorial plate in meiosis, in contrast to the positioning of each chromosome directly upon the metaphase plate in mitosis."
+  },
+  {
+   "q": "Which of the following is true regarding prophase?",
+   "choices": [
+    "The chromosomes separate and move to opposite poles of the cell.",
+    "The spindle apparatus disappears.",
+    "The chromosomes uncoil.",
+    "The nucleoli disappear."
+   ],
+   "correct": 3,
+   "explanation": "In prophase, the chromatin condenses into chromosomes, the spindle apparatus forms, and the nucleoli and nuclear membrane disappear. (A) describes anaphase, whereas (B) and (C) describe telophase."
+  },
+  {
+   "q": "An individual who is phenotypically female is found to have only one copy of a disease-carrying recessive allele on the X chromosome, yet she demonstrates all of the classic symptoms of the disease. Geneticists determine she has a genotype that likely arose from nondisjunction in one of her parents. What is the likely genotype of this individual?",
+   "choices": [
+    "46,XX (46 chromosomes, with XX for sex chromosomes)",
+    "46,XY",
+    "45,X",
+    "47,XXY"
+   ],
+   "correct": 2,
+   "explanation": "Nondisjunction refers to the incorrect segregation of homologous chromosomes during anaphase I, or of sister chromatids during anaphase II. In either case, one daughter cell ends up with two copies of related genetic material, while the other receives zero. Immediately, this should eliminate (A) and (B) , which show a normal complement of chromosomes (46). An individual who has only one recessive disease-carrying allele, and yet still expresses the disease, likely does not have a dominant allele for the given trait. This is seen in males, who are hemizygous for many X-linked genes, and can also be seen in women with Turner syndrome (45,X), who have only one X chromosome. Thus, (C) is the answer."
+  },
+  {
+   "q": "During which phase of the menstrual cycle does progesterone concentration peak?",
+   "choices": [
+    "Follicular phase",
+    "Ovulation",
+    "Luteal phase",
+    "Menses"
+   ],
+   "correct": 2,
+   "explanation": "Progesterone peaks during the luteal phase, as it supports the endometrium for potential implantation of a blastula. Progesterone levels are relatively low during the follicular phase and ovulation, eliminating (A) and (B) . Withdrawal of progesterone actually causes menses, eliminating (D) ."
+  },
+  {
+   "q": "Which of the following would NOT be seen during pregnancy?",
+   "choices": [
+    "High levels of hCG in the first trimester",
+    "High levels of progesterone throughout the pregnancy",
+    "Low levels of FSH in the first trimester",
+    "High levels of GnRH throughout the pregnancy"
+   ],
+   "correct": 3,
+   "explanation": "During the first trimester of pregnancy, the corpus luteum is preserved by human chorionic gonadotropin (hCG); hence, progesterone secretion by the corpus luteum is maintained during the first trimester. This eliminates (A) . During the second trimester, hCG levels decline, but progesterone levels rise because the hormone is now secreted by the placenta itself, eliminating (B) . High levels of progesterone and estrogen inhibit GnRH secretion, thus preventing FSH and LH secretion and the onset of a new menstrual cycle. This eliminates (C) and validates (D) ."
+  }
+ ]
+}

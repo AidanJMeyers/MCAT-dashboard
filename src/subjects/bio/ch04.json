@@ -1,0 +1,754 @@
+{
+ "id": 4,
+ "num": 4,
+ "title": "The Nervous System",
+ "slug": "ch04_the_nervous_system",
+ "sections": [
+  {
+   "title": "4.1 Cells of the Nervous System",
+   "goals": [
+    "Recall the different terms used for myelin-producing cells in the peripheral and the central nervous systems",
+    "Identify the functions of the five main categories of glial cells",
+    "Describe the purpose of each major structure of the neuron"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch04_the_nervous_system/04_01a_labeled_cell_body_axon_hillock_schwann_c.png",
+     "alt": "labeled: cell body, axon hillock, Schwann cells (oligodendrocytes in CNS), nodes of Ranvier, myelin sheath, axon, nerve terminals",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch04_the_nervous_system/04_01b_axons_covered_with_extensions_from_oligo.png",
+     "alt": "axons covered with extensions from oligodendrocyte, with loose association to an astrocyte",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "Neurons are specialized cells capable of transmitting electrical impulses and then translating those electrical impulses into chemical signals. In this section, we will consider the structure of the neuron as well as how neurons communicate with other parts of the nervous system."
+    },
+    {
+     "t": "h",
+     "x": "Neurons"
+    },
+    {
+     "t": "p",
+     "x": "Each neuron has a shape that matches its function, as dictated by the other cells with which that neuron interacts. There are a variety of different types of neurons in the body, but they all share some specific features."
+    },
+    {
+     "t": "p",
+     "x": "The anatomy of a neuron is shown in Figure 4.1. Like all other cells (besides mature red blood cells), neurons have nuclei. The nucleus is located in the cell body , also called the soma . The soma is also the location of the endoplasmic reticulum and ribosomes. The cell has many appendages emanating directly from the soma called dendrites , which receive incoming messages from other cells. The information received from the dendrites is transmitted through the cell body before it reaches the axon hillock , which integrates the incoming signals. The axon hillock plays an important role in action potentials , or the transmission of electrical impulses down the axon. Signals arriving from the dendrites can be either excitatory or inhibitory; the axon hillock sums up these signals, and if the result is excitatory enough (reaching threshold, as discussed later in this chapter), it will initiate an action potential. The axon is a long appendage that terminates in close proximity to a target structure (a muscle, a gland, or another neuron). Most mammalian nerve fibers are insulated by myelin , a fatty membrane, to prevent signal loss or crossing of signals. Just like insulation prevents wires next to each other from accidentally discharging each other, the myelin sheath maintains the electrical signal within one neuron. In addition, myelin increases the speed of conduction in the axon. Myelin is produced by oligodendrocytes in the central nervous system and Schwann cells in the peripheral nervous system. At certain intervals along the axon, there are small breaks in the myelin sheath with exposed areas of axon membrane called nodes of Ranvier . As will be explored in the discussion of action potentials to follow, nodes of Ranvier are critical for rapid signal conduction. Finally, at the end of the axon is the nerve terminal or synaptic bouton ( knob ). This structure is enlarged and flattened to maximize transmission of the signal to the next neuron and ensure proper release of neurotransmitters , the chemicals that transmit information between neurons."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Sometimes the body mounts an immune response against its own myelin, leading to the destruction of this insulating substance (demyelination). Because myelin speeds the conduction of impulses along a neuron, the absence of myelin slows down information transfer. A common demyelinating disorder is multiple sclerosis (MS). In MS, the myelin of the brain and spinal cord is selectively targeted. Because so many different kinds of neurons are demyelinated, MS patients experience a wide variety of symptoms including weakness, lack of balance, vision problems, and incontinence."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "A xons carry neural signals a way from the soma; dendrites carry signals toward the soma."
+    },
+    {
+     "t": "p",
+     "x": "Neurons are not physically connected to each other. Between the neurons, there is a small space into which the terminal portion of the axon releases neurotransmitters, which bind to the dendrites of the adjacent neuron (the postsynaptic neuron). This space is known as the synaptic cleft ; together, the nerve terminal, synaptic cleft, and postsynaptic membrane are known as a synapse . Neurotransmitters released from the axon terminal traverse the synaptic cleft and bind to receptors on the postsynaptic neuron."
+    },
+    {
+     "t": "p",
+     "x": "Multiple neurons may be bundled together to form a nerve in the peripheral nervous system. These nerves may be sensory , motor , or mixed , which refers to the type(s) of information they carry; mixed nerves carry both sensory and motor information. The cell bodies of neurons of the same type are clustered together into ganglia."
+    },
+    {
+     "t": "p",
+     "x": "In the central nervous system, axons may be bundled together to form tracts . Unlike nerves, tracts only carry one type of information. The cell bodies of neurons in the same tract are grouped into nuclei ."
+    },
+    {
+     "t": "h",
+     "x": "Other Cells in the Nervous System"
+    },
+    {
+     "t": "p",
+     "x": "Neurons are not the only cells in the nervous system. Neurons must be supported and myelinated by other cells. These cells are often called glial cells , or neuroglia . Glial cells play both structural and supportive roles, as shown in Figure 4.2."
+    },
+    {
+     "t": "p",
+     "x": "A detailed knowledge of these cell types is not necessary for the MCAT, so a familiarity with their basic functions will suffice:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Astrocytes nourish neurons and form the blood–brain barrier, which controls the transmission of solutes from the bloodstream into nervous tissue.",
+      "Ependymal cells line the ventricles of the brain and produce cerebrospinal fluid, which physically supports the brain and serves as a shock absorber.",
+      "Microglia are phagocytic cells that ingest and break down waste products and pathogens in the central nervous system.",
+      "Oligodendrocytes (CNS) and Schwann cells (PNS) produce myelin around axons."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "4.2 Transmission of Neural Impulses",
+   "goals": [
+    "Explain the ion channels and regulatory steps involved in the process of initiating, propagating, and terminating an action potential",
+    "Describe the resting membrane potential and how it is maintained",
+    "Differentiate between temporal and spatial summation",
+    "Identify the ion responsible for the fusion of neurotransmitter-containing vesicles at the nerve terminal membrane",
+    "Recall the three main methods to block the action of a neurotransmitter",
+    "Identify the ion channel changes that occur during the shifts in voltage associated with an action potential:"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch04_the_nervous_system/04_02a_sodium_potassium_pump_moving_3_sodium_io.png",
+     "alt": "sodium/potassium pump moving 3 sodium ions out and 2 potassium ions in while hydrolyzing ATP; passive sodium and potassium leak channels shown",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch04_the_nervous_system/04_02b_graph_starts_at_70_mv_increases_during_n.png",
+     "alt": "graph starts at -70 mV, increases during Na+ influx to +35, drops durnig K+ efflux to below -70 mV (hyperpolarization), brought back to -70 mV by Na/K pump; threshold shown at -50 mV",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch04_the_nervous_system/04_02c_action_potential_moving_left_to_right_fo.png",
+     "alt": "action potential moving left to right, followed closely behind by a refractory segment of the axon",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch04_the_nervous_system/04_02d_action_potential_causing_synaptic_vesicl.png",
+     "alt": "action potential causing synaptic vesicle to fuse with terminal membrane, diffusing neurotransmitter across cleft to receptors on dendrite of postsynaptic cell",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch04_the_nervous_system/04_02e_acetylcholine_removed_from_acetylcholine.png",
+     "alt": "acetylcholine removed from acetylcholine receptor and broken down by acetylcholinesterase",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch04_the_nervous_system/04_02f_serotonin_released_into_synapse_acts_on_.png",
+     "alt": "serotonin released into synapse, acts on postsynaptic receptor as well as \"stop production\" receptor on presynaptic cell, reuptake transporter brings serotonin back into cell",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "Now that we have discussed the basic anatomy of the neuron, we can turn to the physiology that underlies neuronal signaling."
+    },
+    {
+     "t": "h",
+     "x": "The Action Potential"
+    },
+    {
+     "t": "p",
+     "x": "Neurons use all-or-nothing messages called action potentials to relay electrical impulses down the axon to the synaptic bouton. As we will explore in the following section, action potentials ultimately cause the release of neurotransmitters into the synaptic cleft."
+    },
+    {
+     "t": "h",
+     "x": "Resting Potential"
+    },
+    {
+     "t": "p",
+     "x": "A cell’s resting membrane potential is the net electric potential difference that exists across the cell membrane, created by movement of charged molecules across that membrane. For neurons, this potential is about –70 mV, with the inside of the neuron being negative relative to the outside. The two most important ions involved in generating and maintaining the resting potential are potassium (K + ) and sodium (Na + )."
+    },
+    {
+     "t": "p",
+     "x": "The potassium concentration inside the cell averages about 140 mM, as compared to 4 mM outside of the cell. This concentration difference makes it favorable for potassium to move to the outside of the cell. To facilitate the outward movement of potassium, the cell membrane has transmembrane potassium leak channels , which allow the slow leak of potassium out of the cell. As potassium continually leaks out of the cell, the cell loses a small amount of positive charge, leaving behind a small amount of negative charge and making the outside of the cell slightly positively charged."
+    },
+    {
+     "t": "p",
+     "x": "However, as negative charge builds up inside the cell, some potassium will be drawn back into the cell due to the attraction between the positive potassium ions and the negative potential building inside the cell. As the potential difference continues to grow, potassium will also be more strongly drawn back into the cell. And at a certain potential, each potassium cation that is pushed out due to the concentration gradient will be matched by another potassium cation pulled back in due to the electric potential. At this point, there is no more net movement of the ion, as the cell is in equilibrium with respect to potassium. The potential difference that represents this potassium equilibrium is called the equilibrium potential of potassium . Potassium’s equilibrium potential is around -90 mV. The negative sign is assigned due to convention, and because a positive ion (potassium) is leaving the cell."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Even though we may think of these influxes and effluxes as big events, only a very small amount of potassium needs to exit the cell before the resulting electrostatic force equals the force of the concentration gradient. In fact, during an action potential the change to potassium’s intracellular concentration is so small that it cannot even be accurately measured using current devices! The action potential is reliant only on local voltage changes at the membrane itself, so this overall lack of change in intracellular ion concentration does not impact transmission. This is the reason why you see membrane potentials reported in units of voltage, which are easily measurable, instead of concentration change, which is almost negligible. Because so little potassium needs to exit, the equilibrium potential with respect to potassium is established almost instantly."
+    },
+    {
+     "t": "p",
+     "x": "Next, let’s consider in isolation the other important ion, sodium. Sodium’s concentration gradient is the reverse of potassium's, with a concentration of about 12 mM inside and 145 mM outside of the cell, meaning there is a driving force pushing sodium into the cell. This movement is facilitated by sodium leak channels . The slow leak of sodium into the cell causes a build-up of electric potential. The equilibrium potential of sodium is around 60 mV, and is positive because sodium is moving into the cell."
+    },
+    {
+     "t": "p",
+     "x": "In a living system, sodium and potassium are flowing across the cell's membrane at the same time. Potassium’s concentration gradient causes potassium to leak out of the cell through potassium leak channels. At the same time, sodium is moving in the opposite direction, with the opposite effect. In a certain sense, sodium undoes the effect of potassium’s movement. The resting potential is thus a tug-of-war: Potassium’s movement pulls the cell potential toward –90 mV, while sodium’s movement pulls the cell potential the opposite way, toward +60 mV. But neither ion ever \"wins\" the tug of war. Instead, a balance of these two effects is reached at around –70 mV for the average nerve cell, as can be seen in Figure 4.3. This balance, this net effect of sodium and potassium’s equilibrium potentials, is the resting membrane potential . The resting potential is closer to potassium’s equilibrium potential because the cell is slightly more permeable to potassium. Neither ion is ever able to establish its own equilibrium, so both ions continue leaking across the cell membrane."
+    },
+    {
+     "t": "p",
+     "x": "But neither ion ever \"wins\" the tug of war. Instead, a balance of these two effects is reached at around –70 mV for the average nerve cell. This balance, this net effect of both sodium and potassium’s equilibrium potentials, this is the resting membrane potential . The resting potential is closer to potassium’s equilibrium potential because the cell is slightly more permeable to potassium. Neither ion is ever able to establish its own equilibrium, so both ions continue leaking across the cell membrane."
+    },
+    {
+     "t": "p",
+     "x": "Given the continual ion leaking at the membrane, there must be a means of moving both sodium and potassium ions back against their gradients if a resting potential is to be maintained. Na + /K + ATPase continually pumps sodium and potassium back to where they started: potassium into the cell and sodium out of the cell, to maintain their respective gradients. In fact, in your body more ATP is spent by the Na/K ATPase to maintain these gradients than for any other single purpose."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "To remember the direction of ion movement by Na/K ATPase, think pump K in ."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "The resting membrane potential is dependent on the intra- and extracellular ion concentrations, relative permeability of the membrane to these different ions, and charges of these ions. The Goldman–Hodgkin–Katz voltage equation brings together these different factors into one equation that predicts the resting membrane potential. This equation is discussed in Chapter 8 of MCAT Biochemistry Review ."
+    },
+    {
+     "t": "h",
+     "x": "The Axon Hillock"
+    },
+    {
+     "t": "p",
+     "x": "Neurons can receive both excitatory and inhibitory input. Excitatory input causes depolarization (raising the membrane potential, V m , from its resting potential) and thus makes the neuron more likely to fire an action potential. Inhibitory input causes hyperpolarization (lowering the membrane potential from its resting potential) and thus makes the neuron less likely to fire an action potential. If the axon hillock receives enough excitatory input to be depolarized to the threshold value (usually in the range of –55 to –40 mV), an action potential will be triggered."
+    },
+    {
+     "t": "p",
+     "x": "This implies that not every stimulus necessarily generates a response. A small excitatory signal may not be sufficient to bring the axon hillock to threshold. Further, a postsynaptic neuron may receive information from several different presynaptic neurons, some of which are excitatory and some of which are inhibitory. The additive effect of multiple signals is known as summation ."
+    },
+    {
+     "t": "p",
+     "x": "There are two types of summation: temporal and spatial. In temporal summation , multiple signals are integrated during a relatively short period of time. A number of small excitatory signals firing at nearly the same moment could bring a postsynaptic cell to threshold, enabling an action potential. In spatial summation , the additive effects are based on the number and location of the incoming signals. A large number of inhibitory signals firing directly on the soma will cause more profound hyperpolarization of the axon hillock than the depolarization caused by a few excitatory signals firing on the dendrites of a neuron."
+    },
+    {
+     "t": "h",
+     "x": "Ion Channels and Membrane Potential"
+    },
+    {
+     "t": "p",
+     "x": "A graph of membrane potential vs . time during an action potential is shown in Figure 4.4."
+    },
+    {
+     "t": "p",
+     "x": "If the cell is brought to threshold, voltage-gated sodium channels open in the membrane. As the name implies, these ion channels open in response to the change in potential of the membrane (depolarization) and permit the passage of sodium ions. There is a strong electrochemical gradient that promotes the migration of sodium into the cell. From an electrical standpoint, the interior of the cell is more negative than the exterior of the cell, which favors the movement of positively charged sodium cations into the cell. From a chemical standpoint, there is a higher concentration of sodium outside the cell than inside, which also favors the movement of sodium into the cell. As sodium passes through these ion channels, the membrane potential becomes more positive; that is, the cell rapidly depolarizes. Sodium channels not only open in response to changes in membrane potential, but are also inactivated by them. When V m approaches +35 mV, the sodium channels are inactivated and will have to be brought back near the resting potential to be deinactivated . Thus, these sodium channels can exist in three states: closed (before the cell reaches threshold, and after inactivation has been reversed), open (from threshold to approximately +35 mV), and inactive (from approximately +35 mV to the resting potential)."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Na + wants to go into the cell because the cell is more negative inside (electrical gradient) and has a lower concentration of Na + inside (chemical gradient)."
+    },
+    {
+     "t": "p",
+     "x": "The positive potential inside the cell not only triggers the voltage-gated sodium channels to inactivate, but also triggers the voltage-gated potassium channels to open. Once sodium has depolarized the cell, there is an electrochemical gradient favoring the efflux of potassium from the neuron. As positively charged potassium cations are driven out of the cell, there will be a restoration of the negative membrane potential called repolarization . The efflux of K + causes an overshoot of the resting membrane potential, hyperpolarizing the neuron. This hyperpolarization serves an important function: it makes the neuron refractory to further action potentials. There are two types of refractory periods . During the absolute refractory period , no amount of stimulation can cause another action potential to occur. During the relative refractory period , there must be greater than normal stimulation to cause an action potential because the membrane is starting from a potential that is more negative than its resting value."
+    },
+    {
+     "t": "p",
+     "x": "The Na + /K + ATPase acts to restore not only the resting potential, but also the sodium and potassium gradients that have been partially dissipated by the action potential."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Action potentials rely on both electrical and chemical gradients. The neuron starts at the resting potential, around –70 mV. At the resting potential, potassium is high inside the cell and low outside the cell, while sodium is high outside the cell and low inside the cell. Once the cell reaches threshold, sodium channels open and sodium floods the cell, making it more positive inside (depolarization). Then, sodium channels are inactivated and the potassium channels open. This allows potassium to flow out of the cell, bringing the potential into the negative range (repolarization), and actually overshooting the resting potential (hyperpolarization). Na + /K + ATPase then works to restore the resting potential."
+    },
+    {
+     "t": "h",
+     "x": "Impulse Propagation"
+    },
+    {
+     "t": "p",
+     "x": "So far, we have discussed the movements of ions at one small segment of the axon. For a signal to be conveyed to another neuron, the action potential must travel down the axon and initiate neurotransmitter release. This movement is called impulse propagation and is shown in Figure 4.5. As sodium rushes into one segment of the axon, it will cause depolarization in the surrounding regions of the axon. This depolarization will bring subsequent segments of the axon to threshold, opening the sodium channels in those segments. Each of these segments then continues through the rest of the action potential in a wavelike fashion until the action potential reaches the nerve terminal. After the action potential has fired in one segment of axon, that segment becomes momentarily refractory, as described previously. The functional consequence of this is that information can only flow in one direction."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "A toxin called tetrodotoxin (TTX) is found in the pufferfish, a delicacy in Japan. TTX blocks voltage-gated Na + channels, blocking neuronal transmission. This can rapidly cause death because the phrenic nerves innervating the diaphragm can no longer depolarize, leading to paralysis of the muscle and cessation of breathing. For this reason, chefs who prepare pufferfish must be specially trained and licensed."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Local anesthetics work by blocking voltage-gated Na + channels. These drugs work particularly well on sensory neurons and therefore block the transmission of pain. They favor pain neurons because these neurons have small axonal diameters and little or no myelin, allowing easy access to the sodium channels. Anesthetic concentrations are kept sufficiently low to block pain neurons without significant effects on other sensory modalities or motor function."
+    },
+    {
+     "t": "p",
+     "x": "The speed at which action potentials move depends on the length and cross-sectional area of the axon. Increased length of the axon results in higher resistance and slower conduction. Greater cross-sectional areas allow for faster propagation due to decreased resistance. The effect of cross-sectional area is more significant than the effect of length. In order to maximize the speed of transmission, mammals have myelin. Myelin is an extraordinarily good insulator, preventing the dissipation of the electric signal. The insulation is so effective that the membrane is only permeable to ion movement at the nodes of Ranvier. Thus, the signal “hops” from node to node—what is called saltatory conduction ."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Saltatory conduction can be recalled by thinking of the Spanish verb saltar , to jump."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Insulation by myelin is extremely effective. A human spinal cord is about the thickness of a finger. Without this insulation, the cord would have to be almost as wide as a telephone pole to prevent signal loss."
+    },
+    {
+     "t": "p",
+     "x": "It is important to note that all action potentials within the same type of neuron have the same potential difference during depolarization. Increased intensity of a stimulus does not result in an increased potential difference of the action potential, but rather an increased frequency of firing."
+    },
+    {
+     "t": "h",
+     "x": "The Synapse"
+    },
+    {
+     "t": "p",
+     "x": "As discussed previously, neurons are not actually in direct physical contact. There is a small space between neurons called the synaptic cleft into which neurotransmitters are secreted, as shown in Figure 4.6. To clarify the terminology, the neuron preceding the synaptic cleft is called the presynaptic neuron ; the neuron after the synaptic cleft is called the postsynaptic neuron . If a neuron signals to a gland or muscle, rather than another neuron, the postsynaptic cell is termed an effector . Most synapses are chemical in nature; they use small molecules referred to as neurotransmitters to send messages from one cell to the next."
+    },
+    {
+     "t": "h",
+     "x": "Neurotransmitters"
+    },
+    {
+     "t": "p",
+     "x": "Prior to release, neurotransmitter molecules are stored in membrane-bound vesicles in the nerve terminal. When the action potential reaches the nerve terminal, voltage-gated calcium channels open, allowing calcium to flow into the cell. This sudden increase in intracellular calcium triggers fusion of the membrane-bound vesicles with the cell membrane at the synapse, causing exocytosis of the neurotransmitter."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "It is critical to understand the difference between electrical and chemical transmission. Within a neuron, electricity is used to pass signals down the length of the axon. Between neurons, chemicals (neurotransmitters) are used to pass signals to the subsequent neuron (or gland or muscle)."
+    },
+    {
+     "t": "p",
+     "x": "Once released into the synapse, the neurotransmitter molecules diffuse across the cleft and bind to receptors on the postsynaptic membrane. This allows the message to be passed from one neuron to the next. As we stated earlier, neurons may be either excitatory or inhibitory; this distinction truly comes at the level of the neurotransmitter receptors. If the receptor is a ligand-gated ion channel, the postsynaptic cell will either be depolarized or hyperpolarized. If it is a G protein-coupled receptor, it will cause either changes in the levels of cyclic AMP (cAMP) or an influx of calcium. Note that the physiology of receptors is further discussed in Chapter 3 of MCAT Biochemistry Review ."
+    },
+    {
+     "t": "p",
+     "x": "Neurotransmission must be regulated—there are almost no circumstances under which constant signaling to the postsynaptic cell would be desirable. Therefore, the neurotransmitter must be removed from the synaptic cleft. There are three main mechanisms to accomplish this goal. First, neurotransmitters can be broken down by enzymatic reactions. The breakdown of acetylcholine ( ACh ) by acetylcholinesterase (AChE), shown in Figure 4.7, is a classic example."
+    },
+    {
+     "t": "p",
+     "x": "Second, neurotransmitters can be brought back into the presynaptic neuron using reuptake carriers . The reuptake of serotonin ( 5-HT ), shown in Figure 4.8, is a classic example of this mechanism. Dopamine ( DA ) and norepinephrine ( NE ) also use reuptake carriers."
+    },
+    {
+     "t": "p",
+     "x": "Third, neurotransmitters may simply diffuse out of the synaptic cleft. Nitric oxide ( NO ), a gaseous signaling molecule, fits into this category."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Many common drugs (either in clinical use or street drugs) modify processes that occur in the synapse. For instance, cocaine acts by blocking neuronal reuptake carriers, thus prolonging the action of neurotransmitters in the synapse. There are clinically useful drugs (some of which are used to treat Alzheimer’s disease, glaucoma, and myasthenia gravis) that inhibit acetylcholinesterase, thereby elevating synaptic levels of acetylcholine. Nerve gases, which have been used in warfare and terrorism, are extremely potent acetylcholinesterase inhibitors. Nerve gas causes rapid death by preventing the relaxation of skeletal muscle (most importantly, the diaphragm), leading to respiratory arrest."
+    }
+   ]
+  },
+  {
+   "title": "4.3 Organization of the Human Nervous System",
+   "goals": [
+    "Classify elements of the nervous system as components of either the central nervous system or the peripheral nervous system",
+    "Differentiate between afferent and efferent neurons",
+    "Describe the functions of the somatic and autonomic nervous systems",
+    "Recall the physiological effects of activating the sympathetic nervous system and the parasympathetic nervous system",
+    "Distinguish between the neural pathways for a monosynaptic and a polysynaptic reflex"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch04_the_nervous_system/04_03a_flowchart_organization_and_descriptions_.png",
+     "alt": "flowchart; organization and descriptions given in subsequent text",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch04_the_nervous_system/04_03b_labeled_sensory_neuron_with_dorsal_root_.png",
+     "alt": "labeled: sensory neuron with dorsal root ganglion and dorsal root, motor neuron with ventral root; white and grey matter",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch04_the_nervous_system/04_03c_constricts_pupils_stimulates_flow_of_sal.png",
+     "alt": "constricts pupils, stimulates flow of saliva, constricts bronchi, slows heartbeat, stimulates peristalsis and secretion, stimulates bile release, contracts bladder",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch04_the_nervous_system/04_03d_dilates_pupils_inhibits_salivation_relax.png",
+     "alt": "dilates pupils, inhibits salivation, relaxes bronchi, accelerates heartbeat, stimulates sweating or piloerection, inhibits peristalsis and secretion, stimulates glucose production and release, secretion of adrenaline and noradrenaline, inhibits bladder contraction, stimulates orgasm",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch04_the_nervous_system/04_03e_relex_hammer_causes_stretch_signal_sent_.png",
+     "alt": "relex hammer causes stretch, signal sent up sensory neuron to spinal cord where it synapses on motor neuron, which sends signal to quadriceps mucles",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "The nervous system is a remarkable collection of cells that governs both involuntary and voluntary behavior, while also maintaining homeostasis . Functions of the nervous system include:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sensation and perception",
+      "Motor function",
+      "Cognition (thinking) and problem solving",
+      "Executive function and planning",
+      "Language comprehension and creation",
+      "Memory",
+      "Emotion and emotional expression",
+      "Balance and coordination",
+      "Regulation of endocrine organs",
+      "Regulation of heart rate, breathing rate, vascular resistance, temperature, and exocrine glands"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "The human nervous system is a complex web of over 100 billion cells that communicate, coordinate, and regulate signals for the rest of the body. Action occurs when the body can react to external stimuli using the nervous system. In this section, we will look at the nervous system and its basic organization."
+    },
+    {
+     "t": "p",
+     "x": "Note: Much of the information contained in this section is also discussed in Chapter 1 of MCAT Behavioral Sciences Review ."
+    },
+    {
+     "t": "h",
+     "x": "Central and Peripheral Nervous Systems"
+    },
+    {
+     "t": "p",
+     "x": "Generally speaking, there are three kinds of nerve cells in the nervous system: sensory neurons, motor neurons, and interneurons. Sensory neurons (also known as afferent neurons ) transmit sensory information from sensory receptors to the spinal cord and brain. Motor neurons (also known as efferent neurons ) transmit motor information from the brain and spinal cord to muscles and glands. Interneurons are found between other neurons and are the most numerous of the three types. Interneurons are located predominantly in the brain and spinal cord and are often linked to reflexive behavior."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "A fferent neurons a scend in the spinal cord toward the brain; e fferent neurons e xit the spinal cord on their way to the rest of the body."
+    },
+    {
+     "t": "p",
+     "x": "Different types of information require different types of processing. Processing of stimuli and response generation may happen at the level of the spinal cord, or may require input from the brainstem or cerebral cortex. Reflexes, discussed later in this section, only require processing at the level of the spinal cord. For example, when a reflex hammer hits the patellar tendon, the sensory information goes to the spinal cord, where a motor signal is sent to the quadriceps muscles, causing the leg to jerk forward at the knee. No input from the brain is required. However, some scenarios require input from the brain or brainstem. When this happens, supraspinal circuits are used."
+    },
+    {
+     "t": "p",
+     "x": "Let’s turn to the overall structure of the human nervous system, which is diagrammed in Figure 4.9."
+    },
+    {
+     "t": "p",
+     "x": "The nervous system can be broadly divided into two primary components: the central and peripheral nervous systems. The central nervous system ( CNS ) is composed of the brain and spinal cord. The brain consists of white matter and grey matter. The white matter consists of axons encased in myelin sheaths. The grey matter consists of unmyelinated cell bodies and dendrites. In the brain, the white matter lies deeper than the grey matter. At the base of the brain is the brainstem, which is largely responsible for basic life functions such as breathing. Note that the lobes of the brain and major brain structures are discussed in Chapter 1 of MCAT Behavioral Sciences Review ."
+    },
+    {
+     "t": "p",
+     "x": "The spinal cord extends downward from the brainstem and can be divided into four regions: cervical , thoracic , lumbar , and sacral . Almost all of the structures below the neck receive sensory and motor innervation from the spinal cord. The spinal cord is protected by the vertebral column , which transmits nerves at the space between adjacent vertebrae. Like the brain, the spinal cord also consists of white and grey matter. The white matter lies on the outside of the cord, and the grey matter is deep within it. The axons of motor and sensory neurons are in the spinal cord. The sensory neurons bring information in from the periphery and enter on the dorsal (back) side of the spinal cord. The cell bodies of these sensory neurons are found in the dorsal root ganglia . Motor neurons exit the spinal cord ventrally, or on the side closest to the front of the body. The structure of the spinal cord can be seen in Figure 4.10."
+    },
+    {
+     "t": "p",
+     "x": "The peripheral nervous system ( PNS ), in contrast, is made up of nerve tissue and fibers outside the brain and spinal cord, including all 31 pairs of spinal nerves and 10 of the 12 pairs of cranial nerves (the olfactory and optic nerves are technically outgrowths of the central nervous system). The PNS thus connects the CNS to the rest of the body and can itself be subdivided into the somatic and autonomic nervous systems."
+    },
+    {
+     "t": "p",
+     "x": "The somatic nervous system consists of sensory and motor neurons distributed throughout the skin, joints, and muscles. Sensory neurons transmit information through afferent fibers. Motor impulses, in contrast, travel along efferent fibers."
+    },
+    {
+     "t": "p",
+     "x": "The autonomic nervous system ( ANS ) generally regulates heartbeat, respiration, digestion, and glandular secretions. In other words, the ANS manages the involuntary muscles associated with many internal organs and glands. The ANS also helps regulate body temperature by activating sweating or piloerection, depending on whether we are too hot or too cold, respectively. The main thing to understand about these functions is that they are automatic, or independent of conscious control. Note the similarity between the words autonomic and automatic. This association makes it easy to remember that the autonomic nervous system manages automatic functions such as heartbeat, respiration, digestion, and temperature control."
+    },
+    {
+     "t": "p",
+     "x": "One primary difference between the somatic and autonomic nervous systems is that the peripheral component of the autonomic nervous system contains two neurons. By contrast, a motor neuron in the somatic nervous system goes directly from the spinal cord to the muscle without synapsing. In the autonomic nervous system, two neurons work in series to transmit messages from the spinal cord. The first neuron is known as the preganglionic neuron , whereas the second is the postganglionic neuron . The soma of the preganglionic neuron is in the CNS, and its axon travels to a ganglion in the PNS. Here it synapses on the cell body of the postganglionic neuron, which then stimulates the target tissue."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "The first neuron in the autonomic nervous system is called the preganglionic neuron. The second neuron is the postganglionic neuron."
+    },
+    {
+     "t": "h",
+     "x": "The Autonomic Nervous System"
+    },
+    {
+     "t": "p",
+     "x": "The ANS has two subdivisions: the sympathetic nervous system and the parasympathetic nervous system. These two branches often act in opposition to one another, meaning that they are antagonistic. For example, the sympathetic nervous system acts to accelerate heart rate and inhibit digestion, while the parasympathetic nervous system decelerates heart rate and promotes digestion."
+    },
+    {
+     "t": "p",
+     "x": "The main role of the parasympathetic nervous system is to conserve energy. It is associated with resting and sleeping states and acts to reduce heart rate and constrict the bronchi. The parasympathetic nervous system is also responsible for managing digestion by increasing peristalsis and exocrine secretions. Acetylcholine is the neurotransmitter responsible for parasympathetic responses in the body and is released by both preganglionic and postganglionic neurons. The vagus nerve (cranial nerve X) is responsible for much of the parasympathetic innervation of the thoracic and abdominal cavity. The functions of the parasympathetic nervous system are summarized in Figure 4.11."
+    },
+    {
+     "t": "p",
+     "x": "In contrast, the sympathetic nervous system is activated by stress. This can include everything from a mild stressor, such as keeping up with schoolwork, to emergencies that mean the difference between life and death. The sympathetic nervous system is closely associated with rage and fear reactions, also known as “fight-or-flight” reactions. When activated, the sympathetic nervous system:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Increases heart rate",
+      "Redistributes blood to muscles of locomotion",
+      "Increases blood glucose concentration",
+      "Relaxes the bronchi",
+      "Decreases digestion and peristalsis",
+      "Dilates the eyes to maximize light intake",
+      "Releases epinephrine into the bloodstream"
+     ]
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Sympathetic and parasympathetic nervous systems: Sympathetic: “ fight -or- flight ” Parasympathetic: “ rest -and- digest ”"
+    },
+    {
+     "t": "p",
+     "x": "The functions of the sympathetic nervous system are summarized in Figure 4.12. In the sympathetic nervous system, preganglionic neurons release acetylcholine, while most postganglionic neurons release norepinephrine."
+    },
+    {
+     "t": "h",
+     "x": "Reflexes"
+    },
+    {
+     "t": "p",
+     "x": "Neural circuits called reflex arcs control reflexive behavior. For example, consider what occurs when someone steps on a nail. Receptors in the foot detect pain, and the pain signal is transmitted by sensory neurons up to the spinal cord. At that point, the sensory neurons connect with interneurons, which can then relay pain impulses up to the brain. Rather than wait for the brain to send out a signal, interneurons in the spinal cord can also send signals to the muscles of both legs directly, causing the individual to withdraw the foot with pain while supporting with the other foot. The original sensory information still makes its way up to the brain; however, by the time it arrives there, the muscles have already responded to the pain, thanks to the reflex arc. There are two types of reflex arcs: monosynaptic and polysynaptic."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Consider the purpose of reflexes. Although it may be amusing to make your friends’ legs jump when you tap them, there is a more functional reason why this response occurs. The stretch on the patellar tendon makes the body think that the muscle may be getting overstretched. In response, the muscle contracts in order to prevent injury."
+    },
+    {
+     "t": "h",
+     "x": "Monosynaptic"
+    },
+    {
+     "t": "p",
+     "x": "In a monosynaptic reflex arc , there is a single synapse between the sensory neuron that receives the stimulus and the motor neuron that responds to it. A classic example is the knee-jerk reflex , shown in Figure 4.13. When the patellar tendon is stretched, information travels up the sensory (afferent, presynaptic) neuron to the spinal cord, where it interfaces with the motor (efferent, postsynaptic) neuron that causes contraction of the quadriceps muscles. The net result is extension of the leg, which lessens the tension on the patellar tendon. Note that the reflex is simply a feedback loop and a response to potential injury. If the patellar tendon or quadriceps muscles are stretched too far, they may tear, damaging the knee joint. Thus, the reflex serves to protect the muscles."
+    },
+    {
+     "t": "h",
+     "x": "Polysynaptic"
+    },
+    {
+     "t": "p",
+     "x": "In a polysynaptic reflex arc , there is at least one interneuron between the sensory and motor neurons. A real-life example is the reaction to stepping on a nail described earlier, which involves the withdrawal reflex . The extremity with which one steps on the nail will be stimulated to flex, using the hip muscles and hamstring muscles, pulling the foot away from the nail. This is a monosynaptic reflex, similar to the knee-jerk reflex described previously. However, if the person is to maintain balance, the other foot must be planted firmly on the ground. For this to occur, the motor neuron that controls the quadriceps muscles in the opposite limb must be stimulated, extending it. Interneurons in the spinal cord provide the connections from the incoming sensory information to the motor neurons in the supporting limb."
+    }
+   ]
+  }
+ ],
+ "conceptSummary": [
+  {
+   "section": "Cells of the Nervous System",
+   "points": [
+    "Neurons are highly specialized cells responsible for the conduction of impulses.",
+    "Neurons communicate using both electrical and chemical forms of communication. Electrical communication occurs via ion exchange and the generation of membrane potentials down the length of the axon. Chemical communication occurs via neurotransmitter release from the presynaptic cell and the binding of these neurotransmitters to the postsynaptic cell.",
+    "Electrical communication occurs via ion exchange and the generation of membrane potentials down the length of the axon.",
+    "Chemical communication occurs via neurotransmitter release from the presynaptic cell and the binding of these neurotransmitters to the postsynaptic cell.",
+    "Neurons consist of many different parts. Dendrites are appendages that receive signals from other cells. The cell body or soma is the location of the nucleus as well as organelles such as the endoplasmic reticulum and ribosomes. The axon hillock is where the cell body transitions to the axon, and where action potentials are initiated. The axon is a long appendage down which an action potential travels. The nerve terminal or synaptic bouton is the end of the axon from which neurotransmitters are released. Nodes of Ranvier are exposed areas of myelinated axons that permit saltatory conduction. The synapse consists of the nerve terminal of the presynaptic neuron, the membrane of the postsynaptic cell, and the space between the two, called the synaptic cleft .",
+    "Dendrites are appendages that receive signals from other cells.",
+    "The cell body or soma is the location of the nucleus as well as organelles such as the endoplasmic reticulum and ribosomes.",
+    "The axon hillock is where the cell body transitions to the axon, and where action potentials are initiated.",
+    "The axon is a long appendage down which an action potential travels.",
+    "The nerve terminal or synaptic bouton is the end of the axon from which neurotransmitters are released.",
+    "Nodes of Ranvier are exposed areas of myelinated axons that permit saltatory conduction.",
+    "The synapse consists of the nerve terminal of the presynaptic neuron, the membrane of the postsynaptic cell, and the space between the two, called the synaptic cleft .",
+    "Many axons are coated in myelin , an insulating substance that prevents signal loss. Myelin is created by oligodendrocytes in the central nervous system and Schwann cells in the peripheral nervous system. Myelin prevents dissipation of the neural impulse and crossing of neural impulses from adjacent neurons.",
+    "Myelin is created by oligodendrocytes in the central nervous system and Schwann cells in the peripheral nervous system.",
+    "Myelin prevents dissipation of the neural impulse and crossing of neural impulses from adjacent neurons.",
+    "Individual axons are bundled into nerves or tracts . A single nerve may carry multiple types of information, including sensory, motor, or both. Tracts contain only one type of information. Cell bodies of neurons of the same type within a nerve cluster together in ganglia in the peripheral nervous system. Cell bodies of the individual neurons within a tract cluster together in nuclei in the central nervous system.",
+    "A single nerve may carry multiple types of information, including sensory, motor, or both. Tracts contain only one type of information.",
+    "Cell bodies of neurons of the same type within a nerve cluster together in ganglia in the peripheral nervous system.",
+    "Cell bodies of the individual neurons within a tract cluster together in nuclei in the central nervous system.",
+    "Neuroglia or glial cells are other cells within the nervous system in addition to neurons. Astrocytes nourish neurons and form the blood–brain barrier, which controls the transmission of solutes from the bloodstream into nervous tissue. Ependymal cells line the ventricles of the brain and produce cerebrospinal fluid, which physically supports the brain and serves as a shock absorber. Microglia are phagocytic cells that ingest and break down waste products and pathogens in the central nervous system. Oligodendrocytes (CNS) and Schwann cells (PNS) produce myelin around axons.",
+    "Astrocytes nourish neurons and form the blood–brain barrier, which controls the transmission of solutes from the bloodstream into nervous tissue.",
+    "Ependymal cells line the ventricles of the brain and produce cerebrospinal fluid, which physically supports the brain and serves as a shock absorber.",
+    "Microglia are phagocytic cells that ingest and break down waste products and pathogens in the central nervous system.",
+    "Oligodendrocytes (CNS) and Schwann cells (PNS) produce myelin around axons."
+   ]
+  },
+  {
+   "section": "Transmission of Neural Impulses",
+   "points": [
+    "All neurons exhibit a resting membrane potential of approximately –70 mV. Resting potential is maintained using selective permeability of ions as well as the Na + /K + ATPase. The Na + /K + ATPase pumps three sodium ions out of the cell for every two potassium ions pumped in.",
+    "Resting potential is maintained using selective permeability of ions as well as the Na + /K + ATPase.",
+    "The Na + /K + ATPase pumps three sodium ions out of the cell for every two potassium ions pumped in.",
+    "Incoming signals can be either excitatory or inhibitory. Excitatory signals cause depolarization of the neuron. Inhibitory signals cause hyperpolarization of the neuron. Temporal summation refers to the integration of multiple signals near each other in time. Spatial summation refers to the addition of multiple signals near each other in space.",
+    "Excitatory signals cause depolarization of the neuron.",
+    "Inhibitory signals cause hyperpolarization of the neuron.",
+    "Temporal summation refers to the integration of multiple signals near each other in time.",
+    "Spatial summation refers to the addition of multiple signals near each other in space.",
+    "An action potential is used to propagate signals down the axon. When enough excitatory stimulation occurs, the cell is depolarized to the threshold voltage and voltage-gated sodium channels open. Sodium flows into the neuron due to its strong electrochemical gradient . This continues depolarizing the neuron. At the peak of the action potential (approximately +35 mV), sodium channels are inactivated and potassium channels open. Potassium flows out of the neuron due to its strong electrochemical gradient, repolarizing the cell. Potassium channels stay open long enough to overshoot the action potential, resulting in a hyperpolarized neuron; then, the potassium channels close. The Na + /K + ATPase brings the neuron back to the resting potential and restores the sodium and potassium gradients. While the axon is hyperpolarized, it is in its refractory period . During the absolute refractory period , the cell is unable to fire another action potential. During the relative refractory period , the cell requires a larger than normal stimulus to fire an action potential. The impulse propagates down the length of the axon because the influx of sodium in one segment of the axon brings the subsequent segment of the axon to threshold. The fact that the preceding segment of the axon is in its refractory period means that the action potential can only travel in one direction.",
+    "When enough excitatory stimulation occurs, the cell is depolarized to the threshold voltage and voltage-gated sodium channels open.",
+    "Sodium flows into the neuron due to its strong electrochemical gradient . This continues depolarizing the neuron.",
+    "At the peak of the action potential (approximately +35 mV), sodium channels are inactivated and potassium channels open.",
+    "Potassium flows out of the neuron due to its strong electrochemical gradient, repolarizing the cell. Potassium channels stay open long enough to overshoot the action potential, resulting in a hyperpolarized neuron; then, the potassium channels close.",
+    "The Na + /K + ATPase brings the neuron back to the resting potential and restores the sodium and potassium gradients.",
+    "While the axon is hyperpolarized, it is in its refractory period . During the absolute refractory period , the cell is unable to fire another action potential. During the relative refractory period , the cell requires a larger than normal stimulus to fire an action potential.",
+    "The impulse propagates down the length of the axon because the influx of sodium in one segment of the axon brings the subsequent segment of the axon to threshold. The fact that the preceding segment of the axon is in its refractory period means that the action potential can only travel in one direction.",
+    "At the nerve terminal, neurotransmitters are released into the synapse. When the action potential arrives at the nerve terminal, voltage-gated calcium channels open. The influx of calcium causes fusion of vesicles filled with neurotransmitter with the presynaptic membrane, resulting in exocytosis of neurotransmitter into the synaptic cleft. The neurotransmitters bind to receptors on the postsynaptic cell, which may be ligand-gated ion channels or G protein-coupled receptors.",
+    "When the action potential arrives at the nerve terminal, voltage-gated calcium channels open.",
+    "The influx of calcium causes fusion of vesicles filled with neurotransmitter with the presynaptic membrane, resulting in exocytosis of neurotransmitter into the synaptic cleft.",
+    "The neurotransmitters bind to receptors on the postsynaptic cell, which may be ligand-gated ion channels or G protein-coupled receptors.",
+    "Neurotransmitters must be cleared from the postsynaptic receptors to stop the propagation of the signal. There are three ways this can happen: The neurotransmitter can be enzymatically broken down. The neurotransmitter can be absorbed back into the presynaptic cell by reuptake channels . The neurotransmitter can diffuse out of the synaptic cleft.",
+    "The neurotransmitter can be enzymatically broken down.",
+    "The neurotransmitter can be absorbed back into the presynaptic cell by reuptake channels .",
+    "The neurotransmitter can diffuse out of the synaptic cleft."
+   ]
+  },
+  {
+   "section": "Organization of the Human Nervous System",
+   "points": [
+    "There are three types of neurons in the nervous system: motor ( efferent ) neurons, interneurons , and sensory ( afferent ) neurons.",
+    "The nervous system is made up of the central nervous system ( CNS : brain and spinal cord) and peripheral nervous system ( PNS : cranial and spinal nerves). In the CNS, white matter consists of myelinated axons, and grey matter consists of unmyelinated cell bodies and dendrites. In the brain, white matter is deeper than grey matter. In the spinal cord, grey matter is deeper than white matter. The PNS is divided into the somatic (voluntary) and autonomic (automatic) nervous systems. The autonomic nervous system is further divided into the parasympathetic (rest-and-digest) and sympathetic (fight-or-flight) branches.",
+    "In the CNS, white matter consists of myelinated axons, and grey matter consists of unmyelinated cell bodies and dendrites. In the brain, white matter is deeper than grey matter. In the spinal cord, grey matter is deeper than white matter.",
+    "The PNS is divided into the somatic (voluntary) and autonomic (automatic) nervous systems.",
+    "The autonomic nervous system is further divided into the parasympathetic (rest-and-digest) and sympathetic (fight-or-flight) branches.",
+    "Reflex arcs use the ability of interneurons in the spinal cord to relay information to the source of a stimulus while simultaneously routing it to the brain. In a monosynaptic reflex arc , the sensory (afferent, presynaptic) neuron fires directly onto the motor (efferent, postsynaptic) neuron. In a polysynaptic reflex arc , the sensory neuron may fire onto a motor neuron as well as interneurons that fire onto other motor neurons.",
+    "In a monosynaptic reflex arc , the sensory (afferent, presynaptic) neuron fires directly onto the motor (efferent, postsynaptic) neuron.",
+    "In a polysynaptic reflex arc , the sensory neuron may fire onto a motor neuron as well as interneurons that fire onto other motor neurons."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Resting membrane potential depends on:",
+   "choices": [
+    "differential distribution of ions across the axon membrane.",
+    "the opening of voltage-gated calcium channels.",
+    "active transport of ions across the membrane."
+   ],
+   "correct": 2,
+   "explanation": "The polarization of the neuron at rest is the result of an uneven distribution of ions between the inside and outside of the cell. This difference is achieved through the active pumping of ions into and out of the neuron (using the Na + /K + ATPase). Voltage-gated calcium channels are important in the nerve terminal, where the influx of calcium triggers the fusion of vesicles containing neurotransmitter with the membrane, but not in maintaining resting membrane potential."
+  },
+  {
+   "q": "All of the following are associated with the myelin sheath EXCEPT:",
+   "choices": [
+    "faster conduction of nerve impulses.",
+    "nodes of Ranvier forming gaps along the axon.",
+    "increased magnitude of the potential difference during an action potential.",
+    "saltatory conduction of action potentials."
+   ],
+   "correct": 2,
+   "explanation": "Myelin is a white lipid-containing material surrounding the axons of many neurons in the central and peripheral nervous systems. It is arranged on the axon discontinuously; the gaps between the segments of myelin are called nodes of Ranvier, eliminating (B) . Myelin increases the conduction velocity by insulating segments of the axon so that the membrane is permeable to ions only at the nodes of Ranvier, eliminating (A) . The action potential jumps from node to node, a process known as saltatory conduction, eliminating (D) . Action potentials are often described as being “all-or-nothing”; the magnitude of the potential difference of an action potential is fixed, regardless of the intensity of the stimulus. Thus, myelin does not affect the magnitude of the potential difference in an action potential, making (C) the correct answer."
+  },
+  {
+   "q": "Which of the following is true with regard to the action potential?",
+   "choices": [
+    "All hyperpolarized stimuli will be carried to the axon terminal without a decrease in size.",
+    "The size of the action potential is proportional to the size of the stimulus that produced it.",
+    "Increasing the intensity of the depolarization increases the size of the impulse.",
+    "Once an action potential is triggered, an impulse of a given magnitude and speed is produced."
+   ],
+   "correct": 3,
+   "explanation": "As in the previous question, the action potential is often described as an all-or-nothing response. This means that, whenever the threshold membrane potential is reached, an action potential with a consistent size and duration is produced. Neuronal information is coded by the frequency and number of action potentials, not the size of the action potential, eliminating (B) and (C) and making (D) the correct answer. Hyperpolarizing (inhibitory) signals are not transmitted to the nerve terminal, eliminating (A) ."
+  },
+  {
+   "q": "Which of the following correctly describes a difference between nerves and tracts?",
+   "choices": [
+    "Nerves are seen in the central nervous system; tracts are seen in the peripheral nervous system.",
+    "Nerves have cell bodies in nuclei; tracts have cell bodies in ganglia.",
+    "Nerves may carry more than one type of information; tracts can only carry one type of information.",
+    "Nerves contain only one neuron; tracts contain many neurons."
+   ],
+   "correct": 2,
+   "explanation": "Nerves are collections of neurons in the peripheral nervous system and may contain multiple types of information (sensory or motor); they contain cell bodies in ganglia. Tracts are collections of neurons in the central nervous system and contain only one type of information; they contain cell bodies in nuclei."
+  },
+  {
+   "q": "Which of the following accurately describes sensory neurons?",
+   "choices": [
+    "Sensory neurons are afferent and enter the spinal cord on the dorsal side.",
+    "Sensory neurons are efferent and enter the spinal cord on the dorsal side.",
+    "Sensory neurons are afferent and enter the spinal cord on the ventral side.",
+    "Sensory neurons are efferent and enter the spinal cord on the ventral side."
+   ],
+   "correct": 0,
+   "explanation": "Sensory neurons are considered afferent (carrying signals from the periphery to the central nervous system) and enter the spinal cord on the dorsal side. Motor neurons are considered efferent (carrying signals from the central nervous system to the periphery) and exit the spinal cord on the ventral side."
+  },
+  {
+   "q": "When a sensory neuron receives a stimulus that brings it to threshold, it will do all of the following EXCEPT:",
+   "choices": [
+    "become depolarized.",
+    "transduce the stimulus to an action potential.",
+    "inhibit the spread of the action potential to other sensory neurons.",
+    "cause the release of neurotransmitters onto cells in the central nervous system."
+   ],
+   "correct": 2,
+   "explanation": "When a sensory neuron receives a signal that is strong enough to bring it to threshold, one can assume that the receptor becomes depolarized, allowing it to transduce the stimulus to an action potential. The action potential will then be carried by sensory neurons to the central nervous system, where the cell will release neurotransmitters. Therefore, among the given choices, the only incorrect statement is found in (C) . If a receptor is stimulated, it will promote the spread of the action potential to postsynaptic sensory neurons in the spinal cord, which can send the signal toward the brain."
+  },
+  {
+   "q": "When the potential across the axon membrane is more negative than the normal resting potential, the neuron is said to be in a state of:",
+   "choices": [
+    "depolarization.",
+    "hyperpolarization.",
+    "repolarization.",
+    "polarization."
+   ],
+   "correct": 1,
+   "explanation": "When the potential across the axon membrane is more negative than the normal resting potential, the neuron is referred to as hyperpolarized. Hyperpolarization occurs right after an action potential and is caused by excess potassium exiting the neuron."
+  },
+  {
+   "q": "Which of the following statements concerning the somatic division of the peripheral nervous system is INCORRECT?",
+   "choices": [
+    "Its pathways innervate skeletal muscle.",
+    "Its pathways are usually voluntary.",
+    "Some of its pathways are referred to as reflex arcs.",
+    "Its pathways always involve more than two neurons."
+   ],
+   "correct": 3,
+   "explanation": "The somatic division of the peripheral nervous system innervates skeletal muscles and is responsible for voluntary movement. Some of the pathways in this part of the nervous system are reflex arcs, which are reflexive responses to certain stimuli that involve only a sensory and a motor neuron. These neurons synapse in the spinal cord and do not require signaling from the brain. The pathways of the somatic division can involve two, three, or more neurons, depending on the type of signal. The correct answer therefore is (D) ."
+  },
+  {
+   "q": "Which of the following is a function of the parasympathetic nervous system?",
+   "choices": [
+    "Increasing blood sugar during periods of stress",
+    "Dilating the pupils to enhance vision",
+    "Increasing oxygen delivery to muscles",
+    "Decreasing heart rate and blood pressure"
+   ],
+   "correct": 3,
+   "explanation": "The parasympathetic nervous system governs the “rest-and-digest” response. The parasympathetic nervous system slows the heart rate, decreases blood pressure, promotes blood flow to the GI tract, and constricts the pupils, among other functions. The sympathetic nervous system governs the fight-or-flight response, including increased heart rate and blood pressure, decreased bloodflow to the digestive tract, and increased bloodflow to the muscles. (D) is the only answer choice that represents a function of the parasympathetic nervous system."
+  },
+  {
+   "q": "Which of the following neurotransmitters is used in the ganglia of both the sympathetic and parasympathetic nervous systems?",
+   "choices": [
+    "Acetylcholine",
+    "Dopamine",
+    "Norepinephrine",
+    "Serotonin"
+   ],
+   "correct": 0,
+   "explanation": "Acetylcholine is the neurotransmitter released by the preganglionic neuron in both the sympathetic and parasympathetic nervous systems. The postganglionic neuron in the sympathetic nervous system usually releases norepinephrine, while the postganglionic neuron in the parasympathetic nervous system releases acetylcholine."
+  },
+  {
+   "q": "In which neural structure are ribosomes primarily located?",
+   "choices": [
+    "Dendrites",
+    "Soma",
+    "Axon hillock",
+    "Axon"
+   ],
+   "correct": 1,
+   "explanation": "Neurons contain very specialized structures, including dendrites, axons, and the axon hillock. However, neurons are still cells and must carry out cellular functions including protein synthesis. The cell body or soma contains the nucleus, endoplasmic reticulum, and ribosomes."
+  },
+  {
+   "q": "An autoimmune disease attacks the voltage-gated calcium channels in the synaptic terminal of an excitatory neuron. What is a likely symptom of this condition?",
+   "choices": [
+    "Spastic paralysis (inability to relax the muscles)",
+    "Flaccid paralysis (inability to contract the muscles)",
+    "Inability to reuptake neurotransmitters once released",
+    "Retrograde flow of action potentials"
+   ],
+   "correct": 1,
+   "explanation": "First, consider the function of voltage-gated calcium channels. When the nerve terminal depolarizes, voltage-gated calcium channels open, allowing for influx of calcium. This influx of calcium triggers fusion of the synaptic vesicles containing neurotransmitters with the membrane of the neuron at the nerve terminal. This allows for exocytosis of the neurotransmitters into the synapse. If a disease blocked the influx of calcium, there would be no release of neurotransmitters. A lack of neurotransmitters means that the neuron cannot send excitatory signals. Thus, any symptoms resulting from this disease would be due to an inability of neurons to transmit excitatory signals to the muscle. If neurons cannot communicate, flaccid paralysis may be one of the results."
+  },
+  {
+   "q": "A neuron only fires an action potential if multiple presynaptic cells release neurotransmitter onto the dendrites of the neuron. This is an example of:",
+   "choices": [
+    "saltatory conduction.",
+    "summation.",
+    "a feedback loop.",
+    "inhibitory transmission."
+   ],
+   "correct": 1,
+   "explanation": "Some neurons require multiple instances of excitatory transmission to be brought to threshold. These excitatory signals may be close to each other in time (temporal) or in space (spatial); either way, this pattern of excitation is termed summation."
+  },
+  {
+   "q": "A disease results in the death of Schwann cells. Which portion of the nervous system is NOT likely to be affected?",
+   "choices": [
+    "Central nervous system",
+    "Somatic nervous system",
+    "Autonomic nervous system",
+    "Parasympathetic nervous system"
+   ],
+   "correct": 0,
+   "explanation": "Schwann cells are responsible for myelination of cells in the peripheral nervous system. Thus, the central nervous system is unlikely to be affected. The peripheral nervous system includes the somatic nervous system and the autonomic nervous system. The autonomic nervous system is composed of both the parasympathetic and sympathetic nervous systems. Thus, (A) is the right answer."
+  },
+  {
+   "q": "A surgeon accidentally clips a dorsal root ganglion during a spinal surgery. What is a likely consequence of this error?",
+   "choices": [
+    "Loss of motor function at that level",
+    "Loss of sensation at that level",
+    "Loss of cognitive function"
+   ],
+   "correct": 1,
+   "explanation": "The dorsal root ganglion contains cell bodies of sensory neurons only. If a dorsal root ganglion is disrupted at a certain level, there will be a loss of sensation at that level."
+  }
+ ]
+}

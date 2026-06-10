@@ -1,0 +1,732 @@
+{
+ "id": 8,
+ "num": 8,
+ "title": "The Immune System",
+ "slug": "ch08_the_immune_system",
+ "sections": [
+  {
+   "title": "8.1 Structure of the Immune System",
+   "goals": [
+    "Distinguish between innate and adaptive immunity",
+    "Draw comparisons between B- and T-cells, including their development, maturation, functions, specificity, and control mechanisms",
+    "Identify immune cells as granulocytes or agranulocytes"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch08_the_immune_system/08_01a_innate_immune_system_dendritic_cell_mono.png",
+     "alt": "innate immune system: dendritic cell, monocyte/macrophage, neutrophil; releases cytokines and inflammatory proteins. adaptive immune system: B-cell (plasma cell making antibody), T-cell (attacking infected cell)",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch08_the_immune_system/08_01b_labeled_adenoids_tonsils_lymph_nodes_thy.png",
+     "alt": "labeled: adenoids, tonsils, lymph nodes, thymus, spleen, Peyer’s patches (small intestine), lymphatic vessel, appendix, bone marrow",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch08_the_immune_system/08_01c_hematopoietic_stem_cell_forms_lymphoid_a.png",
+     "alt": "hematopoietic stem cell forms lymphoid and myeloid stem cells; lymphoid forms NK, T-, and B- (plasma) cells; myeloid forms dendritic cell, monocyte (macrophage), neutrophil, eosinophil, mast cell, basophil, platelets, and erythrocytes",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "Each day, the human body is exposed to numerous bacteria, viruses, fungi, and even parasites. Yet our bodies are able to protect us from infection most of the time. Even when we do get sick, the immune system is usually able to contain and eliminate the infection."
+    },
+    {
+     "t": "h",
+     "x": "Innate and Adaptive Immunity"
+    },
+    {
+     "t": "p",
+     "x": "In order to fight infection, the human body has two different divisions of the immune system: innate and adaptive immunity, compared in Figure 8.1. Innate immunity is composed of defenses that are always active against infection, but lack the ability to target specific invaders; for this reason, it is also called nonspecific immunity . Adaptive or specific immunity refers to the defenses that target a specific pathogen. This system is slower to act, but can maintain immunological memory of an infection to mount a faster attack in subsequent infections."
+    },
+    {
+     "t": "callout",
+     "kind": "warn",
+     "title": "MCAT Expertise",
+     "x": "The immune system is a topic where cell biology, biochemistry, anatomy, and biology interact. Thus, it is a topic that allows the MCAT to ask questions that integrate these four topics. As we discuss these complex ideas, focus on the big picture first, creating a mental image to help you put these concepts together. Then go back and plug in the details. This approach will foster your ability to associate structure with function and to think critically about the topic on Test Day."
+    },
+    {
+     "t": "h",
+     "x": "Anatomy"
+    },
+    {
+     "t": "p",
+     "x": "The immune system is not housed in a single organ, as shown in Figure 8.2. The structure and components that serve as nonspecific defenses often serve functions in other organ systems. The bone marrow produces all of the leukocytes ( white blood cells ) that participate in the immune system through the process of hematopoiesis, discussed in Chapter 7 of MCAT Biology Review . The spleen is a location of blood storage and activation of B-cells , which turn into plasma cells to produce antibodies as part of adaptive immunity. Note that when B-cells leave the bone marrow, they are considered mature but naïve (because they have not yet been exposed to an antigen). Because these antibodies dissolve and act in the blood (rather than within cells), this division of adaptive immunity is called humoral immunity . T-cells , another class of adaptive immune cells, mature in the thymus , a small gland just in front of the pericardium, the sac that protects the heart. T-cells are the agents of cell-mediated immunity because they coordinate the immune system and directly kill virally infected cells. Finally, lymph nodes , a major component of the lymphatic system, provide a place for immune cells to communicate and mount an attack; B-cells can be activated here as well. Other immune tissue is found in close proximity to the digestive system, which is a site of potential invasion by pathogens. These tissues are commonly called gut-associated lymphoid tissue ( GALT ) and include the tonsils and adenoids in the head, Peyer’s patches in the small intestine, and lymphoid aggregates in the appendix ."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Lay people not involved in medicine often say that their “glands” are swollen when they feel a sensation of fullness around the throat. From a biological standpoint, lymph nodes are not glands—they do not secrete products into the bloodstream (endocrine) or ducts (exocrine). What they are actually experiencing is known medically as lymphadenopathy , or the swelling of the lymph nodes that occurs with activation of the immune system."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Organs of the immune system: Lymph nodes filter lymph and are a site where immune responses can be mounted. Bone marrow is the site of immune cell production. The thymus is the site of T-cell maturation. The spleen is a storage area for blood, filters blood and lymph, and is a site where immune responses can be mounted."
+    },
+    {
+     "t": "p",
+     "x": "Leukocytes are produced in the bone marrow through hematopoiesis, shown in Figure 8.3. (Note: This is the same image shown in Figure 7.7, but is copied here for convenience.) Leukocytes are divided into two groups of cells: granulocytes and agranulocytes . This name refers to the presence or absence of granules in the cytoplasm. These granules contain toxic enzymes and chemicals, which can be released by exocytosis, and are particularly effective against bacterial, fungal, and parasitic pathogens. Both granulocytes and agranulocytes come from a common precursor: hematopoietic stem cells . Remember from Chapter 7 of MCAT Biology Review that hematopoietic stem cells are also the cell type that gives rise to red blood cells and platelets. Granulocytes include cells such as neutrophils , eosinophils , and basophils . The names of these cells actually refer to the way that the cells appear after staining with certain chemicals. Agranulocytes include the lymphocytes , which are responsible for antibody production, immune system modulation, and targeted killing of infected cells. Monocytes , which are phagocytic cells in the bloodstream, are also considered agranulocytes. They become macrophages in tissues; many tissues have resident populations of macrophages with specific names (such as microglia in the central nervous system, Langerhans cells in the skin, and osteoclasts in bone)."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "One of the tests often ordered by physicians is known as a complete blood count (CBC). This test counts the number of red blood cells, platelets, and white blood cells. If the CBC is ordered with a differential , it means that each type of white blood cell is counted. Any cell populations that are abnormal may indicate a particular type of infection given the right clinical conditions. For example, if 90 percent of the white blood cells are neutrophils, it is possible that a bacterial infection is present. If 20 percent of the white blood cells are eosinophils, it is possible that an invasive parasitic infection is present."
+    },
+    {
+     "t": "p",
+     "x": "Innate immunity refers to the responses cells can carry out without learning; for this reason, it is also known as the nonspecific immune response . Conversely, adaptive immunity is developed as immune cells learn to recognize and respond to particular antigens, and is often aptly referred to as the specific immune response . We can also divide the specific immune system into humoral immunity (driven by B-cells and antibodies) and cell-mediated immunity (driven by T-cells)."
+    }
+   ]
+  },
+  {
+   "title": "8.2 The Innate Immune System",
+   "goals": [
+    "Describe the immunologic functions of each of the noncellular nonspecific immune defenses, including defensins and mucus",
+    "Identify the immune cell type used for antigen presentation",
+    "Differentiate between MHC-I and MHC-II",
+    "Recall the stimuli required for activating natural killer cells, neutrophils, eosinophils, basophils, and mast cells"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch08_the_immune_system/08_02a_virion_broken_down_into_antigenic_peptid.png",
+     "alt": "virion broken down into antigenic peptides, loaded onto MHC-I in the rough ER, and presented on the cell surface",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch08_the_immune_system/08_02b_antigen_picked_up_and_broken_down_loaded.png",
+     "alt": "antigen picked up and broken down, loaded onto MHC-II in the Golgi, brought to cell surface for recognition",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch08_the_immune_system/08_02c_innate_macrophage_mast_cell_granulocytes.png",
+     "alt": "innate: macrophage, mast cell, granulocytes, dendritic cell, natural killer cell; adaptive: B-cell, T-cell",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "The innate immune system consists of cells and structures that offer nonspecific protection."
+    },
+    {
+     "t": "h",
+     "x": "Noncellular Nonspecific Defenses"
+    },
+    {
+     "t": "p",
+     "x": "Our first line of defense is the skin ( integument ). In Chapter 10 of MCAT Biology Review , we will discuss the specific homeostatic functions of the skin; for now, we’ll focus on how skin protects the body. The skin provides a physical barrier between the outside world and our internal organs, preventing most bacteria, viruses, fungi, and parasites from entering the body. Additionally, antibacterial enzymes called defensins can be found on the skin. Sweat also has antimicrobial properties. The skin is an important first line of defense: a cut or abrasion on the skin provides an entry point for pathogens into the body. Deeper wounds allow pathogens to penetrate deeper into the body."
+    },
+    {
+     "t": "p",
+     "x": "As discussed in Chapter 6 of MCAT Biology Review , the respiratory system also has mechanisms to prevent pathogens from entering the body. The respiratory passages are mucous membranes, lined with cilia to trap particulate matter and push it up toward the oropharynx, where it can be swallowed or expelled. While mucus helps to trap particulates like smoke and dirt, it also helps to prevent bacteria and viruses from gaining access to the lung tissue below. Several other mucous membranes, including those around the eye and in the oral cavity, produce a nonspecific bacterial enzyme called lysozyme , which is secreted in tears and saliva, respectively."
+    },
+    {
+     "t": "h",
+     "x": "The Gastrointestinal Tract"
+    },
+    {
+     "t": "p",
+     "x": "The gastrointestinal tract also plays a role in nonspecific immunity. First, the stomach secretes acid, resulting in the elimination of most pathogens. In addition, the gut is colonized by bacteria. Most of these bacteria lack the necessary characteristics to cause infection. Because there is already such a large bacterial population in the gut, many potential invaders are not able to compete and are thus kept at bay. Many antibiotics reduce the population of gut flora, providing an opportunity for the growth of pathogens resistant to that antibiotic."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "The GI tract of a newborn baby is particularly susceptible to infection because the newborn’s immune system is underdeveloped and the GI tract is not yet colonized. Breast milk contains a family of antibodies that are particularly effective on mucosal surfaces and help to defend newborn babies against gastrointestinal infections."
+    },
+    {
+     "t": "h",
+     "x": "Complement"
+    },
+    {
+     "t": "p",
+     "x": "The complement system consists of a number of proteins in the blood that act as a nonspecific defense against bacteria. Complement can be activated through a classical pathway (which requires the binding of an antibody to a pathogen) or an alternative pathway (which does not require antibodies). The complement proteins punch holes in the cell walls of bacteria, making them osmotically unstable. Despite the association with antibodies, complement is considered a nonspecific defense because it cannot be modified to target a specific organism over others."
+    },
+    {
+     "t": "h",
+     "x": "Interferons"
+    },
+    {
+     "t": "p",
+     "x": "To protect against viruses, cells that have been infected with viruses produce interferons , proteins that prevent viral replication and dispersion. Interferons cause nearby cells to decrease production of both viral and cellular proteins. They also decrease the permeability of these cells, making it harder for a virus to infect them. In addition, interferons upregulate MHC class I and class II molecules, resulting in increased antigen presentation and better detection of the infected cells by the immune system, as described in the next section. Interferons are responsible for many “flu-like” symptoms that occur during viral infection, including malaise, tiredness, muscle soreness, and fever."
+    },
+    {
+     "t": "h",
+     "x": "Cells of the Innate Immune System"
+    },
+    {
+     "t": "p",
+     "x": "So, what happens when bacteria, viruses, fungi, or parasites breach noncellular defenses? The cells of the innate immune system are always poised and ready to attack."
+    },
+    {
+     "t": "h",
+     "x": "Macrophages"
+    },
+    {
+     "t": "p",
+     "x": "Macrophages , a type of agranulocyte, reside within the tissues. These cells derive from blood-borne monocytes and can become a resident population within a tissue (becoming a permanent, rather than transient, cell group in the tissue). Many of these resident macrophages are highlighted throughout MCAT Biology Review , including microglia in the central nervous system, Langerhans cells in the skin, and osteoclasts in bone. When a bacterial invader enters a tissue, the macrophages become activated. The activated macrophage does three things. First, it phagocytizes the invader through endocytosis. Then, it digests the invader using enzymes. Finally, it presents little pieces of the invader (mostly peptides) to other cells using a protein called major histocompatibility complex ( MHC ). MHC binds to a pathogenic peptide (also called an antigen ) and carries it to the cell surface, where it can be recognized by cells of the adaptive immune system. In addition, macrophages release cytokines , chemical substances that stimulate inflammation and recruit additional immune cells to the area."
+    },
+    {
+     "t": "p",
+     "x": "MHC molecules come in two main classes: class I and class II. All nucleated cells in the body display MHC class I molecules. Any protein produced within a cell can be loaded onto MHC-I and presented on the surface of the cell, as shown in Figure 8.4. This allows the immune system to monitor the health of these cells and to detect if the cells have been infected with a virus or another intracellular pathogen; only those cells that are infected would be expected to present an unfamiliar (nonself) protein on their surfaces. Therefore, the MHC-I pathway is often called the endogenous pathway because it binds antigens that come from inside the cell. Cells that have been invaded by intracellular pathogens can then be killed by a certain group of T-cells (cytotoxic T-lymphocytes) to prevent infection of other cells."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "MHC molecules are highly variable among humans, but can usually be divided into particular subtypes. People with certain MHC subtypes have different susceptibility to disease, and individuals with certain subtypes are considerably more susceptible to autoimmune diseases. It is also important to match the MHC types of the donor and recipient as closely as possible during transplants to avoid rejection of the graft."
+    },
+    {
+     "t": "p",
+     "x": "MHC class II molecules are mainly displayed by professional antigen-presenting cells like macrophages, as shown in Figure 8.5. Remember that these phagocytic cells pick up pathogens from the environment, process them, and then present them on MHC-II. An antigen is a substance (usually a pathogenic protein) that can be targeted by an antibody. While antibody production is the domain of the adaptive immune system, it is important to understand that cells of the innate immune system also present antigens. Because these antigens originated outside the cell, the MHC-II pathway is often called the exogenous pathway . The presentation of an antigen by an immune cell may result in the activation of both the innate and adaptive immune systems. Professional antigen-presenting cells include macrophages, dendritic cells in the skin, some B-cells, and certain activated epithelial cells."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Major histocompatibility complex molecules are joined with antigens. The MHC–antigen complex then goes to the cell surface to display the antigen. This allows the immune system to monitor the health of cells. MHC-I is in all nucleated cells and presents endogenous antigens. MHC-II is in antigen-presenting cells and presents exogenous antigens."
+    },
+    {
+     "t": "p",
+     "x": "Macrophages and dendritic cells also have special receptors known as pattern recognition receptors ( PRR ), the best-described of which are toll-like receptors ( TLR ). PRRs are able to recognize the category of the invader (bacterium, virus, fungus, or parasite). This allows for the production of appropriate cytokines to recruit the right type of immune cells; each immune cell has different weapons that can target particular groups of pathogens."
+    },
+    {
+     "t": "h",
+     "x": "Natural Killer Cells"
+    },
+    {
+     "t": "p",
+     "x": "In the arms race between the human immune system and pathogens, some pathogens have found ways to avoid certain defenses. For example, some viruses cause downregulation of MHC molecules, making it harder for T-cells to recognize the presence of an infection. Natural killer ( NK ) cells , a type of nonspecific lymphocyte, are able to detect the downregulation of MHC and induce apoptosis in these virally infected cells. Cancer cells may also downregulate MHC production, so NK cells also offer protection from the growth of cancer as well."
+    },
+    {
+     "t": "h",
+     "x": "Granulocytes"
+    },
+    {
+     "t": "p",
+     "x": "In addition to macrophages, the granulocytes, which include neutrophils, eosinophils, and basophils (and closely related mast cells), are also involved in nonspecific defense. Neutrophils are the most populous leukocyte in blood and are very short-lived (a bit more than five days). These cells are phagocytic, like macrophages, and target bacteria. Neutrophils can follow bacteria using chemotaxis—the movement of an organism according to chemical stimuli; in this case, the neutrophil senses products given off by bacteria, moving up the concentration gradient to the source. Neutrophils can also detect bacteria once they have been opsonized (marked with an antibody from a B-cell). Other cells, like natural killer cells, macrophages, monocytes, and eosinophils, also contain receptors for antibodies and can attack opsonized bacteria. Dead neutrophil collections are responsible for the formation of pus during an infection."
+    },
+    {
+     "t": "p",
+     "x": "Eosinophils contain bright red-orange granules and are primarily involved in allergic reactions and invasive parasitic infections. Upon activation, eosinophils release large amounts of histamine , an inflammatory mediator. This results in vasodilation and increased leakiness of the blood vessels, allowing additional immune cells (especially macrophages and neutrophils) to move out of the bloodstream and into the tissue. Inflammation is particularly useful against extracellular pathogens, including bacteria, fungi, and parasites."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Histamine causes inflammation by inducing vasodilation and the movement of fluid and cells from the bloodstream into tissues."
+    },
+    {
+     "t": "p",
+     "x": "Finally, basophils contain large purple granules and are involved in allergic responses. They are the least populous leukocyte in the bloodstream under normal conditions. Mast cells are closely related to basophils, but have smaller granules and exist in the tissues, mucosa, and epithelium. Both basophils and mast cells release large amounts of histamine in response to allergens, leading to inflammatory responses."
+    },
+    {
+     "t": "p",
+     "x": "The functions of many cell types of both the innate and adaptive immune systems are highlighted in Figure 8.6."
+    }
+   ]
+  },
+  {
+   "title": "8.3 The Adaptive Immune System",
+   "goals": [
+    "Recall the major classes of lymphocytes and their functions",
+    "Describe the three main effects that circulating antibodies can have on a pathogen",
+    "Describe the effects of positive and negative selection on T-cell maturation",
+    "Explain why the secondary response to a pathogen is more efficient than the primary response",
+    "Differentiate between passive and active immunity",
+    "Explain how antibodies become specific for a given antigen:"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch08_the_immune_system/08_03a_heavy_chain_constant_joining_diversity_a.png",
+     "alt": "heavy chain: constant, joining, diversity, and variable regions; light chain: constant, joining, and variable regions; linked by disulfide bridges",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch08_the_immune_system/08_03b_t_lymphocytes_cell_mediated_immunity_mem.png",
+     "alt": "T-lymphocytes (cell-mediated immunity): memory, cytotoxic, suppressor, helper; B-lymphocytes (humoral immunity): memory, plasma (IgM, IgD, IgG, IgE, IgA)",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "The adaptive immune system can identify specific invaders and mount an attack against that pathogen. The response is variable and depends on the identity of the pathogen. The adaptive immune system can be divided into two divisions: humoral immunity and cell-mediated (cytotoxic) immunity. Each involves the identification of the specific pathogen and organization of an appropriate immune response."
+    },
+    {
+     "t": "h",
+     "x": "Cells of the Adaptive Immune System"
+    },
+    {
+     "t": "p",
+     "x": "The adaptive immune system consists mainly of two types of lymphocytes, B-cells and T-cells. B-cells govern the humoral response, while T-cells mount the cell-mediated response. All cells of the immune system are created in the bone marrow, but B- and T-cells mature in different locations. B-cells mature in the bone marrow (although the B in their name originally stood for the bursa of Fabricius, an organ found in birds), and T-cells mature in the thymus. When we are exposed to a pathogen, it may take a few days for the physical symptoms to be relieved. This occurs because the adaptive immune response takes time to form specific defenses against the pathogen."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "B -cells mature in the b one marrow. T -cells mature in the t hymus."
+    },
+    {
+     "t": "h",
+     "x": "Humoral Immunity"
+    },
+    {
+     "t": "p",
+     "x": "Humoral immunity , which involves the production of antibodies , may take as long as a week to become fully effective after initial infection. These antibodies are specific to the antigens of the invading microbe. Antibodies are produced by B-cells, which are lymphocytes that originate and mature in the bone marrow and are activated in the spleen and lymph nodes."
+    },
+    {
+     "t": "p",
+     "x": "Antibodies (also called immunoglobulins [ Ig ]) can carry out many different jobs in the body. Just as antigens can be displayed on the surface of cells or can float freely in blood, chyle (lymphatic fluid), or air, so too can antibodies be present on the surface of a cell or secreted into body fluids. When an antibody binds to an antigen, the response will depend on the location. For antibodies secreted into body fluids, there are three main possibilities: first, once bound to a specific antigen, antibodies may attract other leukocytes to phagocytize those antigens immediately. This is called opsonization, as described earlier. Second, antibodies may cause pathogens to clump together or agglutinate , forming large insoluble complexes that can be phagocytized. Third, antibodies can block the ability of a pathogen to invade tissues, essentially neutralizing it. For cell-surface antibodies, the binding of antigen to a B-cell causes activation of that cell, resulting in its proliferation and formation of plasma and memory cells, as described later in this chapter. In contrast, when antigen binds to antibodies on the surface of a mast cell, it causes degranulation (exocytosis of granule contents), releasing histamine and causing an inflammatory allergic reaction."
+    },
+    {
+     "t": "p",
+     "x": "Antibodies are Y-shaped molecules that are made up of two identical heavy chains and two identical light chains , as shown in Figure 8.7. Disulfide linkages and noncovalent interactions hold the heavy and light chains together. Each antibody has an antigen-binding region at the end of which is called the variable region ( domain ), at the tips of the Y. Within this region, there are specific polypeptide sequences that will bind one, and only one, specific antigenic sequence. Part of the reason it takes so long to initiate the antibody response is that each B-cell undergoes hypermutation of its antigen-binding region, trying to find the best match for the antigen. Only those B-cells that can bind the antigen with high affinity survive, providing a mechanism for generating specificity called clonal selection . The remaining part of the antibody molecule is known as the constant region ( domain ). It is this region that cells such as natural killer cells, macrophages, monocytes, and eosinophils have receptors for, and that can initiate the complement cascade. Each B-cell makes only one type of antibody, but we have many B-cells, so our immune system can recognize many antigens. Further, antibodies come in five different isotypes (IgM, IgD, IgG, IgE, and IgA). While the specific purposes of each antibody isotype is outside the scope of the MCAT, you should know that the different types can be used at different times during the adaptive immune response, for different types of pathogens, or in different locations in the body. Cells can change which isotype of antibody they produce when stimulated by specific cytokines in a process called isotype switching ."
+    },
+    {
+     "t": "p",
+     "x": "Not all B-cells that are generated actively or constantly produce antibodies. Antibody production is an energetically expensive process, and there is no reason to expend energy to produce antibodies that are not needed. Instead, naïve B-cells (those that have not yet been exposed to an antigen) wait in the lymph nodes for their particular antigen to come along. Upon exposure to the correct antigen, a B-cell will proliferate and produce two types of daughter cells. Plasma cells produce large amounts of antibodies, whereas memory B-cells stay in the lymph node, awaiting reexposure to the same antigen. This initial activation takes approximately seven to ten days and is known as the primary response . The plasma cells will eventually die, but the memory cells may last the lifetime of the organism. If the same microbe is ever encountered again, the memory cells jump into action and produce the antibodies specific to that pathogen. This immune response, called the secondary response , will be more rapid and robust. The development of these lasting memory cells is the basis of the efficacy of vaccination ."
+    },
+    {
+     "t": "h",
+     "x": "Cytotoxic Immunity"
+    },
+    {
+     "t": "p",
+     "x": "Whereas humoral immunity is based on the activity of B-cells, cell-mediated immunity involves the T-cells. T-cells mature in the thymus, where they undergo both positive and negative selection. Positive selection refers to allowing only the maturation of cells that can respond to the presentation of antigen on MHC (cells that cannot respond to MHC undergo apoptosis because they will not be able to respond in the periphery). Negative selection refers to causing apoptosis in cells that are self-reactive (activated by proteins produced by the organism itself). The maturation of T-cells is facilitated by thymosin , a peptide hormone secreted by thymic cells. Once the T-cell has left the thymus, it is mature but naïve. Upon exposure to antigen, T-cells will also undergo clonal selection so that only those with the highest affinity for a given antigen proliferate."
+    },
+    {
+     "t": "p",
+     "x": "There are three major types of T-cells: helper T-cells, suppressor T-cells, and killer (cytotoxic) T-cells. Helper T-cells ( T h ), also called CD4 + T-cells , coordinate the immune response by secreting chemicals known as lymphokines . These molecules are capable of recruiting other immune cells (such as plasma cells, cytotoxic T-cells, and macrophages) and increasing their activity. The loss of these cells, as occurs in human immunodeficiency virus ( HIV ) infection, prevents the immune system from mounting an adequate response to infection; in advanced HIV infection, also called acquired immunodeficiency syndrome ( AIDS ), even weak pathogens can cause devastating consequences as opportunistic infections. CD4 + T-cells respond to antigens presented on MHC-II molecules. Because MHC-II presents exogenous antigens, CD4 + T-cells are most effective against bacterial, fungal, and parasitic infections."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "“CD” in immunology stands for cluster of differentiation and includes cell-surface markers that can be detected by the lab technique called flow cytometry; these markers give an indication of the types of leukocytes under investigation, how many are present, and their state of maturity."
+    },
+    {
+     "t": "p",
+     "x": "Cytotoxic T-cells ( T c or CTL , for cytotoxic T-lymphocytes), also called CD8 + T-cells , are capable of directly killing virally infected cells by injecting toxic chemicals that promote apoptosis into the infected cell. CD8 + T-cells respond to antigens presented on MHC-I molecules. Because MHC-I presents endogenous antigens, CD8 + T-cells are most effective against viral (and intracellular bacterial or fungal) infections."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "CD4 + T-cells are better at fighting extracellular infections, while CD8 + T-cells are better at targeting intracellular infections."
+    },
+    {
+     "t": "p",
+     "x": "Suppressor or regulatory T-cells ( T reg ) also express CD4, but can be differentiated from helper T-cells because they also express a protein called Foxp3 . These cells help to tone down the immune response once infection has been adequately contained. These cells also turn off self-reactive lymphocytes to prevent autoimmune diseases: this is termed self-tolerance ."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "CD × MHC = 8 CD 4 + cells respond to MHC- II ( 4 × 2 = 8 ) CD 8 + cells respond to MHC- I ( 8 × 1 = 8 )"
+    },
+    {
+     "t": "p",
+     "x": "Finally, memory T-cells can be generated. Similar to memory B-cells, these cells lie in wait until the next exposure to the same antigen. When activated, they carry out a more robust and rapid response."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Many suppressor T-cells were formerly self-reactive T-cells that have been turned off. When a suppressor T-cell inactivates another lymphocyte, it can either target it for destruction or promote its conversion into another suppressor T-cell."
+    },
+    {
+     "t": "p",
+     "x": "A summary of the different types of lymphocytes in adaptive (specific) immunity is shown in Figure 8.8."
+    },
+    {
+     "t": "h",
+     "x": "Activation of the Adaptive Immune System"
+    },
+    {
+     "t": "p",
+     "x": "It is important to note that the innate and adaptive immune systems are not really disparate entities that function separately. The proper functioning of the entire immune system depends on the interactions between these two systems. There are five types of infectious pathogens: bacteria, viruses, fungi, parasites (including protozoa, worms, and insects), and prions (for which there are no immune defenses). While the immune system’s response depends on the specific identity of the pathogen, we present two classic examples: a bacterial (extracellular pathogen) infection and a viral (intracellular pathogen) infection. Keep in mind that this categorization is imperfect; for example, some bacteria, like Mycobacterium tuberculosis and Listeria monocytogenes , are actually intracellular pathogens."
+    },
+    {
+     "t": "h",
+     "x": "Bacterial (Extracellular Pathogen) Infections"
+    },
+    {
+     "t": "p",
+     "x": "Macrophages are like the sentinels of the human body, always on the lookout for potential invaders. Let’s say a person suffers a laceration and bacteria are introduced into the body via this laceration. First, macrophages (and other antigen-presenting cells) engulf the bacteria and subsequently release inflammatory mediators. These cells also digest the bacteria and present antigens from the pathogen on their surfaces in conjunction with MHC-II. The cytokines attract inflammatory cells, including neutrophils and additional macrophages. Mast cells are activated by the inflammation and degranulate, resulting in histamine release and increased leakiness of the capillaries. This augments the ability of the immune cells to leave the bloodstream to travel to the affected tissue. The dendritic cell then leaves the affected tissue and travels to the nearest lymph node, where it presents the antigen to B-cells. B-cells that produce the correct antibody proliferate through clonal selection to create plasma cells and memory cells. Antibodies then travel through the bloodstream to the affected tissue, where they tag the bacteria for destruction."
+    },
+    {
+     "t": "p",
+     "x": "At the same time, dendritic cells are also presenting the antigen to T-cells, activating a T-cell response. In particular, CD4 + T-cells are activated. These cells come in two types, called T h 1 and T h 2. T h 1 cells release interferon gamma (IFN- γ ), which activates macrophages and increases their ability to kill bacteria. T h 2 cells help activate B-cells and are more common in parasitic infections."
+    },
+    {
+     "t": "p",
+     "x": "After the pathogen has been eliminated, plasma cells die, but memory B- and T-cells remain. These memory cells allow for a much faster secondary response upon exposure to the pathogen at a later time."
+    },
+    {
+     "t": "h",
+     "x": "Viral (Intracellular Pathogen) Infections"
+    },
+    {
+     "t": "p",
+     "x": "In a viral infection, the virally infected cell will begin to produce interferons, which reduce the permeability of nearby cells (decreasing the ability of the virus to infect these cells), reduce the rate of transcription and translation in these cells (decreasing the ability of the virus to multiply), and cause systemic symptoms (malaise, muscle aching, fever, and so on). These infected cells also present intracellular proteins on their surface in conjunction with MHC-I; in a virally infected cell, at least some of these intracellular proteins will be viral proteins."
+    },
+    {
+     "t": "p",
+     "x": "CD8 + T-cells will recognize the MHC-I and antigen complex as foreign and will inject toxins into the cell to promote apoptosis. In this way, the infection can be shut down before it is able to spread to nearby cells. In the event that the virus downregulates the production and presentation of MHC-I molecules, natural killer cells will recognize the absence of MHC-I and will accordingly cause apoptosis of these cells."
+    },
+    {
+     "t": "p",
+     "x": "Again, once the pathogen has been cleared, memory T-cells will be generated that can allow a much faster response to be mounted upon a second exposure."
+    },
+    {
+     "t": "h",
+     "x": "Recognition of Self and Nonself"
+    },
+    {
+     "t": "p",
+     "x": "Self-antigens are the proteins and carbohydrates present on the surface of every cell of the body. Under normal circumstances, these self-antigens signal to immune cells that the cell is not foreign and should not be attacked. However, when the immune system fails to make the distinction between self and foreign , it may attack cells expressing particular self-antigens, a condition known as autoimmunity . Note that autoimmunity is only one potential problem with immune functioning: another problem arises when the immune system misidentifies a foreign antigen as dangerous when, in fact, it is not. Pet dander, pollen, and peanuts are not inherently threatening to human life, yet some people’s immune systems are hypersensitive to these antigens and become overactivated when these antigens are encountered. This is called an allergic reaction. Allergies and autoimmunity are part of a family of immune reactions classified as hypersensitivity reactions ."
+    },
+    {
+     "t": "p",
+     "x": "The human body strives to prevent autoimmune reactions very early in T-cell and B-cell maturation processes. T-cells are educated in the thymus. Part of this education involves the elimination of T-cells that respond to self-antigens, called negative selection. Immature B-cells that respond to self-antigens are eliminated before they leave the bone marrow. However, this process is not perfect, and occasionally a cell that responds to self-antigens is allowed to survive. Most autoimmune diseases can be treated with a number of therapies; one common example is administration of glucocorticoids (modified versions of cortisol), which have potent immunosuppressive qualities."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Autoimmune diseases can result in destruction of tissues, which may cause various deficiencies. Type I diabetes mellitus results from autoimmune destruction of the β -cells of the pancreas. This results in an inability to produce insulin, characterized by high blood sugars and excessive utilization of fats and proteins for energy. Other examples of autoimmune diseases include multiple sclerosis, myasthenia gravis, psoriasis, systemic lupus erythematosus, rheumatoid arthritis, Graves’ disease, and Guillain–Barré syndrome."
+    },
+    {
+     "t": "h",
+     "x": "Immunization"
+    },
+    {
+     "t": "p",
+     "x": "Often, diseases can have significant, long-term consequences. Infection with the poliovirus, for example, can leave a person disabled for the remainder of his or her life. Polio used to be a widespread illness; however, today we hardly hear about it outside of the Indian subcontinent because of a highly effective vaccination program that led to the elimination of polio from the Western hemisphere."
+    },
+    {
+     "t": "p",
+     "x": "Immunization can be achieved in an active or passive fashion. In active immunity , the immune system is stimulated to produce antibodies against a specific pathogen. The means by which we are exposed to this pathogen may either be natural or artificial. Through natural exposure, antibodies are generated by B-cells once an individual becomes infected. Artificial exposure (through vaccines) also results in the production of antibodies; however, the individual never experiences true infection. Instead, he or she receives an injection or intranasal spray containing an antigen that will activate B-cells to produce antibodies to fight the specific infection. The antigen may be a weakened or killed form of the microbe, or it may be a part of the microbe’s protein structure."
+    },
+    {
+     "t": "p",
+     "x": "Immunization may also be achieved passively. Passive immunity results from the transfer of antibodies to an individual. The immunity is transient because only the antibodies, and not the plasma cells that produce them, are given to the individual. Natural examples are the transfer of antibodies across the placenta during pregnancy to protect the fetus and the transfer of antibodies from a mother to her nursing infant through breast milk. In some cases of exposure, such as to the rabies virus or tetanus, intravenous immunoglobulin may be given to prevent the pathogen from spreading."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "In 1998, a paper published in The Lancet claimed to have found a link between vaccines and autism. This paper was withdrawn from The Lancet after it was demonstrated to be fraudulent and scientifically inaccurate. In fact, no well-designed scientific study has yet shown this link to exist. However, the sensationalist reporting of this connection in the lay media has led many parents to avoid immunizing their children. Since 1998, outbreaks of measles and mumps in the United States and other industrialized nations have raised concerns about the resurgence of illnesses that were previously thought to have been eliminated from these countries. Vaccines do carry risks, including rare cases of encephalitis (brain inflammation) and Guillain–Barré syndrome (an autoimmune disease in which the myelin of peripheral nerves is attacked), but so too do the pathogens these vaccines protect against."
+    }
+   ]
+  },
+  {
+   "title": "8.4 The Lymphatic System",
+   "goals": [
+    "Predict how a blockage of flow from a lymph node would impact the lymphatic system and the body as a whole",
+    "Describe the factors and structures linking lymphatic and cardiovascular circulation"
+   ],
+   "figures": [],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "The immune system and the lymphatic system are intimately related. B-cells proliferate and develop within the lymphatic system, especially the lymph nodes. This system also serves other functions for the body."
+    },
+    {
+     "t": "h",
+     "x": "Structure"
+    },
+    {
+     "t": "p",
+     "x": "The lymphatic system, along with the cardiovascular system, is a type of circulatory system. It is made up of one-way vessels that become larger as they move toward the center of the body. These vessels carry lymphatic fluid ( lymph ) and most join to form a large thoracic duct in the posterior chest, which then delivers the fluid into the left subclavian vein (near the heart)."
+    },
+    {
+     "t": "p",
+     "x": "Lymph nodes are small, bean-shaped structures along the lymphatic vessels. Lymph nodes contain a lymphatic channel, as well as an artery and a vein. The lymph nodes provide a space for the cells of the immune system to be exposed to possible pathogens."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Certain cancers, especially breast cancer, are prone to spread via lymphatic channels. Mastectomy, a surgery that removes the breast, is one of the treatments for breast cancer. In order to ensure that all of the cancer has been removed, local lymph nodes are often removed at the same time."
+    },
+    {
+     "t": "h",
+     "x": "Function"
+    },
+    {
+     "t": "p",
+     "x": "The lymphatic system serves many different purposes for the body by providing a secondary system for circulation."
+    },
+    {
+     "t": "h",
+     "x": "Equalization of Fluid Distribution"
+    },
+    {
+     "t": "p",
+     "x": "At the capillaries, fluid leaves the bloodstream and goes into the tissues. The quantity of fluid that leaves the tissues at the arterial end of the capillary bed depends on both hydrostatic and oncotic pressures (Starling forces). Remember that the oncotic pressure of the blood draws water back into the vessel at the venule end, once hydrostatic pressure has decreased. Because the net pressure drawing fluid in at the venule end is slightly less than the net pressure pushing fluid out at the arterial end, a small amount of fluid remains in the tissues. Lymphatic vessels drain these tissues and subsequently return the fluid to the bloodstream."
+    },
+    {
+     "t": "p",
+     "x": "The lymphatics offer some protection against pathology. For example, if the blood has a low concentration of albumin (a key plasma protein), the oncotic pressure of the blood is decreased, and less water is driven back into the bloodstream at the venule end. Thus, this fluid will collect in the tissues. Provided that the lymphatic channels are not blocked, much of this fluid may eventually return to the bloodstream via the lymphatics. Only when the lymphatics are overwhelmed does edema occur—swelling due to fluid collecting in tissue."
+    },
+    {
+     "t": "h",
+     "x": "Transportation of Biomolecules"
+    },
+    {
+     "t": "p",
+     "x": "The lymphatic system also transports fats from the digestive system into the bloodstream. Lacteals, small lymphatic vessels, are located at the center of each villus in the small intestine. Fats, packaged into chylomicrons by intestinal mucosal cells, enter the lacteal for transport. Lymphatic fluid carrying many chylomicrons takes on a milky white appearance and is called chyle ."
+    },
+    {
+     "t": "h",
+     "x": "Immunity"
+    },
+    {
+     "t": "p",
+     "x": "As stated previously in this chapter, lymph nodes are a place for antigen-presenting cells and lymphocytes to interact. B-cells proliferate and mature in the lymph nodes in collections called germinal centers ."
+    }
+   ]
+  }
+ ],
+ "conceptSummary": [
+  {
+   "section": "Structure of the Immune System",
+   "points": [
+    "The immune system can be divided into innate and adaptive immunity. Innate immunity is composed of defenses that are always active, but that cannot target a specific invader and cannot maintain immunologic memory; also called nonspecific immunity . Adaptive immunity is composed of defenses that take time to activate, but that target a specific invader and can maintain immunologic memory; also called specific immunity .",
+    "Innate immunity is composed of defenses that are always active, but that cannot target a specific invader and cannot maintain immunologic memory; also called nonspecific immunity .",
+    "Adaptive immunity is composed of defenses that take time to activate, but that target a specific invader and can maintain immunologic memory; also called specific immunity .",
+    "The immune system is dispersed in the body. Immune cells come from the bone marrow . The spleen and lymph nodes are sites where immune responses can be mounted, and in which B-cells are activated. The thymus is the site of T-cell maturation. Gut-associated lymphoid tissue (GALT) includes the tonsils and adenoids .",
+    "Immune cells come from the bone marrow .",
+    "The spleen and lymph nodes are sites where immune responses can be mounted, and in which B-cells are activated.",
+    "The thymus is the site of T-cell maturation.",
+    "Gut-associated lymphoid tissue (GALT) includes the tonsils and adenoids .",
+    "Leukocytes , or white blood cells, are involved in immune defenses."
+   ]
+  },
+  {
+   "section": "The Innate Immune System",
+   "points": [
+    "Many of the nonspecific defenses are noncellular. The skin acts as a physical barrier and secretes antimicrobial compounds, like defensins . Mucus on mucous membranes traps pathogens; in the respiratory system, the mucus is propelled upward by cilia and can be swallowed or expelled. Tears and saliva contain lysozyme , an antibacterial compound. The stomach produces acid, killing most pathogens. Colonization of the gut helps prevent overgrowth by pathogenic bacteria through competition. The complement system can punch holes in the cell walls of bacteria, making them osmotically unstable. Interferons are given off by virally infected cells and help prevent viral replication and dispersion to nearby cells.",
+    "The skin acts as a physical barrier and secretes antimicrobial compounds, like defensins .",
+    "Mucus on mucous membranes traps pathogens; in the respiratory system, the mucus is propelled upward by cilia and can be swallowed or expelled.",
+    "Tears and saliva contain lysozyme , an antibacterial compound.",
+    "The stomach produces acid, killing most pathogens. Colonization of the gut helps prevent overgrowth by pathogenic bacteria through competition.",
+    "The complement system can punch holes in the cell walls of bacteria, making them osmotically unstable.",
+    "Interferons are given off by virally infected cells and help prevent viral replication and dispersion to nearby cells.",
+    "Many of the nonspecific defenses are also cellular. Macrophages ingest pathogens and present them on major histocompatibility complex ( MHC ) molecules. They also secrete cytokines . MHC class I ( MHC-I ) is present in all nucleated cells and displays endogenous antigen (proteins from within the cell) to cytotoxic T-cells (CD8 + cells). MHC class II ( MHC-II ) is present in professional antigen-presenting cells (macrophages, dendritic cells, some B-cells, and certain activated epithelial cells) and displays exogenous antigen (proteins from outside the cell) to helper T-cells (CD4 + cells). Dendritic cells are antigen-presenting cells in the skin. Natural killer cells attack cells not presenting MHC molecules, including virally infected cells and cancer cells. Granulocytes include neutrophils, eosinophils, and basophils. Neutrophils ingest bacteria, particularly opsonized bacteria (those marked with antibodies). They can follow bacteria using chemotaxis . Eosinophils are used in allergic reactions and invasive parasitic infections. They release histamine , causing an inflammatory response. Basophils are used in allergic reactions. Mast cells are related cells found in the skin.",
+    "Macrophages ingest pathogens and present them on major histocompatibility complex ( MHC ) molecules. They also secrete cytokines .",
+    "MHC class I ( MHC-I ) is present in all nucleated cells and displays endogenous antigen (proteins from within the cell) to cytotoxic T-cells (CD8 + cells).",
+    "MHC class II ( MHC-II ) is present in professional antigen-presenting cells (macrophages, dendritic cells, some B-cells, and certain activated epithelial cells) and displays exogenous antigen (proteins from outside the cell) to helper T-cells (CD4 + cells).",
+    "Dendritic cells are antigen-presenting cells in the skin.",
+    "Natural killer cells attack cells not presenting MHC molecules, including virally infected cells and cancer cells.",
+    "Granulocytes include neutrophils, eosinophils, and basophils.",
+    "Neutrophils ingest bacteria, particularly opsonized bacteria (those marked with antibodies). They can follow bacteria using chemotaxis .",
+    "Eosinophils are used in allergic reactions and invasive parasitic infections. They release histamine , causing an inflammatory response.",
+    "Basophils are used in allergic reactions. Mast cells are related cells found in the skin."
+   ]
+  },
+  {
+   "section": "The Adaptive Immune System",
+   "points": [
+    "Humoral immunity is centered on antibody production by plasma cells, which are activated B-cells . Antibodies target a particular antigen . They contain two heavy chains and two light chains. They have a constant region and a variable region ; the tip of the variable region is the antigen-binding region . When activated, the antigen-binding region undergoes hypermutation to improve the specificity of the antibody produced. Cells may be given signals to switch isotypes of antibody (IgM, IgD, IgG, IgE, IgA). Circulating antibodies can opsonize pathogens (mark them for destruction), cause agglutination (clumping) into insoluble complexes that are ingested by phagocytes, or neutralize pathogens. Cell-surface antibodies can activate immune cells or mediate allergic reactions. Memory B-cells lie in wait for a second exposure to a pathogen and can then mount a more rapid and vigorous immune response ( secondary response ).",
+    "Antibodies target a particular antigen . They contain two heavy chains and two light chains. They have a constant region and a variable region ; the tip of the variable region is the antigen-binding region .",
+    "When activated, the antigen-binding region undergoes hypermutation to improve the specificity of the antibody produced. Cells may be given signals to switch isotypes of antibody (IgM, IgD, IgG, IgE, IgA).",
+    "Circulating antibodies can opsonize pathogens (mark them for destruction), cause agglutination (clumping) into insoluble complexes that are ingested by phagocytes, or neutralize pathogens.",
+    "Cell-surface antibodies can activate immune cells or mediate allergic reactions.",
+    "Memory B-cells lie in wait for a second exposure to a pathogen and can then mount a more rapid and vigorous immune response ( secondary response ).",
+    "Cell-mediated ( cytotoxic ) immunity is centered on the functions of T-cells . T-cells undergo maturation in the thymus through positive selection (only selecting for T-cells that can react to antigen presented on MHC) and negative selection (causing apoptosis in self-reactive T-cells). The peptide hormone thymosin promotes T-cell development. Helper T-cells ( T h or CD4 + ) respond to antigen on MHC-II and coordinate the rest of the immune system, secreting lymphokines to activate various arms of immune defense. T h 1 cells secrete interferon gamma , which activates macrophages. T h 2 cells activate B-cells, primarily in parasitic infections. Cytotoxic T-cells ( T c , CTL , or CD8 + ) respond to antigen on MHC-I and kill virally infected cells. Suppressor ( regulatory ) T-cells ( T reg ) tone down the immune response after an infection and promote self-tolerance. Memory T-cells serve a similar function to memory B-cells.",
+    "T-cells undergo maturation in the thymus through positive selection (only selecting for T-cells that can react to antigen presented on MHC) and negative selection (causing apoptosis in self-reactive T-cells). The peptide hormone thymosin promotes T-cell development.",
+    "Helper T-cells ( T h or CD4 + ) respond to antigen on MHC-II and coordinate the rest of the immune system, secreting lymphokines to activate various arms of immune defense. T h 1 cells secrete interferon gamma , which activates macrophages. T h 2 cells activate B-cells, primarily in parasitic infections.",
+    "Cytotoxic T-cells ( T c , CTL , or CD8 + ) respond to antigen on MHC-I and kill virally infected cells.",
+    "Suppressor ( regulatory ) T-cells ( T reg ) tone down the immune response after an infection and promote self-tolerance.",
+    "Memory T-cells serve a similar function to memory B-cells.",
+    "In autoimmune conditions, a self-antigen is identified as foreign, and the immune system attacks the body’s own cells.",
+    "In allergic reactions, nonthreatening exposures incite an inflammatory response.",
+    "Immunization is a method of inducing active immunity (activation of B-cells that produce antibodies to an antigen) prior to exposure to a particular pathogen.",
+    "Passive immunity is the transfer of antibodies to an individual."
+   ]
+  },
+  {
+   "section": "The Lymphatic System",
+   "points": [
+    "The lymphatic system is a circulatory system that consists of one-way vessels with intermittent lymph nodes.",
+    "The lymphatic system connects to the cardiovascular system via the thoracic duct in the posterior chest.",
+    "The lymphatic system equalizes fluid distribution, transports fats and fat-soluble compounds in chylomicrons , and provides sites for mounting immune responses."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "In DiGeorge syndrome, the thymus can be completely absent. The absence of the thymus would leave an individual unable to mount specific defenses against which of the following types of pathogens?",
+   "choices": [
+    "Viruses",
+    "Bacteria",
+    "Parasites",
+    "Fungi"
+   ],
+   "correct": 0,
+   "explanation": "T-lymphocytes, which mature in the thymus, are the only specific defense against intracellular pathogens. While some bacteria, fungi, and parasites can live intracellularly, viruses—by definition—must replicate within cells. The absence of T-cells would leave an individual unable to fight viral infections with specific defenses."
+  },
+  {
+   "q": "Which of the following are NOT involved in cell-mediated immunity?",
+   "choices": [
+    "Memory cells",
+    "Plasma cells",
+    "Cytotoxic cells",
+    "Suppressor cells"
+   ],
+   "correct": 1,
+   "explanation": "The lymphocytes involved in cell-mediated immunity are the T-lymphocytes, or T-cells. There are four types of T-cells, each playing a different role in cell-mediated immunity: cytotoxic T-cells, helper T-cells, memory T-cells, and suppressor T-cells. Thus, from the answer choices, the only cells not involved in cell-mediated immunity are the plasma cells, which are differentiated immunoglobulin-secreting B-lymphocytes involved in humoral immunity. (B) is therefore the correct answer."
+  },
+  {
+   "q": "The lymphatic system:",
+   "choices": [
+    "transports hormones throughout the body.",
+    "transports chylomicrons to the circulatory system.",
+    "causes extravasation of fluid into tissues.",
+    "is the site of mast cell activation."
+   ],
+   "correct": 1,
+   "explanation": "The main function of the lymphatic system is to collect excess interstitial fluid and return it to the circulatory system, maintaining the balance of body fluids. However, this is not one of the answer choices. In addition, the lymphatic system accepts chylomicrons from the small intestine and delivers them to the cardiovascular circulation. Transport of hormones is a function of the cardiovascular system, eliminating (A) . The lymphatic system absorbs fluid that has been pushed into tissues, but does not cause the extravasation of the fluid, eliminating (C) . Mast cells reside in (and are activated in) the skin and mucous membranes, eliminating (D) ."
+  },
+  {
+   "q": "Which of the following are involved in antibody production?",
+   "choices": [
+    "Plasma cells",
+    "Memory cells",
+    "Helper T-cells",
+    "Cytotoxic cells"
+   ],
+   "correct": 0,
+   "explanation": "Antibodies are produced by plasma cells derived from B-lymphocytes. The other cells are all types of T-lymphocytes, although memory B-cells can also exist. Still, memory B-cells do not produce antibodies; plasma cells do."
+  },
+  {
+   "q": "Which of the following is NOT an example of a nonspecific defense mechanism?",
+   "choices": [
+    "Skin provides a physical barrier against invasion.",
+    "Macrophages engulf and destroy foreign particles.",
+    "An inflammatory response is initiated in response to physical damage.",
+    "Cytotoxic T-cells destroy cells displaying foreign antigens."
+   ],
+   "correct": 3,
+   "explanation": "The body employs a number of nonspecific defense mechanisms against foreign invasion. The skin and mucous membranes provide a physical barrier against bacterial invasion. In addition, sweat contains enzymes that attack bacterial cell walls. Certain passages, such as the respiratory tract, are lined with ciliated mucus-coated epithelia, which filter and trap foreign particles. Macrophages engulf and destroy foreign particles. The inflammatory response is initiated in response to physical damage. The only choice that is not a nonspecific defense mechanism is (D) , the correct answer. Cytotoxic T-cells are involved in (specific) cell-mediated immunity."
+  },
+  {
+   "q": "Which of the following is an example of adaptive immunity?",
+   "choices": [
+    "PRRs recognize that a pathogen is an invasive parasite and eosinophils are recruited to the area.",
+    "Complement is activated, causing osmotic instability in a bacterium.",
+    "Memory B-cells generated through vaccination are activated when their antigen is encountered.",
+    "Dendritic cells sample bacteria within a laceration and travel to the lymph nodes to present the antigen."
+   ],
+   "correct": 2,
+   "explanation": "Adaptive immunity involves the activation of B-cells and T-cells specific to the encountered antigen. Any choice that conforms to this paradigm will be correct. (C) indicates that B-cells are activated. Pattern recognition receptors, or PRRs, in (A) recognize patterns common to certain pathogens, but do not identify the specific pathogen. Complement is an example of a blood-borne nonspecific defense against bacteria, eliminating (B) . Dendritic cells traveling to the lymph nodes (D) are a part of the interaction between the innate and adaptive immune systems, but the dendritic cells themselves are nonspecific."
+  },
+  {
+   "q": "Which of the following is true regarding passive and active immunity?",
+   "choices": [
+    "Active immunity requires weeks to build, whereas passive immunity is acquired immediately.",
+    "Active immunity is short-lived, whereas passive immunity is long-lived.",
+    "Active immunity may be acquired during pregnancy through the placenta.",
+    "Passive immunity may be acquired through vaccination."
+   ],
+   "correct": 0,
+   "explanation": "Active immunity refers to the production of antibodies during an immune response. Active immunity may be conferred on an individual by vaccination, such as when an individual is injected with a weakened, inactive, or modified form of a particular antigen that stimulates the immune system to produce antibodies. Active immunity may require weeks to build. Passive immunity, on the other hand, involves the transfer of antibodies through, for example, breast milk or injection. An example would be during pregnancy, when some maternal antibodies cross the placenta and enter fetal circulation, conferring passive immunity to the fetus. Although passive immunity is acquired immediately, it is very short-lived, lasting only as long as the antibodies circulate in blood."
+  },
+  {
+   "q": "Where are most self-reactive T-cells eliminated?",
+   "choices": [
+    "Spleen",
+    "Lymph nodes",
+    "Bone marrow",
+    "Thymus"
+   ],
+   "correct": 3,
+   "explanation": "T-cells mature in the thymus, where they are “educated.” This education involves the elimination of T-cells with improper binding to MHC–antigen complexes (positive selection) and self-reactive T-cells (negative selection). Thus, self-reactive T-cells are eliminated in the thymus."
+  },
+  {
+   "q": "What is the response of the immune system to downregulation of MHC molecules on somatic cells?",
+   "choices": [
+    "B-cells are activated and antibodies are released.",
+    "T-cells are activated, resulting in a cytotoxic response.",
+    "Natural killer cells induce apoptosis of affected cells.",
+    "Macrophages engulf the pathogen and display its antigens."
+   ],
+   "correct": 2,
+   "explanation": "Healthy cells exhibit MHC class I molecules. Natural killer cells monitor the expression of MHC molecules on the surface of cells. Viral infection and cancer often cause a reduction in the expression of MHC class I molecules on the cell surface. Natural killer cells detect this lack of MHC and induce apoptosis in the affected cells."
+  },
+  {
+   "q": "Which of the following correctly indicates the response of CD8 + T-cells when activated?",
+   "choices": [
+    "Secretion of cytotoxic chemicals",
+    "Causing isotype switching",
+    "Presentation of antigens",
+    "Activation of B-cells"
+   ],
+   "correct": 0,
+   "explanation": "CD8 + T-cells are largely responsible for the cytotoxic immune response. By releasing toxic chemicals into virally infected cells, CD8 + T-cells are able to kill these cells in an effort to contain viral infections. Isotype switching refers to changes in the isotype of antibody produced, which is not caused by CD8 + cells, eliminating (B) . Antigens are presented by macrophages, dendritic cells, certain epithelial cells, and some B-cells, eliminating (C) . B-cells are not activated by cytotoxic T-lymphocytes, eliminating (D) ."
+  },
+  {
+   "q": "Lymphoma is cancer of the cells of lymphoid lineage. These cells often reside within lymph nodes. What type of cell is NOT likely to cause a lymphoma?",
+   "choices": [
+    "CD8+T-cells",
+    "B-cells",
+    "Macrophages",
+    "T h 1 cells"
+   ],
+   "correct": 2,
+   "explanation": "Lymphocytes arise from the lymphoid lineage, which includes B-cells and T-cells. Thus, all types of B- and T-cells are capable of causing lymphoma. Macrophages, however, are not lymphocytes and are not likely to cause lymphoma."
+  },
+  {
+   "q": "Upon encountering an antigen, only T-cells with a specific T-cell receptor are activated. This is an example of:",
+   "choices": [
+    "innate immunity.",
+    "a cytotoxic T-cell response.",
+    "humoral immunity.",
+    "clonal selection."
+   ],
+   "correct": 3,
+   "explanation": "When the adaptive immune system encounters an antigen, only the cells with antibodies or T-cell receptors specific to that antigen are activated. This is known as clonal selection. While a T-cell response may be a cytotoxic response, it could also be the activation of helper T-cells; plus, this does not explain the specificity of the response, eliminating (B) ."
+  },
+  {
+   "q": "Which cell type is a phagocyte that attacks bacterial pathogens in the bloodstream?",
+   "choices": [
+    "Neutrophils",
+    "Eosinophils",
+    "Basophils",
+    "Dendritic cells"
+   ],
+   "correct": 0,
+   "explanation": "The only phagocytes that attack bacteria on this list are neutrophils and dendritic cells. Dendritic cells are able to sample and present any type of material, and reside in the skin. Neutrophils, on the other hand, are present in the bloodstream and can attack bacteria present there or in tissues. Eosinophils and basophils are involved in the development of allergies; eosinophils also defend against parasites."
+  },
+  {
+   "q": "What type of immunity is likely to be affected by removal of the spleen?",
+   "choices": [
+    "Cytotoxic immunity",
+    "Humoral immunity",
+    "Innate immunity",
+    "Passive immunity"
+   ],
+   "correct": 1,
+   "explanation": "The spleen is a location where B-cells mature and proliferate. Therefore, removal of the spleen is likely to result in a reduction of humoral immunity. In fact, many people receive vaccinations prior to removal of the spleen in order to bolster their immunity."
+  },
+  {
+   "q": "Which of the following cell types is NOT a granulocyte?",
+   "choices": [
+    "Natural killer cell",
+    "Mast cell",
+    "Eosinophil",
+    "Basophil"
+   ],
+   "correct": 0,
+   "explanation": "Granulocytes are cells with granules in their cytoplasm. These granules are released in immune responses to attack a pathogen. Granulocytes include neutrophils, basophils, eosinophils, and mast cells. Natural killer cells are agranulocytes, which include lymphocytes (B-, T-, and NK cells) and monocytes/macrophages."
+  }
+ ]
+}

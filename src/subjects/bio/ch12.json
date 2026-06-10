@@ -1,0 +1,889 @@
+{
+ "id": 12,
+ "num": 12,
+ "title": "Genetics and Evolution",
+ "slug": "ch12_genetics_and_evolution",
+ "sections": [
+  {
+   "title": "12.1 Fundamental Concepts of Genetics",
+   "goals": [
+    "Recall what traits make alleles dominant or recessive",
+    "Differentiate between homozygous, heterozygous, and hemizygous genotypes",
+    "Compare and contrast complete dominance, codominance, and incomplete dominance",
+    "Explain the difference between penetrance and expressivity",
+    "Connect Mendel’s laws with the phase of meiosis to which they are most closely correlated"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch12_genetics_and_evolution/12_01a_punnett_square_of_homozygous_red_flower_.png",
+     "alt": "Punnett square of homozygous red flower crossed with homozygous white flower, resulting in offspring with pink flowers; offspring are crossed, resulting in 1:2:1 ratio of red:pink:white",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch12_genetics_and_evolution/12_01b_inject_rough_nonvirulent_strain_and_mous.png",
+     "alt": "inject rough (nonvirulent) strain and mouse lives; inject smooth (virulent) strain and mouse dies; inject killed smooth strain and mouse lives; inject rough strain and killed smooths train and mouse dies",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "The physical and biochemical characteristics of every living organism are determined by genes , which are DNA sequences that code for heritable traits that can be passed from one generation to the next. Taken together, all genes (as well as a large supply of noncoding DNA) are organized into chromosomes to ensure that genetic material is passed easily to daughter cells during mitosis and meiosis. Each gene may have alternative forms called alleles . We’ve already explored the ABO blood antigens as an example of three alleles for the same gene (I A , I B , and i). The genetic combination possessed by an individual is known as a genotype , and the manifestation of a given genotype as an observable trait is known as a phenotype ."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "Blood type A individuals carry the A antigen on their erythrocytes and have circulating anti-B antibodies. Blood type B individuals carry the B antigen on their erythrocytes and have circulating anti-A antibodies. Those with type AB have both antigens and neither antibody; those with type O have neither antigen and both antibodies. That makes type O individuals universal donors and type AB individuals universal recipients. Blood typing is discussed in Chapter 7 of MCAT Biology Review ."
+    },
+    {
+     "t": "p",
+     "x": "Each human being possesses two copies of each chromosome, called homologues , except for male sex chromosomes (in which there is one X chromosome and one Y chromosome). Each gene has a particular locus , or location on a specific chromosome. The normal locus of a particular gene is consistent among human beings—a gene can be described by its location. Because each chromosome is part of a homologous pair, a person will inherit two alleles for all genes (again, except for male sex chromosomes). Alleles can be categorized based on their expression. If only one copy of an allele is needed to express a given phenotype, the allele is said to be dominant and is usually represented with a capital letter. If two copies are needed, the allele is said to be recessive and is usually represented with a lowercase letter. If both alleles are the same for a given gene, the individual is said to have a homozygous genotype. If the alleles are different, the individual has a heterozygous genotype. A hemizygous genotype describes a situation in which only one allele is present for a given gene, as is the case for parts of the X chromosome in males."
+    },
+    {
+     "t": "h",
+     "x": "Patterns of Dominance"
+    },
+    {
+     "t": "p",
+     "x": "When only one dominant and one recessive allele exist for a given gene, there is said to be complete dominance . In this case, the presence of one dominant allele will mask the recessive allele, if present. When more than one dominant allele exists for a given gene, there is codominance . For example, a person with one allele for the A blood antigen and one allele for the B blood antigen will express both antigens simultaneously. Finally, incomplete dominance occurs when a heterozygote expresses a phenotype that is intermediate between the two homozygous genotypes. A classic example of incomplete dominance is the mating of certain flowers, in which a red flower crossed with a white flower results in pink flowers, as shown in Figure 12.1."
+    },
+    {
+     "t": "h",
+     "x": "Penetrance and Expressivity"
+    },
+    {
+     "t": "p",
+     "x": "Penetrance and expressivity both reveal the complex interplay between genes and the environment. Penetrance is a population measure defined as the proportion of individuals in the population carrying the allele who actually express the phenotype. In other words, it is the probability that, given a particular genotype, a person will express the phenotype. Alleles can be classified by their degree of penetrance; Huntington’s disease, caused by an expansion of a repetitive sequence in the huntingtin gene, is a classic example. Individuals with more than 40 sequence repeats have full penetrance —100 percent of individuals with this allele show symptoms of Huntington’s disease. Individuals with fewer sequence repeats show high penetrance , wherein most (but not all) of those with the allele show symptoms of the disease. With fewer sequence repeats, the gene comes to have reduced penetrance , low penetrance , or even nonpenetrance ."
+    },
+    {
+     "t": "p",
+     "x": "A related, but distinct, concept is expressivity , which is defined as varying phenotypes despite identical genotypes. If expressivity is constant , then all individuals with a given genotype express the same phenotype. However, if expressivity is variable , then individuals with the same genotype may have different phenotypes. Whereas penetrance is a population parameter (what percentage of individuals with a given genotype express the phenotype?), expressivity reflects the gray area in expression and is more commonly considered at the individual level. For example, the disease neurofibromatosis type II is an autosomal dominant disease that results from a mutation of the gene NF2 ( merlin ). Interestingly, a range of phenotypes is associated with carrying the defective allele. Many patients have debilitating tumors of the vestibulocochlear nerve, which is needed for hearing and balance. Some have cataracts, while others have tumors in the skin called neuromas; still others have spinal lesions. A small proportion of the population is nonpenetrant. The disease shows variable expressivity because presentations range from no clinical effect to severe disability."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Penetrance —the proportion of the population with a given genotype who actually express the phenotype Expressivity —the different manifestations of the same genotype across the population"
+    },
+    {
+     "t": "h",
+     "x": "Mendelian Concepts"
+    },
+    {
+     "t": "p",
+     "x": "Gregor Mendel, an Augustinian friar, developed several of the tenets of genetics in the 1860s based on his work with pea plants. While the study of genetics has come a long way, from pedigree analysis to DNA probes to whole-genome sequencing, many of Mendel’s original ideas still hold."
+    },
+    {
+     "t": "h",
+     "x": "Mendel’s First Law: Law of Segregation"
+    },
+    {
+     "t": "p",
+     "x": "There are four basic tenets of the modern interpretation of Mendel’s first law (of segregation) , some which have already been discussed:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Genes exist in alternative forms (alleles).",
+      "An organism has two alleles for each gene—one inherited from each parent.",
+      "The two alleles segregate during meiosis, resulting in gametes that carry only one allele for any inherited trait.",
+      "If two alleles of an organism are different, only one will be fully expressed and the other will be silent. The expressed allele is said to be dominant, while the silent allele is recessive. (Keep in mind that codominance and incomplete dominance are exceptions to this rule.)"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "The key cellular correlate to draw here is the separation of homologous chromosomes during anaphase I of meiosis. By separating—segregating—these chromosomes into different cells, each gamete carries only one allele for any given trait."
+    },
+    {
+     "t": "h",
+     "x": "Mendel’s Second Law: Law of Independent Assortment"
+    },
+    {
+     "t": "p",
+     "x": "Mendel’s second law (of independent assortment) states that the inheritance of one gene does not affect the inheritance of another gene. Remember from Chapter 2 of MCAT Biology Review that spermatogonia and oogonia undergo genome replication before meiosis I. The daughter DNA strand is held to the parent strand at the centromere . Together, these DNA strands are known as sister chromatids . During prophase I of meiosis, homologous chromosomes pair up to form tetrads , which derive their name from the four chromatids involved (two chromatids in each of two homologous chromosomes). Small segments of genetic material are swapped between chromatids in homologous chromosomes, resulting in novel combinations of alleles that were not present in the original chromosomes ( recombination ). This allows the inheritance of one gene to be independent of the inheritance of all others."
+    },
+    {
+     "t": "p",
+     "x": "Mendel’s second law has been complicated by the discovery of linked genes. We will discuss nonindependent assortment and linkage later in this chapter in the section on analytical approaches in genetics."
+    },
+    {
+     "t": "p",
+     "x": "Both segregation of homologous chromosomes and independent assortment of alleles increase the genetic diversity of gametes and, subsequently, the genetic diversity of offspring. This has been demonstrated to improve the ability of a species to evolve and adapt to environmental stresses."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Segregation and independent assortment allow for greater genetic diversity in the offspring."
+    },
+    {
+     "t": "h",
+     "x": "DNA as Genetic Material"
+    },
+    {
+     "t": "p",
+     "x": "While Mendel noticed there were certain patterns of inheritance, what he did not know was that DNA was the genetic material transferred to offspring and that genes were made of DNA. In fact, the scientific community rejected Mendel’s initial papers on inheritance. It wasn’t until the early 1900s that his work was rediscovered. In the early to mid-1900s, it was largely believed that protein was the heritable material. In the mid-1900s, there were three experiments conducted that largely pointed to DNA’s role in genetic inheritance."
+    },
+    {
+     "t": "p",
+     "x": "In the 1920s, Frederick Griffith was a scientist working for the British government, studying Streptococcus pneumoniae , a bacteria that causes pneumonia. Two strains of S. pneumoniae were identified: a virulent (disease-causing) strain and a non-virulent strain. In successive trials, Griffith exposed mice to these strains of bacteria under different conditions and observed whether the mice lived or died, as shown in Figure 12.2. The virulent S. pneumonia has a smooth capsule that helps the bacterium evade the immune system and cause disease. He injected this strain into mice, which resulted in death of the mice. Naturally, if the virulent bacteria were killed prior to injection, no disease resulted. Likewise, exposure of the mice to the nonvirulent strain, which has a rough capsule, did not cause disease. However, when both dead virulent bacteria and live nonvirulent bacteria were injected into the mouse, the mouse died and live bacteria with smooth capsules could be found in the mice. He theorized that the live, nonvirulent bacteria must have acquired the ability to form smooth capsules from the dead virulent bacteria. This was known as the transforming principle ."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "The transforming principle described in Griffith’s experiment is the same as bacterial transformation discussed in Chapter 1 of MCAT Biology Review . Remember that transformation is one of three main ways bacteria increase genetic variability; the other two are conjugation and transduction."
+    },
+    {
+     "t": "p",
+     "x": "Researchers at the Rockefeller Institute confirmed the transformation principle. Three American scientists—Oswald Avery, Colin MacLeod, and Maclyn McCarty—were attempting to identify the exact material underlying the transformation principle. These scientists purified a very large quantity of heat-killed virulent S. pneumoniae bacteria and separated the subcellular components of the bacteria into different extracts. It was noted that the addition of one particular extract to non-virulent S. pneumoniae transformed the bacteria and enabled them to kill the mouse when injected. When this substance was treated with enzymes known to degrade DNA, the bacteria were not transformed and the mice lived. However, when the substance was treated with enzymes known to degrade proteins, the bacteria were still transformed and the mice died. Thus, the group concluded that the transforming substance must be DNA."
+    },
+    {
+     "t": "p",
+     "x": "In 1952 (one year before the description of the Watson–Crick model), Alfred Hershey and Martha Chase worked to confirm the idea that DNA could independently carry genetic information. These scientists created bacteriophages with radiolabeled DNA and protein. One group of bacteriophages contained radiolabeled sulfur, which is found in protein but not in DNA. Another group contained radiolabeled phosphorus, which is found in DNA but not in protein. Each of these bacteriophages was permitted to infect a group of nonlabeled bacteria. Recall from Chapter 1 of MCAT Biology Review that when bacteriophages infect a bacterium, they inject their genetic material into the cell and leave their capsid outside. After the phages and bacteria were incubated, the sample was centrifuged to separate the material that remained outside the cell from the bacterial cells themselves. It was determined that while no radiolabeled protein entered the cells, radiolabeled DNA had. It was known that viruses must enter a cell to cause disease and replicate, so this experiment once again helped confirm that DNA was the heritable genetic material."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "Radiolabeling sulfur was an appropriate choice to tag proteins in the Hershey–Chase experiment. Recall from Chapter 1 of MCAT Biochemistry Review that two amino acids—cysteine and methionine—contain sulfur in their R group, while no nucleotides contain any sulfur."
+    }
+   ]
+  },
+  {
+   "title": "12.2 Changes in the Gene Pool",
+   "goals": [
+    "Identify the three main types of point mutations and the genetic changes they are associated with",
+    "Recall the two main types of frameshift mutation",
+    "Explain why genetic leakage would increase within the last century",
+    "Describe the relationship between genetic drift, small population, and the founder effect",
+    "Identify the main types of chromosomal mutation and the impact they have at the chromosomal level:"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch12_genetics_and_evolution/12_02a_normal_strand_silent_mutation_missense_m.png",
+     "alt": "normal strand, silent mutation, missense mutation, nonsense mutation, frameshift mutation (1 base pair deletion)",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch12_genetics_and_evolution/12_02b_deletion_duplication_inversion_insertion.png",
+     "alt": "deletion, duplication, inversion, insertion, translocation",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "All of the alleles that exist within a species are known as the gene pool . When mutations or genetic leakage occur, new genes are introduced into the gene pool. Genetic variability is essential for the survival of a species because it allows it to evolve to adapt to changing environmental stresses. Certain traits may be more desirable than others and confer a selective advantage that allows for an individual to produce more viable, fertile offspring. In this section, we will consider genetic diversity and mutations, leakage, and genetic drift, which cause changes to the alleles or their frequency in the gene pool."
+    },
+    {
+     "t": "h",
+     "x": "Mutations"
+    },
+    {
+     "t": "p",
+     "x": "A mutation is a change in DNA sequence, and it results in a mutant allele. Mutant alleles can be contrasted with their wild-type counterparts, which are alleles that are considered “normal” or “natural” and are ubiquitous in the study population. New mutations may be introduced in a variety of ways. Ionizing radiation, such as ultraviolet rays from the sun, and chemical exposures can damage DNA; substances that can cause mutations are called mutagens . DNA polymerase is subject to making mistakes during DNA replication, albeit at a very low rate; proofreading mechanisms help prevent mutations from occurring through this mechanism. Elements known as transposons can insert and remove themselves from the genome. If a transposon inserts in the middle of a coding sequence, the mutation will disrupt the gene."
+    },
+    {
+     "t": "p",
+     "x": "Flawed proteins can arise in other ways without an underlying change in DNA sequence. Incorrect pairing of nucleotides during transcription or translation, or a tRNA molecule charged with the incorrect amino acid for its anticodon, can result in derangements of the normal amino acid sequence."
+    },
+    {
+     "t": "p",
+     "x": "The major types of nucleotide-level mutations are discussed in great detail in Chapter 7 of MCAT Biochemistry Review , so we offer just a brief overview here of each type."
+    },
+    {
+     "t": "h",
+     "x": "Nucleotide-Level Mutations"
+    },
+    {
+     "t": "p",
+     "x": "Many mutations occur at the level of a single nucleotide (or a very small number of nucleotides). These mutations are shown in Figure 12.3 and are summarized below."
+    },
+    {
+     "t": "p",
+     "x": "Point mutations occur when one nucleotide in DNA (A, C, T, or G) is swapped for another. These can be subcategorized as silent, missense, or nonsense mutations:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Silent mutations occur when the change in nucleotide has no effect on the final protein synthesized from the gene. This most commonly occurs when the changed nucleotide is transcribed to be the third nucleotide in a codon because there is degeneracy ( wobble ) in the genetic code.",
+      "Missense mutations occur when the change in nucleotide results in substituting one amino acid for another in the final protein.",
+      "Nonsense mutations occur when the change in nucleotide results in substituting a stop codon for an amino acid in the final protein."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Frameshift mutations occur when nucleotides are inserted into or deleted from the genome. Because mRNA transcribed from DNA is always read in three-letter sequences called codons , insertion or deletion of nucleotides can shift the reading frame , usually resulting in either changes in the amino acid sequence or premature truncation of the protein (due to the generation of a nonsense mutation). These can be subcategorized as insertion or deletion mutations ."
+    },
+    {
+     "t": "h",
+     "x": "Chromosomal Mutations"
+    },
+    {
+     "t": "p",
+     "x": "Chromosomal mutations are larger-scale mutations in which large segments of DNA are affected, as demonstrated in Figure 12.4 and summarized below."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Deletion mutations occur when a large segment of DNA is lost from a chromosome. Small deletion mutations are considered frameshift mutations, as described previously.",
+      "Duplication mutations occur when a segment of DNA is copied multiple times in the genome.",
+      "Inversion mutations occur when a segment of DNA is reversed within the chromosome.",
+      "Insertion mutations occur when a segment of DNA is moved from one chromosome to another. Small insertion mutations (including those where the inserted DNA is not from another chromosome) are considered frameshift mutations, as described previously.",
+      "Translocation mutations occur when a segment of DNA from one chromosome is swapped with a segment of DNA from another chromosome."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Consequences of Mutations"
+    },
+    {
+     "t": "p",
+     "x": "Mutations can have many different consequences. Some mutations can be advantageous , conferring a positive selective advantage that may allow the organism to produce fitter offspring. For example, sickle cell disease is a single nucleotide mutation that causes sickled hemoglobin. While the disease itself is detrimental to life, heterozygotes for sickle cell disease usually have minor symptoms, if any, and have natural resistance to malaria because their red blood cells have a slightly shorter lifespan—just short enough that the parasitic Plasmodium species that causes malaria cannot reproduce in them. Thus, heterozygotes for sickle cell disease actually have a selective advantage because they are less likely to die from malaria."
+    },
+    {
+     "t": "p",
+     "x": "On the other hand, some mutations can be detrimental or deleterious . For example, xeroderma pigmentosum (XP) is an inherited defect in the nucleotide excision repair mechanism. In patients with XP, DNA that has been damaged by ultraviolet radiation cannot be repaired appropriately. Ultraviolet radiation can introduce cancer-causing mutations; since they lack a repair mechanism, patients with XP are frequently diagnosed with malignancies, especially of the skin."
+    },
+    {
+     "t": "p",
+     "x": "One important class of deleterious mutations is known as inborn errors of metabolism . These are defects in genes required for metabolism. Children born with these defects often require very early intervention in order to prevent permanent damage from the buildup of metabolites in various pathways. For example, in phenylketonuria (PKU), the enzyme phenylalanine hydrolase , which completes the metabolism of the amino acid phenylalanine, is defective. In the absence of this enzyme, toxic metabolites of phenylalanine accumulate, causing seizures, impairment of cerebral function, and learning disabilities, as well as a musty odor to bodily secretions. However, if the disease is discovered shortly after birth, then dietary phenylalanine can be eliminated and treatments can be administered to aid in metabolizing any remaining phenylalanine."
+    },
+    {
+     "t": "h",
+     "x": "Leakage"
+    },
+    {
+     "t": "p",
+     "x": "Genetic leakage is a flow of genes between species. In some cases, individuals from different (but closely related) species can mate to produce hybrid offspring. Many hybrid offspring, such as the mule (hybrid of a male horse and a female donkey), are not able to reproduce because they have odd numbers of chromosomes—horses have 64 chromosomes and donkeys have 62, so mules, with 63 chromosomes, cannot undergo normal homologous pairing in meiosis and cannot form gametes. In some cases, however, a hybrid can reproduce with members of one species or the other, such as the beefalo (a cross between cattle and American bison). The hybrid carries genes from both parent species, so this can result in a net flow of genes from one species to the other."
+    },
+    {
+     "t": "h",
+     "x": "Genetic Drift"
+    },
+    {
+     "t": "p",
+     "x": "Genetic drift refers to changes in the composition of the gene pool due to chance. Genetic drift tends to be more pronounced in small populations. The founder effect is a more extreme case of genetic drift in which a small population of a species finds itself in reproductive isolation from other populations as a result of natural barriers, catastrophic events, or other bottlenecks that drastically and suddenly reduce the size of the population available for breeding. Because the breeding group is small, inbreeding , or mating between two genetically related individuals, may occur in later generations. Inbreeding encourages homozygosity, which increases the prevalence of both homozygous dominant and recessive genotypes. Ultimately, genetic drift, the founder effect, and inbreeding cause a reduction in genetic diversity, which is often the reason why a small population may have increased prevalence of certain traits and diseases. For example, branched-chain ketoacid dehydrogenase deficiency (also called maple syrup urine disease ) is especially common in Mennonite communities; this implies a common origin of the mutation, which may have been in a very small original population."
+    },
+    {
+     "t": "p",
+     "x": "This loss of genetic variation may cause reduced fitness of the population, a condition known as inbreeding depression . On the opposite end of the spectrum, outbreeding or outcrossing is the introduction of unrelated individuals into a breeding group. Theoretically, this could result in increased variation within a gene pool and increased fitness of the population."
+    }
+   ]
+  },
+  {
+   "title": "12.3 Analytical Approaches in Genetics",
+   "goals": [
+    "Predict the phenotype ratio in the offspring of a cross, such as AaBB x AAbb",
+    "Order genes on a chromosome given their recombination frequencies",
+    "Recall the five criteria of the Hardy-Weinberg principle and the underlying population characteristic each one implies",
+    "Solve calculation problems requiring use of the Hardy–Weinberg equations: p + q = 1, and p 2 + 2 pq + q 2 = 1"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch12_genetics_and_evolution/12_03a_homozygous_dominant_crossed_with_homozyg.png",
+     "alt": "homozygous dominant crossed with homozygous recessive, resulting in 100% heterozygous offspring",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch12_genetics_and_evolution/12_03b_two_heterozygotes_crossed_forming_1_2_1_.png",
+     "alt": "two heterozygotes crossed, forming 1:2:1 ratio of homozygous dominant:heterozygous:recessive and 3:1 ratio of dominant:recessive phenotype",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch12_genetics_and_evolution/12_03c_dominant_and_recessive_parents_crossed_i.png",
+     "alt": "dominant and recessive parents crossed; if dominant parent is homozygous, all offspring have dominant phenotype; if dominant parent is heterozygous, offspring have 1:1 ratio of dominant:recessive phenotype",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch12_genetics_and_evolution/12_03d_description_of_punnett_square_given_in_p.png",
+     "alt": "description of Punnett square given in preceding text",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch12_genetics_and_evolution/12_03e_carrier_female_and_normal_male_1_1_1_1_c.png",
+     "alt": "carrier female and normal male: 1:1:1:1 carrier female:normal female:hemophilac male:normal male. carrier female and hemophilac male: 1:1:1:1 hemophliac female:female:hemophiliac male:normal male",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch12_genetics_and_evolution/12_03f_recombination_frequencies_given_x_and_y_.png",
+     "alt": "recombination frequencies given: X and Y, 8%; X and Z, 12%; Y and Z, 4%. final order determined to be XYZ based on this data",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch12_genetics_and_evolution/12_03g_p_0_8_q_0_2_crossed_with_the_same_genoty.png",
+     "alt": "p = 0.8, q = 0.2 crossed with the same genotype; results: p superscript 2 = 0.64, pq (of which there are two) = 0.16, q superscript 2 = 0.04",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "Genetics is a field in which a number of biometric techniques , or quantitative approaches to biological data, have been developed. These range from the Punnett square to mapping of chromosomes with recombinant frequencies to Hardy–Weinberg equilibrium."
+    },
+    {
+     "t": "h",
+     "x": "Punnett Squares"
+    },
+    {
+     "t": "p",
+     "x": "Punnett squares are diagrams that predict the relative genotypic and phenotypic frequencies that will result from the crossing of two individuals. The alleles of the two parents are arranged on the top and side of the square, with the genotypes of the progeny represented at the intersections of these alleles. The genotypes of the progeny will be the product of the two parental alleles."
+    },
+    {
+     "t": "callout",
+     "kind": "warn",
+     "title": "MCAT Expertise",
+     "x": "Pedigree (or family tree) analysis was once a mainstay of MCAT passages and questions. While this topic no longer appears on the exam, it will be a major focus of your medical school genetics class. The symbology of pedigree analysis is complex and intricate, but a great deal of information can be gleaned from a well-drawn pedigree."
+    },
+    {
+     "t": "h",
+     "x": "Monohybrid Cross"
+    },
+    {
+     "t": "p",
+     "x": "In genetics problems, including those on the MCAT, dominant alleles are assigned capital letters and recessive alleles are assigned lowercase letters. If both copies of the allele are the same, that individual is said to be homozygous; if they are different, the individual is heterozygous."
+    },
+    {
+     "t": "p",
+     "x": "A cross in which only one trait is being studied is said to be monohybrid . The parent or P generation refers to the individuals being crossed; the offspring are the filial or F generation . Multiple generations can be denoted F generations by using numeric subscripts. If you think of your grandparents as the P generation, then your parents are in the F 1 generation, and you are in the F 2 generation."
+    },
+    {
+     "t": "p",
+     "x": "Mendel worked with pea plants that had either purple or white flowers. Before crossing the different plants, each group contained homozygotes; subsequent experimentation revealed that the allele for purple color was dominant (P) and the allele for white color was recessive (p). Thus, crossing a homozygous purple flower with a white flower would be crossing PP with pp, resulting in an F 1 generation that contained 100 percent Pp or heterozygotes, as shown in Figure 12.5. All of the flowers in this generation would be purple because P is a dominant allele."
+    },
+    {
+     "t": "p",
+     "x": "If two members of the F 1 generation were crossed, the resulting offspring in the F 2 generation would be more genotypically and phenotypically diverse than their parents. Crossing two plants with the genotype Pp would result in 25 percent PP, 50 percent Pp, and 25 percent pp offspring, as shown in Figure 12.6. Phenotypically, this would be a 3:1 distribution because both the homozygous dominant and heterozygous dominant offspring would be purple-flowering plants. Thus, crossing two heterozygotes in a case of complete dominance will result in a 1:2:1 distribution of genotypes (homozygous dominant:heterozygous dominant:homozygous recessive) and a 3:1 distribution of phenotypes (dominant:recessive). These ratios are, of course, theoretical probabilities and will not always hold true—especially in a small population of offspring. Usually, the more offspring parents have, the closer their phenotypic ratios will be to the expected ratios."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Crossing two heterozygotes for a trait with complete dominance results in a 1:2:1 ratio of genotypes and a 3:1 ratio of phenotypes. Know these ratios cold for Test Day!"
+    },
+    {
+     "t": "callout",
+     "kind": "warn",
+     "title": "MCAT Expertise",
+     "x": "The ability to create and read a Punnett square quickly on Test Day is one of the most useful skills for questions involving Mendelian inheritance. Often, an entire passage in the Biological and Biochemical Foundations of Living Systems section will be devoted to classical and molecular genetics and will require the use of at least one Punnett square."
+    },
+    {
+     "t": "h",
+     "x": "Test Cross"
+    },
+    {
+     "t": "p",
+     "x": "A test cross is used to determine an unknown genotype, as shown in Figure 12.7. In a test cross, the organism with an unknown genotype is crossed with an organism known to be homozygous recessive. If all of the offspring (100 percent) are of the dominant phenotype, then the unknown genotype is likely to be homozygous dominant. If there is a 1:1 distribution of dominant to recessive phenotypes, then the unknown genotype is likely to be heterozygous. Because a test cross is used to determine the genotype of the parent based on the phenotypes of its offspring, test crosses are sometimes called back crosses ."
+    },
+    {
+     "t": "h",
+     "x": "Dihybrid Cross"
+    },
+    {
+     "t": "p",
+     "x": "We can extend a Punnett square to account for the inheritance of two different genes using a dihybrid cross . Remember, according to Mendel’s second law (of independent assortment) the inheritance of one gene is independent of the inheritance of the other. This will hold true for unlinked genes , although it will be more complicated for linked genes, as described later in this chapter."
+    },
+    {
+     "t": "p",
+     "x": "If we expand the previous crosses to consider not only flower color, but also plant height, then we can create a 4 × 4 Punnett square as shown in Figure 12.8. Remember that purple is dominant (P) and white is recessive (p); similarly, tall is dominant (T) and short or dwarf is recessive (t). If we cross two plants that are heterozygous for both traits, then the offspring have a phenotypic ratio of 9:3:3:1 (9 tall and purple:3 tall and white:3 dwarf and purple:1 dwarf and white). Note that the 3:1 phenotypic ratio still holds for each trait (12 tall:4 dwarf and 12 purple:4 white), reflecting Mendel’s second law."
+    },
+    {
+     "t": "callout",
+     "kind": "warn",
+     "title": "MCAT Expertise",
+     "x": "Just as with the 3:1 phenotypic ratio of a monohybrid cross, it is worth memorizing the 9:3:3:1 distribution for dihybrid crosses between two heterozygotes with complete dominance."
+    },
+    {
+     "t": "h",
+     "x": "Sex-Linked Crosses"
+    },
+    {
+     "t": "p",
+     "x": "When considering sex-linked ( X-linked ) traits , a slightly different system is used to symbolize the various alleles because females have two X chromosomes and thus may be homozygous or heterozygous for a condition carried on the X chromosome. Males, on the other hand, have only one X chromosome (and one Y chromosome) and are hemizygous for many genes carried on the X chromosome. This is why sex-linked traits are much more common in males; having only one recessive allele is sufficient for expression of the recessive phenotype."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "On the MCAT, se x -linked is X -linked. Y-linked diseases exist, but are exceedingly rare. Further, unless told otherwise, assume that sex-linked traits are recessive."
+    },
+    {
+     "t": "p",
+     "x": "When writing genotypes for sex-linked traits, we use X and Y to symbolize normal X and Y chromosomes. An X chromosome carrying a defective allele is commonly given a subscript, such as X h , to indicate the presence of the disease-carrying allele. Hemophilia is a particularly common example of a sex-linked trait; Punnett squares for a heterozygous ( carrier ) female and both a normal male and affected (hemophiliac) male are shown in Figure 12.9."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Because an egg necessarily carries an X chromosome, the sperm determines the sex of a child. It follows that men with a sex-linked trait will have daughters who are all either carriers of the trait or who express the trait, and that a man can never pass down a sex-linked trait to his son."
+    },
+    {
+     "t": "h",
+     "x": "Gene Mapping"
+    },
+    {
+     "t": "p",
+     "x": "Genes are organized in a linear fashion on chromosomes. As discussed earlier, crossing over during prophase I of meiosis causes alleles to be swapped between homologous chromosomes, supporting Mendel’s second law (of independent assortment). However, genes that are located very close together on a chromosome are less likely to be separated from each other during crossing over. In other words, the further apart two genes are, the more likely it is that there will be a point of crossing over, called a chiasma , between them. The likelihood that two alleles are separated from each other during crossing over, called the recombination frequency ( θ ), is roughly proportional to the distance between the genes on the chromosome. We can also describe the strength of linkage between genes based on the recombination frequency: tightly linked genes have recombination frequencies close to 0 percent; weakly linked genes have recombination frequencies approaching 50 percent, as expected from independent assortment."
+    },
+    {
+     "t": "p",
+     "x": "By analyzing recombination frequencies, a genetic map representing the relative distance between genes on a chromosome can be constructed. By convention, one map unit or centimorgan corresponds to a 1 percent chance of recombination occurring between two genes. Thus, if two genes were 25 map units apart, we would expect 25 percent of the total gametes examined to show recombination somewhere between these two genes. Recombination frequencies can be added in a crude approximation to determine the order of genes in the chromosome, as shown in Figure 12.10."
+    },
+    {
+     "t": "h",
+     "x": "Hardy–Weinberg Principle"
+    },
+    {
+     "t": "p",
+     "x": "How often an allele appears in a population is known as its allele frequency . For example, if we took a one-cell sample from 50 of Mendel’s plants, we could collect 100 copies of alleles for flower color (two from each cell). If 75 of these alleles were the dominant allele, we could say that the allele frequency of P is 75 ÷ 100 = 0.75 . Note that this does not indicate which flowers contain the allele or if those flowers are homozygous or heterozygous; it only tells us the representation of the allele across all chromosomes in the population. Evolution results from changes in these gene frequencies in reproducing populations over time. However, when the gene frequencies of a population are not changing, the gene pool is stable and evolution is ostensibly not occurring. The following five criteria are mandatory for this to be possible:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "The population is very large (no genetic drift).",
+      "There are no mutations that affect the gene pool.",
+      "Mating between individuals in the population is random (no sexual selection).",
+      "There is no migration of individuals into or out of the population.",
+      "The genes in the population are all equally successful at being reproduced."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Provided that all of these conditions are met, the population is said to be in Hardy–Weinberg equilibrium , and a pair of equations can be used to predict the allelic and phenotypic frequencies."
+    },
+    {
+     "t": "p",
+     "x": "Let us define a particular gene as having only two possible alleles, T and t. We will define p to be the frequency of the dominant allele T and q to be the frequency of the recessive allele t. Because there are only these two choices at the same gene locus, p + q = 1 . That is, the combined allele frequencies of T and t must equal 100 percent. If we square both sides of the equation, we get:"
+    },
+    {
+     "t": "p",
+     "x": "where p 2 is the frequency of the TT (homozygous dominant) genotype, 2 pq is the frequency of the Tt (heterozygous dominant) genotype, and q 2 is the frequency of the tt (homozygous recessive) genotype. Note that the sum p 2 + 2 pq would represent the frequency of the dominant phenotype (both homozygous and heterozygous dominant genotypes)."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "All you need to know to solve any MCAT Hardy–Weinberg problem is the value of p (or p 2 ) or q (or q 2 ). From there, you can calculate everything else using p + q = 1 and p 2 + 2 pq + q 2 = 1 ."
+    },
+    {
+     "t": "p",
+     "x": "For Test Day, you should know the two key Hardy–Weinberg equations demonstrated above:"
+    },
+    {
+     "t": "p",
+     "x": "Equation 12.1"
+    },
+    {
+     "t": "p",
+     "x": "Each equation provides us with different information. The first tells us about the frequency of alleles in the population , whereas the second provides information about the frequency of genotypes and phenotypes in the population."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "The Hardy–Weinberg equations allow you to find two pieces of information: first, the relative frequency of alleles in a population, and second, the frequency of a given genotype or phenotype in the population. Remember that there will be twice as many alleles as individuals in a population because each individual has two autosomal copies of each gene."
+    },
+    {
+     "t": "p",
+     "x": "These equations can also be used to demonstrate that evolution is not occurring in a population. Assuming that the conditions listed earlier are met, the allele frequencies will remain constant from generation to generation. For example, imagine that we have a population of Mendel’s pea plants in which the frequency of the tall allele, T, is 0.80. This value is represented by p . This means that q (the short allele, t) is 0.20 by subtraction. Setting up our F 1 cross for two heterozygotes, we can see the results of such a mating:"
+    },
+    {
+     "t": "p",
+     "x": "We see that the filial generation contains 64 percent homozygous tall, 32 percent heterozygous tall, and 4 percent homozygous short plants. These are the genotypic frequencies. We can determine the allele frequencies in this generation as follows:"
+    },
+    {
+     "t": "p",
+     "x": "Notice that the allele frequencies are unchanged compared to the parent generation. T is still 0.80 and t is still 0.20. Populations in Hardy–Weinberg equilibrium will exhibit this property."
+    }
+   ]
+  },
+  {
+   "title": "12.4 Evolution",
+   "goals": [
+    "Describe the key tenets of the major theories of evolution, including punctuated equilibrium, natural selection, inclusive fitness, and the modern synthesis model",
+    "Identify the three patterns of selection and the changes they create in the population phenotype",
+    "Recall the three patterns of evolution between species and the outcome of each",
+    "Recall the biological definition of a species"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch12_genetics_and_evolution/12_04a_stabilizing_selection_individuals_move_t.png",
+     "alt": "stabilizing selection: individuals move toward the mean; directional selection: mean moves to a different value; disruptive selection: individuals move both directions from the mean, forming two populations",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch12_genetics_and_evolution/12_04b_two_birds_with_large_beaks_two_birds_wit.png",
+     "alt": "two birds with large beaks, two birds with small beaks",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch12_genetics_and_evolution/12_04c_divergent_two_arrows_moving_away_from_co.png",
+     "alt": "divergent: two arrows moving away from common tail; parallel: two arrows in parallel from common tail; convergent: two arrows approaching each other",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "Evolutionary thought has a relatively short history; the first theories suggesting that new species may arise from older ones were proposed in the 19th century. Significant alterations to these initial theories have been made since then."
+    },
+    {
+     "t": "h",
+     "x": "Natural Selection"
+    },
+    {
+     "t": "p",
+     "x": "Natural selection , sometimes called survival of the fittest , is the theory that certain characteristics or traits possessed by individuals within a species may help those individuals have greater reproductive success, thus passing on those traits to offspring. This theory was originally proposed by Charles Darwin in his 1859 publication On the Origin of Species . His theory was built on several basic tenets:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Organisms produce offspring, few of which survive to reproductive maturity.",
+      "Chance variations within individuals in a population may be heritable. If these variations give an organism even a slight survival advantage, the variation is termed favorable .",
+      "Individuals with a greater preponderance of these favorable variations are more likely to survive to reproductive age and produce offspring; the overall result will be an increase in these traits in future generations. This level of reproductive success is termed fitness , and an organism’s fitness is directly related to the relative genetic contribution of this individual to the next generation."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Darwin’s theory was ultimately proven to be correct in many ways—although not completely. In the 20th century, modern genetics led to the development of the currently accepted theory."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Evolution is not equivalent to natural selection. The MCAT likes to test your ability to understand that natural selection is simply a mechanism for evolution. Natural selection is, however, equivalent to survival of the fittest ."
+    },
+    {
+     "t": "h",
+     "x": "Modern Theories"
+    },
+    {
+     "t": "p",
+     "x": "The modern synthesis model , sometimes called neo-Darwinism , adds knowledge of genetic inheritance and changes in the gene pool to Darwin’s original theory. Once scientists showed that inheritance occurs through the passing of genes from parent to child and that genes ultimately change due to mutation or recombination, Darwin’s theory was updated to its current form: when mutation or recombination results in a change that is favorable to the organism’s reproductive success, that change is more likely to pass on to the next generation. The opposite is also true. This process is termed differential reproduction . Over time, those traits passed on by the more successful organisms will become ubiquitous in the gene pool. Because the gene pool changes over time, it is important to note that populations evolve, not individuals."
+    },
+    {
+     "t": "p",
+     "x": "Also germane to the modernization of Darwin’s theory is a shift in scope to focus on inclusive fitness over the fitness of an individual organism. Inclusive fitness is a measure of an organism’s success in the population, based on the number of offspring, success in supporting offspring, and the ability of the offspring to then support others. Early descriptions of evolutionary success, like those of Darwin, were based solely on the number of viable offspring of an organism. However, contemporary theories take into account the benefits of certain behaviors on the population at large. For example, the existence of altruism could be supported by the observation that close relatives of an individual will share many of the same genes; thus, promoting the reproduction and survival of related or similar individuals can also lead to genetic success. Other species show examples of inclusive fitness by protecting the offspring of the group at large. By endangering themselves to protect the young, these organisms ensure the passing of genes to future generations. Inclusive fitness therefore promotes the idea that altruistic behavior can improve the fitness and success of a species as a whole."
+    },
+    {
+     "t": "p",
+     "x": "One final theory to consider was proposed as a result of research into the fossil record. Upon examination, it was discovered that little evolution would occur within a lineage of related lifeforms for long periods of time, followed by an explosion in evolutionary change. Niles Eldredge and Stephen Jay Gould proposed the theory of punctuated equilibrium to explain this in 1972. In contrast to Darwin’s theory, punctuated equilibrium suggests that changes in some species occur in rapid bursts rather than evenly over time."
+    },
+    {
+     "t": "h",
+     "x": "Modes of Natural Selection"
+    },
+    {
+     "t": "p",
+     "x": "Natural selection may occur as stabilizing selection, directional selection, or disruptive selection, as shown in Figure 12.11."
+    },
+    {
+     "t": "p",
+     "x": "Stabilizing selection keeps phenotypes within a specific range by selecting against extremes. For instance, human birth weight is maintained within a narrow band by stabilizing selection. Fetuses that weigh too little may not be healthy enough to survive, and fetuses that weigh too much can experience trauma during delivery through the relatively narrow birth canal. In addition, the larger the fetus, the more resources it requires from the mother. For all of these reasons, it is advantageous to keep birth weights within a narrow range."
+    },
+    {
+     "t": "p",
+     "x": "Adaptive pressure can lead to the emergence and dominance of an initially extreme phenotype through directional selection . For example, if we have a heterogeneous plate of bacteria, very few may have resistance to antibiotics. If the plate is then treated with ampicillin (an antibiotic), only those colonies that exhibit resistance to this antibiotic will survive. A new standard phenotype emerges as a result of differential survivorship. Natural selection is the history of differential survivorship over time. The emergence of mosquitoes resistant to dichlorodiphenyltrichloroethane (DDT), a type of pesticide, is attributed to directional selection."
+    },
+    {
+     "t": "p",
+     "x": "In disruptive selection , two extreme phenotypes are selected over the norm. When Darwin studied finches on the Galapagos Islands, he noted that although there were many species, all the species arguably had a common ancestor, given their similar appearances. However, when he compared beak sizes they were all either large or small, as shown in Figure 12.12. No animals exhibited the intermediate phenotype of medium-size beaks. Darwin hypothesized that the sizes of seeds on the island (the finches’ food) led to this effect. Seeds were either quite large or fairly small, requiring a large or small beak, respectively. Thus, if the original ancestor had a medium-size beak, over time the animals with slightly larger or smaller beaks would be selected. Disruptive selection is facilitated by the existence of polymorphisms —naturally occurring differences in form between members of the same population, such as light and dark coloration in the same species of butterfly. Adaptive radiation is a related concept that describes the rapid rise of a number of different species from a common ancestor. The benefit of adaptive radiation is that it allows for various species to occupy different niches. A niche is a specific environment, including habitat, available resources, and predators, for which a species is specifically adapted. Adaptive radiation is favored by environmental changes or isolation of small groups of the ancestral species."
+    },
+    {
+     "t": "h",
+     "x": "Speciation"
+    },
+    {
+     "t": "p",
+     "x": "A species is defined as the largest group of organisms capable of breeding to form fertile offspring; the formation of a new species through evolution is called speciation . If we took two populations from the same species and separated them geographically for a long period of time, different evolutionary pressures would lead to different adaptive changes. If enough time passed, the changes would be sufficient to lead to isolation , which means the progeny of these populations could no longer freely interbreed. We would now consider the two groups separate species."
+    },
+    {
+     "t": "p",
+     "x": "Reproductive isolation may occur either prezygotically or postzygotically. Prezygotic mechanisms prevent formation of the zygote completely; postzygotic mechanisms allow for gamete fusion but yield either nonviable or sterile offspring. Examples of prezygotic mechanisms include temporal isolation (breeding at different times), ecological isolation (living in different niches within the same territory), behavioral isolation (a lack of attraction between members of the two species due to differences in pheromones, courtship displays, and so on), reproductive isolation (incompatibility of reproductive anatomy), or gametic isolation (intercourse can occur, but fertilization cannot). Postzygotic mechanisms include hybrid inviability (formation of a zygote that cannot develop to term), hybrid sterility (forming hybrid offspring that cannot reproduce), and hybrid breakdown (forming first-generation hybrid offspring that are viable and fertile, but second-generation hybrid offspring that are inviable or infertile). As described earlier in this chapter, mules are an example of postzygotic hybrid sterility. Although a horse and donkey can produce a viable mule, the mule will be sterile and thus unable to establish a self-perpetuating mule lineage."
+    },
+    {
+     "t": "h",
+     "x": "Patterns of Evolution"
+    },
+    {
+     "t": "p",
+     "x": "When we look at similarities between two species, we must be careful to determine whether those similarities are due to sharing a common ancestor or sharing a common environment with the same evolutionary pressures. When analyzing species this way, three patterns of evolution emerge: divergent evolution, parallel evolution, and convergent evolution, as shown in Figure 12.13."
+    },
+    {
+     "t": "p",
+     "x": "Divergent evolution refers to the independent development of dissimilar characteristics in two or more lineages sharing a common ancestor. For example, seals and cats are both mammals in the order Carnivora, yet they differ markedly in general appearance. These two species live in very different environments and adapted to different selection pressures while evolving."
+    },
+    {
+     "t": "p",
+     "x": "Parallel evolution refers to the process whereby related species evolve in similar ways for a long period of time in response to analogous environmental selection pressures."
+    },
+    {
+     "t": "p",
+     "x": "Convergent evolution refers to the independent development of similar characteristics in two or more lineages not sharing a recent common ancestor. For example, fish and dolphins have come to resemble one another physically, though they belong to different classes of vertebrates. They evolved certain similar features in adapting to the conditions of aquatic life."
+    },
+    {
+     "t": "h",
+     "x": "Measuring Evolutionary Time"
+    },
+    {
+     "t": "p",
+     "x": "Evolution is a slow process, featuring changes in the environment and subsequent changes in genotypes and phenotypes of a population over time. The rate of evolution is measured by the rate of change of a genotype over a period of time and is related to the severity of the evolutionary pressures on the species. In other words, if a species is already perfectly suited to its habitat and there are no changes to the conditions in which it lives, the rate of evolution will be exceedingly slow—although there will still be some small base rate of genetic mutation. On the other hand, if an organism lives in a rapidly changing environment, the rate of evolution will be greater, as selection for and against certain traits will be actively occurring within that population."
+    },
+    {
+     "t": "p",
+     "x": "By comparing DNA sequences between different species, scientists can quantify the degree of similarity between two organisms. For example, chimpanzees share over 95 percent of their genome with humans, whereas mice share only about 70 percent. As species become more taxonomically distant, the proportion of the shared genome will decrease. Molecular evolutionists correlate the degree of genomic similarity with the amount of time since two species split off from the same common ancestor; the more similar the genomes, the more recently the two species separated from each other. This is sometimes called the molecular clock model ."
+    }
+   ]
+  }
+ ],
+ "conceptSummary": [
+  {
+   "section": "Fundamental Concepts of Genetics",
+   "points": [
+    "Chromosomes contain genes in a linear sequence.",
+    "Alleles are alternative forms of a gene. A dominant allele requires only one copy to be expressed. A recessive allele requires two copies to be expressed.",
+    "A dominant allele requires only one copy to be expressed.",
+    "A recessive allele requires two copies to be expressed.",
+    "A genotype is the combination of alleles one has at a given genetic locus . Having two of the same allele is termed homozygous . Having two different alleles is termed heterozygous . Having only one allele is termed hemizygous (such as in male sex chromosomes). A phenotype is the observable manifestation of a genotype.",
+    "Having two of the same allele is termed homozygous .",
+    "Having two different alleles is termed heterozygous .",
+    "Having only one allele is termed hemizygous (such as in male sex chromosomes).",
+    "A phenotype is the observable manifestation of a genotype.",
+    "There are different patterns of dominance. Complete dominance when the effect of one allele completely masks the effect of another. Codominance has more than one dominant allele. Incomplete dominance has no dominant alleles; heterozygotes have intermediate phenotypes.",
+    "Complete dominance when the effect of one allele completely masks the effect of another.",
+    "Codominance has more than one dominant allele.",
+    "Incomplete dominance has no dominant alleles; heterozygotes have intermediate phenotypes.",
+    "Penetrance is the proportion of a population with a given genotype who express the phenotype.",
+    "Expressivity refers to the varying phenotypic manifestations of a given genotype.",
+    "The modern interpretations of Mendel’s laws help explain the inheritance of genes from parent to offspring. Mendel’s first law (of segregation) states that an organism has two alleles for each gene, which segregate during meiosis, resulting in gametes carrying only one allele for a trait. Mendel’s second law (of independent assortment) states that the inheritance of one allele does not influence the probability of inheriting an allele for a different trait.",
+    "Mendel’s first law (of segregation) states that an organism has two alleles for each gene, which segregate during meiosis, resulting in gametes carrying only one allele for a trait.",
+    "Mendel’s second law (of independent assortment) states that the inheritance of one allele does not influence the probability of inheriting an allele for a different trait.",
+    "Support for DNA as genetic material came through a number of experiments. The Griffith experiment demonstrated the transforming principle, converting non-virulent live bacteria into virulent bacteria by exposure to heat-killed virulent bacteria. The Avery–MacLeod–McCarty experiment demonstrated that DNA is the genetic material because degradation of DNA led to a cessation of bacterial transformation. The Hershey–Chase experiment confirmed that DNA is the genetic material because only radiolabeled DNA could be found in bacteriophage-infected bacteria.",
+    "The Griffith experiment demonstrated the transforming principle, converting non-virulent live bacteria into virulent bacteria by exposure to heat-killed virulent bacteria.",
+    "The Avery–MacLeod–McCarty experiment demonstrated that DNA is the genetic material because degradation of DNA led to a cessation of bacterial transformation.",
+    "The Hershey–Chase experiment confirmed that DNA is the genetic material because only radiolabeled DNA could be found in bacteriophage-infected bacteria."
+   ]
+  },
+  {
+   "section": "Changes in the Gene Pool",
+   "points": [
+    "All of the alleles in a given population constitute the gene pool .",
+    "Mutations are changes in DNA sequence.",
+    "Nucleotide mutations include point mutations (the substituting of one nucleotide for another) and frameshift mutations (moving the three-letter transcriptional reading frame). A silent mutation has no effect on the protein. A missense mutation results in the substitution of one amino acid for another. A nonsense mutation results in the substitution of a stop codon for an amino acid. Insertions and deletions result in a shift in the reading frame , leading to changes for all downstream amino acids.",
+    "A silent mutation has no effect on the protein.",
+    "A missense mutation results in the substitution of one amino acid for another.",
+    "A nonsense mutation results in the substitution of a stop codon for an amino acid.",
+    "Insertions and deletions result in a shift in the reading frame , leading to changes for all downstream amino acids.",
+    "Chromosomal mutations include larger-scale mutations affecting whole segments of DNA. Deletion mutations occur when a large segment of DNA is lost. Duplication mutations occur when a segment of DNA is copied multiple times. Inversion mutations occur when a segment of DNA is reversed. Insertion mutations occur when a segment of DNA is moved from one chromosome to another. Translocation mutations occur when a segment of DNA is swapped with a segment of DNA from another chromosome.",
+    "Deletion mutations occur when a large segment of DNA is lost.",
+    "Duplication mutations occur when a segment of DNA is copied multiple times.",
+    "Inversion mutations occur when a segment of DNA is reversed.",
+    "Insertion mutations occur when a segment of DNA is moved from one chromosome to another.",
+    "Translocation mutations occur when a segment of DNA is swapped with a segment of DNA from another chromosome.",
+    "Genetic leakage is a flow of genes between species through hybrid offspring.",
+    "Genetic drift occurs when the composition of the gene pool changes as a result of chance.",
+    "The founder effect results from bottlenecks that suddenly isolate a small population, leading to inbreeding and increased prevalence of certain homozygous genotypes."
+   ]
+  },
+  {
+   "section": "Analytical Approaches in Genetics",
+   "points": [
+    "Punnett squares visually represent the crossing of gametes from parents to show relative genotypic and phenotypic frequencies. The parent generation is represented by P; filial (offspring) generations are represented by F 1 , F 2 , and so on in sequence. A monohybrid cross accounts for one gene; a dihybrid cross accounts for two genes. In sex-linked crosses , sex chromosomes are usually used to indicate sex as well as genotype.",
+    "The parent generation is represented by P; filial (offspring) generations are represented by F 1 , F 2 , and so on in sequence.",
+    "A monohybrid cross accounts for one gene; a dihybrid cross accounts for two genes.",
+    "In sex-linked crosses , sex chromosomes are usually used to indicate sex as well as genotype.",
+    "The recombination frequency ( θ ) is the likelihood of two alleles being separated during crossing over in meiosis. Genetic maps can be made using recombination frequency as the scale in centimorgans .",
+    "The Hardy–Weinberg principle states that if a population meets certain criteria (aimed at a lack of evolution), then the allele frequencies will remain constant ( Hardy–Weinberg equilibrium )."
+   ]
+  },
+  {
+   "section": "Evolution",
+   "points": [
+    "Natural selection states that chance variations exist between individuals and that advantageous variations—those that increase an individual’s fitness for survival or adaptation to the environment—afford the most opportunities for reproductive success.",
+    "The modern synthesis model ( neo-Darwinism ) accounts for mutation and recombination as mechanisms of variation and considers differential reproduction to be the mechanism for reproductive success.",
+    "Inclusive fitness considers an organism’s success to be based on the number of offspring, success in supporting offspring, and the ability of the offspring to then support others; survival of offspring or relatives ensures appearance of genes in subsequent generations.",
+    "Punctuated equilibrium considers evolution to be a very slow process with intermittent rapid bursts of evolutionary activity.",
+    "Different types of selection lead to changes in phenotypes. Stabilizing selection keeps phenotypes in a narrow range, excluding extremes. Directional selection moves the average phenotype toward one extreme. Disruptive selection moves the population toward two different phenotypes at the extremes and can lead to speciation . Adaptive radiation is the rapid emergence of multiple species from a common ancestor, each of which occupies its own ecological niche .",
+    "Stabilizing selection keeps phenotypes in a narrow range, excluding extremes.",
+    "Directional selection moves the average phenotype toward one extreme.",
+    "Disruptive selection moves the population toward two different phenotypes at the extremes and can lead to speciation .",
+    "Adaptive radiation is the rapid emergence of multiple species from a common ancestor, each of which occupies its own ecological niche .",
+    "A species is the largest group of organisms capable of breeding to form fertile offspring. Species are reproductively isolated from each other by pre- or postzygotic mechanisms .",
+    "Two species can evolve with different relationship patterns. Divergent evolution occurs when two species sharing a common ancestor become more different. Parallel evolution occurs when two species sharing a common ancestor evolve in similar ways due to analogous selection pressures. Convergent evolution occurs when two species not sharing a recent ancestor evolve to become more similar due to analogous selection pressures.",
+    "Divergent evolution occurs when two species sharing a common ancestor become more different.",
+    "Parallel evolution occurs when two species sharing a common ancestor evolve in similar ways due to analogous selection pressures.",
+    "Convergent evolution occurs when two species not sharing a recent ancestor evolve to become more similar due to analogous selection pressures.",
+    "According to the molecular clock model , the degree of difference in the genome between two species is related to the amount of time since the two species broke off from a common ancestor."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the gene order of linked genes M, N, O, and P, given the following recombination frequencies?",
+   "choices": [
+    "MOPN",
+    "NPMO",
+    "ONPM",
+    "PNMO"
+   ],
+   "correct": 1,
+   "explanation": "This is a gene-mapping problem. Because there is a correlation between the frequency of recombination and the distance between genes on a chromosome, if we are given the frequencies, we can determine gene order. Remember that one map unit equals 1 percent recombination frequency. The easiest way to begin is to determine the two genes that are farthest apart; in this case, N and O recombine with a frequency of 18%, so they are 18 map units apart on the chromosome: N and P recombine with 1% frequency, and P and O recombine with 17% frequency, so P must be between N and O: Finally, M and P recombine with 5% frequency, and M and O recombine with 12% frequency, so M must be between P and O:"
+  },
+  {
+   "q": "Suppose that in a mammalian species, the allele for black hair (B) is dominant to the allele for brown hair (b), and the allele for curly hair (C) is dominant to the allele for straight hair (c). When an organism of unknown genotype is crossed against one with straight, brown hair, the phenotypic ratio is as follows:",
+   "choices": [
+    "25% curly black hair",
+    "25% straight black hair",
+    "25% curly brown hair",
+    "25% straight brown hair"
+   ],
+   "correct": 3,
+   "explanation": "In this dihybrid problem, a doubly recessive individual is crossed with an individual of unknown genotype; this is known as a test cross. The straight- and brown-haired organism has the genotype bbcc and can thus only produce gametes carrying bc. Looking at the F 1 offspring, there is a 1:1:1:1 phenotypic ratio. The fact that both the dominant and recessive traits are present in the offspring means that the unknown parental genotype must contain both dominant and recessive alleles for each trait. The unknown parental genotype must therefore be BbCc. If you want to double-check the answer, you can work out the Punnett square for the cross BbCc × bbcc:"
+  },
+  {
+   "q": "If a male with hemophilia (X h Y) is crossed with a female carrier of both color blindness and hemophilia (X c X h ), what is the probability that a female child will be phenotypically normal?",
+   "choices": [
+    "0%",
+    "25%",
+    "50%",
+    "100%"
+   ],
+   "correct": 2,
+   "explanation": "The female in this example is a carrier of two sex-linked traits; based on her genotype, the affected alleles are found on different X chromosomes. Drawing out a Punnett square, we see that 25% of the offspring will be female hemophiliacs (X h X h ) and 25% will be female carriers of both alleles (X c X h ). This question is asking what percentage of females will have a normal phenotype, which would be half of the females (those who are carriers for both traits)."
+  },
+  {
+   "q": "If a test cross on a species of plant reveals the appearance of a recessive phenotype in the offspring, what must be true of the phenotypically dominant parent?",
+   "choices": [
+    "It must be genotypically heterozygous.",
+    "It must be genotypically homozygous.",
+    "It could be either genotypically heterozygous or homozygous.",
+    "It must have the same genotype as the test cross control parent."
+   ],
+   "correct": 0,
+   "explanation": "The control parent in a test cross is always recessive. Therefore, if the test parent is phenotypically dominant, yet can provide a recessive allele (as evidenced by the presence of recessive children), then the parent must have both a dominant and recessive allele. Therefore, this test parent must be heterozygous."
+  },
+  {
+   "q": "Which of the following definitions is FALSE?",
+   "choices": [
+    "Penetrance—the percentage of individuals in the population carrying the allele who actually express the phenotype associated with it",
+    "Expressivity—the percentage of individuals in the population carrying the allele who do not express the phenotype associated with it",
+    "Incomplete dominance—occurs when the phenotype of the heterozygote is an intermediate of the phenotypes of the homozygotes",
+    "Codominance—occurs when multiple alleles exist for a given gene and more than one of them is dominant"
+   ],
+   "correct": 1,
+   "explanation": "The definition given here for expressivity is a much better match for defining penetrance (or, really, one minus the penetrance). Expressivity refers to the variable manifestations of a given genotype as different phenotypes; the degree to which various phenotypes are expressed. All of the other definitions given are accurate."
+  },
+  {
+   "q": "In a species of plant, a homozygous red flower (RR) is crossed with a homozygous yellow flower (rr). If the F 1 generation is self-crossed and the F 2 generation has a phenotypic ratio of red:orange:yellow of 1:2:1, which characteristic accounts for these results?",
+   "choices": [
+    "Codominance",
+    "Incomplete dominance",
+    "Penetrance",
+    "Expressivity"
+   ],
+   "correct": 1,
+   "explanation": "Some progeny in the second generation are apparently blends of the parental phenotypes. The orange color is the result of the combined effects of the red and yellow alleles. An allele is incompletely dominant if the phenotype of the heterozygotes is an intermediate of the phenotypes of the homozygotes."
+  },
+  {
+   "q": "Which of the following statements is INCORRECT regarding inheritance of traits according to the modern synthesis model?",
+   "choices": [
+    "A mutation due to excessive amounts of ultraviolet light occurs in an unfertilized egg; this will affect the child who is born from that egg.",
+    "The muscular strength gained by a weight lifter during his lifetime is inherited by his children.",
+    "A green-feathered bird that survived all of the predators in the forest will pass on the green feather genes to its offspring.",
+    "A flower with a tasty nectar eaten by a butterfly is more likely to pass on its genes through the pollen spread by the butterfly than a flower with less desirable nectar."
+   ],
+   "correct": 1,
+   "explanation": "To find the correct answer, we have to read each choice and eliminate the ones that fit with the modern-day theories of inheritance, which state that the genes that make an organism most fit for its environment will be passed to offspring. This can be seen in (C) and (D) , both of which demonstrate that an organism with improved fitness will pass those genes to offspring. (A) mentions a gamete being exposed to mutagens; a zygote created from this gamete would contain any mutations that were present in the egg and would be affected by them. Thus, (B) must be the correct answer: indeed, acquired characteristics not encoded in the genome should not be passed to offspring according to the modern synthesis model."
+  },
+  {
+   "q": "Which of the following statements is FALSE based on Darwin’s theory of evolution?",
+   "choices": [
+    "Natural selection is the driving force for evolution.",
+    "Favorable genetic variations become more and more common in individuals throughout their lives.",
+    "Natural selection can drive organisms living in groups to ultimately become distinct species.",
+    "Fitness is measured by reproductive success."
+   ],
+   "correct": 1,
+   "explanation": "Darwin’s theory of natural selection argues that chance variations between organisms can help certain organisms survive to reproductive age and produce many offspring, transmitting their variations to the next generation. Thus, natural selection would drive the process of evolution forward, enabling the persistence of characteristics that impart an advantage in the environment, eliminating (A) . In Darwin’s theory, fitness is measured in terms of reproductive success, as (D) states. Through natural selection, organisms may be separated into groups depending on environmental pressures, and these groups can eventually separate to the point of becoming distinct species, eliminating (C) . (B) is the correct answer because the theory of natural selection applies to a population of organisms, not to a particular individual. As such, favorable genetic variations become more and more common from generation to generation, not during the lifetime of an individual."
+  },
+  {
+   "q": "Which of the following is NOT a necessary condition for Hardy–Weinberg equilibrium?",
+   "choices": [
+    "Large population size",
+    "No mutations",
+    "Monogamous mating partners",
+    "No migration into or out of the population"
+   ],
+   "correct": 2,
+   "explanation": "Hardy–Weinberg equilibrium exists under certain ideal conditions that, when satisfied, allow one to calculate the gene frequencies within a population. The Hardy–Weinberg equation can be applied only under these five conditions: (1) the population is very large; (2) there are no mutations that affect the gene pool; (3) mating between individuals in the population is random; (4) there is no migration of individuals into or out of the population; (5) the genes in the population are all equally successful at being reproduced. Thus, from the given choices, only (C) is false: monogamy is not a necessary condition for Hardy–Weinberg equilibrium."
+  },
+  {
+   "q": "As the climate became colder during the Ice Age, a particular species of mammal evolved a thicker layer of fur. What kind of selection occurred in this population?",
+   "choices": [
+    "Stabilizing selection",
+    "Directional selection",
+    "Disruptive selection",
+    "Speciation selection"
+   ],
+   "correct": 1,
+   "explanation": "The situation described in the question stem is an example of directional selection. In directional selection, the phenotypic norm of a particular species shifts toward an extreme to adapt to a selective pressure, such as an increasingly colder environment. Only those individuals with a thicker layer of fur were able to survive during the Ice Age, thus shifting the phenotypic norm."
+  },
+  {
+   "q": "At what point are two populations descended from the same ancestral stock considered to be separate species?",
+   "choices": [
+    "When they can no longer produce viable, fertile offspring.",
+    "When they look significantly different from each other.",
+    "When they can interbreed successfully and produce offspring.",
+    "When their habitats are separated by a significantly large distance so that they cannot meet."
+   ],
+   "correct": 0,
+   "explanation": "A species is defined as the largest group of organisms that can interbreed to produce viable, fertile offspring. Therefore, two populations are considered separate species when they can no longer do so."
+  },
+  {
+   "q": "In a nonevolving population, there are two alleles, R and r, which code for the same trait. The frequency of R is 30 percent. What are the frequencies of all the possible genotypes?",
+   "choices": [
+    "49% RR, 42% Rr, 9% rr",
+    "30% RR, 21% Rr, 49% rr",
+    "0.09% RR, 0.42% Rr, 0.49% rr",
+    "9% RR, 42% Rr, 49% rr"
+   ],
+   "correct": 3,
+   "explanation": "Let’s use the information provided by the question stem to set up our equations. We are told that the frequency of R equals 30%, and as such, p = 0.30 . The frequency of the recessive gene is r = 100% – 30% = 70% ; thus, q = 0.70 . The frequency of the genotypes, according to the Hardy–Weinberg equilibrium, are given by p 2 = RR, 2 pq = Rr , and q 2 = rr . Therefore, the frequency of the genotypes are (0.3) 2 = 0.09 = 9% RR, 2 × 0.3 × 0.7 = 0.42 = 42% Rr , and (0.7) 2 = 0.49 = 49% rr ."
+  },
+  {
+   "q": "In a particular Hardy–Weinberg population, there are only two eye colors: brown and blue. Of the population, 36% have blue eyes, the recessive trait. What percentage of the population is heterozygous?",
+   "choices": [
+    "24%",
+    "48%",
+    "60%",
+    "64%"
+   ],
+   "correct": 1,
+   "explanation": "Using the information given in the question stem, we can determine that the percentage of the population with blue eyes (genotype bb) = 36% = 0.36 = q 2 ; therefore, q = 0.6 . Because this is a Hardy–Weinberg population, we can assume that p + q = 1, so p = 1 – 0.6 = 0.4 . The frequency of heterozygous brown eyes is therefore 2 pq = 2 × 0.4 × 0.6 = 0.48 = 48% ."
+  },
+  {
+   "q": "Which of the following was NOT a belief of Darwin’s?",
+   "choices": [
+    "Evolution of species occurs gradually and evenly over time.",
+    "There is a struggle for survival among organisms.",
+    "Genetic recombination and mutation are the driving forces of evolution.",
+    "Those individuals with fitter variations will survive and reproduce."
+   ],
+   "correct": 2,
+   "explanation": "Darwin’s main argument was that natural selection is the driving force for evolution. Darwin did not consider the role of genetic mutation and recombination, which were unknown at the time. These aspects were added to Darwin’s theory as part of the modern synthesis model, which was not developed until significantly after Darwin’s time."
+  },
+  {
+   "q": "A child is born with a number of unusual phenotypic features and genetic testing is performed. The child is determined to have partial trisomy 21, with three copies of some segments of DNA from chromosome 21, and partial monosomy 4, with only one copy of some segments of DNA from chromosome 4. Which of the following mutations could have occurred in one of the parental gametes during development to explain both findings?",
+   "choices": [
+    "Deletion",
+    "Insertion",
+    "Translocation",
+    "Inversion"
+   ],
+   "correct": 2,
+   "explanation": "This scenario—a deletion of some DNA and a duplication of other DNA—would be consistent with a translocation between chromosomes 4 and 21 during development of an egg or sperm. If part of chromosome 21 was swapped with part of chromosome 4, then a gamete resulting from meiosis in this cell would result in a daughter cell with two copies of some of the DNA from 21 and no copies of some of the DNA from 4. Therefore, after fertilization, there would be partial trisomy 21 and partial monosomy 4. While a deletion or insertion could explain one of the findings, it cannot explain both, eliminating (A) and (B) . An inversion should not lead to partial trisomy or partial monosomy because the DNA is simply reversed, eliminating (D) ."
+  }
+ ]
+}

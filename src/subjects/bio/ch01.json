@@ -1,0 +1,982 @@
+{
+ "id": 1,
+ "num": 1,
+ "title": "The Cell",
+ "slug": "ch01_the_cell",
+ "sections": [
+  {
+   "title": "1.1 Cell Theory",
+   "goals": [
+    "Recall the four fundamental tenets of cell theory"
+   ],
+   "figures": [],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "Prior to the 1600s, organisms were perceived as being complete and inseparable into smaller parts. This was due in part to the inability to see smaller structures through simple optical instruments like magnifying glasses. In 1665, Robert Hooke assembled a crude compound microscope and tested its properties on a piece of cork. He noticed a honeycomb-like structure and compared the spaces within the cork to the small rooms of a monastery, known as cells. Because cork consists of desiccated nonliving cells, Hooke was not able to see nuclei, organelles, or cell membranes. In 1674, Anton van Leeuwenhoek was the first to view a living cell under a microscope. Later researchers noted that cells could be separated, and that each cell was a distinct structure. Further research indicated that tissues were made of cells, and the function of a tissue was dependent upon the function of the cells that make up the tissue. Two centuries later, in 1850, Rudolph Virchow demonstrated that diseased cells could arise from normal cells in normal tissues."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "Robert Hooke, who invented the first crude microscopes to look at cork, is also known for his characterization of springs. Hooke’s Law, F = – kx , describes the relationship between elastic force, the spring constant, and the displacement of a spring from equilibrium. While Hooke’s law does not appear on the official MCAT content lists, the related topic of elastic potential energy, , is testable content. This equation and other forms of energy are discussed in Chapter 2 of MCAT Physics and Math Review ."
+    },
+    {
+     "t": "p",
+     "x": "The original form of the cell theory consisted of three basic tenets:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "All living things are composed of cells.",
+      "The cell is the basic functional unit of life.",
+      "Cells arise only from preexisting cells."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Through advances in molecular biology, a fourth tenet has been added to the theory:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cells carry genetic information in the form of deoxyribonucleic acid (DNA). This genetic material is passed on from parent to daughter cell."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Cell theory has created an interesting dilemma with respect to viruses. Viruses are small structures that contain genetic material, but are unable to reproduce on their own. This violates the third and fourth tenets of the cell theory because virions can only replicate by invading other organisms and because they may use ribonucleic acid (RNA) as their genetic information. Therefore, viruses, discussed later in this chapter, are not considered living organisms."
+    }
+   ]
+  },
+  {
+   "title": "1.2 Eukaryotic Cells",
+   "goals": [
+    "Explain the importance of hydrogen peroxide to cellular function",
+    "Identify the predominant proteins found in microfilaments, microtubules, and intermediate filaments",
+    "Distinguish between the properties of different cytoskeletal structures",
+    "Classify cell types as epithelial or connective tissue",
+    "Recall the names and functions of cellular organelles:"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch01_the_cell/01_02a_cell_with_organelles_described_in_this_c.png",
+     "alt": "cell with organelles described in this chapter labeled",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch01_the_cell/01_02b_matrix_containing_mitochondrial_dna_inne.png",
+     "alt": "matrix containing mitochondrial DNA, inner membrane with molecular complexes, and ATP being produced",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch01_the_cell/01_02c_vesicle_from_er_traveling_to_golgi_vesic.png",
+     "alt": "vesicle from ER traveling to Golgi, vesicles from Golgi allowing secretion, storage, or travel to lysosomes",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch01_the_cell/01_02d_structure_and_distribution_of_microfilam.png",
+     "alt": "structure and distribution of microfilaments, microtubles, and intermediate filaments in the cell",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch01_the_cell/01_02e_cross_section_with_doublet_microtubules_.png",
+     "alt": "cross-section with doublet microtubules, central microtubules, dynein arms, plasma membrane, radial spokes, inner sheath, and nexin labeled",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "The first major distinction we can make between living organisms is whether they are composed of prokaryotic or eukaryotic cells. Prokaryotic organisms are always single-celled, while eukaryotic organisms can be unicellular or multicellular. Whereas eukaryotic cells contain a true nucleus enclosed in a membrane, prokaryotic cells do not contain a nucleus. The major organelles are identified in the eukaryotic cell in Figure 1.1."
+    },
+    {
+     "t": "h",
+     "x": "Membrane-Bound Organelles"
+    },
+    {
+     "t": "p",
+     "x": "Each cell has a membrane enclosing a semifluid cytosol in which the organelles are suspended. In eukaryotic cells, most organelles are membrane bound, allowing for compartmentalization of functions. Membranes of eukaryotic cells consist of a phospholipid bilayer. This membrane is unique in that its surfaces are hydrophilic, electrostatically interacting with the aqueous environments inside and outside of the cell, while its inner portion is hydrophobic, which helps to provide a highly selective barrier between the interior of the cell and the external environment. The cell membrane is such an important topic on the MCAT that an entire chapter—Chapter 8 of MCAT Biochemistry Review —is devoted solely to discussing the structure and physiology of biological membranes. The cytosol allows for the diffusion of molecules throughout the cell. Within the nucleus , genetic material is encoded in deoxyribonucleic acid ( DNA ), which is organized into chromosomes . Eukaryotic cells reproduce by mitosis , allowing for the formation of two identical daughter cells."
+    },
+    {
+     "t": "h",
+     "x": "The Nucleus"
+    },
+    {
+     "t": "p",
+     "x": "As the control center of the cell, the nucleus is the most heavily tested organelle on the MCAT. It contains all of the genetic material necessary for replication of the cell. The nucleus is surrounded by the nuclear membrane or envelope , a double membrane that maintains a nuclear environment separate and distinct from the cytoplasm. Nuclear pores in the nuclear membrane allow selective two-way exchange of material between the cytoplasm and the nucleus."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "The nuclear envelope creates two distinct environments within the cell because it separates the nucleus from the cytoplasm. This permits compartmentalization of transcription (the formation of hnRNA from DNA, which is subsequently processed to form mRNA) and translation (the formation of a peptide from mRNA). These processes are discussed in Chapter 7 of MCAT Biochemistry Review ."
+    },
+    {
+     "t": "p",
+     "x": "The genetic material (DNA) contains coding regions called genes . Linear DNA is wound around organizing proteins known as histones , and is then further wound into linear strands called chromosomes . The location of DNA in the nucleus permits the compartmentalization of DNA transcription separate from RNA translation. Finally, there is a subsection of the nucleus known as the nucleolus , where the ribosomal RNA ( rRNA ) is synthesized. The nucleolus actually takes up approximately 25 percent of the volume of the entire nucleus and can often be identified as a darker spot in the nucleus."
+    },
+    {
+     "t": "h",
+     "x": "Mitochondria"
+    },
+    {
+     "t": "p",
+     "x": "Mitochondria , shown in Figure 1.2, are often called the power plants of the cell , in reference to their important metabolic functions. The mitochondrion contains two layers: the outer and inner membranes. The outer membrane serves as a barrier between the cytosol and the inner environment of the mitochondrion. The inner membrane, which is arranged into numerous infoldings called cristae , contains the molecules and enzymes of the electron transport chain. The cristae are highly convoluted structures that increase the surface area available for electron transport chain enzymes. The space between the inner and outer membranes is called the intermembrane space ; the space inside the inner membrane is called the mitochondrial matrix . As described in Chapter 10 of MCAT Biochemistry Review , the pumping of protons from the mitochondrial matrix to the intermembrane space establishes the proton-motive force; ultimately, these protons flow through ATP synthase to generate ATP during oxidative phosphorylation."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "The serial endosymbiosis theory attempts to explain the formation of some of the membrane-bound organelles; it posits that these organelles formed by the engulfing of one prokaryote by another and the establishment of a symbiotic relationship. In addition to mitochondria, chloroplasts in plant cells and organelles of motility (such as flagella) are believed to have originated from this process."
+    },
+    {
+     "t": "p",
+     "x": "Mitochondria are different from other parts of the cell in that they are semi-autonomous. They contain some of their own genes and replicate independently of the nucleus via binary fission. As such, they are paradigmatic examples of cytoplasmic or extranuclear inheritance —the transmission of genetic material independent of the nucleus. Mitochondria are thought to have originated when the engulfing of an aerobic prokaryote by an anaerobic prokaryote resulted in a symbiotic relationship."
+    },
+    {
+     "t": "p",
+     "x": "In addition to keeping the cell alive by providing energy, the mitochondria are also capable of killing the cell by release of enzymes from the electron transport chain. This release kick-starts a process known as apoptosis , or programmed cell death."
+    },
+    {
+     "t": "h",
+     "x": "Lysosomes"
+    },
+    {
+     "t": "p",
+     "x": "Lysosomes are membrane-bound structures containing hydrolytic enzymes that are capable of breaking down many different substrates, including substances ingested by endocytosis and cellular waste products. Lysosomes often function in conjunction with endosomes , which transport, package and sort cell material travelling to and from the membrane. Endosomes are capable of transporting materials to the trans -golgi, to the cell membrane, or to the lysosomal pathway for degradation. The lysosomal membrane sequesters these enzymes to prevent damage to the cell. However, release of these enzymes can occur in a process known as autolysis . Like mitochondria, when lysosomes release their hydrolytic enzymes, it results in apoptosis. In this case, the released enzymes directly lead to the degradation of cellular components."
+    },
+    {
+     "t": "h",
+     "x": "Endoplasmic Reticulum"
+    },
+    {
+     "t": "p",
+     "x": "The endoplasmic reticulum ( ER ) is a series of interconnected membranes that are actually contiguous with the nuclear envelope. The double membrane of the endoplasmic reticulum is folded into numerous invaginations, creating complex structures with a central lumen. There are two varieties of ER: smooth and rough. The rough ER ( RER ) is studded with ribosomes , which permit the translation of proteins destined for secretion directly into its lumen. On the other hand, the smooth ER ( SER ) lacks ribosomes and is utilized primarily for lipid synthesis (such as the phospholipids in the cell membrane) and the detoxification of certain drugs and poisons. The SER also transports proteins from the RER to the Golgi apparatus."
+    },
+    {
+     "t": "h",
+     "x": "Golgi Apparatus"
+    },
+    {
+     "t": "p",
+     "x": "The Golgi apparatus consists of stacked membrane-bound sacs. Materials from the ER are transferred to the Golgi apparatus in vesicles. Once inside the Golgi apparatus, these cellular products may be modified by the addition of groups like carbohydrates, phosphates, and sulfates. The Golgi apparatus may also modify cellular products through the introduction of signal sequences, which direct the delivery of the product to a specific cellular location. After modification and sorting in the Golgi apparatus, cellular products are repackaged in vesicles, which are then directed to the correct cellular location. If the product is destined for secretion, the secretory vesicle merges with the cell membrane and its contents are released via exocytosis . The relationships between lysosomes, the ER, and the Golgi apparatus are shown in Figure 1.3."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Not all cells have the same relative distribution of organelles. Form will follow function. Cells that require a lot of energy for locomotion (such as sperm cells) have high concentrations of mitochondria. Cells involved in secretion (such as pancreatic islet cells and other endocrine tissues) have high concentrations of RER and Golgi apparatuses. Other cells, such as red blood cells, which primarily serve a transport function, have no organelles at all."
+    },
+    {
+     "t": "h",
+     "x": "Peroxisomes"
+    },
+    {
+     "t": "p",
+     "x": "Peroxisomes contain hydrogen peroxide. One of the primary functions of peroxisomes is the breakdown of very long chain fatty acids via β -oxidation. Peroxisomes participate in the synthesis of phospholipids and contain some of the enzymes involved in the pentose phosphate pathway, discussed in Chapter 9 of MCAT Biochemistry Review ."
+    },
+    {
+     "t": "h",
+     "x": "The Cytoskeleton"
+    },
+    {
+     "t": "p",
+     "x": "The cytoskeleton , shown in Figure 1.4, provides structure to the cell and helps it to maintain its shape. In addition, the cytoskeleton provides a conduit for the transport of materials around the cell. There are three components of the cytoskeleton: microfilaments, microtubules, and intermediate filaments."
+    },
+    {
+     "t": "h",
+     "x": "Microfilaments"
+    },
+    {
+     "t": "p",
+     "x": "Microfilaments are made up of solid polymerized rods of actin . The actin filaments are organized into bundles and networks and are resistant to both compression and fracture, providing protection for the cell. Actin filaments can also use ATP to generate force for movement by interacting with myosin , such as in muscle contraction."
+    },
+    {
+     "t": "p",
+     "x": "Microfilaments also play a role in cytokinesis , or the division of materials between daughter cells. During mitosis, the cleavage furrow is formed from microfilaments, which organize as a ring at the site of division between the two new daughter cells. As the actin filaments within this ring contract, the ring becomes smaller, eventually pinching off the connection between the two daughter cells."
+    },
+    {
+     "t": "h",
+     "x": "Microtubules"
+    },
+    {
+     "t": "p",
+     "x": "Unlike microfilaments, microtubules are hollow polymers of tubulin proteins. Microtubules radiate throughout the cell, providing the primary pathways along which motor proteins like kinesin and dynein carry vesicles."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "Motor proteins like kinesin and dynein are classic examples of nonenzymatic protein function, along with binding proteins, cell adhesion molecules, immunoglobulins, and ion channels. Motor proteins often travel along cytoskeletal structures to accomplish their functions. Nonenzymatic protein functions are discussed in Chapter 3 of MCAT Biochemistry Review ."
+    },
+    {
+     "t": "p",
+     "x": "Cilia and flagella are motile structures composed of microtubules. Cilia are projections from a cell that are primarily involved in the movement of materials along the surface of the cell; for example, cilia line the respiratory tract and are involved in the movement of mucus. Flagella are structures involved in the movement of the cell itself, such as the movement of sperm cells through the reproductive tract. Cilia and flagella share the same structure, composed of nine pairs of microtubules forming an outer ring, with two microtubules in the center, as shown in Figure 1.5. This is known as a 9 + 2 structure and is seen only in eukaryotic organelles of motility. Bacterial flagella have a different structure with a different chemical composition, as discussed later in this chapter."
+    },
+    {
+     "t": "p",
+     "x": "Centrioles are found in a region of the cell called the centrosome . They are the organizing centers for microtubules and are structured as nine triplets of microtubules with a hollow center. During mitosis, the centrioles migrate to opposite poles of the dividing cell and organize the mitotic spindle. The microtubules emanating from the centrioles attach to the chromosomes via complexes called kinetochores and exert force on the sister chromatids, pulling them apart."
+    },
+    {
+     "t": "h",
+     "x": "Intermediate Filaments"
+    },
+    {
+     "t": "p",
+     "x": "Intermediate filaments are a diverse group of filamentous proteins, which includes keratin, desmin, vimentin, and lamins. Many intermediate filaments are involved in cell–cell adhesion or maintenance of the overall integrity of the cytoskeleton. Intermediate filaments are able to withstand a tremendous amount of tension, increasing the structural rigidity of the cell. In addition, intermediate filaments help anchor other organelles, including the nucleus. The identity of the intermediate filament proteins within a cell is specific to the cell and tissue type."
+    },
+    {
+     "t": "h",
+     "x": "Tissue Formation"
+    },
+    {
+     "t": "p",
+     "x": "One of the unique characteristics of eukaryotic cells is the formation of tissues with division of labor, as different cells in a tissue may carry out different functions. For example, in the heart, some cells participate in the conduction pathways while others cause contraction; still others serve a supportive role like maintaining structural integrity of the organ. There are four tissue types: epithelial tissue, connective tissue, muscle, and nervous tissue. While muscle and nervous tissue are considered more extensively in subsequent chapters, we explore epithelial and connective tissues below."
+    },
+    {
+     "t": "h",
+     "x": "Epithelial Tissue"
+    },
+    {
+     "t": "p",
+     "x": "Epithelial tissues cover the body and line its cavities, providing a means for protection against pathogen invasion and desiccation. In certain organs, epithelial cells are involved in absorption, secretion, and sensation. To remain as one cohesive unit, epithelial cells are tightly joined to each other and to an underlying layer of connective tissue known as the basement membrane . Epithelial cells are highly diverse and serve numerous functions depending on the identity of the organ in which they are found; in most organs, epithelial cells constitute the parenchyma , or the functional parts of the organ. For example, nephrons in the kidney are composed of epithelial cells, and hepatocytes in the liver, and acid-producing cells of the stomach are epithelial cells."
+    },
+    {
+     "t": "p",
+     "x": "Epithelial cells are often polarized, meaning that one side faces a lumen (the hollow inside of an organ or tube) or the outside world, while the other side interacts with underlying blood vessels and structural cells. For example, in the small intestine, one side of the cell will be involved in absorption of nutrients from the lumen, while the other side will be involved in releasing those nutrients into circulation for use in the rest of the body."
+    },
+    {
+     "t": "p",
+     "x": "We can classify different epithelia according to the number of layers they have and the shape of their cells. Simple epithelia have one layer of cells; stratified epithelia have multiple layers; and pseudostratified epithelia appear to have multiple layers due to differences in cell height but are, in reality, only one layer. Turning to shape, cells may be classified as cuboidal, columnar, or squamous. As their names imply, cuboidal cells are cube-shaped and columnar cells are long and thin. Squamous cells are flat and scalelike."
+    },
+    {
+     "t": "h",
+     "x": "Connective Tissue"
+    },
+    {
+     "t": "p",
+     "x": "Connective tissue supports the body and provides a framework for the epithelial cells to carry out their functions. Whereas epithelial cells contribute to the parenchyma of an organ, connective tissues are the main contributors to the stroma or support structure. Bone, cartilage, tendons, ligaments, adipose tissue, and blood are all examples of connective tissues. Most cells in connective tissues produce and secrete materials such as collagen and elastin to form the extracellular matrix ."
+    }
+   ]
+  },
+  {
+   "title": "1.3 Classification and Structure of Prokaryotic Cells",
+   "goals": [
+    "Compare and contrast archaea, bacteria, and eukaryotes",
+    "Identify the three common bacterial shapes",
+    "Explain the differences between gram-positive and gram-negative bacteria",
+    "Detail the structural differences between eukaryotic and prokaryotic flagella",
+    "Differentiate between the metabolic processes of aerobic and anaerobic bacteria"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch01_the_cell/01_03a_bacilli_with_one_long_projection_and_man.png",
+     "alt": "bacilli with one long projection and many shorter projections",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch01_the_cell/01_03b_spherical_bacteria_rod_shaped_bacteria_s.png",
+     "alt": "spherical bacteria, rod-shaped bacteria, spiral-shaped bacteria",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch01_the_cell/01_03c_cell_wall_and_cell_membrane_containing_r.png",
+     "alt": "cell wall and cell membrane containing ribosomes, DNA in nucleoid region, and a flagellum",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch01_the_cell/01_03d_flagellum_filament_hook_basal_body.png",
+     "alt": "flagellum: filament, hook, basal body",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "Prokaryotes are the simplest of all organisms and include all bacteria. Prokaryotes do not contain any membrane-bound organelles, and their genetic material is organized into a single circular molecule of DNA concentrated in an area of the cell called the nucleoid region . Despite the simplicity of prokaryotes, they are incredibly diverse, and knowledge of this diversity is essential for the study of medicine because many prokaryotes can cause infection. In fact, choosing the appropriate antibiotic to fight an infection requires knowledge about the basic structure of the bacteria causing the infection."
+    },
+    {
+     "t": "h",
+     "x": "Prokaryotic Domains"
+    },
+    {
+     "t": "p",
+     "x": "There are three overarching domains into which all life is classified: Archaea, Bacteria, and Eukarya. Two of these—Archaea and Bacteria—contain prokaryotes. Initially, Archaea and Bacteria were classified together into the kingdom of Monera. However, modern genetics and biochemical techniques have indicated that the differences in the evolutionary pathways between Archaea and Bacteria are at least as significant as between either of these domains and Eukarya."
+    },
+    {
+     "t": "h",
+     "x": "Archaea"
+    },
+    {
+     "t": "p",
+     "x": "Archaea are single-celled organisms that are visually similar to bacteria, but contain genes and several metabolic pathways that are more similar to eukaryotes than to bacteria. Historically, Archaea were considered extremophiles , in that they were most commonly isolated from harsh environments with extremely high temperatures, high salinity, or no light. More recent research has demonstrated a greater variety of habitats for these organisms, including the human body. Archaea are notable for their ability to use alternative sources of energy. While some are photosynthetic, many are chemosynthetic and can generate energy from inorganic compounds, including sulfur- and nitrogen-based compounds such as ammonia."
+    },
+    {
+     "t": "p",
+     "x": "Due to the similarities of this domain to eukaryotes, it is hypothesized that eukaryotes and the Archaea share a common origin. Both eukaryotes and Archaea start translation with methionine, contain similar RNA polymerases , and associate their DNA with histones. However, Archaea contain a single circular chromosome, divide by binary fission or budding, and share a similar overall structure to bacteria. Interestingly, Archaea are resistant to many antibiotics."
+    },
+    {
+     "t": "h",
+     "x": "Bacteria"
+    },
+    {
+     "t": "p",
+     "x": "All bacteria contain a cell membrane and cytoplasm , and some have flagella or fimbriae (similar to cilia), as shown in Figure 1.6. Because bacteria and eukaryotes often share analogous structures, it can be difficult to develop medicines that target only bacteria. However, in some cases, even seemingly similar structures have enough biochemical differences to allow the exclusive targeting of one kind of organism For example, bacterial flagella and eukaryotic flagella are different enough that scientists are able to develop antibacterial vaccines that specifically target the bacterial flagellum. Also, many antibiotics target the bacterial ribosome, which is significantly smaller than the eukaryotic ribosome."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Bacteria perform essential functions for human beings, including the production of vitamin K in the intestine. Vitamin K is required for production of the plasma proteins necessary for blood clotting. Newborn infants are not yet colonized by bacteria and cannot produce clotting factors, putting them at risk for hemorrhage. When babies are born, they are given an injection of vitamin K to aid in the production of clotting factors until they have been colonized with bacteria."
+    },
+    {
+     "t": "p",
+     "x": "There are approximately 5 × 10 30 bacteria on earth, outnumbering all of the plants and animals combined. As mentioned in the introduction to this chapter, bacteria outnumber human cells in the body by 10:1. The relationship between the human body and bacteria is complex. Some bacteria are mutualistic s ymbiotes , meaning that both humans and the bacteria benefit from the relationship. Examples include the bacteria in the human gut that produce vitamin K and biotin (vitamin B 7 ), and which also prevent the overgrowth of harmful bacteria. Other bacteria are pathogens or parasites , meaning that they provide no advantage or benefit to the host, but rather cause disease. Pathogenic bacteria may live intracellularly or extracellularly. For example, Chlamydia trachomatis , a common sexually transmitted infection, lives inside cells of the reproductive tract; Clostridium tetani , the cause of tetanus, lives outside of cells and produces toxins that enter the bloodstream."
+    },
+    {
+     "t": "h",
+     "x": "Classification of Bacteria by Shape"
+    },
+    {
+     "t": "p",
+     "x": "Classification of bacteria by shape provides scientists and pathologists (physicians who specialize in the identification and characterization of disease) a common language to talk about bacteria, as well as a way to identify different species of bacteria."
+    },
+    {
+     "t": "p",
+     "x": "Most bacteria exist in one of three shapes, as shown in Figure 1.7. Spherical bacteria, known as cocci , include common pathogens such as Streptococcus pyogenes ."
+    },
+    {
+     "t": "p",
+     "x": "Rod-shaped bacteria, like Escherichia coli , are known as bacilli . Finally, spiral-shaped bacteria, known as spirilli , include such species as Treponema pallidum , which causes syphilis."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Very few pathogenic bacteria are spiral shaped. The three most common are: Treponema pallidum , the cause of syphilis Borrelia burgdorferi , the cause of Lyme disease Leptospira interrogans , the cause of Weil’s disease"
+    },
+    {
+     "t": "h",
+     "x": "Aerobes and Anaerobes"
+    },
+    {
+     "t": "p",
+     "x": "Some bacteria require oxygen for survival, while others do not. Bacteria that require oxygen for metabolism are termed obligate aerobes . Other bacteria that use fermentation, or some other form of cellular metabolism that does not require oxygen, are called anaerobes . There are different types of anaerobes. Anaerobes that cannot survive in an oxygen-containing environment are called obligate anaerobes ; the presence of oxygen leads to the production of reactive oxygen-containing radicals in these species, which leads to cell death. Other bacteria can toggle between metabolic processes, using oxygen for aerobic metabolism if it is present, and switching to anaerobic metabolism if it is not. These bacteria are called facultative anaerobes . Finally, aerotolerant anaerobes are unable to use oxygen for metabolism, but are not harmed by its presence in the environment."
+    },
+    {
+     "t": "h",
+     "x": "Prokaryotic Cell Structure"
+    },
+    {
+     "t": "p",
+     "x": "One of the main differences between prokaryotes and eukaryotes is that prokaryotes lack a nucleus and membrane-bound organelles, as shown in Figure 1.8. Prokaryotes are also single-celled organisms, meaning that each cell must be able to perform all of the functions necessary for life on its own. However, prokaryotes may live in colonies with other cells and may signal these cells to share information about the environment."
+    },
+    {
+     "t": "h",
+     "x": "Cell Wall"
+    },
+    {
+     "t": "p",
+     "x": "Because prokaryotes do not form multicellular organisms, each bacterium is responsible for protecting itself from the environment. The cell wall forms the outer barrier of the cell. The next layer is the cell membrane ( plasma membrane ), which is composed of phospholipids, similar to that of a eukaryote. Together, the cell wall and the cell membrane are known as the envelope ."
+    },
+    {
+     "t": "p",
+     "x": "The cell wall both provides structure and controls the movement of solutes into and out of the bacterium. This allows the cell to maintain a concentration gradient relative to the environment. In bacteria, there are two main types of cell wall: gram positive and gram negative. The type of cell wall is determined by the Gram staining process: a crystal violet stain, followed by a counterstain with a substance called safranin . If the envelope absorbs the crystal violet stain, it will appear deep purple, and the cell is said to be gram-positive. If the envelope does not absorb the crystal violet stain, but absorbs the safranin counterstain, then the cell will appear pink-red, and the cell is said to be gram-negative."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "The antibiotic penicillin targets the enzyme that catalyzes the cross-linking of peptidoglycan. If a gram-positive cell cannot cross-link its cell wall, it no longer serves as an effective barrier. The bacterium then becomes susceptible to osmotic damage and lyses. Most bacteria have developed resistance mechanisms to penicillin, although a few bacteria—including Streptococcus pyogenes , which causes strep throat and some skin infections, and Treponema pallidum , which causes syphilis—are still very sensitive to this antibiotic."
+    },
+    {
+     "t": "p",
+     "x": "Gram-positive cell walls consist of a thick layer of peptidoglycan , a polymeric substance made from amino acids and sugars. In addition to its structural and barrier functions, the cell wall may also aid a bacterial pathogen by providing protection from a host organism’s immune system. In addition to peptidoglycan, the gram-positive cell wall also contains lipoteichoic acid . It is not clear what role this acid serves for the bacterium, but the human immune system may be activated by exposure to these chemicals."
+    },
+    {
+     "t": "p",
+     "x": "Gram-negative cell walls are very thin and also contain peptidoglycan, but in much smaller amounts. The peptidoglycan cell walls of these bacteria are adjacent to the cell membrane, and are separated from the membrane by the periplasmic space . In addition to the cell wall and cell membrane, gram-negative bacteria also have outer membranes containing phospholipids and lipopolysaccharides . Interestingly, lipopolysaccharides are the part of gram-negative bacteria that triggers an immune response in human beings; the inflammatory response to lipopolysaccharides is much stronger than the response to lipoteichoic acid."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Bacteria contain a cell wall, the composition of which is different in gram-positive and gram-negative bacteria. Specific components of the cell wall can trigger an inflammatory response."
+    },
+    {
+     "t": "h",
+     "x": "Flagella"
+    },
+    {
+     "t": "p",
+     "x": "Flagella are long, whiplike structures that can be used for propulsion; bacteria may have one, two, or many flagella, depending on the species. Flagella can be used to move toward food or away from toxins or immune cells. This ability of a cell to detect chemical stimuli and move toward or away from them is called chemotaxis . The flagella are composed of a filament, a basal body, and a hook, as shown in Figure 1.9. The filament is a hollow, helical structure composed of flagellin . The basal body is a complex structure that anchors the flagellum to the cytoplasmic membrane and is also the motor of the flagellum, which rotates at rates up to 300 Hz. The hook connects the filament and the basal body so that, as the basal body rotates, it exerts torque on the filament, which thereby spins and propels the bacterium forward. The overall structure of flagella is similar in both gram-positive and gram-negative bacteria, but there are slight differences due to the different physical structure and chemical composition of the envelope in gram-positive and gram-negative bacteria. Archaea also contain flagella, but the structure of their flagella is quite different from that of bacteria and is unlikely to be asked about on Test Day."
+    },
+    {
+     "t": "h",
+     "x": "Other Organelles"
+    },
+    {
+     "t": "p",
+     "x": "As mentioned earlier, prokaryotes concentrate DNA in a region of the cell known as the nucleoid region, which does not contain a nuclear envelope. Prokaryotic DNA is carried on a single circular chromosome which can be found coiled around histone-like proteins in some bacteria. True histones are found in archaea. In addition, DNA acquired from external sources may also be carried on smaller circular structures known as plasmids . Plasmids carry DNA that is not necessary for survival of the prokaryote—and therefore is not considered part of the genome of the bacterium—but may confer an advantage such as antibiotic resistance."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "The fact that prokaryotes and eukaryotes have different-sized ribosomes implies that they carry out protein synthesis in slightly different ways. These differences are highlighted in Chapter 7 of MCAT Biochemistry Review . This difference also allows us to target bacterial ribosomes with a number of antibiotics, including tetracyclines , aminoglycosides , and macrolides , while leaving the eukaryotic ribosome more or less unaffected."
+    },
+    {
+     "t": "p",
+     "x": "Prokaryotes lack several key organelles, such as mitochondria. Instead, the cell membrane is used for the electron transport chain and generation of ATP. Prokaryotes do contain a primitive cytoskeleton, but it is not nearly as complex as the one found in eukaryotes. Prokaryotes also contain ribosomes, but this ribosome is a different size from that found in eukaryotes: prokaryotic ribosomes contain 30S and 50S subunits, whereas eukaryotic ribosomes contain 40S and 60S ribosomes."
+    }
+   ]
+  },
+  {
+   "title": "1.4 Genetics and Growth of Prokaryotic Cells",
+   "goals": [
+    "Describe bacterial genetic recombination via transformation, conjugation, or transduction",
+    "Recall the four phases of a bacterial growth curve and the major features of each phase:"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch01_the_cell/01_04a_bacterium_replicates_circular_chromosome.png",
+     "alt": "bacterium replicates circular chromosome, chromosomes separate, cell membrane invaginates forming daughter cells",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch01_the_cell/01_04b_plasmid_with_genes_for_degradation_or_al.png",
+     "alt": "plasmid with genes for degradation or altering of antibiotic and antibiotic efflux pump",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch01_the_cell/01_04c_f_cell_attaches_to_f_cell_via_sex_pilus_.png",
+     "alt": "F+ cell attaches to F- cell via sex pilus, replicates F plasmid and passes to F- cell, making F- cell a new donor",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch01_the_cell/01_04d_virus_infects_bacterium_replicates_lyses.png",
+     "alt": "virus infects bacterium, replicates, lyses bacterium; one virion has bacterial DNA trapped in it and injects this DNA into another bacterium, which integrates the DNA into its genome",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch01_the_cell/01_04e_flat_in_lag_phase_increase_steeply_in_ex.png",
+     "alt": "flat in lag phase, increase steeply in exponential phase, flat in stationary phase (with theoretical growth marked), slow decrease in death phase",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "As we have seen prokaryotic cells differ from eukaryotic cells both structurally and biochemically. Prokaryotes reproduce via asexual reproduction in the form of binary fission. In addition, prokaryotes are capable of acquiring and using genetic material from outside the cell."
+    },
+    {
+     "t": "h",
+     "x": "Binary Fission"
+    },
+    {
+     "t": "p",
+     "x": "Binary fission , shown in Figure 1.10, is a simple form of asexual reproduction seen in prokaryotes. The circular chromosome attaches to the cell wall and replicates while the cell continues to grow in size. Eventually, the plasma membrane and cell wall begin to grow inward along the midline of the cell to produce two identical daughter cells. Because binary fission requires fewer events than mitosis, it can proceed more rapidly. In fact, some strains of E. coli can replicate every 20 minutes under ideal growth conditions."
+    },
+    {
+     "t": "h",
+     "x": "Genetic Recombination"
+    },
+    {
+     "t": "p",
+     "x": "This single circular chromosome of a prokaryotic cell contains the information that is necessary for the cell to survive and reproduce. However, many bacteria also contain extrachromosomal (extragenomic) material known as plasmids . Plasmids often carry genes that impart some benefit to the bacterium, such as antibiotic resistance, some mechanisms of which are shown in Figure 1.11. Plasmids may also carry additional virulence factors , or traits that increase pathogenicity, such as toxin production, projections that allow attachment to certain kinds of cells, or features that allow evasion of the host’s immune system. A subset of plasmids called episomes are capable of integrating into the genome of the bacterium."
+    },
+    {
+     "t": "p",
+     "x": "Bacterial genetic recombination helps increase bacterial diversity and thus permits evolution of a bacterial species over time. These recombination processes include transformation, conjugation, and transduction."
+    },
+    {
+     "t": "h",
+     "x": "Transformation"
+    },
+    {
+     "t": "p",
+     "x": "Transformation results from the integration of foreign genetic material into the host genome. This foreign genetic material most frequently comes from other bacteria that, upon lysing, spill their contents into the vicinity of a bacterium capable of transformation. Many gram-negative rods are able to carry out this process."
+    },
+    {
+     "t": "h",
+     "x": "Conjugation"
+    },
+    {
+     "t": "p",
+     "x": "Conjugation is the bacterial form of mating (sexual reproduction). It involves two cells forming a conjugation bridge between them that facilitates the transfer of genetic material. The transfer is unidirectional, from the donor male ( + ) to the recipient female ( – ). The bridge is made from appendages called sex pili that are found on the donor male. To form the pilus, bacteria must contain plasmids known as sex factors that contain the necessary genes. The best-studied sex factor is the F ( fertility ) factor in E. coli . Bacteria possessing this plasmid are termed F + cells; those without are called F – cells. During conjugation the F + cell replicates its F factor and donates the copy to the F – cell, converting it to an F + cell. This enables the cell obtaining the new plasmid to then transfer copies to other cells. This method of genetic recombination allows for rapid acquisition of antibiotic resistance or virulence factors throughout a colony because other plasmids can also be passed through the conjugation bridge. The process of conjugation is illustrated in Figure 1.12."
+    },
+    {
+     "t": "p",
+     "x": "The sex factor is a plasmid, but through processes such as transformation, it can become integrated into the host genome. In this case, when conjugation occurs, the entire genome replicates because it now contains the sex factor. The donor cell will then attempt to transfer an entire copy of its genome into the recipient; however, the bridge usually breaks before the full DNA sequence can be moved. Cells that have undergone this change are referred to by the abbreviation Hfr for high frequency of recombination ."
+    },
+    {
+     "t": "h",
+     "x": "Transduction"
+    },
+    {
+     "t": "p",
+     "x": "Transduction is the only genetic recombination process that requires a vector —a virus that carries genetic material from one bacterium to another. Viruses are obligate intracellular pathogens, which means that they cannot reproduce outside of a host cell. Because of this, bacteriophages (viruses that infect bacteria) can accidentally incorporate a segment of host DNA during assembly. When the bacteriophage infects another bacterium, it can release this trapped DNA into the new host cell. This transferred DNA can then integrate into the genome, giving the new host additional genes. The process of transduction is shown in Figure 1.13."
+    },
+    {
+     "t": "h",
+     "x": "Transposons"
+    },
+    {
+     "t": "p",
+     "x": "Transposons are genetic elements capable of inserting and removing themselves from the genome. This phenomenon is not limited to prokaryotes; it has been seen in eukaryotes as well. If a transposon is inserted within a coding region of a gene, that gene may be disrupted."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "One of the biggest challenges a doctor faces is patient compliance with treatment, especially antibiotics. Many patients fail to complete an entire course of antibiotics, often discontinuing the treatment because they feel better. Unfortunately, this breeds antibiotic resistance by killing off the bacteria that are nonresistant and leaving behind bacteria that are more resistant. These resistant bacteria then reproduce, resulting in recurrence of the infection. Over time, this practice has led to bacteria that are resistant to multiple antibiotics, making common infections more difficult to treat."
+    },
+    {
+     "t": "h",
+     "x": "Growth"
+    },
+    {
+     "t": "p",
+     "x": "As discussed previously, bacteria reproduce via binary fission. This implies that all of the bacteria are exactly the same in a local colony (assuming no mutations or genetic recombination), and that no bacteria are dividing faster than the others. Bacteria can be said to grow in a series of phases, as shown in Figure 1.14. In a new environment, bacteria first adapt to the new local conditions during the lag phase . As the bacteria adapt, the rate of division increases, causing an exponential increase in the number of bacteria in the colony during the exponential phase , also called the log phase . As the number of bacteria in the colony grows, resources are often reduced. The reduction of resources slows reproduction, and the stationary phase results. After the bacteria have exceeded the ability of the environment to support the number of bacteria, a death phase occurs, marking the depletion of resources."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "The bacterial growth curve is an example of a semilog plot. The fact that the y -axis is logarithmic means that a straight line (as seen during the exponential phase) actually represents an exponential increase in the number of bacteria, not a linear increase. Semilog and log–log plots are discussed in Chapter 12 of MCAT Physics and Math Review ."
+    }
+   ]
+  },
+  {
+   "title": "1.5 Viruses and Subviral Particles",
+   "goals": [
+    "Explain why viruses are defined as “obligate intracellular parasites”",
+    "Recall key virus terminology, including retrovirus and positive/negative sense",
+    "Describe how viruses are able to produce progeny via infection of a host cell",
+    "Compare and contrast the lytic and lysogenic cycles",
+    "Describe how prions and viroids are able to cause disease"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch01_the_cell/01_05a_nucleic_acid_in_capsid_protein_coat_atop.png",
+     "alt": "nucleic acid in capsid (protein coat), atop tail sheath and six tail fibers",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch01_the_cell/01_05b_dna_fuses_with_cell_membrane_empties_con.png",
+     "alt": "DNA fuses with cell membrane, empties contents into cell; RNA reverse transcribed to DNA, which integrates into genome; transcription and translation make viral proteins, which assemble and bud off as a new virion",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch01_the_cell/01_05c_viral_progeny_pushes_out_on_cell_membran.png",
+     "alt": "viral progeny pushes out on cell membrane, forming a vesicle",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch01_the_cell/01_05d_lytic_cycle_phage_replicates_and_assembl.png",
+     "alt": "lytic cycle: phage replicates and assembles progeny, which lyse cell; lysogenic cycle: phage genome integrates and replicates with cell",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "At the beginning of this chapter, we discussed the cell theory and noted that viruses do not fit the definition of living things because they are acellular. Viruses may be as small as 20 nm or as large as 300 nm. For reference, prokaryotes are 1–10 µ m, and eukaryotes are about ten times larger. Unlike eukaryotic cells, viruses lack organelles and a nucleus."
+    },
+    {
+     "t": "h",
+     "x": "Viral Structure"
+    },
+    {
+     "t": "p",
+     "x": "Viruses are composed of genetic material, a protein coat, and sometimes an envelope containing lipids. The genetic information may be circular or linear, single- or double-stranded, and composed of either DNA or RNA. The protein coat is known as a capsid , which may be surrounded by an envelope composed of phospholipids and virus-specific proteins. The envelope is very sensitive to heat, detergents, and desiccation; thus, enveloped viruses are easier to kill. On the other hand, viruses that do not have an envelope are more resistant to sterilization and are likely to persist on surfaces for an extended period of time."
+    },
+    {
+     "t": "p",
+     "x": "Because viruses cannot reproduce independently, they are considered obligate intracellular parasites. Viruses must express and replicate genetic information within a host cell because they lack ribosomes to carry out protein synthesis. After hijacking a cell’s machinery, a virus will replicate and produce viral progeny, called virions , which can be released to infect additional cells."
+    },
+    {
+     "t": "p",
+     "x": "Bacteriophages are viruses that specifically target bacteria. They do not actually enter bacteria; rather, they simply inject their genetic material, leaving the remaining structures outside the infected cell. In addition to a capsid, bacteriophages contain a tail sheath and tail fibers, as shown in Figure 1.15. The tail sheath can act like a syringe, injecting genetic material into a bacterium. The tail fibers help the bacteriophage recognize and connect to the correct host cell."
+    },
+    {
+     "t": "h",
+     "x": "Viral Genomes"
+    },
+    {
+     "t": "p",
+     "x": "Viral genomes come in a variety of shapes and sizes. Some are made of only a few genes, while others have several hundred. In addition, viral genomes may be made of either single- or double-stranded DNA or RNA."
+    },
+    {
+     "t": "p",
+     "x": "Single-stranded RNA viruses may be positive sense or negative sense. Positive sense implies that the genome may be directly translated to functional proteins by the ribosomes of the host cell, just like mRNA. Negative-sense RNA viruses are a bit more complicated: “the negative-sense RNA strand acts as a template for synthesis of a complementary strand, which” can then be used as a template for protein synthesis. Negative-sense RNA viruses must carry an RNA replicase in the virion to ensure that the complementary strand is synthesized."
+    },
+    {
+     "t": "p",
+     "x": "Retroviruses are enveloped, single-stranded RNA viruses in the family Retroviridae ; usually, the virion contains two identical RNA molecules. These viruses carry an enzyme known as reverse transcriptase , which synthesizes DNA from single-stranded RNA. The DNA then integrates into the host cell genome, where it is replicated and transcribed as if it were the host cell’s own DNA. This is a clever mechanism because the integration of the genetic material into the host cell genome allows the cell to be infected indefinitely, so the only way to remove the infection is to kill the infected cell. The human immunodeficiency virus (HIV) is a retrovirus that utilizes this life cycle, which is one of the characteristics that make HIV so difficult to treat, as shown in Figure 1.16."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Both retroviruses and transduction are under investigation as methods of gene therapy. It is theorized that retroviral and transduction methods can deliver functional versions of missing or altered genes, so that the correct proteins can be synthesized and certain diseases can be treated. Gene therapy is discussed in Chapter 6 of MCAT Biochemistry Review ."
+    },
+    {
+     "t": "h",
+     "x": "Viral Life Cycle"
+    },
+    {
+     "t": "p",
+     "x": "As we have already discussed, viruses must infect a host cell and use the host cell’s machinery in order to reproduce. Here, we will discuss the viral life cycle in detail."
+    },
+    {
+     "t": "h",
+     "x": "Infection"
+    },
+    {
+     "t": "p",
+     "x": "Viruses can only infect a specific set of cells, because they must bind to specific receptors on the host cell. Without the proper receptors, a cell is essentially invisible to the virus. Once the virus binds the correct receptor, the virus and the cell are brought into close enough proximity to permit additional interactions. Enveloped viruses fuse with the plasma membrane of a cell, allowing entry of the virion into the host cell. Sometimes a host cell may mistake a virus bound to the membrane as nutrients or other useful molecules and will actually bring the virus into the cytoplasm via endocytosis. As mentioned earlier, bacteriophages use tail fibers to anchor themselves to the cell membrane and then inject their genome into the host bacterium through the tail sheath. Some tail fibers even have enzymatic activity, allowing for both penetration of the cell wall and the formation of pores in the cell membrane."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "HIV must bind to a receptor called CCR5 on white blood cells in order to infect them. Some people lack this receptor and are thus immune to HIV. There was recently a case in which an HIV-positive man with leukemia received a bone marrow transplant from a donor that lacked CCR5. Not only was his leukemia cured, but he experienced remission of his HIV infection because the white blood cells from his newly acquired bone marrow were not susceptible to HIV infection."
+    },
+    {
+     "t": "p",
+     "x": "Depending on the virus, different portions of the virion will be inserted into host cells. Enveloped viruses such as HIV fuse with the membrane and enter the cell intact, whereas bacteriophages only insert their genetic material, leaving their capsids outside the host cell."
+    },
+    {
+     "t": "h",
+     "x": "Translation and Progeny Assembly"
+    },
+    {
+     "t": "p",
+     "x": "After infection, translation of viral genetic material must occur in order for the virus to reproduce. This requires translocation of the genetic material to the correct location in the cell. Most DNA viruses must enter the nucleus in order to be transcribed into mRNA. The mRNA then goes to the cytoplasm, where it is translated into proteins. Genetic material from positive-sense RNA viruses stays in the cytoplasm, where it is directly translated into protein by host cell ribosomes. Negative-sense RNA viruses require synthesis of a complementary RNA strand via RNA replicase, which can then be translated to form proteins. DNA formed through reverse transcription in retroviruses also travels to the nucleus, where it can be integrated into the host genome."
+    },
+    {
+     "t": "p",
+     "x": "Using the ribosomes, tRNA, amino acids, and enzymes of the host cell, viral RNA is translated into protein. Many of these proteins are structural capsid proteins and allow for the creation of new virions in the cytoplasm in the host cell. Once the viral genome has been replicated, it can be packaged within the capsid. Note that the viral genome must be returned to its original form before packaging; for example, retroviruses must transcribe new copies of their single-stranded RNA from the DNA that entered the host genome. A single virus may create anywhere from hundreds to many thousands of new virions within a single host cell."
+    },
+    {
+     "t": "h",
+     "x": "Progeny Release"
+    },
+    {
+     "t": "p",
+     "x": "Viral progeny may be released in multiple ways. First, the viral invasion may initiate cell death, which results in spilling of the viral progeny. Second, the host cell may lyse as a result of being filled with extremely large numbers of virions. Lysis is actually a disadvantage for the virus because the virus can no longer use the cell to carry out its life cycle. Finally, a virus can leave the cell by fusing with its plasma membrane as shown in Figure 1.17, a process known as extrusion . This process keeps the host cell alive, and thus allows for the continued use of the host cell by the virus. A virus in this state is said to be in a productive cycle ."
+    },
+    {
+     "t": "h",
+     "x": "Lytic and Lysogenic Cycles"
+    },
+    {
+     "t": "p",
+     "x": "Depending on growth conditions and the specific virus, bacteriophages may enter a lytic or lysogenic life cycle. These two phases are similar to the lysis and productive cycle methods of progeny release discussed above."
+    },
+    {
+     "t": "p",
+     "x": "During a lytic cycle , the bacteriophage maximizes the use of the cell’s machinery with little regard for the survival of the host cell. Once the host is swollen with new virions, the cell lyses, and other bacteria can be infected. Viruses in the lytic phase are termed virulent ."
+    },
+    {
+     "t": "p",
+     "x": "In the event that the virus does not lyse the bacterium, it may integrate into the host genome as a provirus or prophage , initiating the lysogenic cycle . In this case, the virus will be replicated as the bacterium reproduces because it is now a part of the host’s genome. Although the virus may remain integrated into the host genome indefinitely, environmental factors (radiation, light, or chemicals) may cause the provirus to leave the genome and revert to a lytic cycle. As mentioned earlier, the provirus may extract bacterial genes as it leaves the genome, which allows transduction of genes from one bacterium to another. Although bacteriophages can kill their hosts, integration of the phage into the host genome may actually benefit the bacterium. Infection with one strain of phage generally makes the bacterium less susceptible to superinfection (simultaneous infection) with other phages. Because the provirus is relatively innocuous, this arrangement may confer an evolutionary advantage. The lytic and lysogenic cycles are contrasted in Figure 1.18."
+    },
+    {
+     "t": "h",
+     "x": "Prions and Viroids"
+    },
+    {
+     "t": "p",
+     "x": "Prions and viroids are very small (subviral) particles that can cause disease under certain circumstances."
+    },
+    {
+     "t": "h",
+     "x": "Prions"
+    },
+    {
+     "t": "p",
+     "x": "Prions are infectious proteins and are, therefore nonliving things. They cause disease by triggering misfolding of other proteins, usually through the conversion of a protein from an α -helical structure to a β -pleated sheet. This drastically reduces the solubility of the protein, as well as the ability of the cell to degrade the protein. Eventually, protein aggregates form, interfering with cell function. Prions are known to cause bovine spongiform encephalopathy (mad cow disease), Creutzfeldt–Jakob disease , and familial fatal insomnia in humans."
+    },
+    {
+     "t": "h",
+     "x": "Viroids"
+    },
+    {
+     "t": "p",
+     "x": "Viroids are small pathogens consisting of a very short circular single-stranded RNA that infect plants. Viroids can bind to a large number of RNA sequences and can silence genes in the plant genome. This prevents synthesis of necessary proteins, resulting in metabolic and structural damage cell. Viroids are classically thought of as plant pathogens, but a few examples of human viroids do exist, including the hepatitis D virus (HDV). Alone, HDV is innocuous; however, when coinfected with hepatitis B virus (HBV), HDV is able to exert its silencing effect on human hepatocytes."
+    }
+   ]
+  }
+ ],
+ "conceptSummary": [
+  {
+   "section": "Cell Theory",
+   "points": [
+    "The cell theory has four basic tenets: All living things are composed of cells. The cell is the basic functional unit of life. Cells arise only from preexisting cells. Cells carry genetic information in the form of DNA. This genetic material is passed on from parent to daughter cell.",
+    "All living things are composed of cells.",
+    "The cell is the basic functional unit of life.",
+    "Cells arise only from preexisting cells.",
+    "Cells carry genetic information in the form of DNA. This genetic material is passed on from parent to daughter cell.",
+    "Viruses are not considered living things because they are acellular, cannot reproduce without the assistance of a host cell, and may use RNA as their genetic material."
+   ]
+  },
+  {
+   "section": "Eukaryotic Cells",
+   "points": [
+    "Eukaryotes have membrane-bound organelles, a nucleus, and may form multicellular organisms.",
+    "The cell membrane and membranes of organelles contain phospholipids, which organize to form hydrophilic interior and exterior surfaces with a hydrophobic core.",
+    "The cytosol suspends the organelles and allows diffusion of molecules throughout the cell.",
+    "The eukaryotic organelles each serve specific functions: The nucleus contains DNA organized into chromosomes . It is surrounded by the nuclear membrane or envelope , a double membrane that contains nuclear pores for two-way exchange of materials between the nucleus and cytosol. DNA is organized into coding regions called genes . The nucleolus is a subsection of the nucleus in which ribosomal RNA (rRNA) is synthesized. Mitochondria contain an outer and inner membrane. The outer membrane forms a barrier with the cytosol; the inner membrane is folded into cristae and contains enzymes for the electron transport chain. Between the membranes is the intermembrane space ; inside the inner mitochondrial membrane is the mitochondrial matrix . Mitochondria can divide independently of the nucleus via binary fission and can trigger apoptosis by releasing mitochondrial enzymes into the cytoplasm. Lysosomes contain hydrolytic enzymes that can break down substances ingested by endocytosis and cellular waste products. When these enzymes are released, autolysis of the cell can occur. The endoplasmic reticulum ( ER ) is a series of interconnected membranes and is continuous with the nuclear envelope. The rough ER ( RER ) is studded with ribosomes, which permit translation of proteins destined for secretion. The smooth ER ( SER ) is used for lipid synthesis and detoxification. The Golgi apparatus consists of stacked membrane-bound sacs in which cellular products can be modified, packaged, and directed to specific cellular locations. Peroxisomes contain hydrogen peroxide and can break down very long chain fatty acids via β -oxidation. They also participate in phospholipid synthesis and the pentose phosphate pathway.",
+    "The nucleus contains DNA organized into chromosomes . It is surrounded by the nuclear membrane or envelope , a double membrane that contains nuclear pores for two-way exchange of materials between the nucleus and cytosol. DNA is organized into coding regions called genes .",
+    "The nucleolus is a subsection of the nucleus in which ribosomal RNA (rRNA) is synthesized.",
+    "Mitochondria contain an outer and inner membrane. The outer membrane forms a barrier with the cytosol; the inner membrane is folded into cristae and contains enzymes for the electron transport chain. Between the membranes is the intermembrane space ; inside the inner mitochondrial membrane is the mitochondrial matrix . Mitochondria can divide independently of the nucleus via binary fission and can trigger apoptosis by releasing mitochondrial enzymes into the cytoplasm.",
+    "Lysosomes contain hydrolytic enzymes that can break down substances ingested by endocytosis and cellular waste products. When these enzymes are released, autolysis of the cell can occur.",
+    "The endoplasmic reticulum ( ER ) is a series of interconnected membranes and is continuous with the nuclear envelope. The rough ER ( RER ) is studded with ribosomes, which permit translation of proteins destined for secretion. The smooth ER ( SER ) is used for lipid synthesis and detoxification.",
+    "The Golgi apparatus consists of stacked membrane-bound sacs in which cellular products can be modified, packaged, and directed to specific cellular locations.",
+    "Peroxisomes contain hydrogen peroxide and can break down very long chain fatty acids via β -oxidation. They also participate in phospholipid synthesis and the pentose phosphate pathway.",
+    "The cytoskeleton provides stability and rigidity to the overall structure of the cell, while also providing transport pathways for molecules within the cell. Microfilaments are composed of actin . They provide structural protection for the cell and can cause muscle contraction through interactions with myosin . They also help form the cleavage furrow during cytokinesis in mitosis. Microtubules are composed of tubulin . They create pathways for motor proteins like kinesin and dynein to carry vesicles. They also contribute to the structure of cilia and flagella , where they are organized into nine pairs of microtubules in a ring with two microtubules at the center ( 9 + 2 structure ). Centrioles are found in centrosomes and are involved in microtubule organization in the mitotic spindle. Intermediate filaments are involved in cell–cell adhesion and maintenance of the integrity of the cytoskeleton; they help anchor organelles. Common examples include keratin and desmin.",
+    "Microfilaments are composed of actin . They provide structural protection for the cell and can cause muscle contraction through interactions with myosin . They also help form the cleavage furrow during cytokinesis in mitosis.",
+    "Microtubules are composed of tubulin . They create pathways for motor proteins like kinesin and dynein to carry vesicles. They also contribute to the structure of cilia and flagella , where they are organized into nine pairs of microtubules in a ring with two microtubules at the center ( 9 + 2 structure ). Centrioles are found in centrosomes and are involved in microtubule organization in the mitotic spindle.",
+    "Intermediate filaments are involved in cell–cell adhesion and maintenance of the integrity of the cytoskeleton; they help anchor organelles. Common examples include keratin and desmin.",
+    "Epithelial tissues cover the body and line its cavities, protecting against pathogen invasion and desiccation. Some epithelial cells absorb or secrete substances, or participate in sensation. In most organs, epithelial cells form the parenchyma , or the functional parts of the organ. Epithelial cells may be polarized, with one side facing a lumen or the outside world, and the other side facing blood vessels and structural cells. Epithelia can be classified by the number of layers: simple epithelia have one layer, stratified epithelia have many layers, and pseudostratified epithelia appear to have multiple layers due to differences in cell heights, but actually have only one layer. Epithelia can be classified by the shapes of the cells: cuboidal cells are cube-shaped, columnar cells are long and narrow, and squamous cells are flat and scalelike.",
+    "In most organs, epithelial cells form the parenchyma , or the functional parts of the organ.",
+    "Epithelial cells may be polarized, with one side facing a lumen or the outside world, and the other side facing blood vessels and structural cells.",
+    "Epithelia can be classified by the number of layers: simple epithelia have one layer, stratified epithelia have many layers, and pseudostratified epithelia appear to have multiple layers due to differences in cell heights, but actually have only one layer.",
+    "Epithelia can be classified by the shapes of the cells: cuboidal cells are cube-shaped, columnar cells are long and narrow, and squamous cells are flat and scalelike.",
+    "Connective tissues support the body and provide a framework for epithelial cells. In most organs, connective tissues form the stroma or support structure by secreting materials to form an extracellular matrix . Bone, cartilage, tendons, ligaments, adipose tissue, and blood are all connective tissues.",
+    "In most organs, connective tissues form the stroma or support structure by secreting materials to form an extracellular matrix .",
+    "Bone, cartilage, tendons, ligaments, adipose tissue, and blood are all connective tissues."
+   ]
+  },
+  {
+   "section": "Classification and Structure of Prokaryotic Cells",
+   "points": [
+    "Prokaryotes do not contain membrane-bound organelles; they contain their genetic material in a single circular molecule of DNA located in the nucleoid region .",
+    "There are three overarching domains of life; prokaryotes account for two of these: Archaea are often extremophiles, living in harsh environments (high temperature, high salinity, no light) and often use chemical sources of energy (chemosynthesis) rather than light (photosynthesis). They have similarities to both eukaryotes (start translation with methionine, similar RNA polymerases, histones) and bacteria (single circular chromosome, divide by binary fission or budding). Bacteria have many similar structures to eukaryotes, and have complex relationships with humans, including mutualistic symbiosis and pathogenesis . Eukarya is the only non-prokaryotic domain.",
+    "Archaea are often extremophiles, living in harsh environments (high temperature, high salinity, no light) and often use chemical sources of energy (chemosynthesis) rather than light (photosynthesis). They have similarities to both eukaryotes (start translation with methionine, similar RNA polymerases, histones) and bacteria (single circular chromosome, divide by binary fission or budding).",
+    "Bacteria have many similar structures to eukaryotes, and have complex relationships with humans, including mutualistic symbiosis and pathogenesis .",
+    "Eukarya is the only non-prokaryotic domain.",
+    "Bacteria can be classified by shape: Spherical bacteria are called cocci . Rod-shaped bacteria are called bacilli . Spiral-shaped bacteria are called spirilli .",
+    "Spherical bacteria are called cocci .",
+    "Rod-shaped bacteria are called bacilli .",
+    "Spiral-shaped bacteria are called spirilli .",
+    "Bacteria can be classified based on metabolic processes: Obligate aerobes require oxygen for metabolism. Obligate anaerobes cannot survive in oxygen-containing environments and can only carry out anaerobic metabolism. Facultative anaerobes can survive in environments with or without oxygen and will toggle between metabolic processes based on the environment. Aerotolerant anaerobes cannot use oxygen for metabolism, but can survive in an oxygen-containing environment.",
+    "Obligate aerobes require oxygen for metabolism.",
+    "Obligate anaerobes cannot survive in oxygen-containing environments and can only carry out anaerobic metabolism.",
+    "Facultative anaerobes can survive in environments with or without oxygen and will toggle between metabolic processes based on the environment.",
+    "Aerotolerant anaerobes cannot use oxygen for metabolism, but can survive in an oxygen-containing environment.",
+    "The cell wall and cell membrane of bacteria form the envelope . Together, they control the movement of solutes into and out of the cell. Bacteria can be classified by the color their cell walls turn during Gram staining with a crystal violet stain, followed by a counterstain with safranin. Gram-positive bacteria turn purple, while gram-negative bacteria turn pink-red. Gram-positive bacteria have a thick cell wall composed of peptidoglycan and lipoteichoic acid . Gram-negative bacteria have a thin cell wall composed of peptidoglycan and an outer membrane containing phospholipids and lipopolysaccharides .",
+    "Bacteria can be classified by the color their cell walls turn during Gram staining with a crystal violet stain, followed by a counterstain with safranin. Gram-positive bacteria turn purple, while gram-negative bacteria turn pink-red.",
+    "Gram-positive bacteria have a thick cell wall composed of peptidoglycan and lipoteichoic acid .",
+    "Gram-negative bacteria have a thin cell wall composed of peptidoglycan and an outer membrane containing phospholipids and lipopolysaccharides .",
+    "Bacteria may have one, two, or many flagella that generate propulsion to move the bacterium toward food or away from immune cells. Moving in response to chemical stimuli is called chemotaxis . Bacterial flagella contain a filament composed of flagellin, a basal body that anchors and rotates the flagellum, and a hook that connects the two.",
+    "Prokaryotes carry out the electron transport chain using the cell membrane.",
+    "Prokaryotic ribosomes are smaller than eukaryotic ribosomes (30S and 50S, rather than 40S and 60S)."
+   ]
+  },
+  {
+   "section": "Genetics and Growth of Prokaryotic Cells",
+   "points": [
+    "Prokaryotes multiply through binary fission , in which the chromosome replicates while the cell grows in size, until the cell wall begins to grow inward along the midline of the cell and divides it into two identical daughter cells.",
+    "In addition to the single circular chromosome in prokaryotes, extrachromosomal material can be carried in plasmids . Plasmids may contain antibiotic resistance genes or virulence factors . Plasmids that can integrate into the genome are called episomes .",
+    "Bacterial genetic recombination increases bacterial diversity. Transformation occurs when genetic material from the surroundings is taken up by a cell, which can incorporate this material into its genome. Conjugation is the transfer of genetic material from one bacterium to another across a conjugation bridge ; a plasmid can be transferred from F + cells to F – cells , or a portion of the genome can be transferred from an Hfr cell to a recipient. Transduction is the transfer of genetic material from one bacterium to another via a bacteriophage vector. Transposons are genetic elements that can insert into or remove themselves from the genome.",
+    "Transformation occurs when genetic material from the surroundings is taken up by a cell, which can incorporate this material into its genome.",
+    "Conjugation is the transfer of genetic material from one bacterium to another across a conjugation bridge ; a plasmid can be transferred from F + cells to F – cells , or a portion of the genome can be transferred from an Hfr cell to a recipient.",
+    "Transduction is the transfer of genetic material from one bacterium to another via a bacteriophage vector.",
+    "Transposons are genetic elements that can insert into or remove themselves from the genome.",
+    "Bacterial growth follows a predictable pattern: The bacteria adapt to new local conditions during the lag phase . Growth then increases exponentially during the exponential ( log ) phase . As resources are reduced, growth levels off during the stationary phase . As resources are depleted, bacteria undergo a death phase .",
+    "The bacteria adapt to new local conditions during the lag phase .",
+    "Growth then increases exponentially during the exponential ( log ) phase .",
+    "As resources are reduced, growth levels off during the stationary phase .",
+    "As resources are depleted, bacteria undergo a death phase ."
+   ]
+  },
+  {
+   "section": "Viruses and Subviral Particles",
+   "points": [
+    "Viruses contain genetic material, a protein coat ( capsid ), and sometimes a lipid-containing envelope.",
+    "Viruses are obligate intracellular parasites, meaning that they cannot survive and replicate outside of a host cell . Individual virus particles are called virions .",
+    "Bacteriophages are viruses that target bacteria. In addition to the other structures, they contain a tail sheath , which injects the genetic material into a bacterium, and tail fibers , which allow the bacteriophage to attach to the host cell.",
+    "Viral genomes may be made of various nucleic acids: They may be composed of DNA or RNA and may be single- or double-stranded. Single-stranded RNA viruses may be positive sense (that can be translated by the host cell) or negative sense (which requires a complementary strand to be synthesized by RNA replicase before translation). Retroviruses contain a single-stranded RNA genome, from which a complementary DNA strand is made using reverse transcriptase . The DNA strand can then be integrated into the genome.",
+    "They may be composed of DNA or RNA and may be single- or double-stranded.",
+    "Single-stranded RNA viruses may be positive sense (that can be translated by the host cell) or negative sense (which requires a complementary strand to be synthesized by RNA replicase before translation).",
+    "Retroviruses contain a single-stranded RNA genome, from which a complementary DNA strand is made using reverse transcriptase . The DNA strand can then be integrated into the genome.",
+    "Viruses infect cells by attaching to specific receptors, and can then enter the cell by fusing with the plasma membrane, being brought in by endocytosis, or injecting their genome into the cell.",
+    "The virus reproduces by replicating and translating genetic material using the host cell’s ribosomes, tRNA, amino acids, and enzymes.",
+    "Viral progeny are released through cell death, lysis, or extrusion .",
+    "Bacteriophages have two specific life cycles: In the lytic cycle , the bacteriophage produces massive numbers of new virions until the cell lyses. Bacteria in the lytic phase are termed virulent . In the lysogenic cycle , the virus integrates into the host genome as a pro-virus or prophage, which can then reproduce along with the cell. The provirus can remain in the genome indefinitely, or may leave the genome in response to a stimulus and enter the lytic cycle.",
+    "In the lytic cycle , the bacteriophage produces massive numbers of new virions until the cell lyses. Bacteria in the lytic phase are termed virulent .",
+    "In the lysogenic cycle , the virus integrates into the host genome as a pro-virus or prophage, which can then reproduce along with the cell. The provirus can remain in the genome indefinitely, or may leave the genome in response to a stimulus and enter the lytic cycle.",
+    "Prions are infectious proteins that trigger misfolding of other proteins, usually converting an α -helical structure to a β -pleated sheet. This decreases the solubility of the protein and increases its resistance to degradation.",
+    "Viroids are plant pathogens that are small circles of complementary RNA that can turn off genes, resulting in metabolic and structural changes and, potentially, cell death."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Hyperbaric oxygen may be used as a treatment for certain types of bacterial infections. In this therapy, the patient is placed in a chamber in which the partial pressure of oxygen is significantly increased, increasing the partial pressure of oxygen in the patient’s tissues. This treatment is most likely used for infections with:",
+   "choices": [
+    "obligate aerobic bacteria.",
+    "facultative anaerobic bacteria.",
+    "aerotolerant anaerobic bacteria.",
+    "obligate anaerobic bacteria."
+   ],
+   "correct": 3,
+   "explanation": "Obligate anaerobes cannot survive in the presence of oxygen and would likely be killed by such a therapy, treating the infection. The other types of bacteria listed can all survive in the presence of oxygen, so infections involving these bacteria would likely not be treated using this therapy."
+  },
+  {
+   "q": "Which of the following does NOT describe connective tissue cells?",
+   "choices": [
+    "They account for most cells in muscles, bones, and tendons.",
+    "They secrete substances to form the extracellular matrix.",
+    "In organs, they tend to form the stroma.",
+    "In organs, they provide support for epithelial cells."
+   ],
+   "correct": 0,
+   "explanation": "While bones and tendons are composed predominantly of connective tissue cells, muscle tissue is considered a different tissue type. Other examples of connective tissue include cartilage, ligaments, adipose tissue, and blood. Connective tissue often secretes substances to form the extracellular matrix, such as collagen and elastin, eliminating (B) . (C) and (D) are essentially identical and can both be eliminated: in organs, connective tissue often forms the support structure for epithelial cells, called the stroma."
+  },
+  {
+   "q": "Which of the following types of nucleic acid could form the genome of a virus?",
+   "choices": [
+    "Single-stranded RNA",
+    "Double-stranded DNA",
+    "Single-stranded DNA"
+   ],
+   "correct": 3,
+   "explanation": "In a virus, the nucleic acid can be either DNA or RNA and—in both cases—can be either single- or double-stranded. Therefore, all of the types of nucleic acids listed here could be used for a viral genome, making (D) the correct answer."
+  },
+  {
+   "q": "Which of the following activities occurs in the Golgi apparatus?",
+   "choices": [
+    "Synthesis of proteins",
+    "Modification and distribution of proteins",
+    "Breakdown of lipids and carbohydrates",
+    "Production of ATP"
+   ],
+   "correct": 1,
+   "explanation": "The Golgi apparatus consists of a stack of membrane-enclosed sacs. It receives vesicles and their contents from the endoplasmic reticulum, modifies them (through glycosylation, phosphorylation, and other mechanisms), repackages them into vesicles, and distributes them to appropriate locations in the cell. Protein synthesis occurs in ribosomes and rough endoplasmic reticulum, eliminating (A) . Lipid and carbohydrate breakdown takes place in the peroxisomes and cytoplasm, eliminating (C) . ATP production occurs in the mitochondria, eliminating (D) ."
+  },
+  {
+   "q": "Mitochondrial DNA is:",
+   "choices": [
+    "circular.",
+    "self-replicating.",
+    "single-stranded."
+   ],
+   "correct": 2,
+   "explanation": "Mitochondria are thought to have evolved from an anaerobic prokaryote engulfing an aerobic prokaryote and establishing a symbiotic relationship; therefore, mitochondrial DNA, or mDNA, is likely to be similar to bacterial DNA. Both mDNA and bacterial DNA are organized into a single circular chromosome of double-stranded DNA that can replicate during binary fission. Therefore, Statements I and II are correct, while Statement III is incorrect."
+  },
+  {
+   "q": "Which of the following is NOT a function of the smooth endoplasmic reticulum?",
+   "choices": [
+    "Lipid synthesis",
+    "Poison detoxification",
+    "Protein synthesis",
+    "Transport of proteins"
+   ],
+   "correct": 2,
+   "explanation": "The smooth endoplasmic reticulum is involved in the transport of materials throughout the cell, in lipid synthesis, and in the detoxification of drugs and poisons. Proteins from the rough ER can cross into the smooth ER, where they are secreted into cytoplasmic vesicles and transported to the Golgi apparatus. However, protein synthesis is not a function of the smooth ER, but rather of the free ribosomes or the ribosomes associated with the rough ER. (C) is therefore the correct answer."
+  },
+  {
+   "q": "What is the main function of the nucleolus?",
+   "choices": [
+    "Ribosomal RNA synthesis",
+    "DNA replication",
+    "Cell division",
+    "Chromosome assembly"
+   ],
+   "correct": 0,
+   "explanation": "The nucleolus (not to be confused with the nucleus ) is a dense structure within the nucleus where ribosomal RNA (rRNA) is synthesized. (A) is therefore the correct answer."
+  },
+  {
+   "q": "Which of the following organelles is surrounded by a single membrane?",
+   "choices": [
+    "Lysosomes",
+    "Mitochondria",
+    "Nuclei",
+    "Ribosomes"
+   ],
+   "correct": 0,
+   "explanation": "Lysosomes are vesicular organelles that digest material using hydrolytic enzymes. They are surrounded by a single membrane. Both mitochondria and nuclei are surrounded by double membranes, eliminating (B) and (C) . Ribosomes must not be surrounded by membranes because they are found not only in eukaryotes but also in prokaryotes, which lack any membrane-bound organelles. This eliminates (D) ."
+  },
+  {
+   "q": "Which of the following is NOT a difference that would allow one to distinguish a prokaryotic and a eukaryotic cell?",
+   "choices": [
+    "Ribosomal subunit weight",
+    "Presence of a nucleus",
+    "Presence of a membrane on the outside surface of the cell",
+    "Presence of membrane-bound organelles"
+   ],
+   "correct": 2,
+   "explanation": "Some of the main differences between prokaryotes and eukaryotes are that prokaryotes do not have a nucleus, while eukaryotes do, eliminating (B) ; prokaryotes have ribosomal subunits of 30S and 50S, while eukaryotes have ribosomal subunits of 40S and 60S, eliminating (A) ; and prokaryotes do not have membrane-bound organelles, whereas eukaryotes do, eliminating (D) . The presence of a membrane on the outer surface of the cell could not distinguish a prokaryotic cell from a eukaryotic one because both gram-negative bacteria and animal cells share this feature. Thus, (C) is the correct answer."
+  },
+  {
+   "q": "Which of the following does NOT contain tubulin?",
+   "choices": [
+    "Cilia",
+    "Flagella",
+    "Microfilaments",
+    "Centrioles"
+   ],
+   "correct": 2,
+   "explanation": "Tubulin is the primary protein in microtubules, which are responsible for the structure and movement of cilia and flagella, eliminating (A) and (B) . Centrioles organize microtubules into the mitotic spindle, eliminating (D) . Microfilaments are not composed of tubulin, but rather actin, making (C) the correct answer."
+  },
+  {
+   "q": "Herpes simplex virus (HSV) enters the human body and remains dormant in the nervous system until it produces an outbreak after exposure to heat, radiation, or other stimuli. Which of the following statements correctly describes HSV?",
+   "choices": [
+    "While it remains dormant in the nervous system, the virus is in its lytic cycle.",
+    "During an outbreak, the virus is in the lysogenic cycle.",
+    "Herpes simplex virus adds its genetic information to the genetic information of the cell.",
+    "The herpes simplex virus contains a tail sheath and tail fibers."
+   ],
+   "correct": 2,
+   "explanation": "Viruses can exist in either the lytic or lysogenic cycle; they may even switch between them. During the lytic cycle, the virus’s DNA takes control of the host cell’s genetic machinery, manufacturing numerous progeny. In the end, the host cell bursts (lyses) and releases new virions, each capable of infecting other cells. In the lysogenic cycle, viral DNA is added to the host cell’s genome, where it can remain dormant for days or years. Either spontaneously or as a result of environmental circumstances, the provirus can reactivate and enter a lytic cycle. Thus, (A) and (B) are incorrect because the terms are reversed. (D) describes features of bacteriophages, which are viruses that infect bacteria—not the human nervous system. (C) accurately describes how HSV operates during the lysogenic cycle, making it the correct answer."
+  },
+  {
+   "q": "Resistance to antibiotics is a well-recognized medical problem. Which mechanism(s) can account for a bacterium’s ability to increase its genetic variability and thus adapt itself to resist different antibiotics?",
+   "choices": [
+    "Binary fission",
+    "Conjugation",
+    "Transduction"
+   ],
+   "correct": 2,
+   "explanation": "Bacterial cells reproduce by binary fission, an asexual process in which the progeny is identical to the parent. Therefore, binary fission (Statement I) does not increase genetic variability. Conjugation can be described as sexual mating in bacteria; it is the transfer of genetic material between two bacteria that are temporarily joined. Transduction occurs when fragments of the bacterial chromosome accidentally become packaged into viral progeny produced during a viral infection and are introduced into another bacterium by the viral vector. Therefore, both conjugation and transduction (Statments II and III) increase bacterial genetic variability."
+  },
+  {
+   "q": "A bacterial cell is noted to be resistant to penicillin. The bacterium is transferred to a colony that lacks the fertility factor, and the rest of the colony does not become resistant to penicillin. However, the penicillin-resistant cell has also started to exhibit other phenotypic characteristics, including secretion of a novel protein. Which of the following methods of bacterial recombination is NOT likely to account for this change?",
+   "choices": [
+    "Conjugation",
+    "Transformation",
+    "Transduction",
+    "Infection with a bacteriophage"
+   ],
+   "correct": 0,
+   "explanation": "A bacterial cell that does not rapidly cause a phenotypic change in the rest of the colony is likely not F + , meaning that this cell is not able to form a sex pilus for conjugation, making choice (A) correct. The expression of new phenotypic characteristics indicate that this bacterium may have acquired genetic material from the environment through transformation, (B) , or transduction (which occurs via bacteriophage infection), (C) and (D) ."
+  },
+  {
+   "q": "In Alzheimer’s disease, a protein called the amyloid precursor protein (APP) is cleaved to form a protein called β -amyloid. This protein has a β -pleated sheet structure and precipitates to form plaques in the brain. This mechanism of disease is most similar to which of the following pathogens?",
+   "choices": [
+    "Bacteria",
+    "Viruses",
+    "Prions",
+    "Viroids"
+   ],
+   "correct": 2,
+   "explanation": "Prions are infectious proteins that cause misfolding of other proteins. Prions generally cause a shift toward β -pleated sheet conformations, causing decreased solubility and increased resistance to degradation. This ultimately leads to disease. This mechanism is very similar to the one described here for Alzheimer’s disease, making (C) the correct answer."
+  },
+  {
+   "q": "After infection of a cell, a viral particle must transport itself to the nucleus in order to produce viral proteins. What is the likely genomic content of the virus?",
+   "choices": [
+    "Double-stranded DNA",
+    "Double-stranded RNA",
+    "Positive-sense RNA",
+    "Negative-sense RNA"
+   ],
+   "correct": 0,
+   "explanation": "A virus that requires transport to the nucleus in order to produce viral proteins likely requires use of nuclear RNA polymerase in order to create mRNA that can be translated to protein. Therefore, only DNA viruses need to be transported to the nucleus to produce viral proteins, eliminating everything but (A) ."
+  }
+ ]
+}

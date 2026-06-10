@@ -1,0 +1,643 @@
+{
+ "id": 10,
+ "num": 10,
+ "title": "Homeostasis",
+ "slug": "ch10_homeostasis",
+ "sections": [
+  {
+   "title": "10.1 The Excretory System",
+   "goals": [
+    "List the structures of the secretory pathway",
+    "Order the vessels in the renal vascular pathway",
+    "Identify the nervous system components used to control the detrusor muscle",
+    "Describe the processes by which components of the kidney are able to exchange solutes between the filtrate and the blood",
+    "Identify the function(s) of each segment of the nephron:"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch10_homeostasis/10_01a_labeled_aorta_ivc_renal_artery_and_vein_.png",
+     "alt": "labeled: aorta, IVC, renal artery and vein, left and right kidney, left and right ureter, urinary bladder, urethra",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch10_homeostasis/10_01b_labeled_cortex_medulla_nephrons_renal_pe.png",
+     "alt": "labeled: cortex, medulla, nephrons, renal pelvis, renal artery and vein, ureter",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch10_homeostasis/10_01c_labeled_parts_of_the_nephron_afferent_an.png",
+     "alt": "labeled: parts of the nephron, afferent and efferent arteriole, glomerulus, vasa recta",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch10_homeostasis/10_01d_hydrostatic_and_oncotic_pressures_of_glo.png",
+     "alt": "hydrostatic and oncotic pressures of glomerular capillary and Bowman’s space; hydrostatic pressure of glomerular capillary is the largest",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch10_homeostasis/10_01e_nephron_structure_showing_movement_of_io.png",
+     "alt": "nephron structure, showing movement of ions and water as described in the following text",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "The excretory system serves many functions, including the regulation of blood pressure, blood osmolarity, acid–base balance, and removal of nitrogenous wastes. The kidneys play an essential role in these functions."
+    },
+    {
+     "t": "h",
+     "x": "Anatomy of the Excretory System"
+    },
+    {
+     "t": "p",
+     "x": "The excretory system consists of the kidneys, ureters, bladder, and urethra, as shown in Figure 10.1. The kidneys are two bean-shaped structures located behind the digestive organs at the level of the bottom rib. The functional unit of the kidney is the nephron; each kidney has approximately 1 million nephrons. All of the nephrons eventually empty into the renal pelvis, which narrows to form the the ureter. Urine travels through the ureter to the bladder. From the bladder, urine is transported through the urethra to exit the body."
+    },
+    {
+     "t": "h",
+     "x": "Kidney Structure"
+    },
+    {
+     "t": "p",
+     "x": "Each kidney is subdivided into a cortex and a medulla, as shown in Figure 10.2. The cortex is the kidney’s outermost layer, while the medulla of the kidney sits within the cortex. Each kidney also has a renal hilum , which is a deep slit in the center of its medial surface. The widest part of the ureter, the renal pelvis , spans almost the entire width of the renal hilum. The renal artery , renal vein , and ureter enter and exit through the renal hilum."
+    },
+    {
+     "t": "p",
+     "x": "The kidney has one of the few portal systems in the body. A portal system consists of two capillary beds in series through which blood must travel before returning to the heart. The renal artery branches out, passes through the medulla, and enters the cortex as afferent arterioles . The highly convoluted capillary tufts derived from these afferent arterioles are known as glomeruli . After blood passes through a glomerulus, the efferent arterioles then form a second capillary bed. These capillaries surround the loop of Henle and are known as vasa recta . The renal vascular system is shown in Figure 10.3."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "The portal system in the kidney is one of three major portal systems in the body. The other two are the hypophyseal portal system, which connects the hypothalamus and the anterior pituitary (discussed in Chapter 5 of MCAT Biology Review ), and the hepatic portal system, which connects the gut tube and the liver (discussed in Chapter 9 of MCAT Biology Review ). In each case, blood passes through two capillary beds before returning to the heart."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "Our discussion of neurons in Chapter 4 of MCAT Biology Review used some of the same terms as those that describe the organization of blood vessels in the kidney. Afferent neurons carry sensory information toward the central nervous system much as afferent arterioles carry blood toward the glomeruli. Efferent neurons relay signals away from the central nervous system just as efferent arterioles carry blood away from the glomerulus."
+    },
+    {
+     "t": "p",
+     "x": "Also visible in Figure 10.3 is the structure of the nephron. Around the glomerulus is a cuplike structure known as Bowman’s capsule . Bowman’s capsule leads to a long tubule with many distinct areas; in order, these are the proximal convoluted tubule, descending and ascending limbs of the Loop of Henle, distal convoluted tubule, and collecting duct. The kidney’s ability to excrete waste is intricately tied to the specific placement of these structures and their physiology."
+    },
+    {
+     "t": "h",
+     "x": "Bladder Structure"
+    },
+    {
+     "t": "p",
+     "x": "The bladder has a muscular lining known as the detrusor muscle . Parasympathetic activity causes the detrusor muscle to contract. However, in order to leave the body, urine must pass through two sphincters—the internal and external urethral sphincters. The internal urethral sphincter , consisting of smooth muscle, is contracted in its normal state. Because the internal sphincter is made of smooth muscle, it is under involuntary control. The external urethral sphincter consists of skeletal muscle and is under voluntary control. When the bladder is full, stretch receptors convey to the nervous system that the bladder requires emptying. This causes parasympathetic neurons to fire, and the detrusor muscle contracts. This contraction also causes the internal sphincter to relax. This reflex is known as the micturition reflex . The next step is up to the individual. The person can choose to relax the external sphincter to urinate, or can maintain the tone of the external sphincter to prevent urination. This can cause a few moments of discomfort, but the reflex usually dissipates in a few minutes. However, if the bladder is not emptied, then the process will begin anew shortly thereafter. Urination itself is facilitated by the contraction of the abdominal musculature, which increases pressure within the abdominal cavity, resulting in compression of the bladder and increased urine flow rate."
+    },
+    {
+     "t": "h",
+     "x": "Osmoregulation"
+    },
+    {
+     "t": "p",
+     "x": "The kidney filters the blood to form urine. The composition and quantity of urine is determined by the present state of the body. For example, if blood volume is low and blood osmolarity is high, then it is most beneficial to the body to maximally retain water. This results in low-volume, highly concentrated urine. Likewise, a patient receiving large amounts of intravenous fluids is likely to produce a larger volume of less concentrated urine. Thus, the primary job of the kidneys is to regulate blood volume and osmolarity. In order to do this, kidney function may be divided into three different processes: filtration, secretion, and reabsorption."
+    },
+    {
+     "t": "h",
+     "x": "Filtration"
+    },
+    {
+     "t": "p",
+     "x": "The nephron’s first function is filtration . In the kidneys, approximately 20 percent of the blood that passes through the glomerulus is filtered as fluid into Bowman’s space. The collected fluid is known as the filtrate . The movement of fluid into Bowman’s space is governed by Starling forces , which account for the pressure differentials in both hydrostatic and oncotic pressures between the blood and Bowman’s space, as shown in Figure 10.4. The hydrostatic pressure in the glomerulus is significantly higher than that in Bowman’s space, which causes fluid to move into the nephron. On the other hand, the osmolarity of blood is higher than that of Bowman’s space, resulting in pressure opposing the movement of fluid into the nephron. However, the hydrostatic pressure is much larger than the oncotic pressure, so the net flow is still from blood into the nephron."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "Like the electromotive force discussed in Chapter 6 of MCAT Physics and Math Review , Starling forces are really a misnomer. Rather than forces, it is a pressure differential that causes the net movement of fluid from the glomerulus to Bowman’s space. Pressure is discussed in Chapter 4 of MCAT Physics and Math Review ."
+    },
+    {
+     "t": "p",
+     "x": "Under most circumstances, fluid will flow from the glomerulus into Bowman’s space. However, various pathologies can cause derangements of this flow. Consider what might happen if the ureter was obstructed by a kidney stone. An obstruction would result in a buildup of urine behind the stone. Eventually, enough fluid will build up and cause distention of the renal pelvis and the nephrons. What will happen to filtration in this case? The hydrostatic pressure in Bowman’s space would increase to the point that filtration could no longer occur because there would be excessive pressure opposing movement of fluid into the nephron."
+    },
+    {
+     "t": "p",
+     "x": "The filtrate is similar in composition to blood but does not contain cells or proteins due to the filter’s ability to select based on size. In other words, molecules or cells that are larger than glomerular pores will remain in the blood. As described earlier, the blood remaining in the glomerulus then travels into the efferent arterioles, which empty into the vasa recta. The filtrate is isotonic to blood so that neither the capsule nor the capillaries swell. Our kidneys filter about 180 liters per day, which is approximately 36 times our blood volume. This means that the entire volume of a person’s blood is filtered about every 40 minutes."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Imagine that the glomerulus is like a sieve or colander. Small molecules dissolved in the blood will pass through the tiny pores (such as glucose, which is later reabsorbed), whereas large molecules such as proteins and blood cells will not. If blood cells or proteins are found in the urine, this indicates a health problem at the level of the glomerulus."
+    },
+    {
+     "t": "h",
+     "x": "Secretion"
+    },
+    {
+     "t": "p",
+     "x": "In addition to filtering blood, the nephrons are able to secrete salts, acids, bases, and urea directly into the tubule by either active or passive transport. The quantity and identity of the substances secreted into the nephron are directly related to the needs of the body at that time. For example, a diet heavy in meat results in the intake of large amounts of protein, which contains a significant amount of nitrogen. Ammonia (NH 3 ) is a byproduct of the metabolism of nitrogen-containing compounds and, as a base, can disturb the pH of blood and cells. The liver converts the ammonia to urea , a neutral compound, which travels to the kidney and is secreted into the nephron for excretion in the urine. The kidneys are capable of eliminating ions or other substances when present in relative excess in the blood, such as potassium cations, hydrogen ions, or metabolites of medications. Secretion is also a mechanism for excreting wastes that are simply too large to pass through glomerular pores."
+    },
+    {
+     "t": "h",
+     "x": "Reabsorption"
+    },
+    {
+     "t": "p",
+     "x": "Some compounds that are filtered or secreted may be taken back up for use via reabsorption . Certain substances are almost always reabsorbed, such as glucose, amino acids, and vitamins. In addition, hormones such as antidiuretic hormone (ADH or vasopressin) and aldosterone can alter the quantity of water reabsorbed within the kidney in order to maintain blood pressure."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Filtration: movement of solutes from blood to filtrate at Bowman’s capsule Secretion: movement of solutes from blood to filtrate anywhere besides Bowman’s capsule Reabsorption: movement of solutes from filtrate to blood"
+    },
+    {
+     "t": "h",
+     "x": "Nephron Function"
+    },
+    {
+     "t": "p",
+     "x": "The kidney uses mechanisms such as filtration, secretion, and reabsorption to produce urine and to regulate the blood volume and osmolarity. However, the function of the nephron isn’t quite that simple. In fact, renal physiology is often considered one of the most difficult topics covered in medical school."
+    },
+    {
+     "t": "p",
+     "x": "In order to simplify this topic, it is important to understand that the kidney has two main goals: keep what the body needs and lose what it doesn’t, and concentrate the urine to conserve water. The kidney allows the human body to reabsorb certain materials for reuse, while also selectively eliminating waste. For example, glucose and amino acids are not usually present in the urine because the kidney is able to reabsorb these substances for later use. On the contrary, waste products like hydrogen and potassium ions, ammonia, and urea remain in the filtrate and are excreted. Finally, water is reabsorbed in large quantities in order to maintain blood pressure and adequate hydration."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Anything that makes it into the filtrate and that is not reabsorbed will be lost from the body in the urine."
+    },
+    {
+     "t": "p",
+     "x": "In order to understand this complex organ, we will study the nephron piece-by-piece, discussing exactly what is occurring in each segment. Follow along with the nephron diagram shown in Figure 10.5. As a theme, note that segments that are horizontal in the diagram (Bowman’s capsule, the proximal convoluted tubule, and the distal convoluted tubule) are primarily focused on the identity of the particles in the urine ( keep what the body needs and lose what it doesn’t ). In contrast, the segments that are vertical in the diagram (the loop of Henle and collecting duct) are primarily focused on the volume and concentration of the urine ( concentrate the urine to conserve water )."
+    },
+    {
+     "t": "h",
+     "x": "Proximal Convoluted Tubule"
+    },
+    {
+     "t": "p",
+     "x": "The filtrate first enters the proximal convoluted tubule ( PCT ). In this region, amino acids, glucose, water-soluble vitamins, and the majority of salts are reabsorbed along with water. Almost 70 percent of filtered sodium will be reabsorbed here, but the filtrate remains isotonic to the interstitium, as other solutes and a large volume of water are also reabsorbed. Solutes that enter the interstitium —the connective tissue surrounding the nephron—are picked up by the vasa recta to be returned to the bloodstream for reuse within the body. The PCT is also the site of secretion for a number of waste products, including hydrogen ions, potassium ions, ammonia, and urea."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Major waste products excreted in the urine: Dump the HUNK H + U rea N H 3 K +"
+    },
+    {
+     "t": "h",
+     "x": "Loop of Henle"
+    },
+    {
+     "t": "p",
+     "x": "Filtrate from the proximal convoluted tubule then enters the descending limb of the loop of Henle , which dives deep into the medulla before turning around to become the ascending limb of the loop of Henle . The descending limb is permeable only to water, and the medulla has an ever-increasing osmolarity as the descending limb travels deeper into it. Think for a moment how this would affect the flow of water. As the descending limb traverses deeper into the medulla, the increasing interstitial concentration favors the outflow of water from the descending limb, which is reabsorbed into the vasa recta."
+    },
+    {
+     "t": "p",
+     "x": "The kidney is capable of altering the osmolarity of the interstitium. This creates a gradient that, coupled with selective permeability of the nephron, allows maximal reabsorption and conservation of water. In the normal physiological state, the osmolarity in the cortex is approximately the same as that of the blood and remains at that level. Deeper in the medulla, the osmolarity in the interstitium can range from isotonic with blood (when trying to excrete water) to four times as concentrated (when trying to conserve water). If the concentration is the same in the tubule and in the interstitium, there is no driving force (gradient), and the water will be lost in urine. If the interstitium is more concentrated, then water will move out of the tubule, into the interstitium, and eventually back into the blood."
+    },
+    {
+     "t": "p",
+     "x": "Together, the vasa recta and nephron create a countercurrent multiplier system . This means that the flow of filtrate through the loop of Henle is in the opposite direction from the flow of blood through the vasa recta. If the two flowed in the same direction, they would quickly reach equilibrium and the kidney would be unable to reabsorb as much water. By making the two flow in opposite directions, the filtrate is constantly being exposed to hypertonic blood, which allows maximal reabsorption of water."
+    },
+    {
+     "t": "p",
+     "x": "As the descending limb transitions to become the ascending limb of the loop of Henle, a change in permeability occurs. The ascending limb is only permeable to salts and is impermeable to water. So while the descending limb maximizes water reabsorption by taking advantage of increasing medullary osmolarity, the ascending limb maximizes salt reabsorption by taking advantage of decreasing medullary osmolarity."
+    },
+    {
+     "t": "p",
+     "x": "At the transition from the inner to outer medulla, the loop of Henle becomes thicker in what is termed the diluting segment . This is not because the lumen within the tube has enlarged, but because the cells lining the tube are larger. These cells contain large amounts of mitochondria, which allow the reabsorption of sodium and chloride by active transport. Indeed, because so much salt is reabsorbed while water is stuck in the nephron, the filtrate actually becomes hypotonic compared to the interstitium. While we tend to focus on the concentrating abilities of the nephron, this segment is noteworthy because it is the only portion of the nephron that can produce urine that is more dilute than the blood. This is important during periods of overhydration and provides a mechanism for eliminating excess water."
+    },
+    {
+     "t": "p",
+     "x": "At the beginning of the loop of Henle, the filtrate is isotonic to the interstitium. Thus, from the beginning of the loop of Henle to the end, there is a slight degree of dilution. Far more important, however, is the fact that the volume of the filtrate has been significantly reduced, demonstrating a net reabsorption of a large volume of water."
+    },
+    {
+     "t": "h",
+     "x": "Distal Convoluted Tubule"
+    },
+    {
+     "t": "p",
+     "x": "Next, the filtrate enters the distal convoluted tubule ( DCT ). The DCT responds to aldosterone, which promotes sodium reabsorption. Because sodium ions are osmotically active particles, water will follow the sodium, concentrating the urine and decreasing its volume. The DCT is also a site of waste product secretion, like the PCT."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "In certain conditions, such as congestive heart failure, the body accumulates excess fluid in the lungs or peripheral tissues (edema). The judicious use of a diuretic drug can help the body get rid of excess fluid. Diuretics typically inhibit the reabsorption of sodium in one or more regions of the nephron, thereby increasing sodium excretion. As an osmotically active particle, sodium will pull water with it, thereby relieving the body of some of its excess fluid."
+    },
+    {
+     "t": "h",
+     "x": "Collecting Duct"
+    },
+    {
+     "t": "p",
+     "x": "The final concentration of the urine will depend largely on the permeability of the collecting duct, which is responsive to both aldosterone and antidiuretic hormone (ADH or vasopressin). As permeability of the collecting duct increases, so too does water reabsorption, resulting in further concentration of the urine. The reabsorbed water enters the interstitium and makes its way to the vasa recta, where it reenters the bloodstream to once again become part of the plasma. The collecting duct almost always reabsorbs water, but the amount is variable. When the body is very well hydrated, the collecting duct will be fairly impermeable to salt and water. When in conservation mode, ADH and aldosterone will each act to increase reabsorption of water in the collecting duct, allowing for greater water retention and more concentrated urine output."
+    },
+    {
+     "t": "p",
+     "x": "Ultimately, anything that is not reabsorbed from the tubule by the end of the collecting duct will be excreted; the collecting duct is the point of no return. After that, there are no further opportunities for reabsorption. As the filtrate leaves the tubule, it collects in the renal pelvis. The fluid, which carries mostly urea, uric acid, and excess ions (sodium, potassium, magnesium, and calcium), flows through the ureter to the bladder where it is stored until voiding."
+    },
+    {
+     "t": "h",
+     "x": "Functions of the Excretory System"
+    },
+    {
+     "t": "p",
+     "x": "The kidneys use osmolarity gradients and selective permeability to filter, secrete, and reabsorb materials in the process of making urine. However, these processes have larger implications for the human body as a whole. The selective elimination of water and solutes allows the kidneys, in conjunction with the endocrine, cardiovascular, and respiratory systems, to control blood pressure, blood osmolarity, and acid–base balance."
+    },
+    {
+     "t": "h",
+     "x": "Blood Pressure"
+    },
+    {
+     "t": "p",
+     "x": "In Chapter 5 of MCAT Biology Review , we discussed two hormones that are very important for the maintenance of proper blood pressure: aldosterone and antidiuretic hormone (ADH or vasopressin)."
+    },
+    {
+     "t": "p",
+     "x": "Aldosterone is a steroid hormone that is secreted by the adrenal cortex in response to decreased blood pressure. Decreased blood pressure stimulates the release of renin from juxtaglomerular cells in the kidney. Renin then cleaves angiotensinogen , a liver protein, to form angiotensin I . This peptide is then metabolized by angiotensin-converting enzyme in the lungs to form angiotensin II , which promotes the release of aldosterone from the adrenal cortex."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Aldosterone increases blood pressure by increasing the reabsorption of sodium. In medicine, we exploit this characteristic by using drugs that actually block angiotensin-converting enzyme or the angiotensin II receptor. In Chapter 5 of MCAT Biology Review , we mentioned the ACE inhibitors, which mostly end with – pril . The angiotensin II receptor blockers mostly end with– sartan ( losartan , valsartan , irbesartan ). Blocking this receptor limits aldosterone release, which limits salt and water reabsorption, and therefore results in lowered blood pressure."
+    },
+    {
+     "t": "p",
+     "x": "Aldosterone works by altering the ability of the distal convoluted tubule and collecting duct to reabsorb sodium. Remember that water does not move on its own, but rather travels down its osmolarity gradient. Thus, if we reabsorb more sodium, water will flow with it. This reabsorption of isotonic fluid has the net effect of increasing blood volume and therefore blood pressure. Aldosterone will also increase potassium and hydrogen ion excretion."
+    },
+    {
+     "t": "p",
+     "x": "Antidiuretic hormone ( ADH , also known as vasopressin ) is a peptide hormone synthesized by the hypothalamus and released by the posterior pituitary in response to high blood osmolarity. It directly alters the permeability of the collecting duct, allowing more water to be reabsorbed by making the cell junctions of the duct leaky. Increased concentration in the interstitium (hypertonic to the filtrate) will then cause the reabsorption of water from the tubule. Alcohol and caffeine both inhibit ADH release and lead to the frequent excretion of dilute urine."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "ADH only governs water reabsorption and thus results in a lower blood osmolarity. Aldosterone causes both salt and water reabsorption and does not change blood osmolarity."
+    },
+    {
+     "t": "p",
+     "x": "In addition to the kidneys, the cardiovascular system also regulates blood pressure, specifically by vasoconstricting or vasodilating in order to maintain blood pressure. Constriction of the afferent arteriole will lead to a lower pressure of blood reaching the glomeruli, which are adjacent to the juxtaglomerular cells. Therefore, this vasoconstriction will secondarily lead to renin release, which will also help raise blood pressure."
+    },
+    {
+     "t": "h",
+     "x": "Osmoregulation"
+    },
+    {
+     "t": "p",
+     "x": "The osmolarity of the blood must be tightly controlled to ensure correct oncotic pressures within the vasculature. A note on terminology: osmotic pressure is the “sucking” pressure that draws water into the vasculature caused by all dissolved particles. Oncotic pressure , on the other hand, is the osmotic pressure that is attributable to dissolved proteins specifically. Blood osmolarity is usually maintained at approximately 290 milliosmoles (mOsm) per liter. As described earlier, the kidneys control osmolarity by modulating the reabsorption of water and by filtering and secreting dissolved particles. When blood osmolarity is low, excess water will be excreted, while solutes will be reabsorbed in higher concentrations. In contrast, when blood osmolarity is high, water reabsorption increases and solute excretion increases."
+    },
+    {
+     "t": "h",
+     "x": "Acid–Base Balance"
+    },
+    {
+     "t": "p",
+     "x": "The bicarbonate buffer system is the major regulator of blood pH. Remind yourself of the buffer equation:"
+    },
+    {
+     "t": "p",
+     "x": "In Chapter 6 of MCAT Biology Review , we talked about how the respiratory system can contribute to acid–base balance by increasing or decreasing the respiratory rate. If the blood pH is too low, then increasing the respiratory rate blows off more CO 2 and favors the conversion of H + and to water and carbon dioxide, increasing the pH. If the blood pH is too high, then decreasing the respiratory rate causes the opposite effects. The respiratory system can react to derangements of pH quickly. What can the excretory system do to contribute? The kidneys are able to selectively increase or decrease the secretion of hydrogen ions and bicarbonate. When blood pH is too low, the kidneys excrete more hydrogen ions and increase reabsorption of bicarbonate, resulting in a higher pH. Likewise, when blood pH is too high, the kidneys can excrete more bicarbonate and increase the reabsorption of hydrogen ions. This is slower than the respiratory response, but it is a highly effective way for the body to maintain acid–base balance."
+    }
+   ]
+  },
+  {
+   "title": "10.2 Skin",
+   "goals": [
+    "Recall the predominant cell type in the epidermis",
+    "Order the layers of the epidermis and dermis",
+    "Describe the mechanisms the body uses to regulate temperature using the integument"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch10_homeostasis/10_02a_labeled_hypodermis_dermis_epidermis_seba.png",
+     "alt": "labeled: hypodermis, dermis, epidermis, sebaceous and sweat glands, arrector pili muscle, cutaneous plexus, nerve fibers, Meissner’s and Pacinian corpuscles, hair follicle, hair shaft",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch10_homeostasis/10_02b_dermis_stratum_basale_stratum_spinosum_s.png",
+     "alt": "dermis, stratum basale, stratum spinosum, stratum granulosum, stratum lucidum, stratum corneum",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "By both weight and size, the skin ( integument ) is the largest organ in our bodies. It makes up about 16 percent of total body weight, on average. Skin is one of the major components of nonspecific immune defense, protecting us from exposure to the elements and invasion by pathogens."
+    },
+    {
+     "t": "h",
+     "x": "Structure"
+    },
+    {
+     "t": "p",
+     "x": "The skin has several layers. Starting from the deepest layer and working outward, these layers are the hypodermis ( subcutaneous layer), dermis , and epidermis , as shown in Figure 10.6. Skin is derived from the ectoderm."
+    },
+    {
+     "t": "h",
+     "x": "The Epidermis"
+    },
+    {
+     "t": "p",
+     "x": "The epidermis is also subdivided into layers called strata . From the deepest layer outward, these are the stratum basale, stratum spinosum, stratum granulosum, stratum lucidum, and stratum corneum, as shown in Figure 10.7. The stratum basale contains stem cells and is responsible for proliferation of keratinocytes , the predominant cells of the skin, that produce keratin . In the stratum spinosum , these cells become connected to each other; this layer is also the site of Langerhans cells, described below. In the stratum granulosum , the keratinocytes die and lose their nuclei. The stratum lucidum is only present in thick, hairless skin, such as the skin on the sole of the foot or the palms, and is nearly transparent. Finally, the stratum corneum contains up to several dozen layers of flattened keratinocytes, forming a barrier that prevents invasion by pathogens and that helps to prevent loss of fluids and salt. Hair projects above the skin, and there are openings for sweat and sebaceous glands."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Layers of the skin (superficial to deep): C ome, L et’s G et S un B urned Stratum c orneum Stratum l ucidum Stratum g ranulosum Stratum s pinosum Stratum b asale"
+    },
+    {
+     "t": "h",
+     "x": "Other Cells of the Epidermis"
+    },
+    {
+     "t": "p",
+     "x": "In the epidermis, the main cells are keratinocytes. Keratin, mentioned above, is resistant to damage and provides protection against injury, water, and pathogens. Calluses form from excessive keratin deposition in areas of repeated strain due to friction; they provide protection to avoid damage in the future. Fingernails and hair are also formed from keratin and are produced by specialized cells in the skin."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "People who have albinism suffer from a genetic metabolic disorder characterized by the inability to synthesize melanin. Typically, albinism is inherited in an autosomal recessive fashion. As would be expected, patients with albinism are extremely sensitive to the harmful effects of the sun. Depigmentation can also occur in vitiligo, an autoimmune disorder in which melanocytes are killed by the individual’s immune system."
+    },
+    {
+     "t": "p",
+     "x": "Melanocytes are a cell type derived from neural crest cells and found in the stratum basale. These cells produce melanin , a pigment that serves to protect the skin from DNA damage caused by ultraviolet radiation. Once produced, the pigment is transferred to the keratinocytes. All humans actually have comparable numbers of melanocytes; skin color is caused by varying levels of activity of the melanocytes. More active melanocytes result in darker skin tones. Upon exposure to ultraviolet radiation, melanocytes increase activity, resulting in a darker skin color."
+    },
+    {
+     "t": "p",
+     "x": "Langerhans cells are actually special macrophages that reside within the stratum spinosum. These cells are capable of presenting antigens to T-cells in order to activate the immune system."
+    },
+    {
+     "t": "h",
+     "x": "The Dermis"
+    },
+    {
+     "t": "p",
+     "x": "The dermis also consists of multiple layers. The upper layer (right below the epidermis) is the papillary layer , which consists of loose connective tissue. Below the papillary layer is the denser reticular layer . Sweat glands, blood vessels, and hair follicles originate in the dermis."
+    },
+    {
+     "t": "p",
+     "x": "Most sensory receptors are also located in the dermis. Merkel cells ( discs ), for example, are sensory receptors present at the epidermal–dermal junction. These cells are connected to sensory neurons and are responsible for deep pressure and texture sensation within the skin. Other sensory organs in the skin include free nerve endings, which respond to pain; Meissner’s corpuscles , which respond to light touch; Ruffini endings , which respond to stretch; and Pacinian corpuscles , which respond to deep pressure and vibration."
+    },
+    {
+     "t": "h",
+     "x": "The Hypodermis"
+    },
+    {
+     "t": "p",
+     "x": "Finally, the hypodermis is a layer of connective tissue that connects the skin to the rest of the body. This layer contains fat and fibrous tissue."
+    },
+    {
+     "t": "h",
+     "x": "Thermoregulation"
+    },
+    {
+     "t": "p",
+     "x": "We have already mentioned that the skin protects us from the elements and microbes. It also has other functions, including ultraviolet protection (via melanin) and transduction of sensory information from the outside world. In this section, we look at another function of the skin: thermoregulation."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "Evaporation is an endothermic process and, thus, substances absorb energy from the surroundings to undergo this phase change. Further, the presence of dissolved solutes in sweat increases the boiling point of sweat slightly in comparison to pure water; this allows the absorption of even more heat energy. Boiling point elevation is a colligative property that is discussed in Chapter 9 of MCAT General Chemistry Review ."
+    },
+    {
+     "t": "p",
+     "x": "Thermoregulation is achieved by sweating, piloerection, vasodilation, and vasoconstriction. Sweating is an excellent cooling mechanism that is controlled by the autonomic nervous system. When body temperature rises above the set point determined by the hypothalamus, thermoregulation processes must occur in order to rid the body of heat. Postganglionic sympathetic neurons that utilize acetylcholine innervate sweat glands and promote the secretion of water with certain ions onto the skin. Heat is then absorbed from the body as the water molecules undergo a phase change to evaporate. The production of sweat itself is not the main mechanism of cooling; it is the evaporation of water from the skin which absorbs body heat. At the same time, arteriolar vasodilation occurs to maximize heat loss. This brings a large quantity of blood to the skin, which accelerates the evaporation of sweat by maximizing the heat energy available for the liquid–gas phase change."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "The neurons that innervate sweat glands are actually very unusual. Unlike all other postganglionic sympathetic neurons, these neurons are cholinergic—not noradrenergic (that is, they release acetylcholine, not norepinephrine). All preganglionic neurons in the autonomic nervous system and postganglionic neurons in the parasympathetic nervous system are cholinergic as well. These neurons are discussed in Chapter 4 of MCAT Biology Review ."
+    },
+    {
+     "t": "p",
+     "x": "In cold conditions, arrector pili muscles contract, causing the hairs of the skin to stand up on end ( piloerection ). This helps to trap a layer of heated air near the skin. The arterioles that feed the capillaries of the skin constrict, limiting the quantity of blood reaching the skin. Skeletal muscle may also begin to contract rapidly, causing shivering. Shivering requires a sizeable amount of ATP; however, a significant portion of the energy from ATP is converted into thermal energy. In addition to these mechanisms, humans possess a layer of fat just below the skin. This fat helps to insulate the body. In addition to this fat, which is called white fat , brown fat may also be present, especially in infants. Brown fat has a much less efficient electron transport chain, which means that more heat energy is released as fuel is burned."
+    },
+    {
+     "t": "p",
+     "x": "The skin also helps to maintain the osmolarity of the body. This is because the skin is relatively impermeable to water. This prevents not only the entrance of water through the skin, but also the loss of water from the tissues. This becomes very important in cases such as burns or large losses of skin as dehydration of the tissues becomes a real threat to survival."
+    }
+   ]
+  }
+ ],
+ "conceptSummary": [
+  {
+   "section": "The Excretory System",
+   "points": [
+    "The excretory system serves many functions, including the regulation of blood pressure, blood osmolarity, acid–base balance, and removal of nitrogenous wastes.",
+    "The kidney produces urine, which flows into the ureter at the renal pelvis . Urine is then collected in the bladder until it is excreted through the urethra .",
+    "The kidney contains a cortex and a medulla. Each kidney has a hilum , which contains a renal artery, renal vein, and ureter.",
+    "The kidney contains a portal system with two capillary beds in series. Blood from the renal artery flows into afferent arterioles , which form glomeruli in Bowman’s capsule (the first capillary bed). Blood then flows through the efferent arteriole to the vasa recta (the second capillary bed), which surround the nephron, before leaving the kidney through the renal vein.",
+    "Blood from the renal artery flows into afferent arterioles , which form glomeruli in Bowman’s capsule (the first capillary bed).",
+    "Blood then flows through the efferent arteriole to the vasa recta (the second capillary bed), which surround the nephron, before leaving the kidney through the renal vein.",
+    "The bladder has a muscular lining known as the detrusor muscle , which is under parasympathetic control. It also has two muscular sphincters. The internal urethral sphincter consists of smooth muscle and is under involuntary (parasympathetic) control. The external urethral sphincter consists of skeletal muscle and is under voluntary control.",
+    "The internal urethral sphincter consists of smooth muscle and is under involuntary (parasympathetic) control.",
+    "The external urethral sphincter consists of skeletal muscle and is under voluntary control.",
+    "The kidney participates in solute movement through three processes: Filtration is the movement of solutes from blood to filtrate at Bowman’s capsule. The direction and rate of filtration is determined by Starling forces , which account for the hydrostatic and oncotic pressure differentials between the glomerulus and Bowman’s space. Secretion is the movement of solutes from blood to filtrate anywhere other than Bowman’s capsule. Reabsorption is the movement of solutes from filtrate to blood.",
+    "Filtration is the movement of solutes from blood to filtrate at Bowman’s capsule. The direction and rate of filtration is determined by Starling forces , which account for the hydrostatic and oncotic pressure differentials between the glomerulus and Bowman’s space.",
+    "Secretion is the movement of solutes from blood to filtrate anywhere other than Bowman’s capsule.",
+    "Reabsorption is the movement of solutes from filtrate to blood.",
+    "Each segment of the nephron has a specific function. The proximal convoluted tubule ( PCT ) is the site of bulk reabsorption of glucose, amino acids, soluble vitamins, salt, and water. It is also the site of secretion for hydrogen ions, potassium ions, ammonia, and urea. The descending limb of the loop of Henle is permeable to water but not salt; therefore, as the filtrate moves into the more osmotically concentrated renal medulla, water is reabsorbed from the filtrate. The vasa recta and nephron flow in opposite directions, creating a countercurrent multiplier system that allows maximal reabsorption of water. The ascending limb of the loop of Henle is permeable to salt but not water; therefore, salt is reabsorbed both passively and actively. The diluting segment is in the outer medulla; because salt is actively reabsorbed in this site, the filtrate actually becomes hypotonic compared to the blood. The distal convoluted tubule ( DCT ) is responsive to aldosterone and is a site of salt reabsorption and waste product excretion, like the PCT. The collecting duct is responsive to both aldosterone and antidiuretic hormone and has variable permeability, which allows reabsorption of the right amount of water depending on the body’s needs.",
+    "The proximal convoluted tubule ( PCT ) is the site of bulk reabsorption of glucose, amino acids, soluble vitamins, salt, and water. It is also the site of secretion for hydrogen ions, potassium ions, ammonia, and urea.",
+    "The descending limb of the loop of Henle is permeable to water but not salt; therefore, as the filtrate moves into the more osmotically concentrated renal medulla, water is reabsorbed from the filtrate. The vasa recta and nephron flow in opposite directions, creating a countercurrent multiplier system that allows maximal reabsorption of water.",
+    "The ascending limb of the loop of Henle is permeable to salt but not water; therefore, salt is reabsorbed both passively and actively. The diluting segment is in the outer medulla; because salt is actively reabsorbed in this site, the filtrate actually becomes hypotonic compared to the blood.",
+    "The distal convoluted tubule ( DCT ) is responsive to aldosterone and is a site of salt reabsorption and waste product excretion, like the PCT.",
+    "The collecting duct is responsive to both aldosterone and antidiuretic hormone and has variable permeability, which allows reabsorption of the right amount of water depending on the body’s needs.",
+    "The kidney is under hormonal control. When blood pressure (and volume) are low, two different hormonal systems are activated. Aldosterone is a steroid hormone regulated by the renin–angiotensin–aldosterone system that increases sodium reabsorption in the distal convoluted tubule and collecting duct, thereby increasing water reabsorption. This results in an increased blood volume (and pressure), but no change in blood osmolarity. Antidiuretic hormone ( ADH or vasopressin ) is a peptide hormone synthesized by the hypothalamus and released by the posterior pituitary. Its release is stimulated not only by low blood volume but also by high blood osmolarity. It increases the permeability of the collecting duct to water, increasing water reabsorption. This results in an increased blood volume (and pressure) and a decreased blood osmolarity.",
+    "Aldosterone is a steroid hormone regulated by the renin–angiotensin–aldosterone system that increases sodium reabsorption in the distal convoluted tubule and collecting duct, thereby increasing water reabsorption. This results in an increased blood volume (and pressure), but no change in blood osmolarity.",
+    "Antidiuretic hormone ( ADH or vasopressin ) is a peptide hormone synthesized by the hypothalamus and released by the posterior pituitary. Its release is stimulated not only by low blood volume but also by high blood osmolarity. It increases the permeability of the collecting duct to water, increasing water reabsorption. This results in an increased blood volume (and pressure) and a decreased blood osmolarity.",
+    "The kidney can regulate pH by selective reabsorption or secretion of bicarbonate or hydrogen ions."
+   ]
+  },
+  {
+   "section": "Skin",
+   "points": [
+    "The skin acts as a barrier, protecting us from the elements and invasion by pathogens.",
+    "The skin is composed of three major layers: the hypodermis ( subcutaneous layer), dermis , and epidermis . The epidermis is composed of five layers: the stratum basale , stratum spinosum , stratum granulosum , stratum lucidum , and stratum corneum . The stratum basale contains stem cells that proliferate to form keratinocytes. Keratinocyte nuclei are lost in the stratum granulosum, and many thin layers form in the stratum corneum. Melanocytes produce melanin , which protects the skin from DNA damage caused by ultraviolet radiation; melanin is passed to keratinocytes. Langerhans cells are special macrophages that serve as antigen-presenting cells in the skin. The dermis is composed of two layers: the papillary layer and the reticular layer . Many sensory cells are located in the dermis, including Merkel cells (deep pressure and texture), free nerve endings (pain), Meissner’s corpuscles (light touch), Ruffini endings (stretch), and Pacinian corpuscles (deep pressure and vibration). The hypodermis contains fat and connective tissue and connects the skin to the rest of the body.",
+    "The epidermis is composed of five layers: the stratum basale , stratum spinosum , stratum granulosum , stratum lucidum , and stratum corneum . The stratum basale contains stem cells that proliferate to form keratinocytes. Keratinocyte nuclei are lost in the stratum granulosum, and many thin layers form in the stratum corneum.",
+    "Melanocytes produce melanin , which protects the skin from DNA damage caused by ultraviolet radiation; melanin is passed to keratinocytes.",
+    "Langerhans cells are special macrophages that serve as antigen-presenting cells in the skin.",
+    "The dermis is composed of two layers: the papillary layer and the reticular layer .",
+    "Many sensory cells are located in the dermis, including Merkel cells (deep pressure and texture), free nerve endings (pain), Meissner’s corpuscles (light touch), Ruffini endings (stretch), and Pacinian corpuscles (deep pressure and vibration).",
+    "The hypodermis contains fat and connective tissue and connects the skin to the rest of the body.",
+    "The skin is important for thermoregulation, or the maintenance of a constant internal temperature. Cooling mechanisms include sweating , which draws heat from the body through evaporation of water from sweat, and vasodilation. Sweat glands are innervated by postganglionic cholinergic sympathetic neurons. Warming mechanisms include: piloerection, in which arrector pili muscles contract, causing hairs to stand on end (trapping a layer of warmed air around the skin); vasoconstriction; shivering; and insulation provided by fat.",
+    "Cooling mechanisms include sweating , which draws heat from the body through evaporation of water from sweat, and vasodilation. Sweat glands are innervated by postganglionic cholinergic sympathetic neurons.",
+    "Warming mechanisms include: piloerection, in which arrector pili muscles contract, causing hairs to stand on end (trapping a layer of warmed air around the skin); vasoconstriction; shivering; and insulation provided by fat.",
+    "The skin also prevents dehydration and salt loss from the body."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following would most likely be filtered through the glomerulus into Bowman’s space?",
+   "choices": [
+    "Erythrocytes",
+    "Monosaccharides",
+    "Platelets",
+    "Proteins"
+   ],
+   "correct": 1,
+   "explanation": "The glomerulus functions like a sieve; small molecules dissolved in the fluid will pass through the glomerulus, including glucose, which is later reabsorbed. Large molecules, such as proteins, and cells, such as erythrocytes and platelets, will not be able to pass through the glomerular filter."
+  },
+  {
+   "q": "In which of the following segments of the nephron is sodium NOT actively transported out of the nephron?",
+   "choices": [
+    "Proximal convoluted tubule",
+    "Thin portion of the ascending limb of the loop of Henle",
+    "Distal convoluted tubule",
+    "Thick portion of the ascending limb of the loop of Henle"
+   ],
+   "correct": 1,
+   "explanation": "Sodium is actively transported out of the nephron in the proximal and distal convoluted tubules, where the concentration of sodium outside of the nephron is higher than inside; thus, energy is required to transport the sodium molecules against their concentration gradient, eliminating (A) and (C) . In the inner medulla, however, sodium and other ions (such as chloride) diffuse passively down their concentration gradients at the thin ascending limb of the loop of Henle, making (B) the correct answer. The thick ascending limb of the loop of Henle is thick because its cells contain many mitochondria—which produce the ATP needed for active transport of sodium and chloride out of the filtrate, eliminating (D) ."
+  },
+  {
+   "q": "Which region of the kidney has the lowest solute concentration under normal physiological circumstances?",
+   "choices": [
+    "Cortex",
+    "Outer medulla",
+    "Inner medulla",
+    "Renal pelvis"
+   ],
+   "correct": 0,
+   "explanation": "The region of the kidney that has the lowest solute concentration is the cortex, where the proximal convoluted tubule and a part of the distal convoluted tubule are found. The solute concentration increases as one descends into the medulla, and concentrated urine can be found in the renal pelvis."
+  },
+  {
+   "q": "Which of the following sequences correctly shows the passage of blood through the vessels of the kidney?",
+   "choices": [
+    "Renal artery → afferent arterioles → glomerulus → efferent arterioles → vasa recta → renal vein",
+    "Afferent arterioles → renal artery → glomerulus → vasa recta → renal vein → efferent arterioles",
+    "Glomerulus → renal artery → afferent arterioles → efferent arterioles → renal vein → vasa recta",
+    "Renal vein → efferent arterioles → glomerulus → afferent arterioles → vasa recta → renal artery"
+   ],
+   "correct": 0,
+   "explanation": "Blood enters the kidney through the renal artery, which divides into many afferent arterioles that run through the medulla and into the cortex. Each afferent arteriole branches into a convoluted network of capillaries called a glomerulus. Rather than converging directly into a vein, the capillaries converge into an efferent arteriole, which divides into a fine capillary network known as the vasa recta. The vasa recta capillaries envelop the nephron tubule, where they reabsorb various ions, and then converge into the renal vein. The arrangement of tandem capillary beds is known as a portal system."
+  },
+  {
+   "q": "Which of the following statements is FALSE?",
+   "choices": [
+    "ADH increases water reabsorption in the kidney.",
+    "Aldosterone indirectly increases water reabsorption in the kidney.",
+    "ADH acts directly on the proximal convoluted tubule.",
+    "Aldosterone stimulates reabsorption of sodium from the collecting duct."
+   ],
+   "correct": 2,
+   "explanation": "All of the answer choices describe ADH or aldosterone. These two hormones ultimately act to increase water reabsorption in the kidney; their respective mechanisms of action, however, are different. ADH increases water reabsorption by increasing the permeability of the collecting duct to water, whereas aldosterone stimulates reabsorption of sodium from the distal convoluted tubule and collecting duct. Using this knowledge, we can now attack the answer choices. (C) is the correct answer because ADH does not act on the proximal convoluted tubule, but rather on the collecting duct."
+  },
+  {
+   "q": "In the nephron, amino acids enter the vasa recta via the process of:",
+   "choices": [
+    "filtration.",
+    "secretion.",
+    "excretion.",
+    "reabsorption."
+   ],
+   "correct": 3,
+   "explanation": "Essential substances, such as glucose, salts, amino acids, and water, are reabsorbed from the filtrate and returned to the blood in the vasa recta. In general, reabsorption refers to the movement of solutes from the filtrate back into the blood."
+  },
+  {
+   "q": "On a very cold day, a man waits for over an hour at the bus stop. Which of the following structures helps his body set and maintain a normal temperature?",
+   "choices": [
+    "Hypothalamus",
+    "Kidneys",
+    "Posterior pituitary",
+    "Brainstem"
+   ],
+   "correct": 0,
+   "explanation": "The hypothalamus functions as a thermostat that regulates body temperature. When it’s cold outside, nervous stimulation to the blood vessels in the skin is increased, causing the vessels to constrict. This constriction diminishes blood flow to the skin surface and prevents heat loss. Sweat glands are turned off to prevent heat loss through evaporation. Skeletal muscles are stimulated to shiver (rapidly contract), which increases the metabolic rate and produces heat. The hypothalamus is also involved in other processes, including the release of endocrine hormones, regulation of appetite, and circadian rhythms."
+  },
+  {
+   "q": "Glucose reabsorption in the nephron occurs in the:",
+   "choices": [
+    "loop of Henle.",
+    "distal convoluted tubule.",
+    "proximal convoluted tubule.",
+    "collecting duct."
+   ],
+   "correct": 2,
+   "explanation": "The filtrate enters Bowman’s capsule and then flows into the proximal convoluted tubule, where virtually all glucose, amino acids, and other important organic molecules are reabsorbed via active transport."
+  },
+  {
+   "q": "Under normal physiological circumstances, the primary function of the nephron is to create urine that is:",
+   "choices": [
+    "hypertonic to the blood.",
+    "hypotonic to the blood.",
+    "isotonic to the filtrate.",
+    "hypotonic to the vasa recta."
+   ],
+   "correct": 0,
+   "explanation": "The kidneys function to eliminate wastes such as urea, while reabsorbing various important substances such as glucose and amino acids for reuse by the body. Generation of a solute concentration gradient from the cortex to the medulla allows a considerable amount of water to be reabsorbed. Excretion of concentrated urine serves to limit water losses from the body and helps to preserve blood volume. Thus, the primary function of the nephron is to create urine that is hypertonic to the blood, making (A) the correct answer and eliminating (B) and (D) . Water should be reabsorbed from the filtrate, so urine should be hypertonic to the filtrate, eliminating (C) ."
+  },
+  {
+   "q": "Diabetic nephropathy is commonly detected by finding protein in the urine of a patient. In such a disease, where is the likely defect in the nephron?",
+   "choices": [
+    "Glomerulus",
+    "Proximal convoluted tubule",
+    "Loop of Henle",
+    "Collecting duct"
+   ],
+   "correct": 0,
+   "explanation": "The glomerulus is the most likely location of pathology if large proteins are detected in the urine. This is because large proteins should not be able to pass through the filter of the glomerulus in the first place. Once large proteins are in the filtrate, no other nephron structure can reabsorb them. Thus, the only likely source of protein in the urine is glomerular pathology."
+  },
+  {
+   "q": "A laceration cuts down into a layer of loose connective tissue in the skin. Which layer of the skin is this?",
+   "choices": [
+    "Stratum corneum",
+    "Stratum lucidum",
+    "Papillary layer",
+    "Reticular layer"
+   ],
+   "correct": 2,
+   "explanation": "The layer of the skin that is predominantly loose connective tissue is the papillary layer of the dermis. The stratum corneum and stratum lucidum, (A) and (B) , contain dead keratinocytes, while the reticular layer, (D) , consists of dense connective tissue."
+  },
+  {
+   "q": "When the pH of the blood is high, which substance is likely to be excreted in larger quantities in the urine?",
+   "choices": [
+    "Urea",
+    "Ammonia",
+    "Hydrogen ions",
+    "Bicarbonate ions"
+   ],
+   "correct": 3,
+   "explanation": "When the pH of the blood is high, this indicates that the blood is alkalemic. In order to correct the pH of the blood, the kidney will increase the excretion of a base, namely bicarbonate. Excretion of urea would have little effect on the pH, eliminating (A) . While ammonia is a base, it is quite toxic and is generally converted into urea before excretion, eliminating (B) . Excretion of hydrogen ions would exacerbate the alkalemia, eliminating (C) ."
+  },
+  {
+   "q": "In which layer of the skin can the stem cells of keratinocytes be found?",
+   "choices": [
+    "Stratum lucidum",
+    "Stratum granulosum",
+    "Stratum basale",
+    "Stratum corneum"
+   ],
+   "correct": 2,
+   "explanation": "The stratum basale contains the stem cells that proliferate to form keratinocytes, which then ascend through the other layers of skin until they are shed from the stratum corneum."
+  },
+  {
+   "q": "A drug is used that prevents the conversion of angiotensin I to angiotensin II. What is a likely effect of this drug?",
+   "choices": [
+    "Increased sodium reabsorption",
+    "Increased potassium reabsorption",
+    "Increased blood pressure",
+    "Increased blood pH"
+   ],
+   "correct": 1,
+   "explanation": "Normally, angiotensin II causes secretion of aldosterone from the adrenal cortex. Aldosterone serves to increase reabsorption of sodium, while promoting excretion of potassium and hydrogen ions. Thus, blocking the release of aldosterone should result in decreased reabsorption of sodium, while decreasing excretion of potassium and hydrogen ions. This eliminates (A) and (D) and makes (B) the correct answer. In the absence of aldosterone, less sodium reabsorption will occur, leading to less water reabsorption, eliminating (C) ."
+  },
+  {
+   "q": "Sarin is a potent organophosphate that can be used in chemical warfare. As an inhibitor of acetylcholinesterase, sarin causes excessive buildup of acetylcholine in all synapses where it is the neurotransmitter. Which of the following symptoms would most likely be seen in an individual with sarin poisoning?",
+   "choices": [
+    "Increased urination and increased sweating",
+    "Increased urination and decreased sweating",
+    "Decreased urination and increased sweating",
+    "Decreased urination and decreased sweating"
+   ],
+   "correct": 0,
+   "explanation": "An excess of acetylcholine will lead to activation of all parasympathetic neurons, preganglionic sympathetic neurons, and the postganglionic sympathetic neurons that innervate sweat glands. Because the parasympathetic nervous system causes contraction of the bladder, one would expect increased urination. The increased activation of sweat glands would lead to increased sweating as well."
+  }
+ ]
+}

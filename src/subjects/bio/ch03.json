@@ -1,0 +1,753 @@
+{
+ "id": 3,
+ "num": 3,
+ "title": "Embryogenesis and Development",
+ "slug": "ch03_embryogenesis_and_development",
+ "sections": [
+  {
+   "title": "3.1 Early Developmental Stages",
+   "goals": [
+    "Distinguish between determinate and indeterminate cleavage of a zygote",
+    "Describe the process of implantation and the stage of development at which it occurs",
+    "Connect the ectoderm, mesoderm, neural crest, and endoderm to the organs they will form",
+    "Describe how induction influences development",
+    "Recall the stages of embryonic development up to the gastrula:"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch03_embryogenesis_and_development/03_01a_sperm_attaching_to_egg_injecting_pronucl.png",
+     "alt": "sperm attaching to egg, injecting pronucleus through acrosomal apparatus; cortical reaction",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch03_embryogenesis_and_development/03_01b_8_cell_embryo_in_fertilization_membrane_.png",
+     "alt": "8-cell embryo in fertilization membrane; stabilized by a pipette",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch03_embryogenesis_and_development/03_01c_many_cells_that_appear_to_be_partially_f.png",
+     "alt": "many cells that appear to be partially fused",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch03_embryogenesis_and_development/03_01d_hollow_ball_of_trophoblast_cells_with_pr.png",
+     "alt": "hollow ball of trophoblast cells with protruding inner cell mass",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch03_embryogenesis_and_development/03_01e_fetus_connected_to_placenta_by_umbilical.png",
+     "alt": "fetus connected to placenta by umbilical cord; yolk sac, amnion, chorion, chorionic villi labeled",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch03_embryogenesis_and_development/03_01f_fertilized_egg_cleaving_to_16_cell_stage.png",
+     "alt": "fertilized egg cleaving to 16-cell stage, then becoming morula, blastula, and gastrula (with blastopore and archenteron)",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch03_embryogenesis_and_development/03_01g_neural_plate_overlying_notochord_invagin.png",
+     "alt": "neural plate overlying notochord invaginates to form neural folds around neural groove, which forms neural tube and neural crest",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "In this first section, we will explore development from the formation of a diploid zygote until neurulation, or the formation of the neural tube that will differentiate into the nervous system."
+    },
+    {
+     "t": "h",
+     "x": "Fertilization"
+    },
+    {
+     "t": "p",
+     "x": "As discussed in Chapter 2 of MCAT Biology Review , a secondary oocyte is ovulated from the follicle on approximately day 14 of the menstrual cycle. The secondary oocyte travels into the fallopian tube, where it can be fertilized up to 24 hours after ovulation. Fertilization, shown in Figure 3.1, usually occurs in the widest part of the fallopian tube, called the ampulla . When the sperm meets the secondary oocyte in the fallopian tube, it binds to the oocyte and releases acrosomal enzymes that enable the head of the sperm to penetrate the corona radiata and zona pellucida. The first sperm to come into direct contact with the secondary oocyte’s cell membrane forms a tubelike structure known as the acrosomal apparatus , which extends to and penetrates the cell membrane. Its pronucleus may then freely enter the oocyte once meiosis II has come to completion."
+    },
+    {
+     "t": "p",
+     "x": "After penetration of the sperm through the cell membrane, the cortical reaction , a release of calcium ions, occurs. These calcium ions depolarize the membrane of the ovum, which serves two purposes: depolarization prevents fertilization of the ovum by multiple sperm cells, and the increased calcium concentration increases the metabolic rate of the newly formed diploid zygote . The now depolarized and impenetrable membrane is called the fertilization membrane ."
+    },
+    {
+     "t": "h",
+     "x": "Twins"
+    },
+    {
+     "t": "p",
+     "x": "Twinning can occur by two different mechanisms. Dizygotic ( fraternal ) twins form from fertilization of two different eggs released during one ovulatory cycle by two different sperm. Each zygote will implant in the uterine wall, and each develops its own placenta, chorion, and amnion—these structures are discussed later in the chapter. If the zygotes implant close together the placentas may grow onto each other. Fraternal twins are no more genetically similar than any other pair of siblings."
+    },
+    {
+     "t": "p",
+     "x": "Monozygotic ( identical ) twins form when a single zygote splits into two. Because the genetic material is identical, the genomes of the offspring will be too. If division is incomplete, conjoined twins may result, where the two offspring are physically attached. Monozygotic twins can be classified by the number of structures they share. Monochorionic/monoamniotic twins share the same amnion and chorion. Monochorionic/diamniotic twins each have their own amnion, but share the same chorion. Dichorionic/diamniotic twins each have their own amnions and chorions. Which type of twinning occurs is a result of when the separation occurred. As more gestational structures are shared, there are more risks as the fetuses grow and develop."
+    },
+    {
+     "t": "h",
+     "x": "Cleavage"
+    },
+    {
+     "t": "p",
+     "x": "After fertilization in the fallopian tubes, the zygote must travel to the uterus for implantation. If it arrives too late, there will no longer be an endometrium capable of supporting the embryo. As it moves to the uterus for implantation, the zygote undergoes rapid mitotic cell divisions in a process called cleavage . The first cleavage officially creates an embryo, as it nullifies one of the zygote’s defining characteristics: unicellularity. Although several rounds of mitosis occur, the total size of the embryo remains unchanged during the first few divisions, as shown in Figure 3.2. By dividing into progressively smaller cells, the cells increase two ratios: the nuclear-to-cytoplasmic (N:C) ratio and the surface area-to-volume ratio. Thus, the cells achieve increased area for gas and nutrient exchange relative to overall volume."
+    },
+    {
+     "t": "p",
+     "x": "There are two types of cleavage: indeterminate and determinate. Indeterminate cleavage results in cells that can still develop into complete organisms. In fact, monozygotic twins have identical genomes because they both originate from indeterminately cleaved cells of the same embryo. Determinate cleavage results in cells with fates that are, as the term implies, already determined. In other words, these cells are committed to differentiating into a certain type of cell."
+    },
+    {
+     "t": "h",
+     "x": "Blastulation"
+    },
+    {
+     "t": "p",
+     "x": "Several divisions later, the embryo becomes a solid mass of cells known as a morula , as shown in Figure 3.3. This term comes from the Latin word for mulberry, which might help us grasp what an embryo at this stage looks like."
+    },
+    {
+     "t": "p",
+     "x": "Once the morula is formed, it undergoes blastulation , which forms the blastula , a hollow ball of cells with a fluid-filled inner cavity known as a blastocoel . The mammalian blastula is known as a blastocyst and consists of two noteworthy cell groups, the trophoblast and inner cell mass (as shown in Figure 3.4). The trophoblast cells surround the blastocoel and give rise to the chorion and later the placenta, whereas the inner cell mass protrudes into the blastocoel and gives rise to the organism itself."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Remember that a blast ula is an embryo with a blast ed-out cavity."
+    },
+    {
+     "t": "h",
+     "x": "Implantation"
+    },
+    {
+     "t": "p",
+     "x": "The blastula moves through the fallopian tube to the uterus, where it burrows into the endometrium. The trophoblast cells are specialized to create an interface between the maternal blood supply and the developing embryo. These trophoblastic cells give rise to the chorion , an extraembryonic membrane that develops into the placenta. The trophoblasts form chorionic villi , which are microscopic fingerlike projections that penetrate the endometrium. As these chorionic villi develop into the placenta they support maternal–fetal gas exchange. The embryo is connected to the placenta by the umbilical cord , which consists of two arteries and one vein encased in a gelatinous substance. The vein carries freshly oxygenated blood rich with nutrients from the placenta to the embryo. The umbilical arteries carry deoxygenated blood and waste to the placenta for exchange."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Sometimes the blastula implants itself outside the uterus, a situation known as an ectopic pregnancy. Over 95% of ectopic pregnancies occur in the fallopian tube. Ectopic pregnancies are generally not viable because the narrow fallopian tube is not an environment in which an embryo can properly grow. If the embryo does not spontaneously abort, the tube may rupture and a considerable amount of hemorrhaging may result. In fact, a suspected ectopic pregnancy is often a surgical emergency."
+    },
+    {
+     "t": "p",
+     "x": "Until the placenta is functional, the embryo is supported by the yolk sac , which is also the site of early blood cell development. There are two other extraembryonic membranes that require discussion: the allantois and the amnion. The allantois is involved in early fluid exchange between the embryo and the yolk sac. Ultimately, the umbilical cord is formed from remnants of the yolk sac and the allantois. The allantois is surrounded by the amnion , a thin, tough membrane filled with amniotic fluid. This fluid serves as a shock absorber during pregnancy, lessening the impact of maternal motion on the developing embryo. In addition to forming the placenta, the chorion also forms an outer membrane around the amnion, adding an additional level of protection. The anatomy of these structures is shown in Figure 3.5."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Amniocentesis is the process of aspirating amniotic fluid by inserting a thin needle into the amniotic sac. The amniotic fluid contains fetal cells that can be examined for chromosomal abnormalities as well as sex determination. Amniocentesis is recommended for pregnant women over 35 if earlier screening tests (blood tests and ultrasound) indicate a high chance of chromosomal abnormalities in the fetus. Women in this age group have a higher rate of meiotic nondisjunction, which can result in genetic aberrations such as Down syndrome."
+    },
+    {
+     "t": "h",
+     "x": "Gastrulation"
+    },
+    {
+     "t": "p",
+     "x": "Once the cell mass implants it can begin further developmental processes such as gastrulation , the generation of three distinct cell layers. The early developmental processes up to this point are shown in Figure 3.6. Much of our knowledge of development comes from the study of other organisms with varying degrees of similarity to human development. In sea urchins, gastrulation begins with a small invagination in the blastula. Cells continue moving toward the invagination, resulting in elimination of the blastocoel. To visualize this, imagine inflating a balloon and poking it with your finger. If you kept pushing, eventually the rubber from that side of the balloon would come into contact with the other side. If the two membranes could merge, as occurs in development, this would create a tube through the middle of the balloon. In living things, the result of this process is called a gastrula . The membrane invagination into the blastocoel is called the archenteron , which later develops into the gut. The opening of the archenteron is called the blastopore . In deuterostomes , such as humans, the blastopore develops into the anus. In protostomes , it develops into the mouth."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "How can we remember the blastopore’s fate in protostomes vs . deuterostomes? Think about how parents talk to toddlers— deuterostome starts with deu , which looks like duo , meaning two . Thus, deu terostomes develop the anus—the orifice associated with “ number two ”—from the blastopore. Protostomes must start at the other end (the mouth)."
+    },
+    {
+     "t": "h",
+     "x": "Primary Germ Layers"
+    },
+    {
+     "t": "p",
+     "x": "Eventually, some cells will also migrate into what remains of the blastocoel. This establishes three layers of cells called primary germ layers ."
+    },
+    {
+     "t": "p",
+     "x": "The outermost layer is called the ectoderm and gives rise to the integument, including the epidermis, hair, nails, and the epithelia of the nose, mouth, and lower anal canal. The lens of the eye, nervous system (including adrenal medulla), and inner ear are also derived from ectoderm."
+    },
+    {
+     "t": "p",
+     "x": "The middle layer is called the mesoderm and develops into several different systems including the musculoskeletal, circulatory, and most of the excretory systems. Mesoderm also gives rise to the gonads as well as the muscular and connective tissue layers of the digestive and respiratory systems and the adrenal cortex."
+    },
+    {
+     "t": "p",
+     "x": "The innermost layer is called the endoderm and forms the epithelial linings of the digestive and respiratory tracts, including the lungs. The pancreas, thyroid, bladder, and distal urinary tracts, as well as parts of the liver, are derived from endoderm."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "The primary germ layers: Ectoderm—“attracto”derm (things that attract us to others, such as cosmetic features and “smarts”) Mesoderm—“means”oderm (the means of getting around as an organism, such as bones and muscle; the means of getting around in the body, such as the circulatory system; the means of getting around , such as the gonads) Endoderm—linings of “endernal” (internal) organs (the digestive and respiratory tract, and accessory organs attached to these systems)"
+    },
+    {
+     "t": "callout",
+     "kind": "warn",
+     "title": "MCAT Expertise",
+     "x": "The MCAT likes to test on the dual embryonic origin of the adrenal glands. The adrenal cortex is derived from the mesoderm, but the adrenal medulla is derived from the ectoderm (because the adrenal medulla contains some nervous tissue)."
+    },
+    {
+     "t": "h",
+     "x": "Differentiation"
+    },
+    {
+     "t": "p",
+     "x": "So how is it that cells with the same genes are able to develop into such distinctly different cell types with highly specialized functions? Primarily, it is by selective transcription of the genome. In other words, only the genes needed for that particular cell type are transcribed. Thus, in pancreatic islet cells the genes to produce specific hormones (insulin, glucagon, or somatostatin) are turned on, while these same genes are turned off in other cell types. Selective transcription is often related to the concept of induction , which is the ability of one group of cells to influence the fate of nearby cells. This process is mediated by chemical substances called inducers which diffuse from the organizing cells to the responsive cells . These chemicals are responsible for processes such as the guidance of neuronal axons. Induction also ensures the proximity of different cell types that work together within an organ."
+    },
+    {
+     "t": "h",
+     "x": "Neurulation"
+    },
+    {
+     "t": "p",
+     "x": "Once the three germ layers are formed, neurulation , or development of the nervous system, can begin. Remember that the nervous system is derived from the ectoderm. How, then, do cells originating on the surface of the embryo (ectoderm) end up inside the final organism? First, a rod of mesodermal cells known as the notochord forms along the long axis of the organism like a primitive spine (in fact, remnants of notochord persist in the intervertebral discs between vertebrae). The notochord induces a group of overlying ectodermal cells to slide inward to form neural folds , which surround a neural groove , as shown in Figure 3.7. The neural folds grow toward one another until they fuse into a neural tube , which gives rise to the central nervous system. At the tip of each neural fold are neural crest cells . These cells migrate outward to form the peripheral nervous system (including the sensory ganglia, autonomic ganglia, adrenal medulla, and Schwann cells) as well as specific cell types in other tissues (such as calcitonin-producing cells of the thyroid, melanocytes in the skin, and others). Finally, ectodermal cells will migrate over the neural tube and crest to cover the rudimentary nervous system."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Failure of the neural tube to close results in either spina bifida (in which some or all of the spinal cord may be exposed to the outside world) or anencephaly (in which the brain fails to develop and the skull is left open). The severity of spina bifida’s effects range from no significant distress to death, whereas anencephaly is universally fatal. Women who wish to conceive are encouraged to take folate (folic acid) to prevent this complication; furthermore, it is recommended that all women of childbearing age supplement their diets with folate before getting pregnant because neurulation often occurs before pregnancy is detected."
+    },
+    {
+     "t": "h",
+     "x": "Problems in Early Development"
+    },
+    {
+     "t": "p",
+     "x": "Early development is a highly sensitive time. During this stage, as the germ layers are forming and as organogenesis (the production of organs) begins, teratogens may have far-reaching and highly detrimental effects. Teratogens are substances that interfere with development, causing defects or even death of the developing embryo. However, each teratogen will not have the same effect on every embryo or fetus. It is believed that the unique genetics of the embryo influences the effects of the teratogen. In addition to genetics, the route of exposure, length of exposure, rate of placental transmission of the teratogen, and the exact identity of the teratogen will also affect the outcome. Some common teratogens include alcohol, prescription drugs, viruses, bacteria, and environmental chemicals including polycyclic aromatic hydrocarbons."
+    },
+    {
+     "t": "p",
+     "x": "In addition to teratogens, maternal health can also influence development. Certain conditions may cause changes in the overall physiology of the mother, resulting in overexposure or underexposure of the embryo or fetus to certain chemicals. For example, diabetic women with hyperglycemia (high blood glucose) can have poor birth outcomes. Overexposure to sugar in utero can lead to a fetus that is too large to be delivered and that suffers from hypoglycemia soon after birth (due to synthesizing very high levels of insulin to compensate). Maternal folic acid deficiency may prevent complete closure of the neural tube, resulting in spina bifida, in which parts of the nervous system are exposed to the outside world or covered with a thin membrane, or anencephaly, in which the brain fails to develop. However, like teratogens, maternal health issues can have variable effects on the developing fetus. Spina bifida may be so severe as to result in profound disability, or may be completely asymptomatic and only detected by a tuft of hair overlying the area. Overall, trends and associations can certainly be found between various environmental conditions and genes during development; however, outcomes are somewhat unpredictable and highly variable."
+    }
+   ]
+  },
+  {
+   "title": "3.2 Mechanisms of Development",
+   "goals": [
+    "Explain the difference between determination and differentiation",
+    "Connect totipotency, pluripotency, and multipotency to their respective levels of differentiation",
+    "Recall the four types of cell–cell communication",
+    "Distinguish between apoptosis and necrosis"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch03_embryogenesis_and_development/03_02a_structure_of_blastocyst_with_three_cell_.png",
+     "alt": "structure of blastocyst with three cell types of inner cell mass labeled; colonies of ES cells",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch03_embryogenesis_and_development/03_02b_cell_darkens_becomes_smaller_and_disinte.png",
+     "alt": "cell darkens, becomes smaller, and disintegrates into small vesicles (apoptotic blebs)",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "As described earlier, cells undergo determinate cleavage to commit to a particular cell line, and inducers can be used for communication between one group of differentiating cells and another. In this section, we take a more specific look at the biochemical properties of these developmental mechanisms, as well as a few others."
+    },
+    {
+     "t": "h",
+     "x": "Cell Specialization"
+    },
+    {
+     "t": "p",
+     "x": "An adult human being is composed of approximately 37 trillion cells. These cells are organized into tissues that form organs within organ systems. In order to create an organism as complex as a human being, each cell must perform a specialized function. In addition, the cells in an organ must be organized such that the organ can function properly. For example, the pancreas must create both digestive enzymes ( trypsin , carboxypeptidases A and B , pancreatic lipase , and others) and endocrine hormones ( insulin , glucagon , and somatostatin ). The cells that synthesize digestive enzymes must be located where cell products can enter ducts to ultimately empty into the duodenum. Likewise, the cells that synthesize endocrine hormones must be located near a blood vessel to put their products into systemic circulation. In order to accomplish this the cell must go through three stages: specification, determination, and differentiation."
+    },
+    {
+     "t": "h",
+     "x": "Specification/Determination"
+    },
+    {
+     "t": "p",
+     "x": "The initial stage of cell specialization is specification , in which the cell is reversibly designated as a specific cell type. This is followed by determination , which was previously defined as the commitment of a cell to a particular function in the future. Prior to determination the cell can become any cell type, even if it has already gone through specification. After determination the cell is irreversibly committed to a specific lineage. There are multiple pathways by which determination may occur. During cleavage, where the existing mRNA and protein in the parent cell has been asymmetrically distributed between the daughter cells, the presence of specific mRNA and protein molecules may result in determination. Determination may also occur due to secretion of specific molecules from nearby cells. These molecules, also called morphogens , may cause neighboring cells to follow a particular developmental pathway. Determination is a commitment to a particular cell type, but note that the cell has not yet actually produced what it needs to carry out the functions of that cell type—that is the goal of differentiation."
+    },
+    {
+     "t": "h",
+     "x": "Differentiation"
+    },
+    {
+     "t": "p",
+     "x": "After a cell’s fate has been determined, the cell must begin to undertake changes that cause the cell to develop into the determined cell type. This includes changing the structure, function, and biochemistry of the cell to match the cell type, a process called differentiation ."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "When a cell is determined, it is committed to a particular cell lineage. When the cell differentiates, it assumes the structure, function, and biochemistry of that cell type."
+    },
+    {
+     "t": "p",
+     "x": "Cells that have not yet differentiated or that give rise to other cells that will differentiate are known as stem cells . Stem cells exist in embryonic tissues as well as adult tissues. The tissues a particular stem cell can differentiate into are determined by its potency . Cells with the greatest potency are called totipotent and include embryonic stem cells; totipotent cells can differentiate into any cell type, either in the fetus or in placental structures. After the 16-cell stage, the cells of the morula begin to differentiate into two groups: the inner cell mass and the trophoblast. After a few more cycles of cell division these totipotent cells start to differentiate into the three germ cell layers. At this stage, the cells are said to be pluripotent ; these cells can differentiate into any cell type except for those found in the placental structures. Finally, as the cells continue to become more specialized they are said to be multipotent stem cells, which can differentiate into multiple types of cells within a particular group. For example, hematopoietic stem cells are capable of differentiating into all of the cells found in blood, including the various types of white blood cells, red blood cells, and platelets—but not into skin cells, neurons, or muscle cells. While we use all of these different terms to describe potency, it is important to recognize that potency is a spectrum—not a series of strict definitions. Also, note that stem cells exist not only in embryos, but also in adults who have stem cells that give rise to skin, blood, and the epithelial lining of the digestive tract, among others."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Stem cells are able to differentiate into different cell types. The potency of the stem cell determines how many different cell types a stem cell can become. As cells become more differentiated, the potency of the cell decreases (from totipotent to pluripotent to multipotent)."
+    },
+    {
+     "t": "p",
+     "x": "Over the last few decades, stem cell research has been a hotly contested issue. While harvesting of embryonic stem cells, highlighted in Figure 3.8, ultimately results in destruction of the embryo, it is thought that these cells could be used to regenerate human tissues, including the spinal cord (following injury) and the heart (following a heart attack). There are also immunologic concerns, as transplantation of stem cells of a different genetic makeup could evoke an immune response, resulting in rejection. In addition, once implanted, pluripotent cells may not necessarily differentiate into the desired tissue and may even become cancerous."
+    },
+    {
+     "t": "p",
+     "x": "In order to address this controversy, many researchers have begun investigating adult stem cells. At best, these cells are multipotent, able to differentiate into only a few different cell types. Researchers may take adult stem cells and use various transcription factors to increase potency in these cells. One of the potential advantages of this approach is that a stem cell can be taken from a patient (usually from blood, bone marrow, or adipose tissue), induced to become a different tissue type, and then implanted into that same patient. This offers reduced risk of rejection of foreign tissue. However, it is challenging to induce differentiation into the correct cell type, and most organs have a complex structure that depends on a number of different cell types, each of which requires different signals. Research is ongoing and holds promise, despite limited success."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "Stem cells are a cornerstone of biotechnology. Gene studies can be performed by introducing altered embryonic stem cells that contain transgenes into mice. Stem cells lacking a particular gene can be used to create knockout mice. These processes are discussed in Chapter 6 of MCAT Biochemistry Review ."
+    },
+    {
+     "t": "h",
+     "x": "Cell–Cell Communication"
+    },
+    {
+     "t": "p",
+     "x": "The determination and differentiation of a cell depends on the location of the cell as well as the identity of the surrounding cells. The developing cell receives signals from organizing cells around it and may also secrete its own signaling molecules. As discussed previously, surrounding tissues induce a developing cell to become a particular cell type via inducers; the term inducer may also refer to the cell secreting the signal. The cell that is induced is called a responder (responsive cell); to be induced, a responder must be competent , or able to respond to the inducing signal."
+    },
+    {
+     "t": "p",
+     "x": "Cell–cell communication can occur via autocrine, paracrine, juxtacrine, or endocrine signals. Autocrine signals act on the same cell that secreted the signal in the first place. Paracrine signals act on cells in the local area. Juxtacrine signals do not usually involve diffusion, but involve a cell directly stimulating receptors of an adjacent cell. Finally, endocrine signals involve secreted hormones that travel through the bloodstream to a distant target tissue."
+    },
+    {
+     "t": "h",
+     "x": "Inducers"
+    },
+    {
+     "t": "p",
+     "x": "Inducers are often growth factors , which are peptides that promote differentiation and mitosis in certain tissues. Most growth factors only function on specific cell types or in certain areas, as determined by the competence of these cells. In this way, certain growth factors can code for particular tissues. For example, PAX6 is expressed in the ectoderm of the head, but in no other location. Therefore, as the optic vesicle approaches the overlying ectoderm producing this factor, development of the lens of the eye is induced. Interestingly, induction is not always a one-way pathway. To that end, differentiation of the lens then triggers the optic vesicle to form the optic cup, which ultimately becomes the retina. This is known as reciprocal development . Most tissues will be exposed to multiple inducers during the course of development."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "In development of the eyes, lateral outpocketings from the brain (optic vesicles) grow out and touch the overlying ectoderm. The optic vesicle induces the ectoderm to form the lens placode. The lens placode in turn induces the optic vesicle to create the optic cup. The optic cup then induces the lens placode to develop into the cornea and lens. Experiments with frog embryos show that if this ectoderm is subsequently transplanted to the trunk (after the optic vesicles have grown out), a lens will develop in the trunk. If, however, the ectoderm is transplanted before the outgrowth of the optic vesicles, it will not."
+    },
+    {
+     "t": "p",
+     "x": "One of the main methods of signaling occurs via the use of gradients. Morphogens, or molecules that cause determination of cells, diffuse throughout the organism. Locations closer to the origin of the morphogen will be exposed to higher concentrations, while areas further away will have less exposure. Multiple morphogens are secreted simultaneously, resulting in unique combinations of morphogen exposure throughout the organism, which can thereby induce the differentiation of specific cell types. Some common morphogens include transforming growth factor beta (TGF- β ), sonic hedgehog (Shh), and epidermal growth factor (EGF)."
+    },
+    {
+     "t": "h",
+     "x": "Cell Migration, Cell Death, and Regeneration"
+    },
+    {
+     "t": "p",
+     "x": "Induction and differentiation lead to the creation of different types of cells; however, these cells are not always in the right location to carry out their function. Further, the sculpting of various anatomic structures requires not only differentiation, but also the death of some cells. Certain organs also have the ability to recreate injured or surgically removed portions of tissue."
+    },
+    {
+     "t": "h",
+     "x": "Cell Migration"
+    },
+    {
+     "t": "p",
+     "x": "Cells must be able to disconnect from adjacent structures and migrate to their correct location. For example, the anterior pituitary gland originates from a segment of oral ectoderm and must migrate from the top of the mouth to its final location just below the hypothalamus. Neural crest cells also undergo extensive migration. These cells form at the edge of the neural folds during neurulation and then migrate throughout the body to form many different structures including the sensory ganglia, autonomic ganglia, adrenal medulla, and Schwann cells, as well as specific cell types in other tissues such as calcitonin-producing cells of the thyroid, melanocytes in the skin, and others."
+    },
+    {
+     "t": "h",
+     "x": "Cell Death"
+    },
+    {
+     "t": "p",
+     "x": "Apoptosis , or programmed cell death, occurs at various times in development. For example, the fingers are originally webbed during development of the hand. The cells of the webbing later undergo apoptosis, resulting in separation of each individual finger and toe. Apoptosis may occur via apoptotic signals or preprogramming."
+    },
+    {
+     "t": "p",
+     "x": "During the process of apoptosis the cell undergoes changes in morphology and divides into many self-contained protrusions called apoptotic blebs , which can then be broken apart into apoptotic bodies and digested by other cells, as shown in Figure 3.9. This allows recycling of materials. Because the blebs are contained by a membrane, this also prevents the release of potentially harmful substances into the extracellular environment. This is different from necrosis , which is a process of cell death in which a cell dies as a result of injury. In necrosis, internal substances can be leaked, causing irritation of nearby tissues or even an immune response."
+    },
+    {
+     "t": "h",
+     "x": "Regeneration"
+    },
+    {
+     "t": "p",
+     "x": "Regenerative capacity , or the ability of an organism to regrow certain parts of the body, varies from species to species. Some species, such as salamanders and newts, have an enhanced capacity to regenerate because they retain extensive clusters of stem cells within their bodies. When regeneration is required, these stem cells can then migrate to the appropriate part of the body to initiate regrowth. These species are said to undergo complete regeneration , in that the lost or damaged tissues are replaced with identical tissues. In contrast, incomplete regeneration implies that the newly formed tissue is not identical in structure or function to the tissue that has been injured or lost."
+    },
+    {
+     "t": "p",
+     "x": "Humans typically exhibit incomplete regeneration in response to injury. However, in humans regenerative capacity varies by the tissue type. Liver tissue has a high regenerative capacity, often able to undergo extensive regeneration following injury or loss. For example, living donors are often able to donate up to 50 percent of their liver tissue because their own livers will regenerate the missing portion. Unfortunately, the heart has little, if any, regenerative capacity, and scarring often results following an injury due to an event such as a heart attack. The kidneys have moderate regenerative capacity and are able to repair nephrons after injury to the tubules; however this regenerative capacity is easily overwhelmed, and kidney failure may result."
+    },
+    {
+     "t": "h",
+     "x": "Senescence and Aging"
+    },
+    {
+     "t": "p",
+     "x": "As organisms age, changes occur in both molecular and cellular structure. This results in disruption of metabolism and, eventually, death of the organism. Senescence , or biological aging, can occur at the cellular and organismal level as these changes accumulate. At the cellular level, senescence results in the failure of cells to divide, normally after approximately 50 divisions in vitro . Research has demonstrated that this may be due to shortened telomeres , or the ends of chromosomes. Telomeres reduce the loss of genetic information from the ends of chromosomes and help prevent the DNA from unraveling—their high concentration of guanine and cytosine enables telomeres to “knot off” the end of the chromosome. Telomeres are difficult to replicate, however, so they shorten during each round of DNA synthesis. Eventually, the telomeres become too short, and the cell is no longer able to replicate. Some cells, including germ cells, fetal cells, and tumor cells, express an enzyme known as telomerase . This enzyme is a reverse transcriptase that is able to synthesize the ends of chromosomes, preventing senescence. Telomerase allows cells to divide indefinitely and may play a role in the survival of cancer cells."
+    },
+    {
+     "t": "p",
+     "x": "At the organismal level, senescence represents changes in the body’s ability to respond to a changing environment. Aging is complex and often involves not only cellular senescence but also the accumulation of chemical and environmental insults over time."
+    }
+   ]
+  },
+  {
+   "title": "3.3 Fetal Circulation",
+   "goals": [
+    "Recall the oxygenation status of blood in umbilical arteries and umbilical veins",
+    "Identify the three fetal shunts, their locations, and the organs they bypass"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch03_embryogenesis_and_development/03_03a_umbilical_cord_with_umbilical_arteries_c.png",
+     "alt": "umbilical cord with umbilical arteries carrying deoxygenated blood to chorion, where it picks up oxygen from maternal blood and returns via umbilical vein",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch03_embryogenesis_and_development/03_03b_foramen_ovale_ductus_arteriosus_and_duct.png",
+     "alt": "foramen ovale, ductus arteriosus, and ductus venosus labeled with the structures they attach",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "Recall that the placenta, shown in Figure 3.10, is the organ where nutrient, gas, and waste exchange occurs. It is crucial that maternal and fetal blood do not mix because they may be different blood types. The simplest method to move nutrients and waste products is by diffusion, the preferred method for water, glucose, amino acids, and inorganic salts. Diffusion requires a gradient, which implies there is a higher partial pressure of oxygen in maternal blood than in fetal blood. To further enhance the transfer of oxygen from maternal to fetal circulation, fetal blood cells contain fetal hemoglobin ( HbF ), which has a greater affinity for oxygen than maternal (adult) hemoglobin (primarily HbA). This also assists with the transfer (and retention) of oxygen into the fetal circulatory system. Waste material and carbon dioxide move in the opposite direction."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Although the embryo obtains its nutrients and oxygen from the mother, there is no actual mixing of the blood. Instead, the placenta depends on the close proximity of the embryonic and maternal bloodstreams, facilitating diffusion between them."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Remember, gas exchange in the fetus occurs across the placenta. Fetal lungs do not function until birth."
+    },
+    {
+     "t": "p",
+     "x": "The placental barrier also serves another function: immunity. The fetus is immunologically naïve because it has not yet been exposed to any pathogens; however, accidental exposure can happen in utero . Thus, the crossing of antibodies across the placental membrane serves a protective function. The placenta also qualifies as an endocrine organ because it produces progesterone, estrogen, and human chorionic gonadotropin (hCG), all which are essential for maintaining pregnancy."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Many pathogens are too large to cross the placental barrier by diffusion, but a set of pathogens called TORCHES infections can cross this barrier and cause significant birth defects. Therefore, screening for (and sometimes immunization against) these infections is recommended in pregnancy. TORCHES stands for TO xoplasma gondii , R ubella, C ytomegalovirus, HE rpes or H IV, and S yphilis."
+    },
+    {
+     "t": "p",
+     "x": "The umbilical vessels are commonly tested on the MCAT because they demonstrate the need to understand the proper biological definitions of artery and vein. Like all other arteries that carry blood away from the heart, the umbilical arteries carry blood away from the fetus toward the placenta. And, like all of the other veins that carry blood toward the heart, the umbilical vein carries blood toward the fetus from the placenta. Remember that oxygenation occurs at the placenta, rather than in the fetal lungs. Therefore, the umbilical arteries carry deoxygenated blood and the umbilical vein carries oxygenated blood."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Unlike most other arteries, the umbilical arteries carry deoxygenated blood with waste products. Unlike most other veins, the umbilical vein carries oxygenated blood with nutrients."
+    },
+    {
+     "t": "p",
+     "x": "There are several key differences between fetal and adult circulation that demonstrate important characteristics of the developing organism. The lungs and liver both do not serve significant functions prior to birth. Gas exchange does not occur at the lungs, but rather at the placenta. Detoxification and metabolism are primarily controlled by the mother’s liver, and nutrient and waste exchange occurs at the placenta as well. Thus, the fetus does not depend on its own lungs and liver. Notably, these two organs are both underdeveloped and sensitive to the high blood pressures they will receive in postnatal life; thus, the fetus constructs three shunts to actively direct blood away from these organs while they develop, as shown in Figure 3.11."
+    },
+    {
+     "t": "p",
+     "x": "Two different shunts are used to reroute blood from the lungs. The first, called the foramen ovale , is a one-way valve that connects the right atrium to the left atrium. This allows blood entering the right atrium from the inferior vena cava to flow into the left atrium instead of the right ventricle, and thereby be pumped through the aorta into systemic circulation directly. Unlike in adult circulation, the right side of the heart is at a higher pressure in the developing fetus than the left side, which pushes blood through the opening. After birth, this pressure differential reverses, shutting the foramen ovale. Second, the ductus arteriosus shunts leftover blood from the pulmonary artery to the aorta. Again, the pressure differential between the right and left sides of the heart pushes blood through this opening and into systemic circulation."
+    },
+    {
+     "t": "p",
+     "x": "The liver is bypassed via the ductus venosus , which shunts blood returning from the placenta via the umbilical vein directly into the inferior vena cava. The liver still receives some blood supply from smaller hepatic arteries in the systemic circulation."
+    }
+   ]
+  },
+  {
+   "title": "3.4 Gestation and Birth",
+   "goals": [
+    "Identify the major developmental features of each trimester",
+    "Describe the three stages of birth",
+    "Recall key concepts and terms used for the birth process, including parturition, prostaglandins, oxytocin, and afterbirth"
+   ],
+   "figures": [],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "Human gestation lasts an estimated 280 days, which are divided into three trimesters. As a general rule, the larger the animal, the longer the gestational period and the fewer the offspring per pregnancy. For example, elephants usually have one calf and gestate for 22 months. In contrast, mice have 10 to 12 offspring per litter and gestate for only 20 days. Although you don’t need to know every detail of gestation for the MCAT, there are key developmental events in each trimester with which you should be familiar."
+    },
+    {
+     "t": "h",
+     "x": "First Trimester"
+    },
+    {
+     "t": "p",
+     "x": "The major organs begin to develop during the first few weeks. The heart begins to beat at approximately 22 days, and soon afterward the eyes, gonads, limbs, and liver start to form. By five weeks the embryo is 10 mm in length, and by week six it has grown to 15 mm. The cartilaginous skeleton begins to harden into bone by the seventh week. By the end of eight weeks most of the organs have formed, the brain is fairly developed, and the embryo becomes known as a fetus . At the end of the third month the fetus is about 9 cm long."
+    },
+    {
+     "t": "h",
+     "x": "Second Trimester"
+    },
+    {
+     "t": "p",
+     "x": "During the second trimester the fetus undergoes a tremendous amount of growth. It begins to move within the amniotic fluid, its face takes on a human appearance, and its toes and fingers elongate. By the end of the sixth month the fetus measures 30 to 36 cm long."
+    },
+    {
+     "t": "h",
+     "x": "Third Trimester"
+    },
+    {
+     "t": "p",
+     "x": "The seventh and eighth months are characterized by continued rapid growth and further brain development. Antibodies are transported by highly selective active transport from the mother to the fetus for protection against foreign agents in preparation for life outside the womb; this transfer begins earlier in pregnancy, but is highest in the ninth month just before birth. The growth rate slows and the fetus becomes less active, as it has less room to move about."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Advances in medicine have allowed premature babies born as early as 24 weeks to survive—far short of the normal 40 weeks. While these neonates may survive, there are often severe complications because fetal development is not complete at 24 weeks. These problems are most apparent in the respiratory, gastrointestinal, and nervous systems."
+    },
+    {
+     "t": "h",
+     "x": "Birth"
+    },
+    {
+     "t": "p",
+     "x": "Vaginal childbirth, or parturition , is accomplished by rhythmic contractions of uterine smooth muscle, coordinated by prostaglandins and the peptide hormone oxytocin . Birth consists of three basic phases. First, the cervix thins out and the amniotic sac ruptures, which is commonly called water breaking . Next, strong uterine contractions result in the birth of the fetus. Finally, the placenta and umbilical cord are expelled; these are often referred to as the afterbirth ."
+    }
+   ]
+  }
+ ],
+ "conceptSummary": [
+  {
+   "section": "Early Developmental Stages",
+   "points": [
+    "Fertilization is the joining of a sperm and an ovum. It usually occurs in the ampulla of the fallopian tube. The sperm uses acrosomal enzymes to penetrate the corona radiata and zona pellucida. Once it contacts the oocyte’s plasma membrane, the sperm establishes the acrosomal apparatus and injects its pronucleus. When the first sperm penetrates it causes a release of calcium ions, which prevents additional sperm from fertilizing the egg and increases the metabolic rate of the resulting diploid zygote . This is called the cortical reaction .",
+    "It usually occurs in the ampulla of the fallopian tube.",
+    "The sperm uses acrosomal enzymes to penetrate the corona radiata and zona pellucida.",
+    "Once it contacts the oocyte’s plasma membrane, the sperm establishes the acrosomal apparatus and injects its pronucleus.",
+    "When the first sperm penetrates it causes a release of calcium ions, which prevents additional sperm from fertilizing the egg and increases the metabolic rate of the resulting diploid zygote . This is called the cortical reaction .",
+    "Fraternal ( dizygotic ) twins result from the fertilization of two eggs by two different sperm. Identical ( monozygotic ) twins result from the splitting of a zygote in two. Monozygotic twins can be classified by the placental structures they share (mono- vs . diamniotic, mono- vs . dichorionic).",
+    "Cleavage refers to the early divisions of cells in the embryo. These mitotic divisions result in a larger number of smaller cells, as the overall volume does not change. The zygote becomes an embryo after the first cleavage because it is no longer unicellular. Indeterminate cleavage results in cells that are capable of becoming any cell in the organism, while determinate cleavage results in cells that are committed to differentiating into a specific cell type.",
+    "The zygote becomes an embryo after the first cleavage because it is no longer unicellular.",
+    "Indeterminate cleavage results in cells that are capable of becoming any cell in the organism, while determinate cleavage results in cells that are committed to differentiating into a specific cell type.",
+    "The morula is a solid mass of cells seen in early development.",
+    "The blastula ( blastocyst ) has a fluid-filled center called a blastocoel and has two different structures: the trophoblast (which becomes placental structures) and the inner cell mass (which becomes the developing organism). The blastula implants in the endometrial lining and forms the placenta . The chorion contains chorionic villi , which penetrate the endometrium and create the interface between maternal and fetal blood. Before the placenta is established, the embryo is supported by the yolk sac . The allantois is involved in early fluid exchange between the embryo and the yolk sac. The amnion lies just inside the chorion and produces amniotic fluid. The developing organism is connected to the placenta via the umbilical cord .",
+    "The blastula implants in the endometrial lining and forms the placenta .",
+    "The chorion contains chorionic villi , which penetrate the endometrium and create the interface between maternal and fetal blood.",
+    "Before the placenta is established, the embryo is supported by the yolk sac .",
+    "The allantois is involved in early fluid exchange between the embryo and the yolk sac.",
+    "The amnion lies just inside the chorion and produces amniotic fluid.",
+    "The developing organism is connected to the placenta via the umbilical cord .",
+    "During gastrulation , the archenteron is formed with a blastopore at the end. As the archenteron grows through the blastocoel it contacts the opposite side, establishing three primary germ layers. The ectoderm becomes epidermis, hair, nails, and the epithelia of the nose, mouth, and anal canal, as well as the nervous system (including adrenal medulla) and lens of the eye. The mesoderm becomes much of the the musculoskeletal, circulatory, and excretory systems. Mesoderm also gives rise to the gonads and the muscular and connective tissue layers of the digestive and respiratory systems, as well as the adrenal cortex. The endoderm becomes much of the epithelial linings of the respiratory and digestive tracts and parts of the pancreas, thyroid, bladder, and distal urinary tracts.",
+    "The ectoderm becomes epidermis, hair, nails, and the epithelia of the nose, mouth, and anal canal, as well as the nervous system (including adrenal medulla) and lens of the eye.",
+    "The mesoderm becomes much of the the musculoskeletal, circulatory, and excretory systems. Mesoderm also gives rise to the gonads and the muscular and connective tissue layers of the digestive and respiratory systems, as well as the adrenal cortex.",
+    "The endoderm becomes much of the epithelial linings of the respiratory and digestive tracts and parts of the pancreas, thyroid, bladder, and distal urinary tracts.",
+    "Neurulation , or development of the nervous system, begins after the formation of the three germ layers. The notochord induces a group of overlying ectodermal cells to form neural folds surrounding a neural groove . The neural folds fuse to form the neural tube , which becomes the central nervous system. The tip of each neural fold contains neural crest cells , which become the peripheral nervous system (sensory ganglia, autonomic ganglia, adrenal medulla, and Schwann cells), as well as specific cell types in other tissues (calcitonin-producing cells of the thyroid, melanocytes in the skin, and others).",
+    "The notochord induces a group of overlying ectodermal cells to form neural folds surrounding a neural groove .",
+    "The neural folds fuse to form the neural tube , which becomes the central nervous system.",
+    "The tip of each neural fold contains neural crest cells , which become the peripheral nervous system (sensory ganglia, autonomic ganglia, adrenal medulla, and Schwann cells), as well as specific cell types in other tissues (calcitonin-producing cells of the thyroid, melanocytes in the skin, and others).",
+    "Teratogens are substances that interfere with development, causing defects or even death of the developing embryo. Teratogens include alcohol, certain prescription drugs, viruses, bacteria, and environmental chemicals.",
+    "Maternal conditions can affect development, including diabetes (increased fetal size and hypoglycemia after birth) and folic acid deficiency (neural tube defects)."
+   ]
+  },
+  {
+   "section": "Mechanisms of Development",
+   "points": [
+    "Cell specialization occurs as a result of determination and differentiation. Determination is the commitment to a specific cell lineage, which may be accomplished by uneven segregation of cellular material during mitosis or with morphogens , which promote development down a specific cell line. To respond to a specific morphogen, a cell must have competency . Differentiation refers to the changes a cell undergoes due to selective transcription to take on characteristics appropriate to its cell line.",
+    "Determination is the commitment to a specific cell lineage, which may be accomplished by uneven segregation of cellular material during mitosis or with morphogens , which promote development down a specific cell line. To respond to a specific morphogen, a cell must have competency .",
+    "Differentiation refers to the changes a cell undergoes due to selective transcription to take on characteristics appropriate to its cell line.",
+    "Stem cells are cells that are capable of developing into various cell types. They can be classified by potency. Totipotent cells are able to differentiate into all cell types, including the three germ layers and placental structures. Pluripotent cells are able to differentiate into all three of the germ layers and their derivatives. Multipotent cells are able to differentiate only into a specific subset of cell types.",
+    "Totipotent cells are able to differentiate into all cell types, including the three germ layers and placental structures.",
+    "Pluripotent cells are able to differentiate into all three of the germ layers and their derivatives.",
+    "Multipotent cells are able to differentiate only into a specific subset of cell types.",
+    "Cells communicate through a number of different signaling methods. An inducer releases factors to promote the differentiation of a competent responder . Autocrine signals act on the same cell that released the signal. Paracrine signals act on local cells. Juxtacrine signals act through direct stimulation of adjacent cells. Endocrine signals act on distant tissues after traveling through the bloodstream. These are often growth factors , which are peptides that promote differentiation and mitosis in certain tissues. If two tissues both induce further differentiation in each other, this is reciprocal induction . Signaling often occurs via gradients.",
+    "Autocrine signals act on the same cell that released the signal.",
+    "Paracrine signals act on local cells.",
+    "Juxtacrine signals act through direct stimulation of adjacent cells.",
+    "Endocrine signals act on distant tissues after traveling through the bloodstream.",
+    "These are often growth factors , which are peptides that promote differentiation and mitosis in certain tissues.",
+    "If two tissues both induce further differentiation in each other, this is reciprocal induction .",
+    "Signaling often occurs via gradients.",
+    "Cells may need to migrate to arrive at their correct location.",
+    "Apoptosis is programmed cell death via the formation of apoptotic blebs that can subsequently be absorbed and digested by other cells. Apoptosis can be used for sculpting certain anatomical structures, such as removing the webbing between digits.",
+    "Regenerative capacity is the ability of an organism to regrow certain parts of the body. The liver has high regenerative capacity, while the heart has low regenerative capacity.",
+    "Senescence is the result of multiple molecular and metabolic processes, most notably, the shortening of telomeres during cell division."
+   ]
+  },
+  {
+   "section": "Fetal Circulation",
+   "points": [
+    "Nutrient, gas, and waste exchange occurs at the placenta.",
+    "Oxygen and carbon dioxide are passively exchanged due to concentration gradients.",
+    "Fetal hemoglobin ( HbF ) has a higher affinity for oxygen than adult hemoglobin (primarily HbA); this affinity assists in the transfer (and retention) of oxygen into the fetal circulatory system.",
+    "The placental barrier also serves as immune protection against many pathogens, and antibodies are transferred from mother to child.",
+    "The placenta serves endocrine functions, secreting estrogen, progesterone, and human chorionic gonadotropin (hCG).",
+    "The umbilical arteries carry deoxygenated blood from the fetus to the placenta; the umbilical vein carries oxygenated blood from the placenta back to the fetus.",
+    "The fetal circulatory system differs from its adult version by having three shunts: The foramen ovale connects the right atrium to the left atrium, bypassing the lungs. The ductus arteriosus connects the pulmonary artery to the aorta, bypassing the lungs. The ductus venosus connects the umbilical vein to the inferior vena cava, bypassing the liver.",
+    "The foramen ovale connects the right atrium to the left atrium, bypassing the lungs.",
+    "The ductus arteriosus connects the pulmonary artery to the aorta, bypassing the lungs.",
+    "The ductus venosus connects the umbilical vein to the inferior vena cava, bypassing the liver."
+   ]
+  },
+  {
+   "section": "Gestation and Birth",
+   "points": [
+    "In the first trimester, organogenesis occurs (development of heart, eyes, gonads, limbs, liver, brain).",
+    "In the second trimester, tremendous growth occurs, movement begins, the face becomes distinctly human, and the digits elongate.",
+    "In the third trimester, rapid growth and brain development continue, and there is transfer of antibodies to the fetus.",
+    "During birth the cervix thins out and the amniotic sac ruptures. Then, uterine contractions, coordinated by prostaglandins and oxytocin, result in birth of the fetus. Finally, the placenta and umbilical cord are expelled."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following developmental stages has the greatest nuclear-to-cytoplasmic ratio?",
+   "choices": [
+    "Eight-cell embryo",
+    "Morula",
+    "Blastula",
+    "Zygote"
+   ],
+   "correct": 2,
+   "explanation": "The question is asking us to determine the developmental stage with the greatest nuclear-to-cytoplasmic material ratio. During the series of rapid mitotic divisions known as cleavage, the number of cells increases dramatically but the overall volume of the embryo does not change. In fact, the volume of the embryo does not significantly increase until after the blastula has already implanted. Therefore, a high ratio of nuclear to cytoplasmic material will be found at the stage with the greatest number of cells during early development. From the given choices, the stage with the greatest number of cells is the blastula. This is further supported by the fact that the cells are displaced from the center by the blastocoel."
+  },
+  {
+   "q": "Which of the following associations of a primary germ layer and an adult organ is correct?",
+   "choices": [
+    "Endoderm—cardiac muscle",
+    "Endoderm—lens of the eye",
+    "Ectoderm—fingernails",
+    "Mesoderm—lining of digestive tract"
+   ],
+   "correct": 2,
+   "explanation": "To answer this question, it could be useful to review quickly the embryonic layers. The ectoderm gives rise to the integument (the epidermis, hair, nails, and the epithelia of the nose, mouth, and anal canal), the lens of the eye, and the nervous system (including the adrenal medulla). The endoderm gives rise to the epithelial linings of the digestive and respiratory tracts and parts of the liver, pancreas, thyroid, and bladder. Finally, the mesoderm gives rise to the musculoskeletal system, the circulatory system, the excretory system, the gonads, and the adrenal cortex. Therefore, the only correct association can be found in (C) because the fingernails are derived from ectoderm."
+  },
+  {
+   "q": "From which of the following layers does the notochord form?",
+   "choices": [
+    "Ectoderm",
+    "Mesoderm",
+    "Endoderm",
+    "Archenteron"
+   ],
+   "correct": 1,
+   "explanation": "A rod of mesodermal cells called the notochord develops along the longitudinal axis just under the dorsal layer of ectoderm. Through inductive effects from the notochord, the overlying ectoderm starts bending inward and forms a groove on the dorsal surface of the embryo. The dorsal ectoderm will eventually pinch off and develop into the spinal cord and brain. While the neural tube forms from ectoderm, the notochord itself is mesodermal."
+  },
+  {
+   "q": "The influence of a specific group of cells on the differentiation of another group of cells is called:",
+   "choices": [
+    "competence.",
+    "senescence.",
+    "determination.",
+    "induction."
+   ],
+   "correct": 3,
+   "explanation": "The influence of a specific group of cells on the differentiation of another group of cells is termed induction. For example, the eyes are formed through reciprocal induction between the brain and the ectoderm. Competence refers to the ability of a cell to respond to a given inducer, but not the influence of the group of organizing cells, eliminating (A) . Senescence is a term for biological aging, eliminating (B) . Determination may be the result of induction, but this term does not refer to the general concept of the effect of one group of cells on the differentiation of another group of cells, eliminating (C) ."
+  },
+  {
+   "q": "Which of the following is likely to be found in maternal blood during pregnancy?",
+   "choices": [
+    "Immunoglobulins produced by the fetus",
+    "Fetal hemoglobin released from fetal red blood cells",
+    "Progesterone produced by placental cells",
+    "Carbon dioxide exhaled from fetal lungs"
+   ],
+   "correct": 2,
+   "explanation": "During pregnancy, the placenta produces estrogen and progesterone to maintain the endometrium. These hormones are necessary for proper gestation of the fetus and should be measurable in maternal blood because they act on maternal organs. Prior to birth, the fetus is immunologically naïve and does not yet produce immunoglobulins, eliminating (A) . It is worth noting, though, that maternal immunoglobulins cross the placenta to enter fetal blood. Fetal hemoglobin is a large protein and, thus, cannot easily cross the placenta. Further, red blood cells are much too large to cross the barrier themselves, eliminating (B) . Carbon dioxide from fetal metabolism can be found in maternal blood, but the fetal lungs are nonfunctional prior to birth as the fetus is suspended in amniotic fluid. Carbon dioxide is transferred across the placenta directly from the fetal bloodstream, eliminating (D) ."
+  },
+  {
+   "q": "A cell releases a substance that diffuses through the environment, resulting in differentiation of a nearby cell. This is an example of what type of cell–cell communication?",
+   "choices": [
+    "Autocrine",
+    "Juxtacrine",
+    "Paracrine",
+    "Endocrine"
+   ],
+   "correct": 2,
+   "explanation": "The question stem states that a cell releases a substance that diffuses through the environment and causes differentiation of a nearby cell. Because the cell is acting on a nearby cell and the molecule spreads by diffusion, this is an example of paracrine signaling. Autocrine signaling, (A) , occurs when a molecule secreted by a cell acts on the same cell. Juxtacrine signaling, (B) , occurs between adjacent cells, but the signal does not spread by diffusion. In endocrine signaling, (D) , a molecule is secreted that travels via the bloodstream to a distant target."
+  },
+  {
+   "q": "A cancer cell is removed from a patient and cultured. The cells in this culture seem to be able to divide indefinitely with no cellular senescence. Which protein is likely activated in these cells that accounts for this characteristic?",
+   "choices": [
+    "Epidermal growth factor",
+    "Sonic hedgehog",
+    "Transforming growth factor beta",
+    "Telomerase"
+   ],
+   "correct": 3,
+   "explanation": "Cells that are able to divide indefinitely with no senescence are not exhibiting normal cell behavior. Normally, somatic cells divide a limited number of times until the telomeres become too short to be effective protectors of genomic material. When this occurs, the cells stop dividing. However, in this case, the cells have continued to divide indefinitely. It is likely that the enzyme telomerase has been activated, which allows for synthesis of telomeres to counteract shortening during mitosis."
+  },
+  {
+   "q": "A tumor is removed from a patient and when investigated by pathologists, appears to contain tissue resembling placenta, hair, thyroid tissue, and cardiac muscle. What was the likely potency of the cells from which this tumor originated?",
+   "choices": [
+    "Nonpotent",
+    "Multipotent",
+    "Pluripotent",
+    "Totipotent"
+   ],
+   "correct": 3,
+   "explanation": "This question stem describes a tumor composed of multiple types of embryonic tissues as well as tissues derived from all three germ cell layers. Because this tumor contains placental tissue, the tumor must have originated from a cell that was able to produce those types of tissues. Cells capable of producing placental tissue as well as ectoderm, mesoderm, and endoderm are, by definition, totipotent."
+  },
+  {
+   "q": "Which of the following is FALSE with regard to adult stem cells?",
+   "choices": [
+    "They retain inherent pluripotency if harvested from selected organs.",
+    "They are less controversial than embryonic stem cells.",
+    "They require treatment with various transcription factors.",
+    "There is a reduced risk of rejection if the patient’s own stem cells are used."
+   ],
+   "correct": 0,
+   "explanation": "Embryonic stem cells are controversial because they require destruction of an embryo to harvest, eliminating (B) . Adult stem cells are significantly less controversial, but require treatment with various transcription factors in order to increase the level of potency, eliminating (C) . Rejection is a concern when foreign cells are introduced into an individual; using one’s own stem cells should remove this risk, eliminating (D) . Adult stem cells are not naturally pluripotent, unless pluripotency has been induced by strategic use of transcription factors. Therefore, (A) is the correct answer."
+  },
+  {
+   "q": "A child is born with an imperforate anus, in which the anal canal fails to form correctly and the rectum is not connected to the outside world. This pathology is most likely accounted for by a failure of:",
+   "choices": [
+    "cell differentiation.",
+    "cell determination.",
+    "apoptosis.",
+    "neurulation."
+   ],
+   "correct": 2,
+   "explanation": "During development, programmed cell death occurs in multiple locations in order to ensure development of the correct adult structures. One of the places in which this occurs is between fingers and toes; another is the digestive tract, where a central lumen is formed. If apoptosis does not occur correctly in the digestive tract, an imperforate anus could result. Failure of determination or differentiation would likely result in the absence of anorectal structures altogether, eliminating (A) and (B) . Failure of neurulation would lead to the absence of a nervous system and would not be compatible with life, eliminating (D) ."
+  },
+  {
+   "q": "Following a myocardial infarction, the heart often heals by the creation of a scar by fibroblasts. This is an example of:",
+   "choices": [
+    "complete regeneration.",
+    "incomplete regeneration.",
+    "competency.",
+    "multipotency."
+   ],
+   "correct": 1,
+   "explanation": "After an injury, healing occurs by some sort of regenerative process. In humans, some tissues, such as the liver, are capable of regenerating tissue with much the same function and structure as the original tissue. However, the heart is not capable of this sort of regeneration, often forming a fibrous scar in an area of injury. This is an example of incomplete regeneration, in which newly formed tissues are not identical in structure or function to the tissues that have been injured or lost."
+  },
+  {
+   "q": "Neurofibromatosis type I, or von Recklinghausen’s disease, is a disorder that causes formation of tumors in multiple nervous system structures as well as the skin. While all cells carry the same mutation on chromosome 17, selective transcription of the genome appears to cause the most significant tumorigenesis in which of the following primary germ tissue layers?",
+   "choices": [
+    "Ectoderm",
+    "Mesoderm",
+    "Endoderm",
+    "Notochord"
+   ],
+   "correct": 0,
+   "explanation": "Here, the mutation affects the skin and the nervous system, both of which are derived from ectoderm. The other germ tissue layers do not lead to skin or nervous system formation, eliminating (B) and (C) . The notochord is not actually a primary germ tissue layer, and thus cannot be an answer to the question, eliminating (D) ."
+  },
+  {
+   "q": "Which of the following shows the correct order of early developmental milestones during embryogenesis?",
+   "choices": [
+    "Blastula → gastrula → morula",
+    "Morula → gastrula → blastula",
+    "Morula → blastula → gastrula",
+    "Gastrula → blastula → morula"
+   ],
+   "correct": 2,
+   "explanation": "After the first cell divisions occur, the embryo consists of a solid ball of cells known as a morula. Then a hollow center forms, creating the blastula. Finally, as the cells begin to differentiate into the three germ layers, the embryo is considered a gastrula. (C) is therefore the correct answer."
+  },
+  {
+   "q": "A pregnant women is accidentally given a single dose of a teratogenic drug late in the third trimester. The baby is born three days later. Which of the following is the most likely outcome?",
+   "choices": [
+    "Complete failure of organ development and death of the fetus",
+    "Partial failure of organ development with survival of the fetus",
+    "Serious disfigurement of the fetus",
+    "Respiratory distress at birth, but no long-term effects"
+   ],
+   "correct": 3,
+   "explanation": "The question stem states that the pregnant woman was given the drug three days before the baby was born. It is important to remember that organogenesis occurs during the first trimester. The last structure to become fully functional is the lungs. Because the organs were already largely formed prior to the administration of the teratogenic drug, it is likely that there was no major effect on the development of most organs as a result of exposure to the teratogen, eliminating (A) , (B) , and (C) . However, because lung tissues are so sensitive and because they mature so late, it is likely that the infant may have some respiratory distress at birth."
+  },
+  {
+   "q": "Which of the following statements regarding fetal circulation is FALSE?",
+   "choices": [
+    "In the umbilical cord, there are more arteries than veins.",
+    "The foramen ovale is the only shunt that connects two chambers of the heart.",
+    "Blood flow in the ductus arteriosus is from the aorta to the pulmonary artery.",
+    "The ductus venosus is the only shunt that bypasses the liver."
+   ],
+   "correct": 2,
+   "explanation": "Blood flow in the ductus arteriosus is from the pulmonary artery to the aorta. The direction of flow is determined by the pressure differential between the right side of the heart (and pulmonary circulation) and the left side of the heart (and systemic circulation). Unlike in adults, the right side of the heart is at a higher pressure during prenatal life than the left side, so blood will shunt from the pulmonary circulation to the systemic circulation through both the foramen ovale and ductus arteriosus."
+  }
+ ]
+}

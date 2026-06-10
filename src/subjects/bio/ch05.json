@@ -1,0 +1,968 @@
+{
+ "id": 5,
+ "num": 5,
+ "title": "The Endocrine System",
+ "slug": "ch05_the_endocrine_system",
+ "sections": [
+  {
+   "title": "5.1 Mechanisms of Hormone Action",
+   "goals": [
+    "Compare and contrast the traits and actions of peptide vs. steroid hormones",
+    "Recall the process for synthesizing amino acid–derivative hormones",
+    "Distinguish between direct and tropic hormones"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch05_the_endocrine_system/05_01a_g_protein_coupled_receptor_simulates_ade.png",
+     "alt": "G protein-coupled receptor simulates adenylate cyclase, forming cAMP, which activates protein kinase A, phosphorylating CREB, which moves to the nucleus and activates transcription of a gene",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch05_the_endocrine_system/05_01b_estrogen_enters_cell_binds_to_receptor_c.png",
+     "alt": "estrogen enters cell, binds to receptor; complex binds to estrogen response element, creating transcription complex and leading to cell division",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "The endocrine system consists of organs, known as glands , that secrete hormones. Hormones are signaling molecules that are secreted directly into the bloodstream to distant target tissues At target tissues, hormones bind to receptors, inducing a change in gene expression or cellular functioning. Not all hormones share the same structure and function. In order to understand how each hormone functions, it is first important to understand basic hormone structure."
+    },
+    {
+     "t": "h",
+     "x": "Classification of Hormones by Chemical Structure"
+    },
+    {
+     "t": "p",
+     "x": "Hormones can be subdivided into categories based on different criteria. First, hormones can be classified by their chemical identities. Hormones can be peptides , steroids , or amino acid derivatives ."
+    },
+    {
+     "t": "h",
+     "x": "Peptide Hormones"
+    },
+    {
+     "t": "p",
+     "x": "Peptide hormones are made up of amino acids, ranging in size from quite small (such as anti-diuretic hormone, ADH) to relatively large (such as insulin). Peptide hormones are all derived from larger precursor polypeptides that are cleaved during posttranslational modification. These smaller units are transported to the Golgi apparatus for further modifications that activate the hormones and direct them to the correct locations in the cell. Such hormones are released by exocytosis after being packaged into vesicles."
+    },
+    {
+     "t": "p",
+     "x": "Because peptide hormones are charged and cannot pass through the plasma membrane, they must bind to an extracellular receptor. The peptide hormone is considered the first messenger ; it binds to the receptor and triggers the transmission of a second signal, known as the second messenger . There are many different receptor subtypes, and the type of receptor determines what happens once the hormone has stimulated the receptor."
+    },
+    {
+     "t": "p",
+     "x": "The connection between the hormone at the surface and the effect brought about by second messengers within the cell is known as a signaling cascade . At each step, there is the possibility of amplification . For example, one hormone molecule may bind to multiple receptors before it is degraded. Also, each receptor may activate multiple enzymes, each of which will trigger the production of large quantities of second messengers. Thus, each step can result in an increase in signal intensity. Some common second messengers are cyclic adenosine monophosphate ( cAMP ), inositol triphosphate ( IP 3 ), and calcium. The activation of a G protein–coupled receptor is shown in Figure 5.1. In this system, the binding of a peptide hormone triggers the receptor to either activate or inhibit an enzyme called adenylate cyclase , raising or lowering the levels of cAMP accordingly. cAMP can bind to intracellular targets, such as protein kinase A , which phosphorylates transcription factors like cAMP response element-binding protein (CREB) to exert the hormone’s ultimate effect. Keep in mind that protein kinase A can modify other enzymes as well as transcription factors, and therefore it can have a rapid or slow effect on the cell."
+    },
+    {
+     "t": "p",
+     "x": "The effects of peptide hormones are usually rapid but short-lived because these hormones act through second messenger cascades, which are transient. It is quicker to turn them on and off, compared with steroid hormones, but their effects do not last without relatively constant stimulation."
+    },
+    {
+     "t": "p",
+     "x": "Because peptides are generally water-soluble, peptide hormones can travel freely in the bloodstream and usually do not require carriers. This is in stark contrast to steroid hormones, which are lipid-soluble."
+    },
+    {
+     "t": "h",
+     "x": "Steroid Hormones"
+    },
+    {
+     "t": "p",
+     "x": "Steroid hormones are derived from cholesterol and are produced primarily by the gonads and adrenal cortex. Because steroid hormones are derived from nonpolar molecules, they can easily cross the cell membrane. Hence, their receptors are usually intracellular (in the cytosol) or intranuclear (in the nucleus). Upon binding to the receptor, steroid hormone–receptor complexes undergo conformational changes. The receptor can then bind directly to DNA, resulting in either increased or decreased transcription of particular genes, depending on the identity of the hormone, as shown in Figure 5.2. One common form of conformational change is dimerization , or pairing of two receptor–hormone complexes. The effects of steroid hormones are slower but longer-lived than peptide hormones because steroid hormones participate in gene regulation, causing alterations in the amount of mRNA and protein present in a cell by direct action on DNA."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Peptide hormones have surface receptors and act via second messenger systems. Steroid hormones bind to intracellular receptors and function by binding to DNA to alter gene transcription."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Insulin is a peptide hormone, and it has to be released at every meal in order to be active. Thus, it has fast onset but is short-acting (like most peptide hormones). Estrogen and testosterone are steroid hormones that promote sexual maturation. This is a slower, but longer-lasting change (as is true for most steroid hormones)."
+    },
+    {
+     "t": "p",
+     "x": "Steroid hormones are not water-soluble, so they must be carried by proteins in the bloodstream to travel around the body. Some of these proteins are very specific and carry only one hormone (such as sex hormone-binding globulin ), while other proteins are nonspecific (such as albumin ). Note that hormones are generally inactive while attached to a carrier protein and must dissociate from the carrier to function. Therefore, levels of carrier proteins can change the levels of active hormone. For example, some conditions increase the quantity of a protein that carries thyroid hormones, thyroxine-binding globulin (TBG). This causes the body to perceive a lower level of thyroid hormone because the increased quantity of TBG binds a larger proportion of the hormone, meaning there is less free hormone available."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "During pregnancy, high levels of estrogen and progesterone cause increased production of TBG, thyroxine-binding globulin. In order to compensate, pregnant women secrete much higher levels of the thyroid hormones. Thus, in order to diagnose thyroid disease in a pregnant woman, different reference values must be used."
+    },
+    {
+     "t": "h",
+     "x": "Amino Acid–Derivative Hormones"
+    },
+    {
+     "t": "p",
+     "x": "Finally, amino acid–derivative hormones are less common than peptide and steroid hormones, but include some of the most important hormones discussed in this chapter, including epinephrine, norepinephrine, triiodothyronine, and thyroxine. These hormones are derived from one or two amino acids, usually with a few additional modifications. For example, thyroid hormones are made from tyrosine modified by the addition of several iodine atoms."
+    },
+    {
+     "t": "p",
+     "x": "The chemistry of this family of hormones is considerably less predictable and is one of the few instances where overt memorization may be the best strategy. For instance, the catecholamines (epinephrine and norepinephrine) bind to G protein–coupled receptors, while thyroid hormones bind intracellularly."
+    },
+    {
+     "t": "callout",
+     "kind": "warn",
+     "title": "MCAT Expertise",
+     "x": "The mechanism of action of the amino acid–derivative hormones should be memorized because it is so unpredictable. Epinephrine and norepinephrine have extremely fast onset but are short-lived, like peptide hormones—think of an adrenaline rush . Thyroxine and triiodothyronine, on the other hand, have slower onset but a longer duration, like steroid hormones—they regulate metabolic rate over a long period of time."
+    },
+    {
+     "t": "h",
+     "x": "Classification of Hormones by Target Tissue"
+    },
+    {
+     "t": "p",
+     "x": "Some hormones, known as direct hormones , are secreted and then act directly on a target tissue. For example, insulin released by the pancreas causes increased uptake of glucose by muscles. Other hormones, known as tropic hormones , require an intermediary to act. For example, as discussed in Chapter 2 of MCAT Biology Review , gonadotropin-releasing hormone (GnRH) from the hypothalamus stimulates the release of luteinizing hormone (LH) and follicle-stimulating hormone (FSH). LH then acts on the gonads to stimulate testosterone production in the male and estrogen production in the female. GnRH and LH do not cause direct changes in the physiology of muscle, bone, and hair follicles; rather, they stimulate the production of another hormone by another endocrine gland that acts on these target tissues. Tropic hormones usually originate in the brain and anterior pituitary gland, allowing for the coordination of multiple processes within the body."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Most peptide and amino acid–derivative hormones have names that end in – in or – ine (insul in , vasopress in , thyrox ine , triiodothyron ine , and so on). Most steroid hormones have names that end in – one , – ol , or – oid (testoster one , aldoster one and other mineralocortic oid s, cortis ol and other glucocortic oid s, and so on). This is not exhaustive, but may help you identify the chemistry of a hormone on Test Day."
+    }
+   ]
+  },
+  {
+   "title": "5.2 Endocrine Organs and Hormones",
+   "goals": [
+    "Recall the hormones involved in calcium homeostasis and their impact on blood calcium",
+    "Identify the tissue that synthesizes catecholamines and the major catecholamines it produces",
+    "List the pancreatic hormones, their regulators, and their impact on blood glucose concentration",
+    "Recall details about the hormones involved in water homeostasis, including their production, action, and ultimate impact on blood volume and osmolarity",
+    "Recall the releasing hormones produced by the hypothalamus, their pituitary targets, and the end result of each signaling pathway on the final target organ:"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch05_the_endocrine_system/05_02a_labeled_hypothalamus_pineal_gland_pituit.png",
+     "alt": "labeled: hypothalamus, pineal gland, pituitary gland (hypophysis), thyroid, parathyroids, adrenals, pancreas, ovaries, testes",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch05_the_endocrine_system/05_02b_hypothalamus_with_neurosecretory_cells_a.png",
+     "alt": "hypothalamus with neurosecretory cells attached to capillary bed, which flows through portal vein to hypophysis",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch05_the_endocrine_system/05_02c_hypothalamus_releases_crf_stimulating_an.png",
+     "alt": "hypothalamus releases CRF, stimulating anterior pituitary to release ACTH, stimulating adrenal cortex to release cortisol, which inhibits hypothalamus and anterior pituitary from further release",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch05_the_endocrine_system/05_02d_adh_release_stimulated_by_decreased_bloo.png",
+     "alt": "ADH release stimulated by decreased blood volume/decreased activity of stretch receptors/increased osmolarity; causes increased water reabsorption in renal collecting ducts",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch05_the_endocrine_system/05_02e_hypothalamus_secretes_trh_stimulating_an.png",
+     "alt": "hypothalamus secretes TRH, stimulating anterior pituitary to secrete TSH, stimulating thyroid gland to release T3 and T4, which decrease TRH and TSH secretion",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch05_the_endocrine_system/05_02f_plasma_calcium_inhibits_pth_pth_increase.png",
+     "alt": "plasma calcium inhibits PTH; PTH increases calcium mobilization from bone, renal reabsorption, converstion of vitamin D to active form, and decreases renal phosphate reabsorption; vitamin D increases GI absorption of calcium and phosphate",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch05_the_endocrine_system/05_02g_pathway_flowchart_as_described_in_previo.png",
+     "alt": "pathway flowchart as described in previous paragraph",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch05_the_endocrine_system/05_02h_gross_anatomy_of_pancreas_pancreatic_duc.png",
+     "alt": "gross anatomy of pancreas: pancreatic duct, accessory pancreatic duct, common bilde duct, duodenal papilla and duodenum; microscopic: acini (exocrine) and islets (endocrine)",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch05_the_endocrine_system/05_02i_description_given_in_caption.png",
+     "alt": "description given in caption",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "The hypothalamus, the pituitary, the thyroid, the parathyroid glands, the adrenal glands, the pancreas, the gonads (testes and ovaries), and the pineal gland are all endocrine glands, as shown in Figure 5.3. Each of these organs is capable of synthesizing and secreting one or more hormones. Furthermore, there are collections of cells within organs, such as the kidneys, gastrointestinal glands, heart, and thymus, that serve important endocrine roles. The organs in this second group are traditionally not called endocrine organs because hormone production is not their main function."
+    },
+    {
+     "t": "p",
+     "x": "Now that we have discussed the mechanisms through which hormones act and their classification, we can discuss the individual endocrine organs and the hormones secreted by each."
+    },
+    {
+     "t": "h",
+     "x": "Hypothalamus"
+    },
+    {
+     "t": "p",
+     "x": "Let’s begin with the hypothalamus , the bridge between the nervous and endocrine systems. By regulating the pituitary gland through tropic hormones, the hypothalamus is capable of having organism-wide effects. The hypothalamus is located in the forebrain, directly above the pituitary gland and below the thalamus (hence the name hypo thalamus). Because the hypothalamus and the pituitary are close to each other, the hypothalamus controls the pituitary through paracrine release of hormones into a portal system that directly connects the two organs. The hypothalamus receives input from a wide variety of sources. For example, a part of the hypothalamus called the suprachiasmatic nucleus receives some of the light input from the retinae and helps to control sleep–wake cycles. Other parts of the hypothalamus respond to increases in blood osmolarity. Still other parts of the hypothalamus regulate appetite and satiety."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "The hypothalamus contains a number of nuclei in its three sections, called the lateral, ventromedial, and anterior hypothalamus. These nuclei play roles in emotional experience, aggressive behavior, sexual behavior, metabolism, temperature regulation, and water balance. The parts of the hypothalamus are discussed in Chapter 1 of MCAT Behavioral Sciences Review ."
+    },
+    {
+     "t": "p",
+     "x": "The release of hormones by the hypothalamus is regulated by negative feedback. Negative feedback occurs when a hormone (or product) later in the pathway inhibits hormones (or enzymes) earlier in the pathway. This type of feedback maintains homeostasis and conserves energy by restricting production of substances that are already present in sufficient quantities. The hypothalamus and pituitary gland are inextricably linked. The pituitary gland has an anterior and posterior component, each with a unique interaction with the hypothalamus. We will discuss each in turn."
+    },
+    {
+     "t": "h",
+     "x": "Interactions with the Anterior Pituitary"
+    },
+    {
+     "t": "p",
+     "x": "The hypothalamus secretes compounds into the hypophyseal portal system , which is a blood vessel system that directly connects the hypothalamus with the anterior pituitary, as shown in Figure 5.4. Thus, hormones released from the hypothalamus travel directly to the anterior pituitary and cannot be found in appreciable concentrations in the systemic circulation. Note that hypophysis is an alternative term for the pituitary. Once hormones have been released from the hypothalamus into this portal bloodstream, they travel down the pituitary stalk and bind to receptors in the anterior pituitary, stimulating the release of other hormones."
+    },
+    {
+     "t": "p",
+     "x": "The hypothalamus secretes several different tropic hormones. The following indicates each hormone released by the hypothalamus and the hormone(s) released by the anterior pituitary in response:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Gonadotropin-releasing hormone (GnRH) → follicle-stimulating hormone (FSH) and luteinizing hormone (LH)",
+      "Growth hormone–releasing hormone (GHRH) → growth hormone (GH)",
+      "Thyroid-releasing hormone (TRH) → thyroid-stimulating hormone (TSH)",
+      "Corticotropin-releasing factor (CRF) → adrenocorticotropic hormone (ACTH)"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "There is one exception to this pattern—prolactin-inhibiting factor (PIF), which is actually dopamine, is released by the hypothalamus and causes a decrease in prolactin secretion."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Whereas most of the hormones in the anterior pituitary require a factor from the hypothalamus to be released, prolactin is the exception. As long as the hypothalamus releases PIF (which is actually dopamine), no prolactin will be released. It is the absence of PIF that allows prolactin to be released."
+    },
+    {
+     "t": "p",
+     "x": "Each of the tropic hormones then causes the release of another hormone from an endocrine gland that has negative feedback effects. For example, release of CRF from the hypothalamus will stimulate the anterior pituitary to secrete ACTH. ACTH will then cause the adrenal cortex to increase the level of cortisol being secreted into the blood. However, cortisol is detrimental when levels become too high. To prevent excess cortisol secretion, cortisol inhibits the hypothalamus and anterior pituitary from releasing CRF and ACTH, respectively, as shown in Figure 5.5. This makes sense because CRF and ACTH have already accomplished their desired effect: getting more cortisol into the blood. What does this mean in terms of receptors in the hypothalamus and pituitary? Cortisol receptors must be present in these organs; otherwise, they wouldn’t be able to recognize that cortisol levels had increased. Three-organ systems like these are commonly referred to as axes ; for example, the hypothalamic–pituitary–adrenal (HPA) axis, the hypothalamic–pituitary–ovarian (HPO) axis, and so on."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Although it seems as if the anterior pituitary has all the power in the endocrine system, it is controlled by the hypothalamus, which is located directly above it."
+    },
+    {
+     "t": "h",
+     "x": "Interactions with the Posterior Pituitary"
+    },
+    {
+     "t": "p",
+     "x": "The posterior pituitary does not receive tropic hormones through the hypophyseal portal system. Rather, neurons in the hypothalamus send their axons down the pituitary stalk directly into the posterior pituitary, which can then release oxytocin and antidiuretic hormone. Oxytocin stimulates uterine contractions during labor, as well as milk letdown during lactation. There is evidence that oxytocin is also involved in bonding behavior. Antidiuretic hormone ( ADH , also called vasopressin ) increases reabsorption of water in the collecting ducts of the kidneys. ADH is secreted in response to increased plasma osmolarity, or increased concentration of solutes within the blood."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "A tumor of the pituitary gland may result in compression of the portal system that connects the pituitary to the hypothalamus. This will block the ability of PIF to reach the pituitary and exert its effect. Thus, more prolactin will be released. This may result in lactation (galactorrhea), even in males. Thus, milk production in a male or nonpregnant female should lead a physician to suspect the presence of a pituitary tumor."
+    },
+    {
+     "t": "h",
+     "x": "Anterior Pituitary"
+    },
+    {
+     "t": "p",
+     "x": "As described earlier, the pituitary gland is divided into anterior and posterior sections. Because this distinction has already been covered, our discussion of the pituitary gland here will focus on the hormones released by each section."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Products of the anterior pituitary: FLAT PEG F ollicle-stimulating hormone (FSH) L uteinizing hormone (LH) A drenocorticotropic hormone (ACTH) T hyroid-stimulating hormone (TSH) P rolactin E ndorphins G rowth hormone (GH) Additionally, the four hormones in FLAT are all tropic hormones, while the three hormones in PEG are all direct hormones."
+    },
+    {
+     "t": "p",
+     "x": "The anterior pituitary synthesizes and secretes seven different products. Four of these are tropic hormones, while the other three are direct hormones."
+    },
+    {
+     "t": "h",
+     "x": "Tropic Hormones"
+    },
+    {
+     "t": "p",
+     "x": "We are going to mention the tropic hormones only briefly here. These hormones work by causing the release of another hormone at the organ level. Thus, we will discuss the tropic hormones in tandem with the endocrine organ on which they act. The release of both follicle-stimulating hormone (FSH) and luteinizing hormone (LH) is stimulated by gonadotropin-releasing hormone (GnRH) from the hypothalamus. These two hormones act on the gonads (testes and ovaries). The release of adrenocorticotropic hormone (ACTH) is stimulated by corticotropin-releasing factor (CRF) from the hypothalamus; ACTH acts on the adrenal cortex. The release of thyroid-stimulating hormone (TSH) is stimulated by thyroid-releasing hormone (TRH) from the hypothalamus; TSH acts on the thyroid."
+    },
+    {
+     "t": "h",
+     "x": "Direct Hormones"
+    },
+    {
+     "t": "p",
+     "x": "Prolactin is more important in females than in males; it stimulates milk production in the mammary glands . Milk production in the male is always pathologic. During pregnancy, estrogen and progesterone levels are high. In addition, prolactin, a hormone that increases milk production, is also secreted by the anterior pituitary. Prolactin is an unusual hormone in that the release of dopamine from the hypothalamus decreases its secretion. The high levels of estrogen and progesterone allow for the development of milk ducts in preparation for lactation, but it is not until shortly after the expulsion of the placenta, when estrogen, progesterone, and dopamine levels drop, that the block on milk production is removed and lactation actually begins."
+    },
+    {
+     "t": "p",
+     "x": "Milk ejection occurs when the newborn infant latches on to the breast. Nipple stimulation causes activation of the hypothalamus, resulting in two different reactions. First, oxytocin is released from the posterior pituitary, resulting in contraction of the smooth muscle of the breast and ejection of milk through the nipple. Second, the hypothalamus stops releasing dopamine onto the anterior pituitary, which allows prolactin release, causing production of milk and regulation of the milk supply."
+    },
+    {
+     "t": "p",
+     "x": "Endorphins decrease the perception of pain. For example, after completing a marathon, many people will say they are on an endorphin “high” or “rush.” Endorphins mask the pain from having run 26.2 miles and can even induce a sense of euphoria. Many pharmaceutical agents, such as morphine, mimic the effect of these naturally occuring painkillers."
+    },
+    {
+     "t": "p",
+     "x": "Growth hormone ( GH ) is named for exactly what it does: it promotes the growth of bone and muscle. This sort of growth is energetically expensive and requires large quantities of glucose. Growth hormone prevents glucose uptake in certain tissues (those that are not growing) and stimulates the breakdown of fatty acids. This increases the availability of glucose overall, allowing muscle and bone to use it. GH release is stimulated by growth hormone–releasing hormone (GHRH) from the hypothalamus."
+    },
+    {
+     "t": "p",
+     "x": "Bone growth originates in special regions of the bone known as epiphyseal plates, which seal shut during puberty. An excess of GH released in childhood (before this closure) can cause gigantism , and a deficit results in dwarfism . In adults, the situation is slightly different. Because the long bones are sealed, GH still has an effect, but it is primarily in the smaller bones. The resulting medical condition is known as acromegaly . The bones most commonly affected are those in the hands, feet, and head. Patients with acromegaly tend to seek medical help because they have had to buy larger shoes, cannot wear their rings, and can no longer fit into their hats."
+    },
+    {
+     "t": "h",
+     "x": "Posterior Pituitary"
+    },
+    {
+     "t": "p",
+     "x": "The posterior pituitary contains the nerve terminals of neurons with cell bodies in the hypothalamus. As mentioned earlier, the posterior pituitary receives and stores two hormones produced by the hypothalamus: ADH and oxytocin."
+    },
+    {
+     "t": "p",
+     "x": "ADH is secreted in response to low blood volume (as sensed by baroreceptors) or increased blood osmolarity (as sensed by osmoreceptors), shown in Figure 5.6. Its action is at the level of the collecting duct, where it increases the permeability of the duct to water. This increases the reabsorption of water from the filtrate in the nephron. This results in greater retention of water, which results in increased blood volume and higher blood pressure."
+    },
+    {
+     "t": "p",
+     "x": "Oxytocin is secreted during childbirth and allows for coordinated contraction of uterine smooth muscle. Its secretion may also be stimulated by suckling, as it promotes milk ejection through contraction of smooth muscle in the breast. Finally, oxytocin may be involved in bonding behavior. Oxytocin is unusual in that it has a positive feedback loop: the release of oxytocin promotes uterine contraction, which promotes more oxytocin release, which promotes stronger uterine contractions, and so on. Positive feedback loops can usually be identified by a “spiraling forward” scheme and usually have a definitive endpoint—in this case, delivery."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "The two hormones released from the posterior pituitary are actually synthesized in the hypothalamus and simply released from the posterior pituitary gland. The posterior pituitary does not synthesize any hormones itself."
+    },
+    {
+     "t": "h",
+     "x": "Thyroid"
+    },
+    {
+     "t": "p",
+     "x": "The thyroid is controlled by thyroid-stimulating hormone from the anterior pituitary. The thyroid is on the front surface of the trachea; it can be palpated (felt) as an organ near the base of the neck that moves up and down with swallowing. The thyroid has two major functions: setting basal metabolic rate and promoting calcium homeostasis. It mediates the first effect by releasing triiodothyronine (T 3 ) and thyroxine (T 4 ), while it carries out the second effect through the release of calcitonin."
+    },
+    {
+     "t": "h",
+     "x": "Triiodothyronine and Thyroxine"
+    },
+    {
+     "t": "p",
+     "x": "Triiodothyronine ( T 3 ) and thyroxine ( T 4 ) are both produced by the iodination of the amino acid tyrosine in the follicular cells of the thyroid. The numbers 3 and 4 refer to the number of iodine atoms attached to the tyrosine. Thyroid hormones are capable of resetting the basal metabolic rate of the body by making energy production more or less efficient, as well as altering the utilization of glucose and fatty acids. Increased amounts of T 3 and T 4 will lead to increased cellular respiration. This leads to increased protein and fatty acid turnover by speeding up both synthesis and degradation of these compounds. High plasma levels of thyroid hormones will lead to decreased TSH and TRH synthesis; negative feedback prevents excessive secretion of T 3 and T 4 , as shown in Figure 5.7."
+    },
+    {
+     "t": "p",
+     "x": "A deficiency of iodine or inflammation of the thyroid may result in hypothyroidism , in which thyroid hormones are secreted in insufficient amounts or not at all. The condition is characterized by lethargy, decreased body temperature, slowed respiratory and heart rate, cold intolerance, and weight gain. Thyroid hormones are required for appropriate neurological and physical development in children. Most children are tested at birth for appropriate levels because a deficiency will result in intellectual disability and developmental delay ( cretinism )."
+    },
+    {
+     "t": "p",
+     "x": "An excess of thyroid hormone, which may result from a tumor or thyroid overstimulation, is called hyperthyroidism . We can predict the clinical course of this syndrome by considering the opposite of each of the effects seen in hypothyroidism: heightened activity level, increased body temperature, increased respiratory and heart rate, heat intolerance, and weight loss."
+    },
+    {
+     "t": "h",
+     "x": "Calcitonin"
+    },
+    {
+     "t": "p",
+     "x": "If we were to examine thyroid tissue under a light microscope, we would see two distinct cell populations within the gland. Follicular cells produce thyroid hormones and C-cells (also called parafollicular cells ) produce calcitonin . Calcitonin decreases plasma calcium levels in three ways: by increasing calcium excretion from the kidneys, by decreasing calcium absorption from the gut, and by increasing storage of calcium in the bone. High levels of calcium in the blood stimulate secretion of calcitonin from the C-cells."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Calci ton in ton es down calcium levels in the blood."
+    },
+    {
+     "t": "h",
+     "x": "Parathyroid Glands"
+    },
+    {
+     "t": "p",
+     "x": "The parathyroids are four small pea-sized structures that sit on the posterior surface of the thyroid. The hormone produced by the parathyroid glands is aptly named parathyroid hormone ( PTH ). PTH serves as an antagonistic hormone to calcitonin, raising blood calcium levels; specifically, it decreases excretion of calcium by the kidneys, increases absorption of calcium in the gut (via vitamin D), and increases bone resorption, thereby freeing up calcium, as shown in Figure 5.8. Like the hormones we have already seen, PTH is also subject to feedback inhibition. As levels of plasma calcium rise, PTH secretion is decreased. Parathyroid hormone also promotes phosphorus homeostasis by increasing the resorption of phosphate from bone and reducing reabsorption of phosphate in the kidney (thus promoting its excretion in the urine)."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Calcium is an exceptionally important ion. The critically important functions of calcium include: Bone structure and strength Release of neurotransmitters from neurons Regulation of muscle contraction Clotting of blood (calcium is a cofactor) In addition, calcium also plays a role in cell movement and exocytosis of cellular materials."
+    },
+    {
+     "t": "p",
+     "x": "PTH also activates vitamin D , which is required for the absorption of calcium and phosphate in the gut. The overall effect of parathyroid hormone, therefore, is a significant increase in blood calcium levels with little effect on phosphate (the absorption of phosphate in the gut and its excretion in the kidney somewhat cancel each other)."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Just like glucagon and insulin, PTH and calcitonin are antagonistic to each other. We should think of these hormones as a pair with the primary function of regulating calcium levels in the blood. PTH increases serum calcium levels, whereas calcitonin decreases calcium levels."
+    },
+    {
+     "t": "h",
+     "x": "Adrenal Cortex"
+    },
+    {
+     "t": "p",
+     "x": "The adrenal glands are located on top of the kidneys. Adrenal actually translates to near or next to the kidney . Each adrenal gland consists of a cortex and a medulla. This distinction is more than anatomical. Each part of the gland is responsible for the secretion of different hormones. The adrenal cortex secretes corticosteroids . These are steroid hormones that can be divided into three functional classes: glucocorticoids , mineralocorticoids , and cortical sex hormones ."
+    },
+    {
+     "t": "h",
+     "x": "Glucocorticoids"
+    },
+    {
+     "t": "p",
+     "x": "Glucocorticoids are steroid hormones that regulate glucose levels. In addition, these hormones also affect protein metabolism. The two glucocorticoids most likely to be tested on the MCAT are cortisol and cortisone . These hormones raise blood glucose by increasing gluconeogenesis and decreasing protein synthesis. Cortisol and cortisone can also decrease inflammation and immunologic responses. Cortisol is known as a stress hormone because it is released in times of physical or emotional stress. This increases blood sugar and provides a ready source of fuel in case the body must react quickly to a dangerous stimulus."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Many people who suffer from joint pain are treated with glucocorticoid injections into the joint space to decrease inflammation. In addition, glucocorticoids are used to treat systemic inflammation caused by allergic reactions or autoimmune disease."
+    },
+    {
+     "t": "p",
+     "x": "Glucocorticoid release is under the control of adrenocorticotropic hormone (ACTH) as described earlier. Corticotropin-releasing factor (CRF) from the hypothalamus promotes release of adrenocorticotropic hormone (ACTH) from the anterior pituitary, which promotes release of glucocorticoids from the adrenal cortex."
+    },
+    {
+     "t": "h",
+     "x": "Mineralocorticoids"
+    },
+    {
+     "t": "p",
+     "x": "Mineralocorticoids are used in salt and water homeostasis; their most profound effects are on the kidneys. The most noteworthy mineralocorticoid is aldosterone , which increases sodium reabsorption in the distal convoluted tubule and collecting duct of the nephron. Water follows the sodium cations into the bloodstream, increasing blood volume and pressure. Since water and sodium ions flow together, plasma osmolarity remains unchanged; this is in contrast to ADH, which only increases water reabsorption (decreasing plasma osmolarity). Aldosterone also decreases the reabsorption of potassium and hydrogen ions in these same segments of the nephron, promoting their excretion in the urine."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "In addition to stimulating the secretion of aldosterone, which increases blood volume and hence blood pressure, angiotensin II also increases blood pressure directly through a powerful vasoconstrictive effect and increases heart rate. Angiotensin-converting enzyme (ACE) inhibitors block the conversion of angiotensin I to angiotensin II, inhibiting vasoconstriction. Therefore, ACE inhibitors are frequently prescribed for the treatment of high blood pressure and congestive heart failure. In the latter case, vasodilation helps reduce vascular resistance, decreasing the pressure against which the failing heart must pump. ACE inhibitors’ generic names end with – pril ( lisinopril , enalapril , ramipril )."
+    },
+    {
+     "t": "p",
+     "x": "Unlike the glucocorticoids, aldosterone is primarily under the control of the renin–angiotensin–aldosterone system, as shown in Figure 5.9. Decreased blood pressure causes the juxtaglomerular cells of the kidney to secrete renin , which cleaves an inactive plasma protein, angiotensinogen , to its active form, angiotensin I . Angiotensin I is then converted to angiotensin II by angiotensin-converting enzyme ( ACE ) in the lungs. Angiotensin II stimulates the adrenal cortex to secrete aldosterone. Once blood pressure is restored, there is a decreased drive to stimulate renin release, thus serving as the negative feedback mechanism for this system."
+    },
+    {
+     "t": "h",
+     "x": "Cortical Sex Hormones"
+    },
+    {
+     "t": "p",
+     "x": "The adrenal glands also make cortical sex hormones ( androgens and estrogens ). Because the testes already secrete large quantities of androgens, adrenal testosterone plays a relatively small role in male physiology. But because the ovaries secrete far smaller amounts of androgens, females are much more sensitive to disorders of cortical sex hormone production. For example, certain enzyme deficiencies in the synthetic pathways of other adrenal cortex hormones result in excess androgen production in the adrenal cortex. Such a deficiency would result in no obvious phenotypic effects in a male fetus; however, a genotypic female may be born with ambiguous or masculinized genitalia due to the presence of excess cortical sex hormones. Males can be affected by similar disorders if they lead to excessive production of estrogens."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Functions of the corticosteroids: The 3 S ’s S alt (mineralocorticoids) S ugar (glucocorticoids) S ex (cortical sex hormones)"
+    },
+    {
+     "t": "h",
+     "x": "Adrenal Medulla"
+    },
+    {
+     "t": "p",
+     "x": "Nestled inside the adrenal cortex is the adrenal medulla. A derivative of the nervous system, this organ is responsible for the production of the sympathetic hormones epinephrine and norepinephrine . The specialized nerve cells in the medulla are capable of secreting these compounds directly into the bloodstream. Both epinephrine and norepinephrine are amino acid-derivative hormones that belong to a larger class of molecules known as catecholamines ."
+    },
+    {
+     "t": "p",
+     "x": "Much like the sympathetic component of the autonomic nervous system, the hormones released from the adrenal medulla have diverse system-wide effects, all centered on the fight-or-flight response. Epinephrine can increase the breakdown of glycogen to glucose (glycogenolysis) in both liver and muscle, as well as increase the basal metabolic rate. Both epinephrine and norepinephrine will increase heart rate, dilate the bronchi, and shunt blood flow to the systems that would be used in a sympathetic response. That is, there is vasodilation of blood vessels leading to increased bloodflow to the skeletal muscle, heart, lungs, and brain. Concurrently, vasoconstriction decreases bloodflow to the gut, kidneys, and skin. Note that the stress response involves both cortisol and epinephrine. Classically, cortisol is understood to mediate long-term (slow) stress responses, while catecholamines are understood to control short-term (fast) stress responses. In fact, cortisol actually increases the synthesis of catecholamines as well, resulting in an increase in catecholamine release."
+    },
+    {
+     "t": "h",
+     "x": "Pancreas"
+    },
+    {
+     "t": "p",
+     "x": "The pancreas has both exocrine and endocrine functions. Exocrine tissues secrete substances directly into ducts; the pancreas produces a number of digestive enzymes, as discussed in Chapter 9 of MCAT Biology Review . From an endocrine standpoint, small clusters of hormone-producing cells are grouped together into islets of Langerhans throughout the pancreas, as shown in Figure 5.10. Islets contain three distinct types of cells: alpha ( α ), beta ( β ), and delta ( δ ) cells . Each cell type secretes a different hormone: α -cells secrete glucagon , β -cells secrete insulin , and δ -cells secrete somatostatin ."
+    },
+    {
+     "t": "h",
+     "x": "Glucagon"
+    },
+    {
+     "t": "p",
+     "x": "Glucagon is secreted during times of fasting. When glucose levels are low, glucagon increases glucose production by triggering glycogenolysis, gluconeogenesis, and the degradation of protein and fat. In addition to low blood glucose concentrations, certain gastrointestinal hormones (such as cholecystokinin and gastrin) increase glucagon release from α -cells. When blood glucose concentrations are high, glucagon release is inhibited."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Glucagon levels are high when glucose is gone ."
+    },
+    {
+     "t": "h",
+     "x": "Insulin"
+    },
+    {
+     "t": "p",
+     "x": "Insulin is antagonistic to glucagon and is therefore secreted when blood glucose levels are high, as shown in Figure 5.11. Insulin induces muscle and liver cells to take up glucose and store it as glycogen for later use. In addition, because it is active when glucose levels are high, insulin stimulates anabolic processes such as fat and protein synthesis."
+    },
+    {
+     "t": "p",
+     "x": "In excess, insulin will cause hypoglycemia , which is characterized by low blood glucose concentration. Underproduction, insufficient secretion, or insensitivity to insulin all can result in diabetes mellitus , which is clinically characterized by hyperglycemia (excess glucose in the blood). In the kidneys, excessive glucose in the filtrate will overwhelm the nephron’s ability to reabsorb glucose, resulting in its presence in the urine. Because it is an osmotically active particle and does not readily cross the cell membrane, the presence of glucose in the filtrate leads to excess excretion of water and an increase—that is sometimes quite dramatic—in the urine volume. Therefore, diabetics often report polyuria (increased frequency of urination) and polydipsia (increased thirst). There are two types of diabetes mellitus. Type I (insulin-dependent) diabetes mellitus is caused by autoimmune destruction of the β -cells of the pancreas, resulting in low or absent insulin production. Type I diabetics require regular injections of insulin to prevent hyperglycemia and to permit uptake of glucose into cells. Type II (non-insulin-dependent) diabetes mellitus is the result of receptor-level resistance to the effects of insulin. Type II diabetes mellitus is partially inherited and partially due to environmental factors, such as high-carbohydrate diets and obesity. Certain pharmaceutical agents can be taken orally to help the body more effectively use the insulin it produces. These individuals require insulin only when their bodies can no longer control glucose levels, even when aided by these medications."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Insulin decreases plasma glucose. Glucagon increases plasma glucose. Growth hormone, glucocorticoids, and epinephrine are also capable of increasing plasma glucose. These hormones that raise blood glucose levels are commonly called counterregulatory hormones."
+    },
+    {
+     "t": "h",
+     "x": "Somatostatin"
+    },
+    {
+     "t": "p",
+     "x": "Somatostatin is an inhibitor of both insulin and glucagon secretion. High blood glucose and amino acid concentrations stimulate its secretion. Somatostatin is also produced by the hypothalamus, where it decreases growth hormone secretion in addition to its effects on insulin and glucagon."
+    },
+    {
+     "t": "h",
+     "x": "Gonads"
+    },
+    {
+     "t": "p",
+     "x": "Because reproductive endocrinology is discussed in detail in Chapter 2 of MCAT Biology Review , we offer only a brief overview in this chapter. The testes secrete testosterone in response to stimulation by gonadotropins (LH and FSH). Testosterone causes sexual differentiation of the male during gestation and also promotes the development and maintenance of secondary sex characteristics in males, such as axillary and pubic hair, deepening of the voice, and muscle growth."
+    },
+    {
+     "t": "p",
+     "x": "The ovaries secrete estrogen and progesterone in response to gonadotropins. Estrogen is involved in development of the female reproductive system during gestation and also promotes the development and maintenance of secondary sex characteristics in females, such as axillary and pubic hair, breast growth, and body fat redistribution. These two steroid hormones also govern the menstrual cycle as well as pregnancy."
+    },
+    {
+     "t": "h",
+     "x": "Pineal Gland"
+    },
+    {
+     "t": "p",
+     "x": "The pineal gland is located deep within the brain, where it secretes the hormone melatonin . The precise mechanism of this hormone is unclear, although it has been demonstrated to be involved in circadian rhythms . Blood levels of melatonin are at least partially responsible for the sensation of sleepiness. The pineal gland receives projections directly from the retina, but is not involved in vision; it is hypothesized that the pineal gland responds to decreases in light intensity by releasing melatonin."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Melatonin has enjoyed somewhat of a wonder drug status over the past decade as it is touted as a remedy for everything from jet lag to aging. Certainly, one effect of melatonin is to cause profound drowsiness, hence its use in “resetting” one’s daily rhythm. Melatonin is available over the counter in health food stores, but the long-term effects of melatonin therapy are currently unknown."
+    },
+    {
+     "t": "h",
+     "x": "Other Organs"
+    },
+    {
+     "t": "p",
+     "x": "In addition to the organs listed above, specific cells and tissues in other organs exhibit endocrine functions. In the gastrointestinal tract, endocrine tissue can be found in both the stomach and intestine. Many gastrointestinal peptides have been identified; important ones include secretin, gastrin, and cholecystokinin. The specific functions of these hormones are discussed in Chapter 9 of MCAT Biology Review , but as we might expect for the digestive system, the stimulus for release of most of these peptides is the presence of specific nutrients."
+    },
+    {
+     "t": "p",
+     "x": "The kidneys play a role in water balance. As mentioned earlier, ADH increases water permeability in the collecting duct, and the renin–angiotensin–aldosterone system increases sodium and water reabsorption in the distal convoluted tubule and collecting duct. The kidneys also produce erythropoietin , which stimulates bone marrow to increase production of erythrocytes (red blood cells). It is secreted in response to low oxygen levels in the blood."
+    },
+    {
+     "t": "p",
+     "x": "The heart releases atrial natriuretic peptide ( ANP ) to help regulate salt and water balance. When cells in the atria are stretched from excess blood volume, they release ANP. This hormone promotes excretion of sodium and therefore increases urine volume. This effect is functionally antagonistic to aldosterone because it lowers blood volume and pressure, and has no effect on blood osmolarity."
+    },
+    {
+     "t": "p",
+     "x": "The thymus, located directly behind the sternum, releases thymosin , which is important for proper T-cell development and differentiation. The thymus atrophies by adulthood, and thymosin levels drop accordingly. The function of T-cells is discussed in Chapter 8 of MCAT Biology Review ."
+    },
+    {
+     "t": "p",
+     "x": "A full list of hormones and their actions can be found in Table 5.1 below."
+    },
+    {
+     "t": "table",
+     "headers": [],
+     "rows": [
+      [
+       "Hormone",
+       "Source",
+       "Type",
+       "Action"
+      ],
+      [
+       "Follicle-stimulating hormone (FSH)",
+       "Anterior pituitary",
+       "Peptide",
+       "Stimulates follicle maturation in females; spermatogenesis in males"
+      ],
+      [
+       "Luteinizing hormone (LH)",
+       "Peptide",
+       "Stimulates ovulation in females; testosterone synthesis in males"
+      ],
+      [
+       "Adrenocorticotropic hormone (ACTH)",
+       "Peptide",
+       "Stimulates the adrenal cortex to synthesize and secrete glucocorticoids"
+      ],
+      [
+       "Thyroid-stimulating hormone (TSH)",
+       "Peptide",
+       "Stimulates the thyroid to produce thyroid hormones"
+      ],
+      [
+       "Prolactin",
+       "Peptide",
+       "Stimulates milk production and secretion"
+      ],
+      [
+       "Endorphins",
+       "Peptide",
+       "Decrease sensation of pain; can promote euphoria"
+      ],
+      [
+       "Growth hormone (GH)",
+       "Peptide",
+       "Stimulates bone and muscle growth; raises blood glucose levels"
+      ],
+      [
+       "Antidiuretic hormone (ADH; vasopressin)",
+       "Hypothalamus (released by posterior pituitary)",
+       "Peptide",
+       "Stimulates water reabsorption in kidneys by increasing permeability of collecting duct"
+      ],
+      [
+       "Oxytocin",
+       "Peptide",
+       "Stimulates uterine contractions during labor and milk secretion during lactation; may promote bonding behavior"
+      ],
+      [
+       "Triiodothyronine (T 3 ) and thyroxine (T 4 )",
+       "Thyroid (follicular cells)",
+       "Amino acid–derivative",
+       "Stimulate metabolic activity"
+      ],
+      [
+       "Calcitonin",
+       "Thyroid (parafollicular or C cells)",
+       "Peptide",
+       "Decreases blood calcium concentrations"
+      ],
+      [
+       "Parathyroid hormone (PTH)",
+       "Parathyroids",
+       "Peptide",
+       "Increases blood calcium concentrations"
+      ],
+      [
+       "Glucocorticoids (cortisol and cortisone)",
+       "Adrenal cortex",
+       "Steroid",
+       "Increase blood glucose concentrations; decrease protein synthesis; anti-inflammatory"
+      ],
+      [
+       "Mineralocorticoids (aldosterone)",
+       "Steroid",
+       "Increase water reabsorption in the kidneys by increasing sodium reabsorption; promote potassium and hydrogen ion excretion"
+      ],
+      [
+       "Epinephrine and norepinephrine",
+       "Adrenal medulla",
+       "Amino acid–derivative",
+       "Increase blood glucose concentrations and heart rate; dilate bronchi; alter blood flow patterns"
+      ],
+      [
+       "Glucagon",
+       "Pancreas ( α -cells)",
+       "Peptide",
+       "Stimulates glycogen breakdown (glycogenolysis); increases blood glucose concentrations"
+      ],
+      [
+       "Insulin",
+       "Pancreas ( β -cells)",
+       "Peptide",
+       "Lowers blood glucose concentrations and promotes anabolic processes"
+      ],
+      [
+       "Somatostatin",
+       "Pancreas ( δ -cells)",
+       "Peptide",
+       "Suppresses secretion of glucagon and insulin"
+      ],
+      [
+       "Testosterone",
+       "Testis (and adrenal cortex)",
+       "Steroid",
+       "Induces the development and maintenance of male reproductive system and male secondary sex characteristics"
+      ],
+      [
+       "Estrogen",
+       "Ovary (and placenta)",
+       "Steroid",
+       "Induces the development and maintenance of female reproductive system and female secondary sex characteristics"
+      ],
+      [
+       "Progesterone",
+       "Steroid",
+       "Promotes maintenance of the endometrium"
+      ],
+      [
+       "Melatonin",
+       "Pineal gland",
+       "Peptide",
+       "Involved in circadian rhythms"
+      ],
+      [
+       "Erythropoietin",
+       "Kidney",
+       "Peptide",
+       "Stimulates bone marrow to produce erythrocytes"
+      ],
+      [
+       "Atrial natriuretic peptide (ANP)",
+       "Heart (atria)",
+       "Peptide",
+       "Promotes salt and water excretion"
+      ],
+      [
+       "Thymosin",
+       "Thymus",
+       "Peptide",
+       "Stimulates T-cell development"
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "conceptSummary": [
+  {
+   "section": "Mechanisms of Hormone Action",
+   "points": [
+    "Endocrine signaling involves the secretion of hormones directly into the bloodstream. The hormones travel to distant target tissues, where they bind to receptors and induce a change in gene expression or cell function.",
+    "Peptide hormones are composed of amino acids and are derived from larger precursor proteins that are cleaved during posttranslational modification. Peptide hormones are polar and cannot pass through the plasma membrane. These hormones bind to extracellular receptors, where they trigger the transmission of a second messenger . Each step of the signaling cascade can induce amplification of the signal. Peptide hormones exert effects that usually have rapid onset but are short-lived. These hormones are water-soluble, so they travel freely in the bloodstream and do not require a special carrier.",
+    "Peptide hormones are polar and cannot pass through the plasma membrane.",
+    "These hormones bind to extracellular receptors, where they trigger the transmission of a second messenger .",
+    "Each step of the signaling cascade can induce amplification of the signal.",
+    "Peptide hormones exert effects that usually have rapid onset but are short-lived.",
+    "These hormones are water-soluble, so they travel freely in the bloodstream and do not require a special carrier.",
+    "Steroid hormones are derived from cholesterol. Steroid hormones are minimally polar and can pass through the plasma membrane. These hormones bind to and promote a conformational change in cytosolic or intranuclear receptors; the hormone–receptor complex binds to DNA, altering the transcription of a particular gene. Steroid hormones exert effects that usually have slow onset but are long-lived. Because these hormones are lipid-soluble, they cannot dissolve in the bloodstream and must be carried by specific proteins.",
+    "Steroid hormones are minimally polar and can pass through the plasma membrane.",
+    "These hormones bind to and promote a conformational change in cytosolic or intranuclear receptors; the hormone–receptor complex binds to DNA, altering the transcription of a particular gene.",
+    "Steroid hormones exert effects that usually have slow onset but are long-lived.",
+    "Because these hormones are lipid-soluble, they cannot dissolve in the bloodstream and must be carried by specific proteins.",
+    "Amino acid–derivative hormones are modified amino acids. Their chemistry shares some features with peptide hormones and some features with steroid hormones; different amino acid–derivative hormones share different features with these other hormone classes. Common examples are epinephrine, norepinephrine, triiodothyronine, and thyroxine.",
+    "Their chemistry shares some features with peptide hormones and some features with steroid hormones; different amino acid–derivative hormones share different features with these other hormone classes.",
+    "Common examples are epinephrine, norepinephrine, triiodothyronine, and thyroxine.",
+    "Hormones can be classified by their target tissues. Direct hormones have major effects on non-endocrine tissues. Tropic hormones have major effects on other endocrine tissues.",
+    "Direct hormones have major effects on non-endocrine tissues.",
+    "Tropic hormones have major effects on other endocrine tissues."
+   ]
+  },
+  {
+   "section": "Endocrine Organs and Hormones",
+   "points": [
+    "The hypothalamus is the bridge between the nervous and endocrine systems. The release of hormones from the hypothalamus is mediated by a number of factors, including projections from other parts of the brain, chemo- and baroreceptors in the blood vessels, and negative feedback from other hormones. In negative feedback , the final hormone (or product) of a pathway inhibits hormones (or enzymes) earlier in the pathway, maintaining homeostasis . The hypothalamus stimulates the anterior pituitary gland through paracrine release of hormones into the hypophyseal portal system, which directly connects the two organs. Gonadotropin-releasing hormone ( GnRH ) promotes the release of follicle-stimulating hormone (FSH) and luteinizing hormone (LH). Growth hormone–releasing hormone ( GHRH ) promotes the release of growth hormone. Thyroid-releasing hormone ( TRH ) promotes the release of thyroid-stimulating hormone (TSH). Corticotropin-releasing factor ( CRF ) promotes the release of adrenocorticotropic hormone (ACTH). Prolactin-inhibiting factor ( PIF or dopamine ) inhibits the release of prolactin. Interactions with the posterior pituitary occur via the axons of nerves projected by the hypothalamus. Antidiuretic hormone (ADH or vasopressin) and oxytocin are synthesized in the hypothalamus and then travel down these axons to the posterior pituitary, where they are released into the bloodstream.",
+    "The release of hormones from the hypothalamus is mediated by a number of factors, including projections from other parts of the brain, chemo- and baroreceptors in the blood vessels, and negative feedback from other hormones.",
+    "In negative feedback , the final hormone (or product) of a pathway inhibits hormones (or enzymes) earlier in the pathway, maintaining homeostasis .",
+    "The hypothalamus stimulates the anterior pituitary gland through paracrine release of hormones into the hypophyseal portal system, which directly connects the two organs.",
+    "Gonadotropin-releasing hormone ( GnRH ) promotes the release of follicle-stimulating hormone (FSH) and luteinizing hormone (LH).",
+    "Growth hormone–releasing hormone ( GHRH ) promotes the release of growth hormone.",
+    "Thyroid-releasing hormone ( TRH ) promotes the release of thyroid-stimulating hormone (TSH).",
+    "Corticotropin-releasing factor ( CRF ) promotes the release of adrenocorticotropic hormone (ACTH).",
+    "Prolactin-inhibiting factor ( PIF or dopamine ) inhibits the release of prolactin.",
+    "Interactions with the posterior pituitary occur via the axons of nerves projected by the hypothalamus. Antidiuretic hormone (ADH or vasopressin) and oxytocin are synthesized in the hypothalamus and then travel down these axons to the posterior pituitary, where they are released into the bloodstream.",
+    "The anterior pituitary releases hormones in response to stimulation from the hypothalamus. Four of these (FSH, LH, ACTH, and TSH) are tropic hormones, while three (prolactin, endorphins, and growth hormone) are direct hormones. Follicle-stimulating hormone ( FSH ) promotes the development of ovarian follicles in females and spermatogenesis in males. Luteinizing hormone ( LH ) promotes ovulation in females and testosterone production in males. Adrenocorticotropic hormone ( ACTH ) promotes the synthesis and release of glucocorticoids from the adrenal cortex. Thyroid-stimulating hormone ( TSH ) promotes the synthesis and release of triiodothyronine and thyroxine from the thyroid. Prolactin promotes milk production. Endorphins decrease perception of pain and can produce euphoria. Growth hormone ( GH ) promotes growth of bone and muscle and shunts glucose to these tissues. It raises blood glucose concentrations.",
+    "Follicle-stimulating hormone ( FSH ) promotes the development of ovarian follicles in females and spermatogenesis in males.",
+    "Luteinizing hormone ( LH ) promotes ovulation in females and testosterone production in males.",
+    "Adrenocorticotropic hormone ( ACTH ) promotes the synthesis and release of glucocorticoids from the adrenal cortex.",
+    "Thyroid-stimulating hormone ( TSH ) promotes the synthesis and release of triiodothyronine and thyroxine from the thyroid.",
+    "Prolactin promotes milk production.",
+    "Endorphins decrease perception of pain and can produce euphoria.",
+    "Growth hormone ( GH ) promotes growth of bone and muscle and shunts glucose to these tissues. It raises blood glucose concentrations.",
+    "The posterior pituitary releases two hormones produced in the hypothalamus. Antidiuretic hormone ( ADH or vasopressin ) is secreted in response to low blood volume or increased blood osmolarity and increases reabsorption of water in the collecting duct of the nephron, increasing blood volume and decreasing blood osmolarity. Oxytocin is secreted during childbirth and promotes uterine contractions. It also promotes milk ejection and may be involved in bonding behavior. It is unusual in that it has a positive feedback loop, not negative.",
+    "Antidiuretic hormone ( ADH or vasopressin ) is secreted in response to low blood volume or increased blood osmolarity and increases reabsorption of water in the collecting duct of the nephron, increasing blood volume and decreasing blood osmolarity.",
+    "Oxytocin is secreted during childbirth and promotes uterine contractions. It also promotes milk ejection and may be involved in bonding behavior. It is unusual in that it has a positive feedback loop, not negative.",
+    "The thyroid is located at the base of the neck in front of the trachea; it produces three key hormones. Triiodothyronine ( T 3 ) and thyroxine ( T 4 ) are produced by follicular cells and contain iodine. They increase basal metabolic rate and alter the utilization of glucose and fatty acids. Thyroid hormones are required for proper neurological and physical development in children. Calcitonin is produced by parafollicular ( C ) cells . It decreases plasma calcium concentration by promoting calcium excretion in the kidneys, decreasing calcium absorption in the gut, and promoting calcium storage in bone.",
+    "Triiodothyronine ( T 3 ) and thyroxine ( T 4 ) are produced by follicular cells and contain iodine. They increase basal metabolic rate and alter the utilization of glucose and fatty acids. Thyroid hormones are required for proper neurological and physical development in children.",
+    "Calcitonin is produced by parafollicular ( C ) cells . It decreases plasma calcium concentration by promoting calcium excretion in the kidneys, decreasing calcium absorption in the gut, and promoting calcium storage in bone.",
+    "The parathyroid glands release parathyroid hormone ( PTH ), which increases blood calcium concentration. PTH decreases excretion of calcium by the kidneys and increases bone resorption directly to increase blood calcium concentration. PTH activates vitamin D, which is necessary for calcium and phosphate absorption from the gut. PTH promotes resorption of phosphate from bone and reduces reabsorption of phosphate in the kidney, but vitamin D promotes absorption of phosphate from the gut; these two effects on phosphate concentration somewhat cancel each other out.",
+    "PTH decreases excretion of calcium by the kidneys and increases bone resorption directly to increase blood calcium concentration.",
+    "PTH activates vitamin D, which is necessary for calcium and phosphate absorption from the gut.",
+    "PTH promotes resorption of phosphate from bone and reduces reabsorption of phosphate in the kidney, but vitamin D promotes absorption of phosphate from the gut; these two effects on phosphate concentration somewhat cancel each other out.",
+    "The adrenal cortex produces three classes of steroid hormones. Glucocorticoids such as cortisol and cortisone increase blood glucose concentration, reduce protein synthesis, inhibit the immune system, and participate in the stress response. Glucocorticoid release is stimulated by ACTH. Mineralocorticoids such as aldosterone promote sodium reabsorption in the distal convoluted tubule and collecting duct, thus increasing water reabsorption. Aldosterone also increases potassium and hydrogen ion excretion. Aldosterone activity is regulated by the renin–angiotensin–aldosterone system , not ACTH. Cortical sex hormones include androgens (like testosterone ) and estrogens in both males and females.",
+    "Glucocorticoids such as cortisol and cortisone increase blood glucose concentration, reduce protein synthesis, inhibit the immune system, and participate in the stress response. Glucocorticoid release is stimulated by ACTH.",
+    "Mineralocorticoids such as aldosterone promote sodium reabsorption in the distal convoluted tubule and collecting duct, thus increasing water reabsorption. Aldosterone also increases potassium and hydrogen ion excretion. Aldosterone activity is regulated by the renin–angiotensin–aldosterone system , not ACTH.",
+    "Cortical sex hormones include androgens (like testosterone ) and estrogens in both males and females.",
+    "The adrenal medulla is derived from the nervous system and secretes catecholamines into the bloodstream. Catecholamines include epinephrine and norepinephrine , which are involved in the fight-or-flight (sympathetic) response. These hormones promote glycogenolysis, increase the basal metabolic rate, increase heart rate, dilate the bronchi, and alter blood flow.",
+    "Catecholamines include epinephrine and norepinephrine , which are involved in the fight-or-flight (sympathetic) response.",
+    "These hormones promote glycogenolysis, increase the basal metabolic rate, increase heart rate, dilate the bronchi, and alter blood flow.",
+    "The endocrine pancreas produces hormones that regulate glucose homeostasis. Glucagon is produced by α -cells and raises blood glucose levels by stimulating protein and fat degradation, glycogenolysis, and gluconeogenesis. Insulin is produced by β -cells and lowers blood glucose levels by stimulating glucose uptake by cells and promoting anabolic processes, like glycogen, fat, and protein synthesis. Somatostatin is produced by δ -cells and inhibits insulin and glucagon secretion.",
+    "Glucagon is produced by α -cells and raises blood glucose levels by stimulating protein and fat degradation, glycogenolysis, and gluconeogenesis.",
+    "Insulin is produced by β -cells and lowers blood glucose levels by stimulating glucose uptake by cells and promoting anabolic processes, like glycogen, fat, and protein synthesis.",
+    "Somatostatin is produced by δ -cells and inhibits insulin and glucagon secretion.",
+    "The gonads produce hormones that are involved in the development and maintenance of the reproductive systems and secondary sex characteristics. The testes secrete testosterone . The ovaries secrete estrogen and progesterone .",
+    "The testes secrete testosterone .",
+    "The ovaries secrete estrogen and progesterone .",
+    "The pineal gland releases melatonin , which helps to regulate circadian rhythms .",
+    "Other organs may release hormones, even if they are not primarily considered part of the endocrine system. Cells in the stomach and intestine produce hormones like secretin , gastrin , and cholecystokinin . The kidneys secrete erythropoietin , which stimulates bone marrow to produce erythrocytes (red blood cells) in response to low oxygen levels in the blood. The atria of the heart secrete atrial natriuretic peptide ( ANP ), which promotes excretion of salt and water in the kidneys in response to stretching of the atria (high blood volume). The thymus secretes thymosin , which is important for proper T-cell development and differentiation.",
+    "Cells in the stomach and intestine produce hormones like secretin , gastrin , and cholecystokinin .",
+    "The kidneys secrete erythropoietin , which stimulates bone marrow to produce erythrocytes (red blood cells) in response to low oxygen levels in the blood.",
+    "The atria of the heart secrete atrial natriuretic peptide ( ANP ), which promotes excretion of salt and water in the kidneys in response to stretching of the atria (high blood volume).",
+    "The thymus secretes thymosin , which is important for proper T-cell development and differentiation."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "Which of the following associations between a hormone and its category is INCORRECT?",
+   "choices": [
+    "Aldosterone—mineralocorticoid",
+    "Testosterone—cortical sex hormone",
+    "ADH—mineralocorticoid",
+    "Cortisone—glucocorticoid"
+   ],
+   "correct": 2,
+   "explanation": "Unlike the other hormones listed here, ADH is not secreted by the adrenal cortex and is therefore not a – corticoid . Rather, ADH is a peptide hormone produced by the hypothalamus and released by the posterior pituitary that promotes water reabsorption. The other associations are all correct."
+  },
+  {
+   "q": "Which of the following hormones directly stimulates a target tissue that is NOT an endocrine organ?",
+   "choices": [
+    "ACTH",
+    "TSH",
+    "LH",
+    "GH"
+   ],
+   "correct": 3,
+   "explanation": "A hormone that directly stimulates a non-endocrine target tissue is referred to as a direct hormone. Glancing at the answer choices, we notice that all of the hormones are secreted by the anterior pituitary gland. The direct hormones secreted by the anterior pituitary are prolactin, endorphins, and growth hormone (GH). All of the other answer choices are tropic hormones. The tropic hormones of the anterior pituitary include follicle-stimulating hormone (FSH), luteinizing hormone (LH), adrenocorticotropic hormone (ACTH), and thyroid-stimulating hormone (TSH)."
+  },
+  {
+   "q": "Increased synthetic activity of the parathyroid glands would lead to:",
+   "choices": [
+    "an increase in renal calcium reabsorption.",
+    "a decrease in the rate of bone resorption.",
+    "a decrease in basal metabolic rate.",
+    "a decrease in blood glucose concentration."
+   ],
+   "correct": 0,
+   "explanation": "The parathyroid glands secrete parathyroid hormone (PTH), a hormone that functions to increase blood calcium levels. An increase in synthetic activity of the parathyroid glands would lead to an increase in PTH and, therefore, an increase in blood calcium levels through three mechanisms: increased calcium reabsorption in the kidneys (decreased excretion), increased bone resorption, and increased absorption of calcium from the gut (via activation of vitamin D)."
+  },
+  {
+   "q": "Which of the following statements concerning growth hormone is NOT true?",
+   "choices": [
+    "Overproduction of growth hormone in adults results in acromegaly.",
+    "It promotes growth of bone and muscle.",
+    "It is produced by the hypothalamus but secreted by the pituitary.",
+    "A childhood deficiency in growth hormone results in dwarfism."
+   ],
+   "correct": 2,
+   "explanation": "Growth hormone is a direct hormone secreted by the anterior pituitary. Among its many functions, GH promotes growth of bone and muscle, eliminating (B) . An overproduction of growth hormone in children results in gigantism, whereas in adults it results in acromegaly (enlargement of the small bones in the extremities and of certain facial bones, such as the jaw), eliminating (A) . On the other hand, a childhood deficiency of growth hormone results in dwarfism, eliminating (D) . GH is synthesized and secreted in the anterior pituitary; (C) describes antidiuretic hormone and oxytocin, not GH."
+  },
+  {
+   "q": "Iodine deficiency may result in:",
+   "choices": [
+    "galactorrhea.",
+    "cretinism.",
+    "gigantism.",
+    "hyperthyroidism."
+   ],
+   "correct": 1,
+   "explanation": "Inflammation of the thyroid or iodine deficiency can cause hypothyroidism, in which the thyroid hormones are undersecreted or not secreted at all. Hypothyroidism in newborn infants causes cretinism, which is characterized by poor neurological and physical development (including mental retardation, short stature, and coarse facial features). While iodine deficiency can result in a swelling of the thyroid gland (called a goiter), which can also be seen in causes of hyperthyroidism, iodine deficiency does not cause hyperthyroidism, eliminating (D) . Galactorrhea, (A) , is associated with prolactin; gigantism, (C) , is associated with growth hormone."
+  },
+  {
+   "q": "A patient has a very high TSH level. Which of the following would NOT cause a high TSH level?",
+   "choices": [
+    "Autoimmune destruction of thyroid cells that produce T 3 and T 4 .",
+    "A tumor in the hypothalamus that secretes high levels of TRH.",
+    "High levels of T 4 from thyroid replacement medications.",
+    "Cancerous growth of parafollicular cells in the thyroid, destroying other cell types in the organ."
+   ],
+   "correct": 2,
+   "explanation": "The hypothalamic–pituitary–thyroid axis includes the secretion of thyroid-releasing hormone (TRH) from the hypothalamus triggering the secretion of thyroid-stimulating hormone (TSH) from the anterior pituitary, which stimulates the secretion of triiodothyronine (T 3 ) and thyroxine (T 4 ) from the thyroid. Overproduction of TRH would promote overproduction of TSH, eliminating (B) . Destruction of the follicular cells that produce T 3 and T 4 would remove negative feedback, allowing TSH levels to rise, eliminating (A) and (D) . High levels of T 4 would cause too much negative feedback and lower TSH levels, making (C) the correct answer."
+  },
+  {
+   "q": "Which of the following hormones is NOT derived from cholesterol?",
+   "choices": [
+    "Aldosterone",
+    "Estrogen",
+    "Oxytocin",
+    "Progesterone"
+   ],
+   "correct": 2,
+   "explanation": "Steroid hormones are derived from cholesterol. Many of their names end with – one , – ol , or – oid , and they include the hormones of the adrenal cortex and gonads. Aldosterone is a mineralocorticoid from the adrenal cortex, while estrogen and progesterone are sex hormones from the ovaries, eliminating (A) , (B) , and (D) . Oxytocin is a peptide hormone and is thus not derived from cholesterol. Peptide and amino acid–derivative hormones often end with – in or – ine ."
+  },
+  {
+   "q": "Which of the following is true regarding pancreatic somatostatin?",
+   "choices": [
+    "Its secretion is increased by low blood glucose.",
+    "It is always inhibitory.",
+    "It is regulated by cortisol levels.",
+    "It stimulates insulin and glucagon secretion."
+   ],
+   "correct": 1,
+   "explanation": "Pancreatic somatostatin secretion is increased by high blood glucose or amino acid levels, leading to decreased insulin and glucagon secretion, eliminating (A) and (D) . Somatostatin is thus always an inhibitory hormone, confirming (B) . The stimuli for somatostatin release include high blood glucose or amino acids, as mentioned above, as well as high levels of certain gastrointestinal hormones, as discussed in Chapter 9 of MCAT Biology Review —but not cortisol, eliminating (C) ."
+  },
+  {
+   "q": "Destruction of all β -cells in the pancreas would cause:",
+   "choices": [
+    "glucagon secretion to stop and an increase in blood glucose concentration.",
+    "glucagon secretion to stop and a decrease in blood glucose concentration.",
+    "insulin secretion to stop and an increase in blood glucose concentration.",
+    "insulin secretion to stop and a decrease in blood glucose concentration."
+   ],
+   "correct": 2,
+   "explanation": "β -cells are responsible for insulin production. The function of insulin is to lower blood glucose levels by promoting the influx of glucose into cells and by stimulating anabolic processes, such as glycogenesis or fat and protein synthesis. Thus, destruction of the β -cells would result in a cessation of insulin production, which would lead to hyperglycemia, or high blood glucose concentration."
+  },
+  {
+   "q": "Which of the following is FALSE regarding aldosterone regulation?",
+   "choices": [
+    "Renin converts the plasma protein angiotensinogen to angiotensin I.",
+    "Angiotensin II stimulates the adrenal cortex to secrete aldosterone.",
+    "Angiotensin I is converted to angiotensin II by angiotensin-converting enzyme.",
+    "A decrease in blood oxygen concentrations stimulates renin production."
+   ],
+   "correct": 3,
+   "explanation": "The stimulus for renin production is low blood pressure, which causes the juxtaglomerular cells of the kidney to produce renin, an enzyme that converts the plasma protein angiotensinogen to angiotensin I. Angiotensin I is then converted to angiotensin II by an enzyme in the lungs; angiotensin II then stimulates the adrenal cortex to secrete aldosterone. Aldosterone helps to restore blood volume by increasing sodium reabsorption in the kidney, leading to an increase in water reabsorption. This removes the initial stimulus for renin production. Thus, (A) , (B) , and (C) correctly describe the renin–angiotensin–aldosterone system, while (D) describes the stimulus for erythropoietin secretion."
+  },
+  {
+   "q": "A scientist discovers a new hormone that is relatively large in size and triggers the conversion of ATP to cAMP. Which of the following best describes the type of hormone that was discovered?",
+   "choices": [
+    "Amino acid–derivative hormone",
+    "Peptide hormone",
+    "Steroid hormone",
+    "Tropic hormone"
+   ],
+   "correct": 1,
+   "explanation": "The question stem indicates that the newly discovered hormone functions as a first messenger, stimulating the conversion of ATP to cAMP; cAMP functions as a second messenger, triggering a signaling cascade in the cell. Hormones that act via second messengers and are relatively large in size (short peptides or complex polypeptides) are peptide hormones. This hormone could be a tropic hormone, but it is also entirely possible for it to be a direct hormone; thus, (D) can be eliminated."
+  },
+  {
+   "q": "A patient presents with muscle weakness, slow movement, and calcium deposits in his tissues. A blood test reveals very low calcium levels in the blood. Administration of which of the following would be an appropriate treatment for the blood test findings?",
+   "choices": [
+    "Calcitonin",
+    "Parathyroid hormone",
+    "Aldosterone",
+    "Thymosin"
+   ],
+   "correct": 1,
+   "explanation": "Regardless of the cause, the low levels of calcium in the blood require treatment. While other therapies are more frequently used to treat hypocalcemia (low blood calcium levels), such as calcium gluconate or calcium chloride, administration of parathyroid hormone would also raise blood calcium concentration. Calcitonin would be a poor choice in this case, as this hormone lowers blood calcium concentrations, eliminating (A) . Aldosterone and thymosin play no role in calcium homeostasis, eliminating (C) and (D) ."
+  },
+  {
+   "q": "Oxytocin and antidiuretic hormone are:",
+   "choices": [
+    "peptide hormones produced and released by the pituitary.",
+    "steroid hormones produced and released by the pituitary.",
+    "peptide hormones produced by the hypothalamus and released by the pituitary.",
+    "steroid hormones produced by the hypothalamus and released by the pituitary."
+   ],
+   "correct": 2,
+   "explanation": "Both oxytocin and vasopressin (another name for antidiuretic hormone) end with the suffix – in ; this should hint that they are peptide or amino acid–derivative hormones. These two hormones are both synthesized by the hypothalamus, but released by the posterior pituitary. Remember that the posterior pituitary does not actually synthesize any hormones itself; rather, it contains the axons that originate in cells in the hypothalamus and is the site of release for these hormones."
+  },
+  {
+   "q": "Excessive levels of dopamine in the brain are associated with psychosis. Accordingly, many antipsychotic medications block dopamine receptors. Which of the following effects may be seen in an individual taking antipsychotics?",
+   "choices": [
+    "Increased secretion of growth hormone",
+    "Decreased secretion of growth hormone",
+    "Increased secretion of prolactin",
+    "Decreased secretion of prolactin"
+   ],
+   "correct": 2,
+   "explanation": "Dopamine is used in a number of neurological systems; most relevant to the endocrine system is the fact that dopamine secretion prevents prolactin release. Thus, an individual taking medications that block dopamine receptors would lose this inhibition on prolactin release and have elevated prolactin levels."
+  },
+  {
+   "q": "A genotypically female infant is born with ambiguous genitalia. Soon after birth, she suffers from hyponatremia, or low blood concentrations of sodium. Which endocrine organ is most likely to be affected?",
+   "choices": [
+    "Hypothalamus",
+    "Pituitary",
+    "Kidneys",
+    "Adrenal cortex"
+   ],
+   "correct": 3,
+   "explanation": "The question stem states that an infant who is genotypically female is born with ambiguous genitalia, meaning that the genitalia do not appear to be specifically female or specifically male. In a genotypic female, this indicates that she was exposed to androgens during the fetal period. In addition, she is also losing sodium, causing hyponatremia. This indicates that she has two defects. First, she has excess androgens. Second, she is lacking in aldosterone, a hormone required for proper reuptake of sodium in the kidneys. Both of these hormones are synthesized in the adrenal cortex, making (D) the correct answer. Note that neither of these hormones is regulated by the hypothalamic–pituitary–adrenal axis, eliminating (A) and (B) ."
+  }
+ ]
+}

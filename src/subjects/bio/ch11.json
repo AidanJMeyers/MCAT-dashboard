@@ -1,0 +1,716 @@
+{
+ "id": 11,
+ "num": 11,
+ "title": "The Musculoskeletal System",
+ "slug": "ch11_the_musculoskeletal_system",
+ "sections": [
+  {
+   "title": "11.1 The Muscular System",
+   "goals": [
+    "Categorize muscles as skeletal, smooth, or cardiac based on their innervation and structure",
+    "Order the series of events in muscular contraction",
+    "Explain the relationship between ATP binding and muscular contraction",
+    "Recall the meaning of the terms summation, simple twitch, and tetanus",
+    "Identify the zones and bands within a sarcomere and predict their length changes during contraction:"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch11_the_musculoskeletal_system/11_01a_labeled_sarcomere_z_line_m_line_i_band_a.png",
+     "alt": "labeled: sarcomere, Z-line, M-line, I-band, A-band, H-zone",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch11_the_musculoskeletal_system/11_01b_labeled_muscle_muscle_fibers_cells_myofi.png",
+     "alt": "labeled: muscle, muscle fibers (cells), myofibrils, sarcolemma, transverse tubule, sarcoplasmic reticulum, mitochondria, sarcomere",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch11_the_musculoskeletal_system/11_01c_labeled_actin_troponin_with_calcium_bind.png",
+     "alt": "labeled: actin, troponin (with calcium-binding site), tropomyosin; calcium binds, exposes myosin-binding site by moving tropomyosin",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch11_the_musculoskeletal_system/11_01d_description_given_in_subsequent_text.png",
+     "alt": "description given in subsequent text",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch11_the_musculoskeletal_system/11_01e_relaxed_sarcomeres_and_contracted_sarcom.png",
+     "alt": "relaxed sarcomeres and contracted sarcomeres; contracted have much more overlap between thick and thin filaments",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch11_the_musculoskeletal_system/11_01f_two_graphs_of_force_vs_time_simple_twitc.png",
+     "alt": "two graphs of force vs. time. simple twitch: no force at latent period, increases during contraction period, decreases during relaxation. summation and tetanus: twitches add to a constant high force (tetanus), that decreases with fatigue",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "The muscular system is composed of not only skeletal muscle, but also smooth muscle and cardiac muscle. Skeletal muscle is essential for supporting the body and facilitating movement. The contraction of skeletal muscle also compresses venous structures and helps propel blood through the low-pressure venous system toward the heart, as well as lymph through the lymphatic system. Rapid muscle contraction also leads to shivering, which is important in thermoregulation. Smooth muscle is responsible for involuntary movement, such as the rhythmic contractions of smooth muscle in the digestive system called peristalsis. Smooth muscle also aids in the regulation of blood pressure by constricting and relaxing the vasculature. Cardiac muscle is a special type of muscle that is able to maintain rhythmic contraction of the heart without nervous system input. In this section, we will discuss each type of muscle as well as the physiology of muscles."
+    },
+    {
+     "t": "h",
+     "x": "Types of Muscle"
+    },
+    {
+     "t": "p",
+     "x": "Muscle can be divided into the three different subtypes: skeletal muscle, smooth muscle, and cardiac muscle. Each muscle type performs specific functions, although they share some similarities. All muscle is capable of contraction, which relies on calcium ions. All muscle is innervated, although—as we will see—the part of the nervous system that innervates the muscle and the ability of the muscle to contract without nervous input varies from type to type."
+    },
+    {
+     "t": "h",
+     "x": "Skeletal Muscle"
+    },
+    {
+     "t": "p",
+     "x": "Skeletal muscle is responsible for voluntary movement and is therefore innervated by the somatic nervous system. Due to the arrangement of actin and myosin into repeating units called sarcomeres , it appears striped or striated when viewed microscopically. Skeletal muscle is multinucleated because it is formed as individual muscle cells fuse into long rods during development."
+    },
+    {
+     "t": "p",
+     "x": "There are multiple different types of fibers within skeletal muscle. Red fibers , also known as slow-twitch fibers , have high myoglobin content and primarily derive their energy aerobically. Myoglobin is an oxygen carrier that uses iron in a heme group to bind oxygen, imparting a red color. Red fibers also contain many mitochondria to carry out oxidative phosphorylation. White fibers , also known as fast-twitch fibers , contain much less myoglobin. Because there is less myoglobin, and therefore less iron, the color is lighter. These two types of fibers can be mixed in muscles. Muscles that contract slowly, but that can sustain activity (such as the muscles that support posture), contain a predominance of red fibers. Muscles that contract rapidly, but fatigue quickly, contain mostly white fibers."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Poultry provides a great example of the difference between red and white fibers. Most muscles of support, such as the thigh, are considered dark meat and contain a high concentration of red fibers. The pectoral muscles (breast meat), used by some poultry for only short bursts of flight, are considered white meat and have a high concentration of white fibers."
+    },
+    {
+     "t": "h",
+     "x": "Smooth Muscle"
+    },
+    {
+     "t": "p",
+     "x": "Smooth muscle is responsible for involuntary action. Thus, smooth muscle is controlled by the autonomic nervous system. It is found in the respiratory tree, digestive tract, bladder, uterus, blood vessel walls, and many other locations. Smooth muscle cells have a single nucleus located in the center of the cell. Just like skeletal muscle, smooth muscle cells contain actin and myosin, but the fibers are not as well-organized, so striations cannot be seen. Compared to skeletal muscle, smooth muscle is capable of more sustained contractions; a constant state of low-level contraction, as may be seen in the blood vessels, is called tonus . Smooth muscle can actually contract without nervous system input in what is known as myogenic activity . In this case, the muscle cells contract directly in response to stretch or other stimuli."
+    },
+    {
+     "t": "callout",
+     "kind": "warn",
+     "title": "MCAT Expertise",
+     "x": "The MCAT loves to test the fact that both smooth and cardiac muscle exhibit myogenic activity. These muscle cells will respond to nervous input, but do not require external signals to undergo contraction."
+    },
+    {
+     "t": "h",
+     "x": "Cardiac Muscle"
+    },
+    {
+     "t": "p",
+     "x": "Cardiac muscle has characteristics of both smooth and skeletal muscle types. Cardiac muscle is primarily uninucleated, but cells may contain two nuclei. Like smooth muscle, cardiac muscle contraction is involuntary and innervated by the autonomic nervous system. Unlike smooth muscle, cardiac muscle appears striated like skeletal."
+    },
+    {
+     "t": "p",
+     "x": "One of the unique characteristics of cardiac muscle is how each cardiac myocyte communicates. Cardiac muscle cells are connected by intercalated discs , which contain many gap junctions . These gap junctions are connections between the cytoplasm of adjacent cells, allowing for the flow of ions directly between cells. This allows for rapid and coordinated depolarization of muscle cells and efficient contraction of cardiac muscle."
+    },
+    {
+     "t": "p",
+     "x": "Cardiac muscle cells are able to define and maintain their own rhythm, termed myogenic activity. Starting at the sinoatrial ( SA ) node , depolarization spreads using conduction pathways to the atrioventricular ( AV ) node . From there, the depolarization spreads to the bundle of His and its branches, and then to the Purkinje fibers . The gap junctions allow for progressive depolarizations to spread via ion flow across the gap junctions between cells. The nervous and endocrine systems also play a role in the regulation of cardiac muscle contraction. The vagus nerve provides parasympathetic outflow to the heart and slows the heart rate. Norepinephrine from sympathetic neurons or epinephrine from the adrenal medulla binds to adrenergic receptors in the heart, causing an increased heart rate and greater contractility. One of the ways epinephrine does this is by increasing intracellular calcium levels within cardiac myocytes. Ultimately, cardiac contraction—like that of all types of muscle—relies on calcium."
+    },
+    {
+     "t": "p",
+     "x": "The main characteristics of each muscle type are summarized in Table 11.1."
+    },
+    {
+     "t": "table",
+     "headers": [
+      "Skeletal Muscle",
+      "Cardiac Muscle",
+      "Smooth Muscle"
+     ],
+     "rows": [
+      [
+       "Striated",
+       "Striated",
+       "Nonstriated"
+      ],
+      [
+       "Voluntary",
+       "Involuntary",
+       "Involuntary"
+      ],
+      [
+       "Somatic innervation",
+       "Autonomic innervation",
+       "Autonomic innervation"
+      ],
+      [
+       "Many nuclei per cell",
+       "1–2 nuclei per cell",
+       "1 nucleus per cell"
+      ],
+      [
+       "Ca 2+ required for contraction",
+       "Ca 2+ required for contraction",
+       "Ca 2+ required for contraction"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Microscopic Structure of Skeletal Muscle"
+    },
+    {
+     "t": "p",
+     "x": "Each type of muscle has a specific microscopic structure. However, the MCAT tends to focus on the contractile elements and microscopic structure of skeletal muscle. In order to accurately answer those questions on Test Day, let’s take a moment to discuss skeletal muscle in detail."
+    },
+    {
+     "t": "h",
+     "x": "The Sarcomere"
+    },
+    {
+     "t": "p",
+     "x": "The sarcomere is the basic contractile unit of skeletal muscle. Sarcomeres are made of thick and thin filaments . The thick filaments are organized bundles of myosin , whereas the thin filaments are made of actin along with two other proteins: troponin and tropomyosin . These proteins help to regulate the interaction between the actin and myosin filaments. Another protein, titin , acts as a spring and anchors the actin and myosin filaments together, preventing excessive stretching of the muscle."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "To remember which filament is associated with t roponin and t ropomyosin, remember that ac t in has a T in it."
+    },
+    {
+     "t": "p",
+     "x": "Each sarcomere is divided into different lines, zones, and bands, as shown in Figure 11.1. Z-lines define the boundaries of each sarcomere. The M-line runs down the center of the sarcomere, through the middle of the myosin filaments. The I-band is the region containing exclusively thin filaments, whereas the H-zone contains only thick filaments. The A-band contains the thick filaments in their entirety, including any overlap with thin filaments. During contraction, the H-zone, I-band, the distance between Z-lines, and the distance between M-lines all become smaller, whereas the A-band’s size remains constant."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "To remember which is the thin and thick filament, remember acthin : actin filaments are thin (while myosin filaments are thick)."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Parts of the sarcomere: Z — Z is the end of the alphabet, and the end of the sarcomere M — M iddle of the m yosin filaments I — I is a thin letter ( thin filaments only) H — H is a thick letter ( thick filaments only) A — A ll of the thick filament, whether or not it is overlapping"
+    },
+    {
+     "t": "h",
+     "x": "Gross Structure of Myocytes"
+    },
+    {
+     "t": "p",
+     "x": "Sarcomeres are attached end-to-end to form myofibrils . Myofibrils are surrounded by a covering known as the sarcoplasmic reticulum ( SR ), a modified endoplasmic reticulum that contains a high concentration of Ca 2+ ions. The sarcoplasm is a modified cytoplasm located just outside the sarcoplasmic reticulum. The cell membrane of a myocyte is known as the sarcolemma . The sarcolemma is capable of propagating an action potential and can distribute the action potential to all sarcomeres in a muscle using a system of transverse tubules ( T-tubules ) that are oriented perpendicularly to the myofibrils, as shown in Figure 11.2. Each myocyte , or muscle cell, contains many myofibrils arranged in parallel and can also be called a muscle fiber . The nuclei, of which there are many, are usually found at the periphery of the cell. Finally, many myocytes in parallel form a muscle."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "The sarcoplasmic reticulum is just a fancy name for the specialized endoplasmic reticulum in muscle cells."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "A myofibril is an arrangement of many sarcomeres in series. A muscle fiber (or myocyte, or muscle cell) contains many myofibrils within it, arranged in parallel. A muscle is made up of parallel muscle fibers. These names are very similar; pay careful attention to terminology when reading about muscle structure!"
+    },
+    {
+     "t": "h",
+     "x": "Muscle Contraction"
+    },
+    {
+     "t": "p",
+     "x": "Contraction of muscle requires a series of coordinated steps that are repeated to induce further shortening. This process depends on both ATP and calcium."
+    },
+    {
+     "t": "h",
+     "x": "Initiation"
+    },
+    {
+     "t": "p",
+     "x": "Contraction starts at the neuromuscular junction , where the nervous system communicates with muscles via motor ( efferent ) neurons . This signal travels down the neuron until it reaches the nerve terminal ( synaptic bouton ), where acetylcholine is released into the synapse. In the case of the neuromuscular junction, the nerve terminal can also be called the motor end plate . Acetylcholine binds to receptors on the sarcolemma, causing depolarization. Each nerve terminal controls a group of myocytes; together, the nerve terminal and its myocytes constitute a motor unit ."
+    },
+    {
+     "t": "p",
+     "x": "Depolarization triggers an action potential, which spreads down the sarcolemma to the T-tubules. The action potential travels down the T-tubules into the muscle tissues to the sarcoplasmic reticulum. When the action potential reaches the sarcoplasmic reticulum, Ca 2+ is ultimately released. The calcium ions bind to a regulatory subunit in troponin, triggering a change in the confirmation of tropomyosin, to which troponin is bound. This change exposes the myosin-binding sites on the actin thin filament, as shown in Figure 11.3."
+    },
+    {
+     "t": "h",
+     "x": "Shortening of the Sarcomere"
+    },
+    {
+     "t": "p",
+     "x": "The free globular heads of the myosin molecules move toward and bind with the exposed sites on actin. The newly formed actin–myosin cross bridges then allow myosin to pull on actin, which draws the thin filaments toward the M-line, resulting in shortening of the sarcomere. The actin–myosin cross-bridge cycle is illustrated in Figure 11.4."
+    },
+    {
+     "t": "p",
+     "x": "Starting at the top of the diagram, myosin carrying hydrolyzed ATP (ADP and an inorganic phosphate, P i ) is able to bind with the myosin-binding site. The release of the inorganic phosphate and ADP in rapid succession provides the energy for the powerstroke and results in sliding of the actin filament over the myosin filament. Then, ATP binds to the myosin head, releasing it from actin. This ATP is hydrolyzed to ADP and P i , which recocks the myosin head so that it is in position to initiate another cross-bridge cycle. The repetitive binding and releasing of myosin heads on actin filaments allows the thin filament to slide along the thick filament, causing sequential shortening of the sarcomere. This is known as the sliding filament model , as shown in Figure 11.5."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "It is the dissociation of ADP and P i from myosin that is responsible for the powerstroke, not the hydrolysis of ATP. The binding of ATP is required for releasing the myosin head from the actin filament."
+    },
+    {
+     "t": "h",
+     "x": "Relaxation"
+    },
+    {
+     "t": "p",
+     "x": "Acetylcholine is degraded in the synapse by the enzyme known as acetylcholinesterase . This results in termination of the signal at the neuromuscular junction and allows the sarcolemma to repolarize. As the signal decays, calcium release ceases, and the SR takes up calcium from the sarcoplasm. The SR tightly controls intracellular calcium concentrations so that muscles are contracted only when necessary. ATP binds to the myosin heads, freeing them from actin. Once the myosin and actin disconnect, the sarcomere can return to its original width. Without calcium, the myosin-binding sites are covered by tropomyosin and contraction is prevented."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "After death, ATP production ceases. Myosin heads cannot detach from actin, making it impossible for muscles to relax and lengthen. This condition is known as rigor mortis."
+    },
+    {
+     "t": "h",
+     "x": "Stimulation, Summation, and Muscle Fatigue"
+    },
+    {
+     "t": "p",
+     "x": "Muscle cells, like neurons, exhibit an all-or-nothing response; either they respond completely to a stimulus or not at all. For muscle cells to respond, stimuli must reach a threshold value. The strength of a response from one muscle cell cannot be changed because the only options are all or nothing. Therefore, nerves control overall force by the number of motor units they recruit to respond. Maximal response occurs when all fibers within a muscle are stimulated to contract simultaneously."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "Why do muscle fibers contract in an all-or-nothing fashion? Because they are innervated by neurons that deliver signals using action potentials, which are all-or-nothing phenomena as well. Action potentials are discussed in Chapter 4 of MCAT Biology Review ."
+    },
+    {
+     "t": "h",
+     "x": "Simple Twitch"
+    },
+    {
+     "t": "p",
+     "x": "A simple twitch is the response of a single muscle fiber to a brief stimulus at or above threshold, as shown in Figure 11.6a. It consists of a latent period, contraction period, and relaxation period. The latent period is the time between reaching threshold and the onset of contraction. It is during this time that the action potential spreads along the muscle and allows for calcium to be released from the sarcoplasmic reticulum. The muscle then contracts, and, assuming calcium is cleared from the sarcoplasm, it then relaxes."
+    },
+    {
+     "t": "h",
+     "x": "Summation and Tetanus"
+    },
+    {
+     "t": "p",
+     "x": "If a muscle fiber is exposed to frequent and prolonged stimulation, it will have insufficient time to relax. The contractions will combine, become stronger and more prolonged. This is known as frequency summation , as shown in Figure 11.6b. If the contractions become so frequent that the muscle is unable to relax at all, this is known as tetanus . Prolonged tetanus will result in muscle fatigue, explained below. Note that tetanus (the disease) includes tetanus (the physiological phenomenon) as one of its primary clinical features, but that tetanic physiology also occurs under normal circumstances with multiple simple twitches in succession."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "The disease tetanus is caused by a bacterium called Clostridium tetani that releases the toxin tetanospasmin . Tetanospasmin blocks the release of GABA from the neurons that inhibit motor neurons, making the motor neurons overexcitable. This leads to constant contraction of muscles, which can be so strong as to fracture bones. Tetanus can usually be prevented after exposure by administration of a tetanus immunoglobulin."
+    },
+    {
+     "t": "h",
+     "x": "Oxygen Debt and Muscle Fatigue"
+    },
+    {
+     "t": "p",
+     "x": "Muscles require ATP to function. Slow-twitch (red) muscle fibers have high levels of mitochondria and thus use oxidative phosphorylation to make ATP. However, this means that high concentrations of oxygen are required to generate the large amounts of ATP muscle cells need. There are two supplemental energy reserves in muscle. Creatine phosphate is created by transferring a phosphate group from ATP to creatine during times of rest. This reaction can then be reversed during muscle use to quickly generate ATP from ADP:"
+    },
+    {
+     "t": "p",
+     "x": "Muscle also contains myoglobin, which binds oxygen with high affinity. As exercising muscles run out of oxygen, they use myoglobin reserves to keep aerobic metabolism going. Fast-twitch (white) muscle fibers have fewer mitochondria and must rely on glycolysis and fermentation to make ATP under most circumstances. When a person exercises, heart rate and respiratory rate increase in order to move more oxygen to actively respiring muscles. The oxyhemoglobin dissociation curve undergoes a right shift in the presence of increased carbon dioxide concentration, increased hydrogen ion concentration (decreased pH), and increased temperature. However, even with these adaptations, muscle use can quickly overwhelm the ability of the body to deliver oxygen. Then, even red muscle fibers must switch to anaerobic metabolism and produce lactic acid, at which point the muscle begins to fatigue. The difference between the amount of oxygen needed by the muscles and the actual amount present is called the oxygen debt . After the cessation of strenuous exercise, the body must metabolize all of the lactic acid it has produced. Most lactic acid is converted back into pyruvate, which can enter the citric acid cycle. This process requires oxygen, and the amount of oxygen required to recover from strenuous exercise is equal to the oxygen debt."
+    }
+   ]
+  },
+  {
+   "title": "11.2 The Skeletal System",
+   "goals": [
+    "Distinguish between compact and spongy bone",
+    "Identify the three structural parts of a bone and their relative contributions to growth",
+    "Recall the major chemical component of bone",
+    "Describe the function(s) of osteoblasts, osteoclasts, and chondrocytes",
+    "Name the substance that lubricates moveable joints and where it is produced"
+   ],
+   "figures": [
+    {
+     "src": "bio/ch11_the_musculoskeletal_system/11_02a_labeled_skull_cranium_mandible_spinal_co.png",
+     "alt": "labeled: skull (cranium, mandible), spinal column (cervical, thoracic, lumbar, sacral, coccygeal vertebrae), clavicle, scapula, sternum, ribs, humerus, radius, ulna, carpals, metacarpals, phalanges, pelvis, femur, patella, tibia, fibula, tarsals, metatarsals, phalanges",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch11_the_musculoskeletal_system/11_02b_labeled_epiphysis_epiphyseal_plate_spong.png",
+     "alt": "labeled: epiphysis (epiphyseal plate, spongy bone), metaphysis, diaphysis (compact bone, marrow cavity), periosteum",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch11_the_musculoskeletal_system/11_02c_labeled_lamellae_osteon_canaliculi_lacun.png",
+     "alt": "labeled: lamellae, osteon, canaliculi, lacuna, Volkmann’s and Haversian canal",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch11_the_musculoskeletal_system/11_02d_degradation_osteoclasts_release_enzymes_.png",
+     "alt": "degradation: osteoclasts release enzymes that dissolve bone, releasing calcium into the bloodstream; reformation: osteoblasts build new bone using both organic (collagen) and inorganic (hydroxyapatite) materials",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch11_the_musculoskeletal_system/11_02e_labeled_bones_articular_cartilage_synovi.png",
+     "alt": "labeled: bones, articular cartilage, synovial capsule, synovium, joint cavity containing synovial fluid",
+     "caption": ""
+    },
+    {
+     "src": "bio/ch11_the_musculoskeletal_system/11_02f_labeled_scapula_clavicle_ball_and_socket.png",
+     "alt": "labeled: scapula, clavicle, ball and socket joint, biceps brachii and triceps brachii (including origins and insertions), hinge joint, radius, ulna",
+     "caption": ""
+    }
+   ],
+   "nodes": [
+    {
+     "t": "p",
+     "x": "There are two types of skeletons: exoskeletons and endoskeletons. Exoskeletons encase whole organisms and are usually found in arthropods, such as crustaceans and insects. Vertebrates, including humans, have endoskeletons . Endoskeletons are internal, but are not able to protect the soft tissue structures as well as exoskeletons. However, exoskeletons must be shed and regrown to accommodate growth. Endoskeletons are much better able to accommodate the growth of a larger organism."
+    },
+    {
+     "t": "h",
+     "x": "Skeletal Structure"
+    },
+    {
+     "t": "p",
+     "x": "The components of our skeletal system are divided into axial and appendicular skeletons. The axial skeleton consists of the skull, vertebral column, ribcage, and hyoid bone (a small bone in the anterior neck used for swallowing); it provides the basic central framework for the body. The appendicular skeleton consists of the bones of the limbs (humerus, radius and ulna, carpals, metacarpals, and phalanges in the upper limb; and femur, tibia and fibula, tarsals, metatarsals, and phalanges in the lower limb); the pectoral girdle (scapula and clavicle); and pelvis. Both skeleton types are covered by other structures (muscle, connective tissue, and vasculature). The structure of the skeleton is shown in Figure 11.7, with many of the bones labeled (individual bones are labeled in red)."
+    },
+    {
+     "t": "p",
+     "x": "The skeleton is created from two major components: bone and cartilage."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "An adult human has 206 bones. Over 100 of these are in the hands and feet."
+    },
+    {
+     "t": "h",
+     "x": "Bone Composition"
+    },
+    {
+     "t": "p",
+     "x": "Bone is a connective tissue derived from embryonic mesoderm. Bone is much harder than cartilage, but is relatively lightweight."
+    },
+    {
+     "t": "h",
+     "x": "Macroscopic Bone Structure"
+    },
+    {
+     "t": "p",
+     "x": "The structure of bone can be seen in Figure 11.8."
+    },
+    {
+     "t": "p",
+     "x": "Bone’s characteristic strength comes specifically from compact bone . It lives up to its name, as it is both dense and strong. The other type of bone structure is spongy or cancellous bone. The lattice structure of spongy bone is visible under microscopy and consists of bony spicules (points) known as trabeculae . The cavities between trabeculae are filled with bone marrow , which may be either red or yellow. Red marrow is filled with hematopoietic stem cells, which are responsible for the generation of all the cells in our blood; yellow marrow is composed primarily of fat and is relatively inactive."
+    },
+    {
+     "t": "p",
+     "x": "Bones in the appendicular skeleton are typically long bones , which are characterized by cylindrical shafts called diaphyses that swell at each end to form metaphyses , and that terminate in epiphyses . The outermost portions of bone are composed of compact bone, whereas the internal core is made of spongy bone. Long bone diaphyses and metaphyses are full of bone marrow. The epiphyses, on the other hand, use their spongy cores for more effective dispersion of force and pressure at the joints. At the internal edge of the epiphysis is an epiphyseal ( growth ) plate , which is a cartilaginous structure and the site of longitudinal growth. Prior to adulthood, the epiphyseal plate is filled with mitotic cells that contribute to growth; during puberty, these epiphyseal plates close and vertical growth is halted. Finally, a fibrous sheath called the periosteum surrounds the long bone to protect it as well as serve as a site for muscle attachment. Some periosteal cells are capable of differentiating into bone-forming cells; a healthy periosteum is necessary for bone growth and repair."
+    },
+    {
+     "t": "p",
+     "x": "Structures in the musculoskeletal system are held together with dense connective tissue. Tendons attach muscle to bone and ligaments hold bones together at joints."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Bridge",
+     "x": "The root lig – comes from Latin, where it means to “to tie; bind.” Think of DNA ligase , discussed in Chapter 6 of MCAT Biochemistry Review . Think of ligands in complex ions, discussed in Chapter 9 of MCAT General Chemistry Review . In this case, ligaments tie bones to each other to stabilize joints."
+    },
+    {
+     "t": "h",
+     "x": "Microscopic Bone Structure"
+    },
+    {
+     "t": "p",
+     "x": "The strength of compact bone comes from the bone matrix , which has both organic and inorganic components. The organic components include collagen, glycoproteins, and other peptides. The inorganic components include calcium, phosphate, and hydroxide ions, which harden together to form hydroxyapatite crystals (Ca 10 (PO 4 ) 6 (OH) 2 ) . Minerals such as sodium, magnesium, and potassium are also stored in bone."
+    },
+    {
+     "t": "p",
+     "x": "Strong bones require uniform distribution of organic and inorganic materials. The bony matrix is ordered into structural units known as osteons or Haversian systems , as shown in Figure 11.9. Each of these osteons contains concentric circles of bony matrix called lamellae surrounding a central microscopic channel. Longitudinal channels (those with an axis parallel to the bone) are known as Haversian canals , while transverse channels (those with an axis perpendicular to the bone) are known as Volkmann’s canals . These canals contain the blood vessels, nerve fibers, and lymph vessels that maintain the health of the bone. Between the lamellar rings are small spaces called lacunae , which house mature bone cells known as osteocytes . The lacunae are interconnected by tiny channels called canaliculi that allow for the exchange of nutrients and wastes between osteocytes and the Haversian and Volkmann’s canals."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Key Concept",
+     "x": "Bone appears to be rigid and static, but it is actually quite dynamic. It is both vascular and innervated, which is why it hurts so much to break a bone. In addition, bone remains in a vigorous equilibrium between construction and destruction, known as bone remodeling."
+    },
+    {
+     "t": "h",
+     "x": "Bone Remodeling"
+    },
+    {
+     "t": "p",
+     "x": "Two cell types are largely responsible for building and maintaining strong bones: osteoblasts and osteoclasts. Osteoblasts build bone, whereas osteoclasts , polynucleated resident macrophages of bone, resorb it. These processes together contribute to the constant turnover of bone, as shown in Figure 11.10. During bone formation, essential ingredients such as calcium and phosphate are obtained from the blood. During bone resorption, these ions are released back into the bloodstream. Bone remodeling occurs in response to stress, and bone actually remodels in such as a way as to accommodate the repetitive stresses faced by the body. Endocrine hormones may also affect bone metabolism. Parathyroid hormone , a peptide hormone released by the parathyroid glands in response to low blood calcium, promotes resorption of bone, increasing the concentration of calcium and phosphate in the blood. Vitamin D , which is activated by parathyroid hormone, also promotes the resorption of bone. This may seem counterintuitive at first—isn’t vitamin D used to promote bone growth? Indeed, the resorption of bone in response to vitamin D actually encourages the growth of new, stronger bone, thus overcompensating for the effect of resorbing bone in the first place. Finally, calcitonin , a peptide hormone released by the parafollicular cells of the thyroid in response to high blood calcium, promotes bone formation, lowering blood calcium levels."
+    },
+    {
+     "t": "callout",
+     "kind": "tip",
+     "title": "Mnemonic",
+     "x": "Osteo b lasts b uild bone. Osteo c lasts c hew bone."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Osteoporosis is the most common bone disease in the United States. It is thought to be the result of increased osteoclast resorption and some concomitant slowing of bone formation, both of which lead to loss of bone mass. Estrogen is believed to help prevent osteoporosis by stimulating osteoblast activity."
+    },
+    {
+     "t": "h",
+     "x": "Cartilage"
+    },
+    {
+     "t": "p",
+     "x": "Cartilage is softer and more flexible than bone. Cartilage consists of a firm but elastic matrix called chondrin that is secreted by cells called chondrocytes . Fetal skeletons are mostly made up of cartilage. This is advantageous because fetuses must grow and develop in a confined environment and then must traverse the birth canal. Adults have cartilage only in body parts that need a little extra flexibility or cushioning (external ear, nose, walls of the larynx and trachea, intervertebral discs, and joints). Cartilage also differs from bone in that it is avascular (without blood and lymphatic vessels) and is not innervated."
+    },
+    {
+     "t": "p",
+     "x": "Most of the bones of the body are created by the hardening of cartilage into bone. This process is known as endochondral ossification and is responsible for the formation of most of the long bones of the body. Bones may also be formed through intramembranous ossification , in which undifferentiated embryonic connective tissue ( mesenchymal tissue ) is transformed into, and replaced by, bone. This occurs in bones of the skull."
+    },
+    {
+     "t": "h",
+     "x": "Joints and Movement"
+    },
+    {
+     "t": "p",
+     "x": "Like bone and cartilage, joints are also made of connective tissue and come in two major varieties: immovable and movable. Immovable joints consist of bones that are fused together to form sutures or similar fibrous joints. These joints are found primarily in the head, where they anchor bones of the skull together."
+    },
+    {
+     "t": "p",
+     "x": "Movable joints , structures of which are shown in Figure 11.11, include hinge joints (like the elbow or knee), ball-and-socket joints (like the shoulder or hip), and others. They permit bones to shift relative to one another. Movable joints are strengthened by ligaments , which are pieces of fibrous tissue that connect bones to one another, and consist of a synovial capsule , which encloses the actual joint cavity ( articular cavity ). A layer of soft tissue called the synovium secretes synovial fluid , which lubricates the movement of structures in the joint space. The articular cartilage contributes to the joint by coating the articular surfaces of the bones so that impact is restricted to the lubricated joint cartilage, rather than to the bones."
+    },
+    {
+     "t": "callout",
+     "kind": "info",
+     "title": "Real World",
+     "x": "Degradation of articular cartilage (cartilage in joints) can lead to medical issues like osteoarthritis. Osteoarthritis (or “arthritis” in the lay population) is painful because a lack of cartilage in joints leads to bones rubbing directly on one another."
+    },
+    {
+     "t": "p",
+     "x": "When a muscle is attached to two bones, its contraction will cause one of the bones to move. The end of the muscle with a larger attachment to bone (usually the proximal connection) is called the origin . The end with the smaller attachment to bone (usually the distal connection) is called the insertion . Often, our muscles work in antagonistic pairs ; one relaxes while the other contracts. Such is the case in the arm, where the biceps brachii and triceps brachii work antagonistically, as shown in Figure 11.12. When the biceps contracts and the triceps relaxes, the elbow is flexed; when the triceps contracts and the biceps relaxes, the elbow is extended. Muscles can also be synergistic —working together to accomplish the same function."
+    },
+    {
+     "t": "p",
+     "x": "Muscles may also be classified by the types of movements they coordinate. A flexor muscle decreases the angle across a joint (like the biceps brachii); an extensor increases or straightens this angle (like the triceps brachii). An abductor moves a part of the body away from the midline (like the deltoid); an adductor moves a part of the body toward the midline (like the pectoralis major). Medial and lateral rotation describe motions that occur in limbs; a medial rotator rotates the axis of the limb toward the midline (like the subscapularis), whereas a lateral rotator rotates the axis of the limb away from the midline (like the infraspinatus)."
+    }
+   ]
+  }
+ ],
+ "conceptSummary": [
+  {
+   "section": "The Muscular System",
+   "points": [
+    "There are three main types of muscle: skeletal muscle, smooth muscle, and cardiac muscle. Skeletal muscle is involved in support and movement, propulsion of blood in the venous system, and thermoregulation. It appears striated , is under voluntary (somatic) control, is polynucleated, and can be divided into red ( slow-twitch ) fibers that carry out oxidative phosphorylation and white ( fast-twitch ) fibers that rely on anaerobic metabolism. Smooth muscle is in the respiratory, reproductive, cardiovascular, and digestive systems. It appears nonstriated, is under involuntary (autonomic) control, and is uninucleated. It can display myogenic activity , or contraction without neural input. Cardiac muscle comprises the contractile tissue of the heart. It appears striated, is under involuntary (autonomic) control, and is uninucleated (sometimes binucleated). It can also display myogenic activity. Cells are connected with intercalated discs that contain gap junctions .",
+    "Skeletal muscle is involved in support and movement, propulsion of blood in the venous system, and thermoregulation. It appears striated , is under voluntary (somatic) control, is polynucleated, and can be divided into red ( slow-twitch ) fibers that carry out oxidative phosphorylation and white ( fast-twitch ) fibers that rely on anaerobic metabolism.",
+    "Smooth muscle is in the respiratory, reproductive, cardiovascular, and digestive systems. It appears nonstriated, is under involuntary (autonomic) control, and is uninucleated. It can display myogenic activity , or contraction without neural input.",
+    "Cardiac muscle comprises the contractile tissue of the heart. It appears striated, is under involuntary (autonomic) control, and is uninucleated (sometimes binucleated). It can also display myogenic activity. Cells are connected with intercalated discs that contain gap junctions .",
+    "The sarcomere is the basic contractile unit of striated muscle. Sarcomeres are made of thick ( myosin ) and thin ( actin ) filaments. Troponin and tropomyosin are found on the thin filament and regulate actin–myosin interactions.",
+    "Sarcomeres are made of thick ( myosin ) and thin ( actin ) filaments.",
+    "Troponin and tropomyosin are found on the thin filament and regulate actin–myosin interactions.",
+    "The sarcomere can be divided into different lines, zones, and bands. The boundaries of each sarcomere are defined by Z-lines . The M-line is located in the middle of the sarcomere. The I-band contains only thin filaments. The H-zone consists of only thick filaments. The A-band contains the thick filaments in their entirety. It is the only part of the sarcomere that maintains a constant size during contraction.",
+    "The boundaries of each sarcomere are defined by Z-lines .",
+    "The M-line is located in the middle of the sarcomere.",
+    "The I-band contains only thin filaments.",
+    "The H-zone consists of only thick filaments.",
+    "The A-band contains the thick filaments in their entirety. It is the only part of the sarcomere that maintains a constant size during contraction.",
+    "Sarcomeres attach end-to-end to become myofibrils , and each myocyte (muscle cell or muscle fiber ) contains many myofibrils. Myofibrils are surrounded by the sarcoplasmic reticulum , a calcium-containing modified endoplasmic reticulum, and the cell membrane of a myocyte is known as the sarcolemma . A system of T-tubules is connected to the sarcolemma and oriented perpendicularly to the myofibrils, allowing the action potential to reach all parts of the muscle.",
+    "Myofibrils are surrounded by the sarcoplasmic reticulum , a calcium-containing modified endoplasmic reticulum, and the cell membrane of a myocyte is known as the sarcolemma .",
+    "A system of T-tubules is connected to the sarcolemma and oriented perpendicularly to the myofibrils, allowing the action potential to reach all parts of the muscle.",
+    "Muscle contraction begins at the neuromuscular junction , where the motor neuron releases acetylcholine that binds to receptors on the sarcolemma, causing depolarization. This depolarization spreads down the sarcolemma to the T-tubules, triggering the release of calcium ions. Calcium binds to troponin, causing a shift in tropomyosin and exposure of the myosin-binding sites on the actin thin filament. Shortening of the sarcomere occurs as myosin heads bind to the exposed sites on actin, forming cross bridges and pulling the actin filament along the thick filament, which results in contraction. This is known as the sliding filament model . The muscle relaxes when acetylcholine is degraded by acetylcholinesterase, terminating the signal and allowing calcium to be brought back into the SR. ATP binds to the myosin head, allowing it to release from actin.",
+    "This depolarization spreads down the sarcolemma to the T-tubules, triggering the release of calcium ions.",
+    "Calcium binds to troponin, causing a shift in tropomyosin and exposure of the myosin-binding sites on the actin thin filament.",
+    "Shortening of the sarcomere occurs as myosin heads bind to the exposed sites on actin, forming cross bridges and pulling the actin filament along the thick filament, which results in contraction. This is known as the sliding filament model .",
+    "The muscle relaxes when acetylcholine is degraded by acetylcholinesterase, terminating the signal and allowing calcium to be brought back into the SR. ATP binds to the myosin head, allowing it to release from actin.",
+    "Muscle cells exhibit an all-or-nothing response called a simple twitch . Addition of multiple simple twitches before the muscle has an opportunity to fully relax is called frequency summation . Simple twitches that occur so frequently as to not let the muscle relax at all can lead to tetanus , a more prolonged and stronger contraction.",
+    "Addition of multiple simple twitches before the muscle has an opportunity to fully relax is called frequency summation .",
+    "Simple twitches that occur so frequently as to not let the muscle relax at all can lead to tetanus , a more prolonged and stronger contraction.",
+    "Muscle cells have additional energy reserves to reduce oxygen debt (the difference between the amount of oxygen needed and the amount present) and forestall fatigue. Creatine phosphate can transfer a phosphate group to ADP, forming ATP. Myoglobin is a heme-containing protein that is a muscular oxygen reserve.",
+    "Creatine phosphate can transfer a phosphate group to ADP, forming ATP.",
+    "Myoglobin is a heme-containing protein that is a muscular oxygen reserve."
+   ]
+  },
+  {
+   "section": "The Skeletal System",
+   "points": [
+    "Internal skeletons (like those in humans) are called endoskeletons ; external skeletons (like those in arthropods) are called exoskeletons .",
+    "The human skeletal system can be divided into axial and appendicular skeletons. The axial skeleton consists of structures in the midline such as the skull, vertebral column, ribcage, and hyoid bone. The appendicular skeleton consists of the bones of the limbs, the pectoral girdle, and the pelvis.",
+    "The axial skeleton consists of structures in the midline such as the skull, vertebral column, ribcage, and hyoid bone.",
+    "The appendicular skeleton consists of the bones of the limbs, the pectoral girdle, and the pelvis.",
+    "Bone is derived from embryonic mesoderm and includes both compact and spongy (cancellous) types. Compact bone provides strength and is dense. Spongy or cancellous bone has a lattice-like structure consisting of bony spicules known as trabeculae . The cavities are filled with bone marrow. Long bones contain shafts called diaphyses that flare to form metaphyses and terminate in epiphyses . The epiphysis contains an epiphyseal ( growth ) plate that causes linear growth of the bone. Bone is surrounded by a layer of connective tissue called periosteum . Bones are attached to muscles by tendons and to each other by ligaments .",
+    "Compact bone provides strength and is dense.",
+    "Spongy or cancellous bone has a lattice-like structure consisting of bony spicules known as trabeculae . The cavities are filled with bone marrow.",
+    "Long bones contain shafts called diaphyses that flare to form metaphyses and terminate in epiphyses . The epiphysis contains an epiphyseal ( growth ) plate that causes linear growth of the bone.",
+    "Bone is surrounded by a layer of connective tissue called periosteum .",
+    "Bones are attached to muscles by tendons and to each other by ligaments .",
+    "Bone matrix has both organic components, like collagen, glycoproteins, and other peptides; and inorganic components, like hydroxyapatite . Bone is organized into concentric rings called lamellae around a central Haversian or Volkmann’s canal . This structural unit is called an osteon or Haversian system . Between lamellar rings are lacunae , where osteocytes reside, which are connected with canaliculi to allow for nutrient and waste transfer.",
+    "Bone is organized into concentric rings called lamellae around a central Haversian or Volkmann’s canal . This structural unit is called an osteon or Haversian system .",
+    "Between lamellar rings are lacunae , where osteocytes reside, which are connected with canaliculi to allow for nutrient and waste transfer.",
+    "Bone remodeling is carried out by osteoblasts and osteoclasts. Osteoblasts build bone, while osteoclasts resorb bone. Parathyroid hormone increases resorption of bone, increasing calcium and phosphate concentrations in the blood. Vitamin D also increases resorption of bone, leading to increased turnover and, subsequently, the production of stronger bone. Calcitonin increases bone formation, decreasing calcium concentrations in the blood.",
+    "Parathyroid hormone increases resorption of bone, increasing calcium and phosphate concentrations in the blood.",
+    "Vitamin D also increases resorption of bone, leading to increased turnover and, subsequently, the production of stronger bone.",
+    "Calcitonin increases bone formation, decreasing calcium concentrations in the blood.",
+    "Cartilage is a firm, elastic material secreted by chondrocytes . Its matrix is called chondrin . Cartilage is usually found in areas that require more flexibility or cushioning. Cartilage is avascular and is not innervated.",
+    "Cartilage is usually found in areas that require more flexibility or cushioning.",
+    "Cartilage is avascular and is not innervated.",
+    "In fetal life, bone forms from cartilage through endochondral ossification . Some bones, especially those of the skull, form directly from undifferentiated tissue ( mesenchyme ) in intramembranous ossification .",
+    "Joints may be classified as immovable or movable. Immovable joints are fused together to form sutures or similar fibrous joints. Movable joints are usually strengthened by ligaments and contain a synovial capsule . Synovial fluid , secreted by the synovium , aids in motion by lubricating the joint. Each bone in the joint is coated with articular cartilage to aid in movement and provide cushioning.",
+    "Immovable joints are fused together to form sutures or similar fibrous joints.",
+    "Movable joints are usually strengthened by ligaments and contain a synovial capsule .",
+    "Synovial fluid , secreted by the synovium , aids in motion by lubricating the joint.",
+    "Each bone in the joint is coated with articular cartilage to aid in movement and provide cushioning.",
+    "Muscles that serve opposite functions come in antagonistic pairs ; when one muscle contracts, the other lengthens."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "q": "During muscle contraction, which of the following regions decrease(s) in length?",
+   "choices": [
+    "1 only",
+    "1 and 2 only",
+    "3 and 4 only",
+    "2, 3, and 4 only"
+   ],
+   "correct": 3,
+   "explanation": "We are given a diagram of a sarcomere and asked to determine which regions shorten during muscle contraction. All bands and zones of the sarcomere shorten during contraction except the A-band, which is the full length of the thick filaments. In this diagram, that is region 1. Thus, the remaining regions all shorten, making (D) the correct answer. Region 2 represents the I-band, region 3 represents the H-zone, and region 4 is the length of the sarcomere between Z-lines."
+  },
+  {
+   "q": "Region 1 refers to:",
+   "choices": [
+    "the thick filaments only.",
+    "the thin filaments only.",
+    "the A-band.",
+    "the I-band."
+   ],
+   "correct": 2,
+   "explanation": "Region 1 contains both thick and thin filaments overlapping each other. This region refers to the A-band and is measured from one end of the thick filaments to the other. This is also the only portion of the sarcomere that does not change length during muscle contraction."
+  },
+  {
+   "q": "Which region represents one sarcomere?",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "correct": 3,
+   "explanation": "The sarcomere is the contractile unit in striated muscle cells. One sarcomere is represented by the area between the two vertical lines, referred to as the Z-lines. In addition, the Z-lines anchor the thin filaments. In the diagram, a sarcomere is therefore defined by region 4."
+  },
+  {
+   "q": "With which of the following molecules does Ca 2 + bind after its release from the sarcoplasmic reticulum to regulate muscle contraction?",
+   "choices": [
+    "Myosin",
+    "Actin",
+    "Troponin",
+    "Tropomyosin"
+   ],
+   "correct": 2,
+   "explanation": "Calcium is released from the sarcoplasmic reticulum into the sarcoplasm. It binds the troponin molecules on the thin filaments, causing the strands of tropomyosin to shift, thereby exposing the myosin-binding sites on the thin filaments."
+  },
+  {
+   "q": "Which of the following cells is correctly coupled with its definition?",
+   "choices": [
+    "Osteoblasts—bone cells involved in the secretion of bone matrix",
+    "Osteoclasts—immature bone cells",
+    "Osteocytes—polynucleated cells actively involved in bone resorption",
+    "Chondrocytes—undifferentiated bone marrow cells"
+   ],
+   "correct": 0,
+   "explanation": "Let’s quickly define each one of the four cells discussed in the answer choices. Osteoblasts are bone cells involved in the secretion of bone matrix, as (A) states. Osteoclasts are large, polynucleated cells involved in bone resorption. Osteocytes are mature bone cells that eventually become surrounded by their matrix; their primary role is bone maintenance. Finally, chondrocytes are cells that secrete chondrin, an elastic matrix that makes up cartilage."
+  },
+  {
+   "q": "An X-ray of the right femur in a child shows that it is shorter than the opposite femur, and below the average length for a child of this age. Which region of the bone is most likely to have caused this abnormality?",
+   "choices": [
+    "Diaphysis",
+    "Metaphysis",
+    "Epiphysis",
+    "Periosteum"
+   ],
+   "correct": 2,
+   "explanation": "This question is essentially asking where longitudinal growth occurs in bones. The most likely site of abnormalities in this child’s femur is the epiphyseal plate, a disk of cartilaginous cells at the internal border of the epiphysis, because the epiphyseal plate is the site of longitudinal growth. Damage to the epiphysis (with or without metaphysis involvement) can imply damage to the epiphyseal plate."
+  },
+  {
+   "q": "Which of the following INCORRECTLY pairs a type of muscle fiber with a characteristic of that fiber?",
+   "choices": [
+    "Red fibers—rich in mitochondria",
+    "Red fibers—high levels of myoglobin",
+    "White fibers—fast-twitching",
+    "White fibers—predominantly use aerobic respiration"
+   ],
+   "correct": 3,
+   "explanation": "Red fibers are slow-twitching fibers that have high levels of myoglobin and many mitochondria. They derive their energy from aerobic respiration and are capable of sustained vigorous activity. This eliminates (A) and (B) . White fibers, on the other hand, are fast-twitching fibers and contain lower levels of myoglobin and fewer mitochondria. Because of their composition, they derive more of their energy anaerobically and fatigue more easily. This eliminates (C) and makes (D) the correct answer."
+  },
+  {
+   "q": "When the knee moves back and forth during walking, what prevents the surfaces of the leg bones from rubbing against each other?",
+   "choices": [
+    "Articular cartilage",
+    "Epiphyses",
+    "Synovial fluid",
+    "Smooth muscle"
+   ],
+   "correct": 0,
+   "explanation": "The articular surfaces of the bones are covered with a layer of smooth articular cartilage. The epiphysis is a portion of the bone itself, eliminating (B) . Synovial fluid lubricates the movement in the joint space, but does not stop the bones from contacting one another; this is the job of articular cartilage, eliminating (C) . There is no appreciable function for smooth muscle in the joint space, eliminating (D) ."
+  },
+  {
+   "q": "Which type(s) of muscle is/are always multinucleated?",
+   "choices": [
+    "Cardiac muscle",
+    "Skeletal muscle",
+    "Smooth muscle"
+   ],
+   "correct": 1,
+   "explanation": "The only type of muscle that is always multinucleated is skeletal muscle, making (B) the correct answer. Cardiac muscle may contain one or two centrally located nuclei, so statement I is incorrect. Smooth muscle, on the other hand, always has only one centrally located nucleus."
+  },
+  {
+   "q": "Which type(s) of muscle has/have myogenic activity?",
+   "choices": [
+    "Cardiac muscle",
+    "Skeletal muscle",
+    "Smooth muscle"
+   ],
+   "correct": 3,
+   "explanation": "Myogenic activity refers to the ability of a muscle to contract without nervous stimulation, such as in response to other stimuli like stretching. Smooth and cardiac muscle both possess myogenic activity."
+  },
+  {
+   "q": "Red bone marrow is involved in erythrocyte formation. In contrast, yellow bone marrow:",
+   "choices": [
+    "is involved in leukocyte formation.",
+    "is responsible for drainage of lymph.",
+    "causes the formation of spicules.",
+    "contains predominantly adipose tissue."
+   ],
+   "correct": 3,
+   "explanation": "Yellow marrow is largely inactive and is infiltrated by adipose tissue, making (D) the correct answer."
+  },
+  {
+   "q": "Which of the following statements regarding the periosteum is INCORRECT?",
+   "choices": [
+    "The periosteum serves as a site of attachment of bone to muscle.",
+    "Cells of the periosteum may differentiate into osteoblasts.",
+    "The periosteum is a fibrous sheath that surrounds long bones.",
+    "The periosteum secretes fluid into the joint cavity."
+   ],
+   "correct": 3,
+   "explanation": "The periosteum, a fibrous sheath that surrounds long bones, is the site of attachment to muscle tissue. Some periosteum cells are capable of differentiating into bone-forming cells called osteoblasts. This eliminates choices (A) , (B) , and (C) . It is the synovium that secretes fluid into the joint cavity (joint space), not the periosteum, making (D) the correct answer."
+  },
+  {
+   "q": "Which of the following bones is NOT a part of the appendicular skeleton?",
+   "choices": [
+    "The triquetrum, one of the carpal bones",
+    "The calcaneus, which forms the heel",
+    "The ischium, one of the fused pelvic bones",
+    "The sternum, or breastbone"
+   ],
+   "correct": 3,
+   "explanation": "The axial skeleton includes the skull, vertebral column, rib cage, and hyoid bone. The sternum is a point of attachment of the rib cage and is thus a part of the axial, not appendicular, skeleton. The limb bones, pectoral girdle, and pelvis are all part of the appendicular skeleton."
+  },
+  {
+   "q": "To facilitate the process of birth, an infant’s head is somewhat flexible. This flexibility is due in part to the two fontanelles, which are soft spots of connective tissue in the infant’s skull. With time, the fontanelles will close through a process known as:",
+   "choices": [
+    "endochondral ossification.",
+    "intramembranous ossification.",
+    "bone resorption.",
+    "longitudinal growth."
+   ],
+   "correct": 1,
+   "explanation": "Bones form in one of two ways: endochondral ossification and intramembranous ossification. Endochondral ossification is the replacement of cartilage with bone and occurs mostly in long bones, eliminating (A) . Intramembranous ossification is the formation of bone from undifferentiated connective tissue cells (mesenchyme) and occurs mostly in the skull, making (B) the correct answer. Bone resorption is the breakdown of bone, not its formation, eliminating (C) . Longitudinal growth occurs in long bones and is responsible for increasing height over time, but does not play a role in fontanelle ossification, eliminating (D) ."
+  },
+  {
+   "q": "A young woman presents to the emergency room with a broken hip. She denies any recent history of trauma to the joint. Blood tests reveal a calcium concentration of (normal: 8.4–10.2). Which tissue is likely responsible for these findings?",
+   "choices": [
+    "Thyroid",
+    "Cartilage",
+    "Parathyroid",
+    "Smooth muscle"
+   ],
+   "correct": 2,
+   "explanation": "An unprovoked fracture of the hip is not a normal finding in a young woman. Given that she has a high calcium level, it is likely that she has an increased level of bone resorption that is causing her bones to be more fragile. Parathyroid hormone causes calcium release from bones. If this woman had an overactive parathyroid gland—or even cancer in this gland—then it is likely that calcium could still be resorbed from her bones even though her blood calcium levels are already high."
+  }
+ ]
+}
