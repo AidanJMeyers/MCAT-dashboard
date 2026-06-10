@@ -27,8 +27,10 @@ export default function StudyBlock({ subjectId, chapterId, block, onStateChange 
     (async () => {
       const r = await storage.get(reviewedKey);
       const c = await storage.get(confKey);
-      if (r) setReviewed(!!r);
-      if (c != null) setConfidence(Number(c) || 0);
+      // Always reset to the stored value (or default) — otherwise a reused component
+      // instance keeps a previous block's checkmark/rating when this block has none.
+      setReviewed(!!r);
+      setConfidence(c != null ? Number(c) || 0 : 0);
     })();
   }, [reviewedKey, confKey]);
 

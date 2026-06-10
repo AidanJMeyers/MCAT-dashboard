@@ -29,6 +29,12 @@ export default function QuestionItem({ storageKey, q, index, onAnswered }) {
         setFreeText(saved.freeText ?? '');
         setSubmitted(!!saved.submitted);
         setCorrect(saved.correct ?? null);
+      } else {
+        // Reset on key change so a reused instance doesn't carry a prior question's answer.
+        setSelected(null);
+        setFreeText('');
+        setSubmitted(false);
+        setCorrect(null);
       }
     })();
   }, [storageKey]);

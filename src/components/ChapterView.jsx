@@ -90,7 +90,7 @@ export default function ChapterView({ subject, chapter }) {
             </ul>
           </div>
           {chapter.blocks.map((b) => (
-            <StudyBlock key={b.id} subjectId={sid} chapterId={chapter.id} block={b} onStateChange={() => setTick((t) => t + 1)} />
+            <StudyBlock key={`ch${chapter.id}-${b.id}`} subjectId={sid} chapterId={chapter.id} block={b} onStateChange={() => setTick((t) => t + 1)} />
           ))}
         </div>
       )}
@@ -111,7 +111,7 @@ export default function ChapterView({ subject, chapter }) {
             </div>
           </div>
           {chapter.questions.map((q, i) => (
-            <QuestionItem key={i} storageKey={`studyguide:${sid}:ch${chapter.id}:q${i}`} q={q} index={i} onAnswered={() => setTick((t) => t + 1)} />
+            <QuestionItem key={`ch${chapter.id}-q${i}`} storageKey={`studyguide:${sid}:ch${chapter.id}:q${i}`} q={q} index={i} onAnswered={() => setTick((t) => t + 1)} />
           ))}
         </div>
       )}

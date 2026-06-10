@@ -28,8 +28,10 @@ export default function CommentBox({ storageKey, label = 'Note', onChange }) {
     (async () => {
       const t = await storage.get(commentKey);
       const ts = await storage.get(tsKey);
+      // Reset on key change so a reused instance doesn't carry a prior block's note.
       if (t) { setText(t); setSavedText(t); setOpen(true); }
-      if (ts) setSavedTs(ts);
+      else { setText(''); setSavedText(''); setOpen(false); }
+      setSavedTs(ts || null);
     })();
   }, [commentKey, tsKey]);
 
