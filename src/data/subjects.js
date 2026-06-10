@@ -4,6 +4,7 @@ import { chapters as gchem } from '../subjects/gchem/index.js';
 import { chapters as ochem } from '../subjects/ochem/index.js';
 import { chapters as psych } from '../subjects/psych/index.js';
 import { chapters as cars } from '../subjects/cars/index.js';
+import { chapters as physics } from '../subjects/physics/index.js';
 
 // status: 'ready' (built) | 'soon' (planned, phased build)
 export const SUBJECTS = [
@@ -21,7 +22,7 @@ export const SUBJECTS = [
     source: 'Kaplan MCAT Organic Chemistry Review', status: 'ready', chapters: ochem },
   { id: 'physics', name: 'Physics & Math', short: 'Physics', icon: '📐', accent: 'violet',
     blurb: 'Kinematics, forces, work & energy, fluids, thermodynamics, electricity, waves, optics, and MCAT math.',
-    source: 'Kaplan MCAT Physics and Math Review', status: 'soon', chapters: [] },
+    source: 'Kaplan MCAT Physics and Math Review', status: 'ready', chapters: physics },
   { id: 'psych', name: 'Behavioral Sciences', short: 'Psych/Soc', icon: '🧠', accent: 'fuchsia',
     blurb: 'Psychology & sociology — sensation, cognition, identity, social structures, and demographics.',
     source: 'Psych/Soc review documents', status: 'ready', chapters: psych },

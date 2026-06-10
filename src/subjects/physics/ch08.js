@@ -293,7 +293,7 @@ $P$ shares $f$'s sign: **+ for converging, − for diverging**.
 
 - **Chromatic aberration** — dispersion *inside a lens* that wraps a **rainbow halo** around the image; corrected with special coatings.
 
-![Figure 8.14 — Chromatic aberration produces a colored fringe at the edge of an image.](${fig(1, 15).src})
+![Figure 8.14 — Chromatic aberration produces a colored fringe at the edge of an image.](${fig(1, 14).src})
 
 :::bridge
 Crossing into a new medium, **wavelength changes but frequency stays constant** (the source sets $f$). Since $v = f\\lambda$ and $v$ drops, $\\lambda$ must shrink in the denser medium.
