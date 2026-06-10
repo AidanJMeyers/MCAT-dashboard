@@ -2,6 +2,7 @@ import { chapters as bio } from '../subjects/bio/index.js';
 import { chapters as biochem } from '../subjects/biochem/index.js';
 import { chapters as gchem } from '../subjects/gchem/index.js';
 import { chapters as ochem } from '../subjects/ochem/index.js';
+import { chapters as psych } from '../subjects/psych/index.js';
 
 // status: 'ready' (built) | 'soon' (planned, phased build)
 export const SUBJECTS = [
@@ -22,7 +23,7 @@ export const SUBJECTS = [
     source: 'Kaplan MCAT Physics and Math Review', status: 'soon', chapters: [] },
   { id: 'psych', name: 'Behavioral Sciences', short: 'Psych/Soc', icon: '🧠', accent: 'fuchsia',
     blurb: 'Psychology & sociology — sensation, cognition, identity, social structures, and demographics.',
-    source: 'Psych/Soc review documents', status: 'soon', chapters: [] },
+    source: 'Psych/Soc review documents', status: 'ready', chapters: psych },
   { id: 'cars', name: 'CARS', short: 'CARS', icon: '📖', accent: 'teal',
     blurb: 'Critical Analysis & Reasoning Skills — strategy, question archetypes, and worked passage walkthroughs.',
     source: 'Kaplan MCAT CARS Review', status: 'soon', chapters: [] }
