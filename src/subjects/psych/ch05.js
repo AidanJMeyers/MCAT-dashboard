@@ -16,6 +16,7 @@ export default {
 - **Personality** = the stable set of thoughts, feelings, and behaviors that make a person unique. Feeling fulfilled requires **congruency** between the **self-concept** and one's actions.
 - **Freud's psychoanalytic theory**: personality is driven by **unconscious** conflict among the **id** (pleasure principle), **ego** (reality principle), and **superego** (morality/ideals).
 - **Defense mechanisms** (e.g., **repression**, **projection**, **displacement**) are the ego's unconscious tools to reduce **anxiety** from id–superego conflict.
+- **Psychosexual stages** (**O**ral → **A**nal → **P**hallic → **L**atency → **G**enital): an unresolved stage conflict causes **fixation** — the "what goes wrong" (e.g., **oral** → smoking/dependency; **anal-retentive** → rigid/controlling).
 - **Humanistic** theories (**Maslow**, **Rogers**) are optimistic: people strive toward **self-actualization**; healthy personality = **congruence** between the real self and ideal self, fostered by **unconditional positive regard**.
 `,
       detail: `
@@ -35,6 +36,29 @@ The **ego** sits between the demanding **id** and the moralizing **superego**. W
 
 :::mnemonic
 **"I want it, but is it real, and is it right?"** → **I**d = *I want it now* (pleasure) · **E**go = *is it realistic?* (reality) · **S**uperego = *is it right?* (morality).
+:::
+
+#### Freud's psychosexual stages of development
+Freud proposed that personality forms across **five psychosexual stages**, each centered on a **libidinal (pleasure) focus** on a different erogenous zone. When the conflict of a stage is left **unresolved** — through **over- or under-gratification** — the result is **fixation**: libido stays "stuck" at that stage and produces characteristic adult traits. **Fixation is the "what goes wrong" of this theory** — and under stress, an adult may **regress** to a fixated stage's behaviors.
+
+| Stage | Age | Pleasure focus / task | Fixation → what goes wrong |
+|---|---|---|---|
+| **Oral** | 0–1 yr | Mouth — sucking, feeding; dependency & trust | **Oral fixation** → smoking, overeating, nail-biting, excessive **dependency**; "**oral-aggressive**" sarcasm/verbal hostility |
+| **Anal** | 1–3 yr | Bowel/bladder control; **toilet training** | **Anal-retentive** → obsessive orderliness, stinginess, rigidity; **anal-expulsive** → messiness, recklessness, poor self-control |
+| **Phallic** | 3–6 yr | Genitals; the **Oedipal conflict** (boys) / **Electra conflict** (girls); identification with the same-sex parent | Unresolved → vanity, over-ambition, trouble with **authority** and **intimate relationships**; failure to form a healthy gender identity / superego |
+| **Latency** | 6 yr–puberty | Libido **dormant**; energy into school, friendships, skills | A consolidation period — **no specific fixation** |
+| **Genital** | puberty + | Mature sexual interest; capacity for **love and work** | Reached only if earlier conflicts resolved; otherwise prior **fixations resurface** as adult dysfunction |
+
+:::keyconcept
+**Fixation = the failure mode.** Over- or under-gratification at a stage leaves libido invested there. That's why an **oral** fixation surfaces as smoking/overeating/dependency and an **anal-retentive** fixation as perfectionistic, controlling rigidity. Under stress, the ego may use **regression** (a defense mechanism, 5.2) to retreat to that stage.
+:::
+
+:::mnemonic
+Stage order — **"Old Age Pensioners Love Grandkids"** → **O**ral · **A**nal · **P**hallic · **L**atency · **G**enital.
+:::
+
+:::realworld
+Freud's psychosexual stages are **not empirically supported** and aren't how development is understood today — but the MCAT still tests the **stage names, ages, foci, and the classic fixations**, and likes to **contrast them with Erikson's psychosocial stages** (5.5), which span the entire lifespan and are framed around **social crises** rather than erogenous zones.
 :::
 
 ##### The psychoanalytic theory is the structural opposite of behaviorism

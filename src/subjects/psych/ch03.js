@@ -213,6 +213,7 @@ Aging affects memory selectively — not everything declines:
       recap: `
 - **Piaget**: children actively *construct* understanding through 4 stages — **sensorimotor → preoperational → concrete operational → formal operational**.
 - Stage milestones: **object permanence** (sensorimotor), **egocentrism/pretend play** (preoperational), **conservation** (concrete operational), **abstract reasoning** (formal operational).
+- **What goes wrong**: a milestone that never appears signals delay — persistent **egocentrism** (failing the **false-belief task**) is the classic deficit in **autism spectrum disorder**; failed **conservation** past age ~7 suggests **intellectual disability**.
 - **Problem-solving methods**: **trial-and-error**, **algorithms** (guaranteed), **heuristics** (fast shortcuts), **intuition** (error-prone). Watch for **fixation**, **insight**, **incubation**.
 - **Decision heuristics**: **availability** (judge by what comes to mind) and **representativeness** (judge by fit to a prototype → **conjunction fallacy**).
 - **Biases**: **overconfidence**, **belief perseverance**, **confirmation bias**; **framing effects** change choices by wording.
@@ -235,6 +236,20 @@ Aging affects memory selectively — not everything declines:
 
 :::mnemonic
 Piaget order: **"Some People Can Fly"** → **S**ensorimotor · **P**reoperational · **C**oncrete operational · **F**ormal operational. Pair each with its star concept: **S** = object permanence, **P** = egocentrism/pretend, **C** = conservation, **F** = formal/abstract logic.
+:::
+
+##### When cognitive development goes wrong
+The stage *limitations* above are **normal** for a child's age. Development "**goes wrong**" when a milestone **fails to appear on schedule** or a person **never advances** — often a marker of developmental delay or disorder:
+
+| Milestone (stage) | What failure looks like | Clinical correlate |
+|---|---|---|
+| **Object permanence** (sensorimotor) | Still doesn't search for a hidden object well past ~2 yr | General **developmental delay** |
+| **Theory of mind / egocentrism** (preoperational) | Perspective-taking never develops; **fails the false-belief ("Sally–Anne") task** | **Autism spectrum disorder** (theory-of-mind deficit) |
+| **Conservation** (concrete operational) | Still fooled by appearance (the "tall glass has more") well past ~7 yr | **Intellectual disability** / cognitive delay |
+| **Abstract reasoning** (formal operational) | Reasons only concretely; no hypothetical/abstract thought | Some adults never fully reach it (esp. outside areas of expertise); pronounced in intellectual disability |
+
+:::keyconcept
+**Egocentrism is the high-yield "what goes wrong."** A *preoperational* child is **normally** egocentric, but if perspective-taking never develops, the person **fails the false-belief task** — the classic deficit in **autism spectrum disorder**. Note: egocentrism = *can't adopt another's viewpoint*, **not** selfishness.
 :::
 
 #### Problem-solving
